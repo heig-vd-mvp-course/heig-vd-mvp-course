@@ -14,9 +14,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 1 - Introduction et organisation du cours
 
-- Introduction, motivation et organisation de l'unité
-- Constitution des groupes, identification d'une idée, de son public cible et de
-  la plus-value d'un service
+| Contenus                                            | Objectifs                                         | Stratégies d’enseignement | Méthodes d’évaluation |
+| --------------------------------------------------- | ------------------------------------------------- | ------------------------- | --------------------- |
+| Introduction, motivation et organisation de l'unité | Comprendre les objectifs du cours et les attentes | Présentation, discussion  | Discussion            |
 
 ### Semaine 2 - Trouver des idées originales qui répondent à un besoin
 
@@ -87,3 +87,16 @@ GitHub Discussions are available at
 
 Ce travail est sous licence
 [Creative Commons Attribution-ShareAlike 4.0 International](./LICENSE.md) .
+
+Connaissances/compétences: Nommer, rappeler, réciter, reconnaître, répéter,
+montrer, décliner, décrire, arranger, finir, copier, identifier, cataloguer,
+lister, mémoriser, expliquer, clarifier, examiner, sélectionner,..
+
+Application: Appliquer, calculer, choisir, classifier, démontrer, identifier,
+illustrer, interpréter, manipuler, modifier, opérer, mettre en relation,
+planifier, résoudre, utiliser, écrire, rédiger, …
+
+Evaluation: Analyser, évaluer, calculer, caractériser, choisir, comparer,
+contraster, différencier, critiquer, mettre en relief, déduire, examiner,
+expérimenter, organiser, interroger, tester, discriminer, distinguer, prouver,
+proposer, rédiger, juger, composer, étudier, développer, estimer, …
