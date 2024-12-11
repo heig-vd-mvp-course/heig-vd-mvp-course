@@ -12,9 +12,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 - ~27-42 heures en dehors de la classe - Nous faisons de notre mieux pour que
   vous n'ayez pas à travailler autant en dehors de la classe
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 1 </summary>
+<summary>Semaine 1 </summary> -->
 
 ### Semaine 1 - Introduction et organisation du cours
 
@@ -32,9 +32,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 | Constitution des groupes | [web](), [pdf]() | [web]()          | Discussions               | Être capable de travailler en groupe           |                       |
 |                          |                  |                  |                           | Citer les différents principes de l'holacratie |                       |
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 2 </summary>
+<summary>Semaine 2 </summary> -->
 
 ### Semaine 2 - Trouver des idées originales qui répondent à un besoin
 
@@ -52,9 +52,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 | ------------------------------------------------------ | ---------------- | ---------------- | ------------------------- | ---------------------------------------------------------------------- | --------------------- |
 | Trouver des idées originales qui répondent à un besoin | [web](), [pdf]() | [web](), [pdf]() | Travail pratique          | Être capable de trouver des idées originales qui répondent à un besoin |                       |
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 3 </summary>
+<summary>Semaine 3 </summary> -->
 
 ### Semaine 3 - Comprendre et atteindre son public cible
 
@@ -71,17 +71,17 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 | ---------------------------------- | ---------------- | ---------------- | ------------------------- | -------------------------------------------------- | --------------------- |
 | Comprendre et atteindre son public | [web](), [pdf]() |                  | Travail pratique          | Être capable de comprendre et atteindre son public |                       |
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 4 </summary>
+<summary>Semaine 4 </summary> -->
 
 ### Semaine 4 - CRUNCH
 
 - CRUNCH
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 5 </summary>
+<summary>Semaine 5 </summary> -->
 
 ### Semaine 5 - Promouvoir et pitcher son idée
 
@@ -98,9 +98,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 | --------------------- | ---------------- | ---------------- | ------------------------- | ---------------------------------------------- | ------------------------ |
 | Promouvoir et pitcher | [web](), [pdf]() |                  | Travail pratique          | Être capable de promouvoir et pitcher son idée | Présentation (Sommative) |
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 6 </summary>
+<summary>Semaine 6 </summary> -->
 
 ### Semaine 6 - Identification et choix d'une stack technologique
 
@@ -119,9 +119,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 | ---------- | ---------------- | ---------------- | ------------------------- | --------------------------------------------- | --------------------- |
 | Newsletter | [web](), [pdf]() | [web]()          | Exercices                 | Identifier les éléments clés d’une newsletter |                       |
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 7 </summary>
+<summary>Semaine 7 </summary> -->
 
 ### Semaine 7 - Réaliser des interfaces ergonomiques et réfléchies
 
@@ -137,9 +137,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
 |          |       |                  |                           |           |                       |
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 8 </summary>
+<summary>Semaine 8 </summary> -->
 
 ### Semaine 8 - Hébergement et déploiement de services
 
@@ -157,9 +157,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 | -------- | ----- | ---------------- | ------------------------- | --------- | ------------------------ |
 | Pitcher  |       |                  |                           |           | Présentation (sommative) |
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 9 </summary>
+<summary>Semaine 9 </summary> -->
 
 ### Semaine 9 - Recevoir des feedbacks constructifs et pivoter
 
@@ -177,9 +177,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
 |          |       |                  |                           |           |                       |
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 10 </summary>
+<summary>Semaine 10 </summary> -->
 
 ### Semaine 10 - Réalisation des applications pérennes
 
@@ -197,9 +197,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
 |          |       |                  |                           |           |                       |
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 11 </summary>
+<summary>Semaine 11 </summary> -->
 
 ### Semaine 11 - Se faire payer pour sa passion
 
@@ -216,9 +216,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
 |          |       |                  |                           |           |                       |
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 12 </summary>
+<summary>Semaine 12 </summary> -->
 
 ### Semaine 12 - Créer sa propre entreprise
 
@@ -235,9 +235,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
 |          |       |                  |                           |           |                       |
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 13 </summary>
+<summary>Semaine 13 </summary> -->
 
 ### Semaine 13 - Évaluation théorique
 
@@ -253,9 +253,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
 |          |       |                  |                           |           |                       |
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 14 </summary>
+<summary>Semaine 14 </summary> -->
 
 ### Semaine 14 - Évaluation théorique
 
@@ -271,9 +271,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
 |          |       |                  |                           |           |                       |
 
-</details>
+<!-- </details>
 <details>
-<summary>Semaine 15 </summary>
+<summary>Semaine 15 </summary> -->
 
 ### Semaine 15 - Évaluation théorique
 
@@ -290,9 +290,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 |          |       |                  |                           |           |                       |
 
 </details>
-
+<!-- 
 <details>
-<summary>Semaine 16 </summary>
+<summary>Semaine 16 </summary> -->
 
 ### Semaine 16 - Présentations, partages et discussions (3/3) - Présentations finales
 
