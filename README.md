@@ -14,18 +14,22 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 1 - Introduction et organisation du cours
 
-| Contenus                                            | Objectifs                                         | Stratégies d’enseignement | Méthodes d’évaluation |
-| --------------------------------------------------- | ------------------------------------------------- | ------------------------- | --------------------- |
-| Introduction, motivation et organisation de l'unité | Comprendre les objectifs du cours et les attentes | Présentation, discussion  | Discussion            |
+| Contenus                                            | Objectifs                                         | Stratégies d’enseignement   | Méthodes d’évaluation |
+| --------------------------------------------------- | ------------------------------------------------- | --------------------------- | --------------------- |
+| Introduction, motivation et organisation de l'unité | Comprendre les objectifs du cours et les attentes | Cours magistral, discussion | Discussion            |
+| Constitution des groupes                            | Être capable de travailler en groupe              |                             |                       |
 
 ### Semaine 2 - Trouver des idées originales qui répondent à un besoin
 
-- Trouver des idées originales qui répondent à un besoin (design thinking et
-  philosophie Indie Hackers)
+| Contenus | Objectifs                                                                       | Stratégies d’enseignement  | Méthodes d’évaluation    |
+| -------- | ------------------------------------------------------------------------------- | -------------------------- | ------------------------ |
+| Idéation | Identifier des secteurs de marché prometteurs pour y fournir un nouveau service | Cours magistral, Exercices | Présentation (formative) |
 
 ### Semaine 3 - Comprendre et atteindre son public cible
 
-- Comprendre et atteindre son public cible (Mom test, marketing et SEO)
+| Contenus | Objectifs                                                                        | Stratégies d’enseignement  | Méthodes d’évaluation    |
+| -------- | -------------------------------------------------------------------------------- | -------------------------- | ------------------------ |
+| Empathie | Appliquer des méthodologies de validation de marché (Mom test, marketing et SEO) | Cours magistral, Exercices | Présentation (formative) |
 
 ### Semaine 4 - CRUNCH
 
@@ -33,44 +37,65 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 5 - Promouvoir et pitcher son idée
 
-- Promouvoir et pitcher son idée (prestance et présentations)
-- Présentations, partages et discussions (1/3) - Pitch
+| Contenus     | Objectifs                                                        | Stratégies d’enseignement | Méthodes d’évaluation     |
+| ------------ | ---------------------------------------------------------------- | ------------------------- | ------------------------- |
+| Lâcher prise | Être capable de lâcher prise et de se concentrer sur l'essentiel | Atelier d'improvisation   |                           |
+| Pitch        | Être capable de promouvoir et pitcher son idée en public         |                           | Présentations (sommative) |
 
 ### Semaine 6 - Identification et choix d'une stack technologique
 
-- Identification et choix d'une stack technologique (par ex. Hugo, Next.js,
-  Lavarel, NestJS, Spring Boot, MVC vs backend/frontend)
-- Réalisation et hébergement de la landing page avec newsletter
+| Contenus           | Objectifs                                                                         | Stratégies d’enseignement | Méthodes d’évaluation                |
+| ------------------ | --------------------------------------------------------------------------------- | ------------------------- | ------------------------------------ |
+| Stack              | Énumérer les avantages et les inconvénients d’une stack technologique web         | Projet de groupe          | Présentation à la classe (formative) |
+| Stack              | Évaluer le choix d’une stack technologique web par rapport à une situation donnée | Projet de groupe          | Présentation à la classe (formative) |
+| Landing page       | Identifier les éléments clés d’une landing page                                   | Cours magistral           |                                      |
+| Référencement, SEO | Lister les éléments clés du référencement et du SEO                               | Cours magistral           |                                      |
+| Newsletter         | Identifier les éléments clés d’une newsletter                                     | Exercices                 |                                      |
 
 ### Semaine 7 - Réaliser des interfaces ergonomiques et réfléchies
 
-- Réaliser des interfaces ergonomiques et réfléchies (UI/UX avec mockups)
+| Contenus | Objectifs                                                               | Stratégies d’enseignement  | Méthodes d’évaluation    |
+| -------- | ----------------------------------------------------------------------- | -------------------------- | ------------------------ |
+| UI/UX    | Réaliser des interfaces ergonomiques et réfléchies (UI/UX avec mockups) | Cours magistral, Exercices | Présentation (sommative) |
 
 ### Semaine 8 - Hébergement et déploiement de services
 
-- Hébergement et déploiement de services (par ex. GitHub Pages, GitLab Pages,
-  Heroku, Exoscale, Infomaniak)
-- Présentations, partages et discussions (2/3) - Prospection
+| Contenus     | Objectifs                                             | Stratégies d’enseignement | Méthodes d’évaluation                        |
+| ------------ | ----------------------------------------------------- | ------------------------- | -------------------------------------------- |
+| Hebergement  | Lister les services d’hébergement web et les comparer | Projet de groupe          | Présentation à la classe (formative)         |
+| Déploiement  | Être capable de déployer                              | Cours magistral           | Présentations                                |
+| Lacher prise | Être capable de lâcher prise et de se concentrer      | Atelier d'improvisation   |                                              |
+| Pitcher      |                                                       |                           | Présentations, partages et discussions (2/3) |
 
 ### Semaine 9 - Recevoir des feedbacks constructifs et pivoter
 
-- Recevoir des feedbacks constructifs et pivoter (changement de produit, comment
-  faire ?)
-- Réalisation du service et tests utilisateurs
+| Contenus           | Objectifs                                                   | Stratégies d’enseignement | Méthodes d’évaluation |
+| ------------------ | ----------------------------------------------------------- | ------------------------- | --------------------- |
+| Remise en question | Être capable de recevoir des feedbacks et de changer d'avis |                           |                       |
+| Pivoter            | Être capable de pivoter                                     |                           |                       |
+| Réalisation        | Être capable de mettre en ligne un service                  |                           |                       |
 
 ### Semaine 10 - Réalisation des applications pérennes
 
-- Réaliser des applications pérennes (architecture, documentation et
-  accessibilité)
+| Contenus      | Objectifs                                                                | Stratégies d’enseignement | Méthodes d’évaluation |
+| ------------- | ------------------------------------------------------------------------ | ------------------------- | --------------------- |
+| Obsolescence  | Lister les différents problèmes d'une application web et de son maintien |                           |                       |
+| Pérénnité     | LLister les bonnes pratiques pour réaliser des applications pérennes     |                           |                       |
+| Accessibilité | Lister les bonnes pratiques pour réaliser des applications accessibles   |                           |                       |
 
 ### Semaine 11 - Se faire payer pour sa passion
 
-- Se faire payer pour sa passion (systèmes de paiement et questions juridiques)
+| Contenus  | Objectifs                                                          | Stratégies d’enseignement | Méthodes d’évaluation |
+| --------- | ------------------------------------------------------------------ | ------------------------- | --------------------- |
+| Paiement  | Lister les différents systèmes de paiement                         |                           |                       |
+| Juridique | Reconnaître les différents aspects juridiques du paiement en ligne |                           |                       |
 
 ### Semaine 12 - Créer sa propre entreprise
 
-- Créer sa propre entreprise (formes juridiques, responsabilités et
-  aides/ressources à disposition)
+| Contenus   | Objectifs                                                                     | Stratégies d’enseignement | Méthodes d’évaluation |
+| ---------- | ----------------------------------------------------------------------------- | ------------------------- | --------------------- |
+| Entreprise | Lister les différentes formes juridiques, responsabilités et aides/ressources |                           |                       |
+| Soutien    | Identifier les aides et ressources à disposition                              |                           |                       |
 
 ### Semaine 13 - Évaluation théorique
 
