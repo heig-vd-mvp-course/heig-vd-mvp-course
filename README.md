@@ -18,14 +18,14 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 1 - Introduction et organisation du cours
 
-##### Cours
+#### Cours (2 préiodes)
 
 | Contenus                                            | Slide            | Support de cours | Stratégies d’enseignement    | Objectifs                                     | Méthodes d’évaluation |
 | --------------------------------------------------- | ---------------- | ---------------- | ---------------------------- | --------------------------------------------- | --------------------- |
 | Introduction, motivation et organisation de l'unité | [web](), [pdf]() |                  | Cours magistral, Discussions | Lister les objectifs du cours et les attentes |                       |
 |                                                     |                  |                  |                              | Lister les modalités d'évaluation             |                       |
 
-##### Projet
+#### Projet (2 préiodes)
 
 | Contenus                 | Slide            | Support de cours | Stratégies d’enseignement | Objectifs                                      | Méthodes d’évaluation |
 | ------------------------ | ---------------- | ---------------- | ------------------------- | ---------------------------------------------- | --------------------- |
@@ -38,11 +38,19 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 2 - Trouver des idées originales qui répondent à un besoin
 
+#### Cours (2 préiodes)
+
 | Contenus | Slide            | Support de cours        | Stratégies d’enseignement  | Objectifs                                     | Méthodes d’évaluation    |
 | -------- | ---------------- | ----------------------- | -------------------------- | --------------------------------------------- | ------------------------ |
 | Idéation | [web](), [pdf]() | livre, [web](), [pdf]() | Cours magistral, Exercices | Identifier des secteurs de marché prometteurs | Présentation (formative) |
 |          |                  |                         |                            | Identifier des besoins non satisfaits         |                          |
 |          |                  |                         |                            | Lister des idées                              |                          |
+
+#### Projet (2 préiodes)
+
+| Contenus                                               | Slide            | Support de cours | Stratégies d’enseignement | Objectifs                                                              | Méthodes d’évaluation |
+| ------------------------------------------------------ | ---------------- | ---------------- | ------------------------- | ---------------------------------------------------------------------- | --------------------- |
+| Trouver des idées originales qui répondent à un besoin | [web](), [pdf]() | [web](), [pdf]() | Travail pratique          | Être capable de trouver des idées originales qui répondent à un besoin |                       |
 
 </details>
 <details>
@@ -50,9 +58,18 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 3 - Comprendre et atteindre son public cible
 
-| Contenus | Objectifs                                                                        | Stratégies d’enseignement  | Méthodes d’évaluation    |
-| -------- | -------------------------------------------------------------------------------- | -------------------------- | ------------------------ |
-| Empathie | Appliquer des méthodologies de validation de marché (Mom test, marketing et SEO) | Cours magistral, Exercices | Présentation (formative) |
+#### Cours (2 préiodes)
+
+| Contenus | Slide            | Support de cours        | Stratégies d’enseignement  | Objectifs                | Méthodes d’évaluation    |
+| -------- | ---------------- | ----------------------- | -------------------------- | ------------------------ | ------------------------ |
+| Empathie | [web](), [pdf]() | livre, [web](), [pdf]() | Cours magistral, Exercices | Identifier des personas  | Présentation (formative) |
+|          |                  |                         |                            | Interviewer des personas |                          |
+
+#### Projet (2 préiodes)
+
+| Contenus                           | Slide            | Support de cours | Stratégies d’enseignement | Objectifs                                          | Méthodes d’évaluation |
+| ---------------------------------- | ---------------- | ---------------- | ------------------------- | -------------------------------------------------- | --------------------- |
+| Comprendre et atteindre son public | [web](), [pdf]() |                  | Travail pratique          | Être capable de comprendre et atteindre son public |                       |
 
 </details>
 <details>
@@ -68,10 +85,18 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 5 - Promouvoir et pitcher son idée
 
-| Contenus     | Objectifs                                                        | Stratégies d’enseignement | Méthodes d’évaluation     |
-| ------------ | ---------------------------------------------------------------- | ------------------------- | ------------------------- |
-| Lâcher prise | Être capable de lâcher prise et de se concentrer sur l'essentiel | Atelier d'improvisation   |                           |
-| Pitch        | Être capable de promouvoir et pitcher son idée en public         |                           | Présentations (sommative) |
+#### Cours (2 préiodes)
+
+| Contenus     | Slide            | Support de cours        | Stratégies d’enseignement  | Objectifs                    | Méthodes d’évaluation |
+| ------------ | ---------------- | ----------------------- | -------------------------- | ---------------------------- | --------------------- |
+| Pitch        | [web](), [pdf]() | livre, [web](), [pdf]() | Cours magistral, Exercices | Être capable de pitcher      |                       |
+| Lacher prise | [web](), [pdf]() | livre, [web](), [pdf]() | Cours magistral, Exercices | Être capable de lâcher prise |                       |
+
+#### Projet (2 préiodes)
+
+| Contenus              | Slide            | Support de cours | Stratégies d’enseignement | Objectifs                                      | Méthodes d’évaluation    |
+| --------------------- | ---------------- | ---------------- | ------------------------- | ---------------------------------------------- | ------------------------ |
+| Promouvoir et pitcher | [web](), [pdf]() |                  | Travail pratique          | Être capable de promouvoir et pitcher son idée | Présentation (Sommative) |
 
 </details>
 <details>
@@ -79,13 +104,20 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 6 - Identification et choix d'une stack technologique
 
-| Contenus           | Objectifs                                                                         | Stratégies d’enseignement | Méthodes d’évaluation                |
-| ------------------ | --------------------------------------------------------------------------------- | ------------------------- | ------------------------------------ |
-| Stack              | Énumérer les avantages et les inconvénients d’une stack technologique web         | Projet de groupe          | Présentation à la classe (formative) |
-| Stack              | Évaluer le choix d’une stack technologique web par rapport à une situation donnée | Projet de groupe          | Présentation à la classe (formative) |
-| Landing page       | Identifier les éléments clés d’une landing page                                   | Cours magistral           |                                      |
-| Référencement, SEO | Lister les éléments clés du référencement et du SEO                               | Cours magistral           |                                      |
-| Newsletter         | Identifier les éléments clés d’une newsletter                                     | Exercices                 |                                      |
+#### Cours (2 préiodes)
+
+| Contenus           | Slide            | Support de cours | Stratégies d’enseignement | Objectifs                                                                         | Méthodes d’évaluation                |
+| ------------------ | ---------------- | ---------------- | ------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |
+| Stack              | [web](), [pdf]() | [web]()          | Projet de groupe          | Énumérer les avantages et les inconvénients d’une stack technologique web         | Présentation à la classe (formative) |
+|                    |                  |                  |                           | Évaluer le choix d’une stack technologique web par rapport à une situation donnée | Présentation à la classe (formative) |
+| Landing page       | [web](), [pdf]() | [web]()          | Cours magistral           | Identifier les éléments clés d’une landing page                                   |                                      |
+| Référencement, SEO | [web](), [pdf]() | [web]()          | Cours magistral           | Lister les éléments clés du référencement et du SEO                               |                                      |
+
+#### Projet (2 préiodes)
+
+| Contenus   | Slide            | Support de cours | Stratégies d’enseignement | Objectifs                                     | Méthodes d’évaluation |
+| ---------- | ---------------- | ---------------- | ------------------------- | --------------------------------------------- | --------------------- |
+| Newsletter | [web](), [pdf]() | [web]()          | Exercices                 | Identifier les éléments clés d’une newsletter |                       |
 
 </details>
 <details>
@@ -93,9 +125,16 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 7 - Réaliser des interfaces ergonomiques et réfléchies
 
-| Contenus | Objectifs                                                               | Stratégies d’enseignement  | Méthodes d’évaluation    |
-| -------- | ----------------------------------------------------------------------- | -------------------------- | ------------------------ |
-| UI/UX    | Réaliser des interfaces ergonomiques et réfléchies (UI/UX avec mockups) | Cours magistral, Exercices | Présentation (sommative) |
+#### Cours (2 préiodes)
+
+| Contenus | Slide            | Support de cours | Stratégies d’enseignement  | Objectifs                                                               | Méthodes d’évaluation    |
+| -------- | ---------------- | ---------------- | -------------------------- | ----------------------------------------------------------------------- | ------------------------ |
+| UI/UX    | [web](), [pdf]() | [web]()          | Cours magistral, Exercices | Réaliser des interfaces ergonomiques et réfléchies (UI/UX avec mockups) | Présentation (sommative) |
+
+#### Projet (2 préiodes)
+
+| Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
+| -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
 
 </details>
 <details>
@@ -103,12 +142,19 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 8 - Hébergement et déploiement de services
 
-| Contenus     | Objectifs                                             | Stratégies d’enseignement | Méthodes d’évaluation                        |
-| ------------ | ----------------------------------------------------- | ------------------------- | -------------------------------------------- |
-| Hebergement  | Lister les services d’hébergement web et les comparer | Projet de groupe          | Présentation à la classe (formative)         |
-| Déploiement  | Être capable de déployer                              | Cours magistral           | Présentations                                |
-| Lacher prise | Être capable de lâcher prise et de se concentrer      | Atelier d'improvisation   |                                              |
-| Pitcher      |                                                       |                           | Présentations, partages et discussions (2/3) |
+#### Cours (2 préiodes)
+
+| Contenus     | Slide            | Support de cours | Stratégies d’enseignement | Objectifs                                             | Méthodes d’évaluation |
+| ------------ | ---------------- | ---------------- | ------------------------- | ----------------------------------------------------- | --------------------- |
+| Hébergement  | [web](), [pdf]() | [web]()          | Projet de groupe          | Lister les services d’hébergement web et les comparer | Présentations         |
+| Déploiement  | [web](), [pdf]() | [web]()          | Cours magistral           | Être capable de déployer                              | Présentations         |
+| Lâcher prise | [web](), [pdf]() | [web]()          | Atelier d'improvisation   | Être capable de lâcher prise et de se concentrer      |                       |
+
+#### Projet (2 préiodes)
+
+| Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation    |
+| -------- | ----- | ---------------- | ------------------------- | --------- | ------------------------ |
+| Pitcher  |       |                  |                           |           | Présentation (sommative) |
 
 </details>
 <details>
@@ -116,11 +162,18 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 9 - Recevoir des feedbacks constructifs et pivoter
 
-| Contenus           | Objectifs                                                   | Stratégies d’enseignement | Méthodes d’évaluation |
-| ------------------ | ----------------------------------------------------------- | ------------------------- | --------------------- |
-| Remise en question | Être capable de recevoir des feedbacks et de changer d'avis | Cours magistral           |                       |
-| Pivoter            | Être capable de pivoter                                     | Cours magistral           |                       |
-| Réalisation        | Être capable de mettre en ligne un service                  | Cours magistral           | Rendu pratique        |
+#### Cours (2 préiodes)
+
+| Contenus           | Slide            | Support de cours | Stratégies d’enseignement | Objectifs                                                   | Méthodes d’évaluation |
+| ------------------ | ---------------- | ---------------- | ------------------------- | ----------------------------------------------------------- | --------------------- |
+| Remise en question | [web](), [pdf]() | [web]()          | Cours magistral           | Être capable de recevoir des feedbacks et de changer d'avis |                       |
+| Pivoter            | [web](), [pdf]() | [web]()          | Cours magistral           | Être capable de pivoter                                     |                       |
+| Réalisation        | [web](), [pdf]() | [web]()          | Cours magistral           | Être capable de mettre en ligne un service                  |                       |
+
+#### Projet (2 préiodes)
+
+| Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
+| -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
 
 </details>
 <details>
@@ -128,11 +181,18 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 10 - Réalisation des applications pérennes
 
-| Contenus      | Objectifs                                                                | Stratégies d’enseignement | Méthodes d’évaluation |
-| ------------- | ------------------------------------------------------------------------ | ------------------------- | --------------------- |
-| Obsolescence  | Lister les différents problèmes d'une application web et de son maintien |                           |                       |
-| Pérénnité     | LLister les bonnes pratiques pour réaliser des applications pérennes     |                           |                       |
-| Accessibilité | Lister les bonnes pratiques pour réaliser des applications accessibles   |                           |                       |
+#### Cours (2 préiodes)
+
+| Contenus      | Slide            | Support de cours | Stratégies d’enseignement | Objectifs                                                                | Méthodes d’évaluation |
+| ------------- | ---------------- | ---------------- | ------------------------- | ------------------------------------------------------------------------ | --------------------- |
+| Obsolescence  | [web](), [pdf]() |                  | Cours magistral           | Lister les différents problèmes d'une application web et de son maintien |                       |
+| Pérénnité     | [web](), [pdf]() |                  | Cours magistral           | Lister les bonnes pratiques pour réaliser des applications pérennes      |                       |
+| Accessibilité | [web](), [pdf]() |                  | Cours magistral           | Lister les bonnes pratiques pour réaliser des applications accessibles   |                       |
+
+#### Projet (2 préiodes)
+
+| Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
+| -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
 
 </details>
 <details>
@@ -140,10 +200,17 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 11 - Se faire payer pour sa passion
 
-| Contenus  | Objectifs                                                          | Stratégies d’enseignement | Méthodes d’évaluation |
-| --------- | ------------------------------------------------------------------ | ------------------------- | --------------------- |
-| Paiement  | Lister les différents systèmes de paiement                         |                           |                       |
-| Juridique | Reconnaître les différents aspects juridiques du paiement en ligne |                           |                       |
+#### Cours (2 préiodes)
+
+| Contenus  | Slide            | Support de cours | Stratégies d’enseignement | Objectifs                                                          | Méthodes d’évaluation |
+| --------- | ---------------- | ---------------- | ------------------------- | ------------------------------------------------------------------ | --------------------- |
+| Paiement  | [web](), [pdf]() |                  | Cours magistral           | Lister les différents systèmes de paiement                         |                       |
+| Juridique | [web](), [pdf]() |                  | Cours magistral           | Reconnaître les différents aspects juridiques du paiement en ligne |                       |
+
+#### Projet (2 préiodes)
+
+| Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
+| -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
 
 </details>
 <details>
@@ -151,10 +218,17 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 12 - Créer sa propre entreprise
 
-| Contenus   | Objectifs                                                                     | Stratégies d’enseignement | Méthodes d’évaluation |
-| ---------- | ----------------------------------------------------------------------------- | ------------------------- | --------------------- |
-| Entreprise | Lister les différentes formes juridiques, responsabilités et aides/ressources |                           |                       |
-| Soutien    | Identifier les aides et ressources à disposition                              |                           |                       |
+#### Cours (2 préiodes)
+
+| Contenus   | Slide            | Support de cours | Stratégies d’enseignement | Objectifs                                                                     | Méthodes d’évaluation |
+| ---------- | ---------------- | ---------------- | ------------------------- | ----------------------------------------------------------------------------- | --------------------- |
+| Entreprise | [web](), [pdf]() |                  | Cours magistral           | Lister les différentes formes juridiques, responsabilités et aides/ressources |                       |
+| Soutien    | [web](), [pdf]() |                  | Cours magistral           | Identifier les aides et ressources à disposition                              |                       |
+
+#### Projet (2 préiodes)
+
+| Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
+| -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
 
 </details>
 <details>
@@ -162,13 +236,62 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 13 - Évaluation théorique
 
-- Évaluation théorique
+#### Cours (2 préiodes)
+
+| Contenus   | Slide            | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
+| ---------- | ---------------- | ---------------- | ------------------------- | --------- | --------------------- |
+| Évaluation | [web](), [pdf]() |                  |                           |           |                       |
+
+#### Projet (2 préiodes)
+
+| Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
+| -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
 
 </details>
+<details>
+<summary>Semaine 14 </summary>
+
+### Semaine 14 - Évaluation théorique
+
+#### Cours (2 préiodes)
+
+| Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
+| -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
+
+#### Projet (2 préiodes)
+
+| Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
+| -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
+
+</details>
+<details>
+<summary>Semaine 15 </summary>
+
+### Semaine 15 - Évaluation théorique
+
+#### Cours (2 préiodes)
+
+| Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
+| -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
+
+#### Projet (2 préiodes)
+
+| Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
+| -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
+
+</details>
+
 <details>
 <summary>Semaine 16 </summary>
 
 ### Semaine 16 - Présentations, partages et discussions (3/3) - Présentations finales
+
+#### Projet (4 préiodes)
+
+| Contenus          | Slide            | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation    |
+| ----------------- | ---------------- | ---------------- | ------------------------- | --------- | ------------------------ |
+| Evaluation finale | [web](), [pdf]() |                  | Présentation finale       |           | Présentation (sommative) |
+| Apéro             |                  |                  |                           |           |                          |
 
 </details>
 
