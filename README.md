@@ -20,16 +20,17 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ##### Cours
 
-| Contenus                                            | Slide     | Support de cours | Stratégies d’enseignement    | Objectifs                                     | Méthodes d’évaluation |
-| --------------------------------------------------- | --------- | ---------------- | ---------------------------- | --------------------------------------------- | --------------------- |
-| Introduction, motivation et organisation de l'unité | web / pdf |                  | Cours magistral, Discussions | Lister les objectifs du cours et les attentes | -                     |
-|                                                     |           |                  |                              | Lister les modalités d'évaluation             | -                     |
+| Contenus                                            | Slide            | Support de cours | Stratégies d’enseignement    | Objectifs                                     | Méthodes d’évaluation |
+| --------------------------------------------------- | ---------------- | ---------------- | ---------------------------- | --------------------------------------------- | --------------------- |
+| Introduction, motivation et organisation de l'unité | [web](), [pdf]() |                  | Cours magistral, Discussions | Lister les objectifs du cours et les attentes |                       |
+|                                                     |                  |                  |                              | Lister les modalités d'évaluation             |                       |
 
 ##### Projet
 
-| Contenus                 | Objectifs                            | Stratégies d’enseignement | Méthodes d’évaluation |
-| ------------------------ | ------------------------------------ | ------------------------- | --------------------- |
-| Constitution des groupes | Être capable de travailler en groupe |                           | -                     |
+| Contenus                 | Slide            | Support de cours | Stratégies d’enseignement | Objectifs                                      | Méthodes d’évaluation |
+| ------------------------ | ---------------- | ---------------- | ------------------------- | ---------------------------------------------- | --------------------- |
+| Constitution des groupes | [web](), [pdf]() | [web]()          | Discussions               | Être capable de travailler en groupe           |                       |
+|                          |                  |                  |                           | Citer les différents principes de l'holacratie |                       |
 
 </details>
 <details>
@@ -37,9 +38,11 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 2 - Trouver des idées originales qui répondent à un besoin
 
-| Contenus | Objectifs                                                                       | Stratégies d’enseignement  | Méthodes d’évaluation    |
-| -------- | ------------------------------------------------------------------------------- | -------------------------- | ------------------------ |
-| Idéation | Identifier des secteurs de marché prometteurs pour y fournir un nouveau service | Cours magistral, Exercices | Présentation (formative) |
+| Contenus | Slide            | Support de cours        | Stratégies d’enseignement  | Objectifs                                     | Méthodes d’évaluation    |
+| -------- | ---------------- | ----------------------- | -------------------------- | --------------------------------------------- | ------------------------ |
+| Idéation | [web](), [pdf]() | livre, [web](), [pdf]() | Cours magistral, Exercices | Identifier des secteurs de marché prometteurs | Présentation (formative) |
+|          |                  |                         |                            | Identifier des besoins non satisfaits         |                          |
+|          |                  |                         |                            | Lister des idées                              |                          |
 
 </details>
 <details>
