@@ -22,7 +22,7 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 | Contenus                                            | Slide           | Support de cours | Stratégies d’enseignement    | Objectifs                                     | Méthodes d’évaluation |
 | --------------------------------------------------- | --------------- | ---------------- | ---------------------------- | --------------------------------------------- | --------------------- |
-| Introduction, motivation et organisation de l'unité | ✔️ web / ✔️ pdf | ✖️ web / ✖️ pdf  | Cours magistral, Discussions | Lister les objectifs du cours et les attentes | -                     |
+| Introduction, motivation et organisation de l'unité | ✔️ web / ✔️ pdf | ✖️ web           | Cours magistral, Discussions | Lister les objectifs du cours et les attentes | -                     |
 |                                                     |                 |                  |                              | Lister les modalités d'évaluation             | -                     |
 
 ##### Projet
