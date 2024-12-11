@@ -18,10 +18,18 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 ### Semaine 1 - Introduction et organisation du cours
 
-| Contenus                                            | Objectifs                                         | Stratégies d’enseignement   | Méthodes d’évaluation |
-| --------------------------------------------------- | ------------------------------------------------- | --------------------------- | --------------------- |
-| Introduction, motivation et organisation de l'unité | Comprendre les objectifs du cours et les attentes | Cours magistral, discussion | Discussion            |
-| Constitution des groupes                            | Être capable de travailler en groupe              |                             |                       |
+##### Cours
+
+| Contenus                                            | Stratégies d’enseignement    | Objectifs                                     | Méthodes d’évaluation |
+| --------------------------------------------------- | ---------------------------- | --------------------------------------------- | --------------------- |
+| Introduction, motivation et organisation de l'unité | Cours magistral, Discussions | Lister les objectifs du cours et les attentes | -                     |
+|                                                     |                              | Lister les modalités d'évaluation             | -                     |
+
+##### Projet
+
+| Contenus                 | Objectifs                            | Stratégies d’enseignement | Méthodes d’évaluation |
+| ------------------------ | ------------------------------------ | ------------------------- | --------------------- |
+| Constitution des groupes | Être capable de travailler en groupe |                           | -                     |
 
 </details>
 <details>
@@ -107,9 +115,9 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 | Contenus           | Objectifs                                                   | Stratégies d’enseignement | Méthodes d’évaluation |
 | ------------------ | ----------------------------------------------------------- | ------------------------- | --------------------- |
-| Remise en question | Être capable de recevoir des feedbacks et de changer d'avis |                           |                       |
-| Pivoter            | Être capable de pivoter                                     |                           |                       |
-| Réalisation        | Être capable de mettre en ligne un service                  |                           |                       |
+| Remise en question | Être capable de recevoir des feedbacks et de changer d'avis | Cours magistral           |                       |
+| Pivoter            | Être capable de pivoter                                     | Cours magistral           |                       |
+| Réalisation        | Être capable de mettre en ligne un service                  | Cours magistral           | Rendu pratique        |
 
 </details>
 <details>
