@@ -135,6 +135,7 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 | Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
+|          |       |                  |                           |           |                       |
 
 </details>
 <details>
@@ -174,6 +175,7 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 | Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
+|          |       |                  |                           |           |                       |
 
 </details>
 <details>
@@ -193,6 +195,7 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 | Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
+|          |       |                  |                           |           |                       |
 
 </details>
 <details>
@@ -211,6 +214,7 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 | Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
+|          |       |                  |                           |           |                       |
 
 </details>
 <details>
@@ -229,6 +233,7 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 | Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
+|          |       |                  |                           |           |                       |
 
 </details>
 <details>
@@ -246,6 +251,7 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 | Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
+|          |       |                  |                           |           |                       |
 
 </details>
 <details>
@@ -257,11 +263,13 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 | Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
+|          |       |                  |                           |           |                       |
 
 #### Projet (2 préiodes)
 
 | Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
+|          |       |                  |                           |           |                       |
 
 </details>
 <details>
@@ -273,11 +281,13 @@ Ce cours est équivalent à 3 crédits ECTS = ~75-90 heures de travail.
 
 | Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
+|          |       |                  |                           |           |                       |
 
 #### Projet (2 préiodes)
 
 | Contenus | Slide | Support de cours | Stratégies d’enseignement | Objectifs | Méthodes d’évaluation |
 | -------- | ----- | ---------------- | ------------------------- | --------- | --------------------- |
+|          |       |                  |                           |           |                       |
 
 </details>
 
