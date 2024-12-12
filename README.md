@@ -111,8 +111,6 @@ Il n'y a pas d'évaluation pour cette séance.
 
 </details>
 
----
-
 ### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service
 
 - Durée : 2 périodes
@@ -223,8 +221,6 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
-
 ### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service
 
 - Durée : 2 périodes
@@ -330,8 +326,6 @@ Les retours se font de la manière suivante :
 L'évaluation ne donne pas lieu à une note.
 
 </details>
-
----
 
 ### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service
 
@@ -449,8 +443,6 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
-
 ### Projet - Présentations, partages et discussions (1/3) - Pitch
 
 - Durée : 2 périodes
@@ -560,8 +552,6 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
-
 ### Projet - Réalisation et hébergement de la landing page avec newsletter
 
 - Durée : 2 périodes
@@ -649,8 +639,6 @@ Les retours se font de la manière suivante :
 L'évaluation ne donne pas lieu à une note.
 
 </details>
-
----
 
 ### Projet - Réalisation et hébergement de la landing page avec newsletter
 
@@ -742,8 +730,6 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
-
 ### Projet - Présentations, partages et discussions (2/3) - Prospection
 
 - Durée : 2 périodes
@@ -833,8 +819,6 @@ Les retours se font de la manière suivante :
 L'évaluation ne donne pas lieu à une note.
 
 </details>
-
----
 
 ### Projet - Réalisation du service et tests utilisateurs
 
@@ -926,8 +910,6 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
-
 ### Projet - Réalisation du service et tests utilisateurs
 
 - Durée : 2 périodes
@@ -1017,8 +999,6 @@ Les retours se font de la manière suivante :
 L'évaluation ne donne pas lieu à une note.
 
 </details>
-
----
 
 ### Projet - Réalisation du service et tests utilisateurs
 
@@ -1110,8 +1090,6 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
-
 ### Projet - Réalisation du service et tests utilisateurs
 
 - Durée : 2 périodes
@@ -1197,8 +1175,6 @@ Les retours se font de la manière suivante :
 
 </details>
 
----
-
 ### Projet - Réalisation du service et tests utilisateurs
 
 - Durée : 2 périodes
@@ -1250,8 +1226,6 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 
 </details>
 
----
-
 ### Projet - Réalisation du service et tests utilisateurs
 
 - Durée : 4 périodes
@@ -1301,8 +1275,6 @@ L'évaluation ne donne pas lieu à une note.
 _Il n'y a pas de cours cette séance, uniquement le projet._
 
 </details>
-
----
 
 ### Projet - Réalisation du service et tests utilisateurs
 
@@ -1355,8 +1327,6 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 TODO: revue du semestre
 
 </details>
-
----
 
 ### Projet - Présentations, partages et discussions (3/3) - Présentations finales
 
