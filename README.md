@@ -80,7 +80,7 @@ d'apprentissage, et les méthodes d'évaluation.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -93,7 +93,7 @@ d'apprentissage, et les méthodes d'évaluation.
 - Décrire comment travailler en équipe de façon efficace
 - Décrire ce qu'est un MVP
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -101,7 +101,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 Il n'y a pas d'évaluation pour cette séance.
 
@@ -116,7 +116,7 @@ Il n'y a pas d'évaluation pour cette séance.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -129,7 +129,7 @@ Il n'y a pas d'évaluation pour cette séance.
 - Explorer d'autres idées
 - Commencer à approfondir une idée
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -140,7 +140,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -174,7 +174,7 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -190,7 +190,7 @@ L'évaluation ne donne pas lieu à une note.
 - Évaluer la pertinence d'une idée
 - Évaluer la faisabilité d'une idée
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -198,7 +198,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -222,7 +222,7 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -234,7 +234,7 @@ L'évaluation ne donne pas lieu à une note.
 - Identifier la plus-value du service
 - Identifier les avantages/forces et les inconvénients/faiblesses de l'idée
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -245,7 +245,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -279,7 +279,7 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -292,7 +292,7 @@ L'évaluation ne donne pas lieu à une note.
 - Décrire comment dialoguer avec un public cible
 - Lister les hypothèses à valider pour comprendre un public cible
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -300,7 +300,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -324,7 +324,7 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -337,7 +337,7 @@ L'évaluation ne donne pas lieu à une note.
 - Identifier 2-3 personnes avec qui discuter pour comprendre leur public cible
 - Lister les hypothèses à valider pour comprendre leur public cible
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -348,7 +348,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent ainsi qu'un court document décrivant le public cible.
@@ -377,7 +377,7 @@ L'évaluation ne donne pas lieu à une note.
 
 _Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
 
-## 🕓 Semaine 5
+## 🕔 Semaine 5
 
 ### Cours - Promouvoir et pitcher son idée
 
@@ -391,7 +391,7 @@ _Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -404,7 +404,7 @@ _Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
 - Donner des feedbacks constructifs
 - Recevoir des feedbacks constructifs
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -412,7 +412,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -437,7 +437,7 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -448,7 +448,7 @@ L'évaluation ne donne pas lieu à une note.
 - Recevoir des feedbacks constructifs
 - Évaluer les pitches des autres groupes
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -459,7 +459,7 @@ sont les suivantes :
   - Sessions de questions-réponses
   - Évaluations et feedbacks
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux autres groupes.
 
@@ -492,7 +492,7 @@ Les retours se font de la manière suivante :
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -509,7 +509,7 @@ Les retours se font de la manière suivante :
 - Décrire où héberger une landing page avec newsletter
 - Décrire comment héberger une landing page avec newsletter
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -517,7 +517,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -541,18 +541,18 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
 - Prendre en main un outil de création de landing page (site web statique)
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -586,14 +586,14 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -601,7 +601,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -625,20 +625,20 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -672,14 +672,14 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -687,7 +687,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -712,20 +712,20 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux autres groupes.
 
@@ -758,14 +758,14 @@ Les retours se font de la manière suivante :
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -773,7 +773,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -797,20 +797,20 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -844,14 +844,14 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -859,7 +859,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -883,20 +883,20 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -930,14 +930,14 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -945,7 +945,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -969,20 +969,20 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1016,14 +1016,14 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -1031,7 +1031,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -1055,20 +1055,20 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1103,15 +1103,15 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
--
+- TODO
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une évaluation écrite.
 
@@ -1136,13 +1136,13 @@ Les retours se font de la manière suivante :
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -1150,7 +1150,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1185,20 +1185,20 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1233,20 +1233,20 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1284,20 +1284,20 @@ TODO: revue du semestre
 <details>
 <summary>Voir les détails</summary>
 
-#### Objectifs
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-#### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-#### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux autres groupes.
 
