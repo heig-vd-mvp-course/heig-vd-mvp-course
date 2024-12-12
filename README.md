@@ -80,6 +80,8 @@ d'apprentissage, et les méthodes d'évaluation.
 <details>
 <summary>Voir les détails</summary>
 
+<br>
+
 **Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
@@ -115,6 +117,8 @@ Il n'y a pas d'évaluation pour cette séance.
 
 <details>
 <summary>Voir les détails</summary>
+
+<br>
 
 **Objectifs**
 
@@ -174,6 +178,8 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
+<br>
+
 **Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
@@ -221,6 +227,8 @@ L'évaluation ne donne pas lieu à une note.
 
 <details>
 <summary>Voir les détails</summary>
+
+<br>
 
 **Objectifs**
 
@@ -279,6 +287,8 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
+<br>
+
 **Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
@@ -323,6 +333,8 @@ L'évaluation ne donne pas lieu à une note.
 
 <details>
 <summary>Voir les détails</summary>
+
+<br>
 
 **Objectifs**
 
@@ -391,6 +403,8 @@ _Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
 <details>
 <summary>Voir les détails</summary>
 
+<br>
+
 **Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
@@ -436,6 +450,8 @@ L'évaluation ne donne pas lieu à une note.
 
 <details>
 <summary>Voir les détails</summary>
+
+<br>
 
 **Objectifs**
 
@@ -492,6 +508,8 @@ Les retours se font de la manière suivante :
 <details>
 <summary>Voir les détails</summary>
 
+<br>
+
 **Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
@@ -541,6 +559,8 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
+<br>
+
 **Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
@@ -586,6 +606,8 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
+<br>
+
 **Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
@@ -624,6 +646,8 @@ L'évaluation ne donne pas lieu à une note.
 
 <details>
 <summary>Voir les détails</summary>
+
+<br>
 
 **Objectifs**
 
@@ -672,6 +696,8 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
+<br>
+
 **Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
@@ -711,6 +737,8 @@ L'évaluation ne donne pas lieu à une note.
 
 <details>
 <summary>Voir les détails</summary>
+
+<br>
 
 **Objectifs**
 
@@ -758,6 +786,8 @@ Les retours se font de la manière suivante :
 <details>
 <summary>Voir les détails</summary>
 
+<br>
+
 **Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
@@ -796,6 +826,8 @@ L'évaluation ne donne pas lieu à une note.
 
 <details>
 <summary>Voir les détails</summary>
+
+<br>
 
 **Objectifs**
 
@@ -844,6 +876,8 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
+<br>
+
 **Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
@@ -882,6 +916,8 @@ L'évaluation ne donne pas lieu à une note.
 
 <details>
 <summary>Voir les détails</summary>
+
+<br>
 
 **Objectifs**
 
@@ -930,6 +966,8 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
+<br>
+
 **Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
@@ -968,6 +1006,8 @@ L'évaluation ne donne pas lieu à une note.
 
 <details>
 <summary>Voir les détails</summary>
+
+<br>
 
 **Objectifs**
 
@@ -1016,6 +1056,8 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
+<br>
+
 **Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
@@ -1054,6 +1096,8 @@ L'évaluation ne donne pas lieu à une note.
 
 <details>
 <summary>Voir les détails</summary>
+
+<br>
 
 **Objectifs**
 
@@ -1103,6 +1147,8 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
+<br>
+
 **Objectifs**
 
 - TODO
@@ -1135,6 +1181,8 @@ Les retours se font de la manière suivante :
 
 <details>
 <summary>Voir les détails</summary>
+
+<br>
 
 **Objectifs**
 
@@ -1185,6 +1233,8 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 <details>
 <summary>Voir les détails</summary>
 
+<br>
+
 **Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
@@ -1232,6 +1282,8 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 
 <details>
 <summary>Voir les détails</summary>
+
+<br>
 
 **Objectifs**
 
@@ -1283,6 +1335,8 @@ TODO: revue du semestre
 
 <details>
 <summary>Voir les détails</summary>
+
+<br>
 
 **Objectifs**
 
