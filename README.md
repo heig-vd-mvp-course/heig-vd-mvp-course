@@ -47,28 +47,28 @@ Les détails des cours et des projets sont disponibles ci-dessous. Chaque semain
 est détaillée avec les contenus, les objectifs, les méthodes d'enseignement et
 d'apprentissage, et les méthodes d'évaluation.
 
-|           Semaine | Cours                                                                                                                     | Projet                                                                                                                                                                                                                               |
-| ----------------: | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   [1](#semaine-1) | [Introduction, motivation et organisation de l'unité](#cours---introduction-motivation-et-organisation-de-lunité)         | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service)   |
-|   [2](#semaine-2) | [Trouver des idées originales qui répondent à un besoin](#cours---trouver-des-idées-originales-qui-répondent-à-un-besoin) | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-1) |
-|   [3](#semaine-3) | [Comprendre et atteindre son public cible](#cours---comprendre-et-atteindre-son-public-cible)                             | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-2) |
-|   [4](#semaine-4) | _Pas de cours_                                                                                                            | _Pas de projet_                                                                                                                                                                                                                      |
-|   [5](#semaine-5) | [Promouvoir et pitcher son idée](#cours---promouvoir-et-pitcher-son-idée)                                                 | [🚨 Présentations, partages et discussions (1/3) - Pitch](#projet---présentations-partages-et-discussions-13---pitch)                                                                                                                |
-|   [6](#semaine-6) | [Identification et choix d'une stack technologique](#cours---identification-et-choix-dune-stack-technologique)            | [Réalisation et hébergement de la landing page avec newsletter (1/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter)                                                                                       |
-|   [7](#semaine-7) | [Réaliser des interfaces ergonomiques et réfléchies](#cours---réaliser-des-interfaces-ergonomiques-et-réfléchies)         | [Réalisation et hébergement de la landing page avec newsletter (2/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter-1)                                                                                     |
-|   [8](#semaine-8) | [Hébergement et déploiement de services](#cours---hébergement-et-déploiement-de-services)                                 | [🚨 Présentations, partages et discussions (2/3) - Prospection](#projet---présentations-partages-et-discussions-23---prospection)                                                                                                    |
-|   [9](#semaine-9) | [Recevoir des feedbacks constructifs et pivoter](#cours---recevoir-des-feedbacks-constructifs-et-pivoter)                 | [Réalisation du service et tests utilisateurs (1/7)](#projet---réalisation-du-service-et-tests-utilisateurs)                                                                                                                         |
-| [10](#semaine-10) | [Réaliser des applications pérennes](#cours---réaliser-des-applications-pérennes)                                         | [Réalisation du service et tests utilisateurs (2/7)](#projet---réalisation-du-service-et-tests-utilisateurs-1)                                                                                                                       |
-| [11](#semaine-11) | [Se faire payer pour sa passion](#cours---se-faire-payer-pour-sa-passion)                                                 | [Réalisation du service et tests utilisateurs (3/7)](#projet---réalisation-du-service-et-tests-utilisateurs-2)                                                                                                                       |
-| [12](#semaine-12) | [Créer sa propre entreprise](#cours---créer-sa-propre-entreprise)                                                         | [Réalisation du service et tests utilisateurs (4/7)](#projet---réalisation-du-service-et-tests-utilisateurs-3)                                                                                                                       |
-| [13](#semaine-13) | [🚨 Évaluation](#cours---évaluation)                                                                                      | [Réalisation du service et tests utilisateurs (5/7)](#projet---réalisation-du-service-et-tests-utilisateurs-4)                                                                                                                       |
-| [14](#semaine-14) | _Pas de cours_                                                                                                            | [Réalisation du service et tests utilisateurs (6/7)](#projet---réalisation-du-service-et-tests-utilisateurs-5)                                                                                                                       |
-| [15](#semaine-15) | _Pas de cours_                                                                                                            | [Réalisation du service et tests utilisateurs (7/7)](#projet---réalisation-du-service-et-tests-utilisateurs-6)                                                                                                                       |
-| [16](#semaine-16) | _Pas de cours_                                                                                                            | [🚨 Présentations, partages et discussions (3/3) - Présentations finales](#projet---présentations-partages-et-discussions-33---présentations-finales)                                                                                |
+|            Semaine | Cours                                                                                                                     | Projet                                                                                                                                                                                                                               |
+| -----------------: | :------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   [1](#-semaine-1) | [Introduction, motivation et organisation de l'unité](#cours---introduction-motivation-et-organisation-de-lunité)         | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service)   |
+|   [2](#-semaine-2) | [Trouver des idées originales qui répondent à un besoin](#cours---trouver-des-idées-originales-qui-répondent-à-un-besoin) | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-1) |
+|   [3](#-semaine-3) | [Comprendre et atteindre son public cible](#cours---comprendre-et-atteindre-son-public-cible)                             | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-2) |
+|   [4](#-semaine-4) | _Pas de cours_                                                                                                            | _Pas de projet_                                                                                                                                                                                                                      |
+|   [5](#-semaine-5) | [Promouvoir et pitcher son idée](#cours---promouvoir-et-pitcher-son-idée)                                                 | [🚨 Présentations, partages et discussions (1/3) - Pitch](#projet---présentations-partages-et-discussions-13---pitch)                                                                                                                |
+|   [6](#-semaine-6) | [Identification et choix d'une stack technologique](#cours---identification-et-choix-dune-stack-technologique)            | [Réalisation et hébergement de la landing page avec newsletter (1/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter)                                                                                       |
+|   [7](#-semaine-7) | [Réaliser des interfaces ergonomiques et réfléchies](#cours---réaliser-des-interfaces-ergonomiques-et-réfléchies)         | [Réalisation et hébergement de la landing page avec newsletter (2/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter-1)                                                                                     |
+|   [8](#-semaine-8) | [Hébergement et déploiement de services](#cours---hébergement-et-déploiement-de-services)                                 | [🚨 Présentations, partages et discussions (2/3) - Prospection](#projet---présentations-partages-et-discussions-23---prospection)                                                                                                    |
+|   [9](#-semaine-9) | [Recevoir des feedbacks constructifs et pivoter](#cours---recevoir-des-feedbacks-constructifs-et-pivoter)                 | [Réalisation du service et tests utilisateurs (1/7)](#projet---réalisation-du-service-et-tests-utilisateurs)                                                                                                                         |
+| [10](#-semaine-10) | [Réaliser des applications pérennes](#cours---réaliser-des-applications-pérennes)                                         | [Réalisation du service et tests utilisateurs (2/7)](#projet---réalisation-du-service-et-tests-utilisateurs-1)                                                                                                                       |
+| [11](#-semaine-11) | [Se faire payer pour sa passion](#cours---se-faire-payer-pour-sa-passion)                                                 | [Réalisation du service et tests utilisateurs (3/7)](#projet---réalisation-du-service-et-tests-utilisateurs-2)                                                                                                                       |
+| [12](#-semaine-12) | [Créer sa propre entreprise](#cours---créer-sa-propre-entreprise)                                                         | [Réalisation du service et tests utilisateurs (4/7)](#projet---réalisation-du-service-et-tests-utilisateurs-3)                                                                                                                       |
+| [13](#-semaine-13) | [🚨 Évaluation](#cours---évaluation)                                                                                      | [Réalisation du service et tests utilisateurs (5/7)](#projet---réalisation-du-service-et-tests-utilisateurs-4)                                                                                                                       |
+| [14](#-semaine-14) | _Pas de cours_                                                                                                            | [Réalisation du service et tests utilisateurs (6/7)](#projet---réalisation-du-service-et-tests-utilisateurs-5)                                                                                                                       |
+| [15](#-semaine-15) | _Pas de cours_                                                                                                            | [Réalisation du service et tests utilisateurs (7/7)](#projet---réalisation-du-service-et-tests-utilisateurs-6)                                                                                                                       |
+| [16](#-semaine-16) | _Pas de cours_                                                                                                            | [🚨 Présentations, partages et discussions (3/3) - Présentations finales](#projet---présentations-partages-et-discussions-33---présentations-finales)                                                                                |
 
-### Semaine 1
+## 🕐 Semaine 1
 
-#### Cours - Introduction, motivation et organisation de l'unité
+### Cours - Introduction, motivation et organisation de l'unité
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
@@ -80,7 +80,9 @@ d'apprentissage, et les méthodes d'évaluation.
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -93,7 +95,7 @@ d'apprentissage, et les méthodes d'évaluation.
 - Décrire comment travailler en équipe de façon efficace
 - Décrire ce qu'est un MVP
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -101,7 +103,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 Il n'y a pas d'évaluation pour cette séance.
 
@@ -109,14 +111,16 @@ Il n'y a pas d'évaluation pour cette séance.
 
 </details>
 
-#### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service
+### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service
 
 - Durée : 2 périodes
 
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -129,7 +133,7 @@ Il n'y a pas d'évaluation pour cette séance.
 - Explorer d'autres idées
 - Commencer à approfondir une idée
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -140,7 +144,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -160,11 +164,9 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
+## 🕑 Semaine 2
 
-### Semaine 2
-
-#### Cours - Trouver des idées originales qui répondent à un besoin
+### Cours - Trouver des idées originales qui répondent à un besoin
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
@@ -176,7 +178,9 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -192,7 +196,7 @@ L'évaluation ne donne pas lieu à une note.
 - Évaluer la pertinence d'une idée
 - Évaluer la faisabilité d'une idée
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -200,7 +204,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -217,14 +221,16 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-#### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service
+### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service
 
 - Durée : 2 périodes
 
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -236,7 +242,7 @@ L'évaluation ne donne pas lieu à une note.
 - Identifier la plus-value du service
 - Identifier les avantages/forces et les inconvénients/faiblesses de l'idée
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -247,7 +253,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -267,11 +273,9 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
+## 🕒 Semaine 3
 
-### Semaine 3
-
-#### Cours - Comprendre et atteindre son public cible
+### Cours - Comprendre et atteindre son public cible
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
@@ -283,7 +287,9 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -296,7 +302,7 @@ L'évaluation ne donne pas lieu à une note.
 - Décrire comment dialoguer avec un public cible
 - Lister les hypothèses à valider pour comprendre un public cible
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -304,7 +310,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -321,14 +327,16 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-#### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service
+### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service
 
 - Durée : 2 périodes
 
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -341,7 +349,7 @@ L'évaluation ne donne pas lieu à une note.
 - Identifier 2-3 personnes avec qui discuter pour comprendre leur public cible
 - Lister les hypothèses à valider pour comprendre leur public cible
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -352,7 +360,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent ainsi qu'un court document décrivant le public cible.
@@ -377,17 +385,13 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
-
-### Semaine 4
+## 🕓 Semaine 4
 
 _Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
 
----
+## 🕔 Semaine 5
 
-### Semaine 5
-
-#### Cours - Promouvoir et pitcher son idée
+### Cours - Promouvoir et pitcher son idée
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
@@ -399,7 +403,9 @@ _Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -412,7 +418,7 @@ _Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
 - Donner des feedbacks constructifs
 - Recevoir des feedbacks constructifs
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -420,7 +426,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -437,7 +443,7 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-#### Projet - Présentations, partages et discussions (1/3) - Pitch
+### Projet - Présentations, partages et discussions (1/3) - Pitch
 
 - Durée : 2 périodes
 - **🚨 Séance avec évaluation notée**
@@ -445,7 +451,9 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -456,7 +464,7 @@ L'évaluation ne donne pas lieu à une note.
 - Recevoir des feedbacks constructifs
 - Évaluer les pitches des autres groupes
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -467,7 +475,7 @@ sont les suivantes :
   - Sessions de questions-réponses
   - Évaluations et feedbacks
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux autres groupes.
 
@@ -486,11 +494,9 @@ Les retours se font de la manière suivante :
 
 </details>
 
----
+## 🕕 Semaine 6
 
-### Semaine 6
-
-#### Cours - Identification et choix d'une stack technologique
+### Cours - Identification et choix d'une stack technologique
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
@@ -502,7 +508,9 @@ Les retours se font de la manière suivante :
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -519,7 +527,7 @@ Les retours se font de la manière suivante :
 - Décrire où héberger une landing page avec newsletter
 - Décrire comment héberger une landing page avec newsletter
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -527,7 +535,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -544,25 +552,27 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-#### Projet - Réalisation et hébergement de la landing page avec newsletter
+### Projet - Réalisation et hébergement de la landing page avec newsletter
 
 - Durée : 2 périodes
 
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
 - Prendre en main un outil de création de landing page (site web statique)
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -582,11 +592,9 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
+## 🕖 Semaine 7
 
-### Semaine 7
-
-#### Cours - Réaliser des interfaces ergonomiques et réfléchies
+### Cours - Réaliser des interfaces ergonomiques et réfléchies
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
@@ -598,14 +606,16 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -613,7 +623,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -630,27 +640,29 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-#### Projet - Réalisation et hébergement de la landing page avec newsletter
+### Projet - Réalisation et hébergement de la landing page avec newsletter
 
 - Durée : 2 périodes
 
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -670,11 +682,9 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
+## 🕗 Semaine 8
 
-### Semaine 8
-
-#### Cours - Hébergement et déploiement de services
+### Cours - Hébergement et déploiement de services
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
@@ -686,14 +696,16 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -701,7 +713,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -718,7 +730,7 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-#### Projet - Présentations, partages et discussions (2/3) - Prospection
+### Projet - Présentations, partages et discussions (2/3) - Prospection
 
 - Durée : 2 périodes
 - **🚨 Séance avec évaluation notée**
@@ -726,20 +738,22 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux autres groupes.
 
@@ -758,11 +772,9 @@ Les retours se font de la manière suivante :
 
 </details>
 
----
+## 🕘 Semaine 9
 
-### Semaine 9
-
-#### Cours - Recevoir des feedbacks constructifs et pivoter
+### Cours - Recevoir des feedbacks constructifs et pivoter
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
@@ -774,14 +786,16 @@ Les retours se font de la manière suivante :
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -789,7 +803,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -806,27 +820,29 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-#### Projet - Réalisation du service et tests utilisateurs
+### Projet - Réalisation du service et tests utilisateurs
 
 - Durée : 2 périodes
 
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -846,11 +862,9 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
+## 🕙 Semaine 10
 
-### Semaine 10
-
-#### Cours - Réaliser des applications pérennes
+### Cours - Réaliser des applications pérennes
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
@@ -862,14 +876,16 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -877,7 +893,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -894,27 +910,29 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-#### Projet - Réalisation du service et tests utilisateurs
+### Projet - Réalisation du service et tests utilisateurs
 
 - Durée : 2 périodes
 
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -934,11 +952,9 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
+## 🕚 Semaine 11
 
-### Semaine 11
-
-#### Cours - Se faire payer pour sa passion
+### Cours - Se faire payer pour sa passion
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
@@ -950,14 +966,16 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -965,7 +983,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -982,27 +1000,29 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-#### Projet - Réalisation du service et tests utilisateurs
+### Projet - Réalisation du service et tests utilisateurs
 
 - Durée : 2 périodes
 
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1022,11 +1042,9 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
+## 🕛 Semaine 12
 
-### Semaine 12
-
-#### Cours - Créer sa propre entreprise
+### Cours - Créer sa propre entreprise
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
@@ -1038,14 +1056,16 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -1053,7 +1073,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'un quiz (si capacité à le faire).
 
@@ -1070,27 +1090,29 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-#### Projet - Réalisation du service et tests utilisateurs
+### Projet - Réalisation du service et tests utilisateurs
 
 - Durée : 2 périodes
 
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1110,11 +1132,9 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
+## 🕐 Semaine 13
 
-### Semaine 13
-
-#### Cours - Évaluation
+### Cours - Évaluation
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
@@ -1127,15 +1147,17 @@ L'évaluation ne donne pas lieu à une note.
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
 
--
+**Objectifs**
 
-##### Méthodes d'enseignement et d'apprentissage
+- TODO
 
--
+**Méthodes d'enseignement et d'apprentissage**
 
-##### Méthodes d'évaluation
+- TODO
+
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une évaluation écrite.
 
@@ -1153,20 +1175,22 @@ Les retours se font de la manière suivante :
 
 </details>
 
-#### Projet - Réalisation du service et tests utilisateurs
+### Projet - Réalisation du service et tests utilisateurs
 
 - Durée : 2 périodes
 
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -1174,7 +1198,7 @@ sont les suivantes :
 - Présentation magistrale
 - Discussions collectives
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1194,37 +1218,37 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
+## 🕑 Semaine 14
 
-### Semaine 14
-
-#### Cours
+### Cours
 
 _Il n'y a pas de cours cette séance, uniquement le projet._
 
 </details>
 
-#### Projet - Réalisation du service et tests utilisateurs
+### Projet - Réalisation du service et tests utilisateurs
 
 - Durée : 4 périodes
 
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1244,37 +1268,37 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
+## 🕒 Semaine 15
 
-### Semaine 15
-
-#### Cours
+### Cours
 
 _Il n'y a pas de cours cette séance, uniquement le projet._
 
 </details>
 
-#### Projet - Réalisation du service et tests utilisateurs
+### Projet - Réalisation du service et tests utilisateurs
 
 - Durée : 4 périodes
 
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1294,11 +1318,9 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
----
+## 🕓 Semaine 16
 
-### Semaine 16
-
-#### Cours
+### Cours
 
 _Il n'y a pas de cours cette séance, uniquement le projet._
 
@@ -1306,7 +1328,7 @@ TODO: revue du semestre
 
 </details>
 
-#### Projet - Présentations, partages et discussions (3/3) - Présentations finales
+### Projet - Présentations, partages et discussions (3/3) - Présentations finales
 
 - Durée : 4 périodes
 - **🚨 Séance avec évaluation notée**
@@ -1314,20 +1336,22 @@ TODO: revue du semestre
 <details>
 <summary>Voir les détails</summary>
 
-##### Objectifs
+<br>
+
+**Objectifs**
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
--
+- TODO
 
-##### Méthodes d'enseignement et d'apprentissage
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
--
+- TODO
 
-##### Méthodes d'évaluation
+**Méthodes d'évaluation**
 
 L'évaluation prend la forme d'une présentation du projet aux autres groupes.
 
