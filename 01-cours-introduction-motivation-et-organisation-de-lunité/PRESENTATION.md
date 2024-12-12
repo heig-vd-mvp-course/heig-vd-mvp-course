@@ -13,11 +13,11 @@ url: https://heig-vd-mvp.github.io/heig-vd-mvp-course/01-cours-introduction-moti
 footer: '**HEIG-VD** - MVP Course 2024-2025 - CC BY-SA 4.0'
 style: |
     :root {
-        --color-background: #fff;
-        --color-foreground: #333;
-        --color-highlight: #f96;
-        --color-dimmed: #888;
-        --color-headings: #7d8ca3;
+        --color-background: #1e1e2f;
+        --color-foreground: #dcdcdc;
+        --color-highlight: #ff6f61;
+        --color-dimmed: #6c757d;
+        --color-headings: #4ecdc4;
     }
     blockquote {
         font-style: italic;
