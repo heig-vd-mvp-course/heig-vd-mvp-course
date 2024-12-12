@@ -78,8 +78,9 @@ Les numéros des semaines correspondent aux semaines définies dans le
 - Support de cours (pour les personnes qui étudient)
   - _Aucun support_
 - Présentation (pour les personnes qui enseignent)
-  - Format web
-  - Format PDF
+
+  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunité/index.html)
+  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunité/01-cours-introduction-motivation-et-organisation-de-lunité-presentation.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -124,6 +125,9 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)
 
 - Durée : 2 périodes
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
+  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -190,13 +194,14 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
-  - Format web
+  - [Markdown](./03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin/SUPPORT_DE_COURS.md)
 - Présentation (pour les personnes qui enseignent)
-  - Format web
-  - Format PDF
 
-<details>
-<summary>Voir les détails</summary>
+  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin/index.html)
+  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin-presentation.pdf)
+
+  <details>
+  <summary>Voir les détails</summary>
 
 <br>
 
@@ -251,6 +256,9 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)
 
 - Durée : 2 périodes
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
+  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -313,11 +321,14 @@ il est recommandé pour la semaine suivante de :
 ### Cours - Comprendre et atteindre son public cible
 
 - Durée : 2 périodes
+- Quiz
+  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin/quiz.html)
+  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin-quiz.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - Format web
+  - [Markdown](./04-cours-comprendre-et-atteindre-son-public-cible/SUPPORT_DE_COURS.md)
 - Présentation (pour les personnes qui enseignent)
-  - Format web
-  - Format PDF
+  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/index.html)
+  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/04-cours-comprendre-et-atteindre-son-public-cible-presentation.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -372,6 +383,9 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)
 
 - Durée : 2 périodes
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
+  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -447,11 +461,14 @@ _Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
 ### Cours - Promouvoir et pitcher son idée
 
 - Durée : 2 périodes
+- Quiz
+  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/quiz.html)
+  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/04-cours-comprendre-et-atteindre-son-public-cible-quiz.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - Format web
+  - [Markdown](./05-course-promouvoir-et-pitcher-son-idée/SUPPORT_DE_COURS.md)
 - Présentation (pour les personnes qui enseignent)
-  - Format web
-  - Format PDF
+  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/05-course-promouvoir-et-pitcher-son-idée/index.html)
+  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/05-course-promouvoir-et-pitcher-son-idée/05-course-promouvoir-et-pitcher-son-idée-presentation.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -506,6 +523,9 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Présentations du pitch
 
 - Durée : 2 périodes
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/06-projet-présentations-partages-et-discussions-1-pitch/index.html)
+  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/06-projet-présentations-partages-et-discussions-1-pitch/06-projet-présentations-partages-et-discussions-1-pitch-presentation.pdf)
 - **🚨 Séance avec évaluation notée** (20% de la note de projet)
 
 <details>
