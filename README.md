@@ -53,18 +53,18 @@ d'apprentissage, et les méthodes d'évaluation.
 |   [2](#-semaine-2) | [Trouver des idées originales qui répondent à un besoin](#cours---trouver-des-idées-originales-qui-répondent-à-un-besoin) | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-1) |
 |   [3](#-semaine-3) | [Comprendre et atteindre son public cible](#cours---comprendre-et-atteindre-son-public-cible)                             | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-2) |
 |   [4](#-semaine-4) | _Pas de cours_                                                                                                            | _Pas de projet_                                                                                                                                                                                                                      |
-|   [5](#-semaine-5) | [Promouvoir et pitcher son idée](#cours---promouvoir-et-pitcher-son-idée)                                                 | [🚨 Présentations, partages et discussions (1/3) - Pitch](#projet---présentations-partages-et-discussions-13---pitch)                                                                                                                |
+|   [5](#-semaine-5) | [Promouvoir et pitcher son idée](#cours---promouvoir-et-pitcher-son-idée)                                                 | [🚨 Présentations, partages et discussions - Pitch](#projet---présentations-partages-et-discussions---pitch)                                                                                                                         |
 |   [6](#-semaine-6) | [Identification et choix d'une stack technologique](#cours---identification-et-choix-dune-stack-technologique)            | [Réalisation et hébergement de la landing page avec newsletter (1/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter)                                                                                       |
-|   [7](#-semaine-7) | [Réaliser des interfaces ergonomiques et réfléchies](#cours---réaliser-des-interfaces-ergonomiques-et-réfléchies)         | [Réalisation et hébergement de la landing page avec newsletter (2/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter-1)                                                                                     |
-|   [8](#-semaine-8) | [Hébergement et déploiement de services](#cours---hébergement-et-déploiement-de-services)                                 | [🚨 Présentations, partages et discussions (2/3) - Prospection](#projet---présentations-partages-et-discussions-23---prospection)                                                                                                    |
-|   [9](#-semaine-9) | [Recevoir des feedbacks constructifs et pivoter](#cours---recevoir-des-feedbacks-constructifs-et-pivoter)                 | [Réalisation du service et tests utilisateurs (1/7)](#projet---réalisation-du-service-et-tests-utilisateurs)                                                                                                                         |
-| [10](#-semaine-10) | [Réaliser des applications pérennes](#cours---réaliser-des-applications-pérennes)                                         | [Réalisation du service et tests utilisateurs (2/7)](#projet---réalisation-du-service-et-tests-utilisateurs-1)                                                                                                                       |
-| [11](#-semaine-11) | [Se faire payer pour sa passion](#cours---se-faire-payer-pour-sa-passion)                                                 | [Réalisation du service et tests utilisateurs (3/7)](#projet---réalisation-du-service-et-tests-utilisateurs-2)                                                                                                                       |
-| [12](#-semaine-12) | [Créer sa propre entreprise](#cours---créer-sa-propre-entreprise)                                                         | [Réalisation du service et tests utilisateurs (4/7)](#projet---réalisation-du-service-et-tests-utilisateurs-3)                                                                                                                       |
-| [13](#-semaine-13) | [🚨 Évaluation](#cours---évaluation)                                                                                      | [Réalisation du service et tests utilisateurs (5/7)](#projet---réalisation-du-service-et-tests-utilisateurs-4)                                                                                                                       |
-| [14](#-semaine-14) | _Pas de cours_                                                                                                            | [Réalisation du service et tests utilisateurs (6/7)](#projet---réalisation-du-service-et-tests-utilisateurs-5)                                                                                                                       |
-| [15](#-semaine-15) | _Pas de cours_                                                                                                            | [Réalisation du service et tests utilisateurs (7/7)](#projet---réalisation-du-service-et-tests-utilisateurs-6)                                                                                                                       |
-| [16](#-semaine-16) | _Pas de cours_                                                                                                            | [🚨 Présentations, partages et discussions (3/3) - Présentations finales](#projet---présentations-partages-et-discussions-33---présentations-finales)                                                                                |
+|   [7](#-semaine-7) | _Pas de cours, uniquement du projet_                                                                                      | [Réalisation et hébergement de la landing page avec newsletter (2/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter-1)                                                                                     |
+|   [8](#-semaine-8) | [Réaliser des interfaces ergonomiques et réfléchies](#cours---réaliser-des-interfaces-ergonomiques-et-réfléchies)         | [🚨 Présentations, partages et discussions - Prospection](#projet---présentations-partages-et-discussions---prospection)                                                                                                             |
+|   [9](#-semaine-9) | [Hébergement et déploiement de services](#cours---hébergement-et-déploiement-de-services)                                 | [Réalisation du service et tests utilisateurs (1/7)](#projet---réalisation-du-service-et-tests-utilisateurs)                                                                                                                         |
+| [10](#-semaine-10) | [Recevoir des feedbacks constructifs et pivoter](#cours---recevoir-des-feedbacks-constructifs-et-pivoter)                 | [Réalisation du service et tests utilisateurs (2/7)](#projet---réalisation-du-service-et-tests-utilisateurs-1)                                                                                                                       |
+| [11](#-semaine-11) | [Réaliser des applications pérennes](#cours---réaliser-des-applications-pérennes)                                         | [Réalisation du service et tests utilisateurs (3/7)](#projet---réalisation-du-service-et-tests-utilisateurs-2)                                                                                                                       |
+| [12](#-semaine-12) | [Se faire payer pour sa passion](#cours---se-faire-payer-pour-sa-passion)                                                 | [Réalisation du service et tests utilisateurs (4/7)](#projet---réalisation-du-service-et-tests-utilisateurs-3)                                                                                                                       |
+| [13](#-semaine-13) | [Créer sa propre entreprise](#cours---créer-sa-propre-entreprise)                                                         | [Réalisation du service et tests utilisateurs (5/7)](#projet---réalisation-du-service-et-tests-utilisateurs-4)                                                                                                                       |
+| [14](#-semaine-14) | [🚨 Évaluation](#cours---évaluation)                                                                                      | [Réalisation du service et tests utilisateurs (6/7)](#projet---réalisation-du-service-et-tests-utilisateurs-5)                                                                                                                       |
+| [15](#-semaine-15) | _Pas de cours, uniquement du projet_                                                                                      | [Réalisation du service et tests utilisateurs (7/7)](#projet---réalisation-du-service-et-tests-utilisateurs-6)                                                                                                                       |
+| [16](#-semaine-16) | _Pas de cours, uniquement du projet_                                                                                      | [🚨 Présentations, partages et discussions - Présentations finales](#projet---présentations-partages-et-discussions---présentations-finales)                                                                                         |
 
 ## 🕐 Semaine 1
 
@@ -132,6 +132,8 @@ Il n'y a pas d'évaluation pour cette séance.
 - Organiser le travail en équipe sur le semestre
 - Explorer d'autres idées
 - Commencer à approfondir une idée
+- Prendre connaissance de la structure attendue et des critères d'évaluation du
+  rendu final
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -206,7 +208,7 @@ sont les suivantes :
 
 **Méthodes d'évaluation**
 
-L'évaluation prend la forme d'un quiz (si capacité à le faire).
+L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
 
 L'évaluation se fait en utilisant les critères suivants :
 
@@ -241,6 +243,8 @@ L'évaluation ne donne pas lieu à une note.
 - Identifier le public cible envisagé
 - Identifier la plus-value du service
 - Identifier les avantages/forces et les inconvénients/faiblesses de l'idée
+- Commencer à rédiger le rapport de projet en décrivant les différentes idées
+  envisagées et la plus-value du service envisagé
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -312,7 +316,7 @@ sont les suivantes :
 
 **Méthodes d'évaluation**
 
-L'évaluation prend la forme d'un quiz (si capacité à le faire).
+L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
 
 L'évaluation se fait en utilisant les critères suivants :
 
@@ -348,6 +352,9 @@ L'évaluation ne donne pas lieu à une note.
 - Rédiger une série de questions pour comprendre leur public cible
 - Identifier 2-3 personnes avec qui discuter pour comprendre leur public cible
 - Lister les hypothèses à valider pour comprendre leur public cible
+- Compléter le rapport en décrivant le public cible et les personae **imaginés**
+- Compléter le rapport en décrivant le questionnaire pour comprendre le public
+  cible
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -428,7 +435,7 @@ sont les suivantes :
 
 **Méthodes d'évaluation**
 
-L'évaluation prend la forme d'un quiz (si capacité à le faire).
+L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
 
 L'évaluation se fait en utilisant les critères suivants :
 
@@ -443,7 +450,7 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-### Projet - Présentations, partages et discussions (1/3) - Pitch
+### Projet - Présentations, partages et discussions - Pitch
 
 - Durée : 2 périodes
 - **🚨 Séance avec évaluation notée**
@@ -469,9 +476,10 @@ L'évaluation ne donne pas lieu à une note.
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- Temps de préparation (30 minutes)
+- Exercices d'improvisation (10 minutes)
+- Temps de préparation (20 minutes)
 - Présentations (60 minutes)
-  - Présentations
+  - Présentations (sans slides)
   - Sessions de questions-réponses
   - Évaluations et feedbacks
 
@@ -526,6 +534,8 @@ Les retours se font de la manière suivante :
 - Décrire où trouver des templates de landing page
 - Décrire où héberger une landing page avec newsletter
 - Décrire comment héberger une landing page avec newsletter
+- Lister les éléments clés du référencement en lien avec les moteurs de
+  recherche
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -537,7 +547,7 @@ sont les suivantes :
 
 **Méthodes d'évaluation**
 
-L'évaluation prend la forme d'un quiz (si capacité à le faire).
+L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
 
 L'évaluation se fait en utilisant les critères suivants :
 
@@ -565,9 +575,13 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
+- Réaliser un mockup de la landing page
 - Prendre en main un outil de création de landing page (site web statique)
+- Identifier les mots clés pour le référencement
+- Compléter le rapport de projet avec les interviews réalisées jusqu'ici
+- Commencer à réaliser la landing page
 
-**Méthodes d'enseignement et d'apprentissage**
+- **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -625,7 +639,7 @@ sont les suivantes :
 
 **Méthodes d'évaluation**
 
-L'évaluation prend la forme d'un quiz (si capacité à le faire).
+L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
 
 L'évaluation se fait en utilisant les critères suivants :
 
@@ -715,7 +729,7 @@ sont les suivantes :
 
 **Méthodes d'évaluation**
 
-L'évaluation prend la forme d'un quiz (si capacité à le faire).
+L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
 
 L'évaluation se fait en utilisant les critères suivants :
 
@@ -730,7 +744,7 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-### Projet - Présentations, partages et discussions (2/3) - Prospection
+### Projet - Présentations, partages et discussions - Prospection
 
 - Durée : 2 périodes
 - **🚨 Séance avec évaluation notée**
@@ -805,7 +819,7 @@ sont les suivantes :
 
 **Méthodes d'évaluation**
 
-L'évaluation prend la forme d'un quiz (si capacité à le faire).
+L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
 
 L'évaluation se fait en utilisant les critères suivants :
 
@@ -895,7 +909,7 @@ sont les suivantes :
 
 **Méthodes d'évaluation**
 
-L'évaluation prend la forme d'un quiz (si capacité à le faire).
+L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
 
 L'évaluation se fait en utilisant les critères suivants :
 
@@ -985,7 +999,7 @@ sont les suivantes :
 
 **Méthodes d'évaluation**
 
-L'évaluation prend la forme d'un quiz (si capacité à le faire).
+L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
 
 L'évaluation se fait en utilisant les critères suivants :
 
@@ -1075,7 +1089,7 @@ sont les suivantes :
 
 **Méthodes d'évaluation**
 
-L'évaluation prend la forme d'un quiz (si capacité à le faire).
+L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
 
 L'évaluation se fait en utilisant les critères suivants :
 
@@ -1328,7 +1342,7 @@ TODO: revue du semestre
 
 </details>
 
-### Projet - Présentations, partages et discussions (3/3) - Présentations finales
+### Projet - Présentations, partages et discussions - Présentations finales
 
 - Durée : 4 périodes
 - **🚨 Séance avec évaluation notée**
