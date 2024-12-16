@@ -453,7 +453,7 @@ L'évaluation ne donne pas lieu à une note.
 ### Projet - Présentations, partages et discussions - Pitch
 
 - Durée : 2 périodes
-- **🚨 Séance avec évaluation notée**
+- **🚨 Séance avec évaluation notée** (20% de la note de projet)
 
 <details>
 <summary>Voir les détails</summary>
@@ -498,7 +498,7 @@ Les retours se font de la manière suivante :
 - Grille d'évaluation
   - À définir
 
-**🚨 L'évaluation donne lieu à une note.**
+**🚨 L'évaluation donne lieu à une note.** (20% de la note de projet)
 
 </details>
 
@@ -677,8 +677,7 @@ Les retours se font de la manière suivante :
 L'évaluation ne donne pas lieu à une note.
 
 </details>
-
-## 🕖 Semaine 7
+## 🕗 Semaine 8
 
 ### Cours - Réaliser des interfaces ergonomiques et réfléchies
 
@@ -765,8 +764,7 @@ Les retours se font de la manière suivante :
 L'évaluation ne donne pas lieu à une note.
 
 </details>
-
-## 🕗 Semaine 8
+## 🕘 Semaine 9
 
 ### Cours - Hébergement et déploiement de services
 
@@ -817,7 +815,7 @@ L'évaluation ne donne pas lieu à une note.
 ### Projet - Présentations, partages et discussions - Prospection
 
 - Durée : 2 périodes
-- **🚨 Séance avec évaluation notée**
+- **🚨 Séance avec évaluation notée** (20% de la note de projet)
 
 <details>
 <summary>Voir les détails</summary>
@@ -852,11 +850,11 @@ Les retours se font de la manière suivante :
 - Grille d'évaluation
   - À définir
 
-**🚨 L'évaluation donne lieu à une note.**
+**🚨 L'évaluation donne lieu à une note.** (20% de la note de projet)
 
 </details>
 
-## 🕘 Semaine 9
+## 🕙 Semaine 10
 
 ### Cours - Recevoir des feedbacks constructifs et pivoter
 
@@ -946,7 +944,7 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-## 🕙 Semaine 10
+## 🕚 Semaine 11
 
 ### Cours - Réaliser des applications pérennes
 
@@ -1036,7 +1034,7 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-## 🕚 Semaine 11
+## 🕛 Semaine 12
 
 ### Cours - Se faire payer pour sa passion
 
@@ -1126,7 +1124,7 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-## 🕛 Semaine 12
+## 🕐 Semaine 13
 
 ### Cours - Créer sa propre entreprise
 
@@ -1216,7 +1214,7 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-## 🕐 Semaine 13
+## 🕑 Semaine 14
 
 ### Cours - Évaluation
 
@@ -1226,7 +1224,7 @@ L'évaluation ne donne pas lieu à une note.
 - Présentation (pour les personnes qui enseignent)
   - Format web
   - Format PDF
-- **🚨 Séance avec évaluation notée**
+- **🚨 Séance avec évaluation notée** (60% de la note de projet)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1255,7 +1253,7 @@ Les retours se font de la manière suivante :
 
 - Corrigé de l'évaluation
 
-**🚨 L'évaluation donne lieu à une note.**
+**🚨 L'évaluation donne lieu à une note.** (60% de la note de projet)
 
 </details>
 
@@ -1281,56 +1279,6 @@ sont les suivantes :
 
 - Présentation magistrale
 - Discussions collectives
-
-**Méthodes d'évaluation**
-
-L'évaluation prend la forme d'une présentation du projet aux personnes qui
-enseignent.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à présenter
-- Capacité à écouter
-- Capacité à argumenter
-- Capacité à participer
-
-Les retours se font de la manière suivante :
-
-- Feedback
-
-L'évaluation ne donne pas lieu à une note.
-
-</details>
-
-## 🕑 Semaine 14
-
-### Cours
-
-_Il n'y a pas de cours cette séance, uniquement le projet._
-
-</details>
-
-### Projet - Réalisation du service et tests utilisateurs
-
-- Durée : 4 périodes
-
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-**Objectifs**
-
-À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
-
-- TODO
-
-**Méthodes d'enseignement et d'apprentissage**
-
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
-sont les suivantes :
-
-- TODO
 
 **Méthodes d'évaluation**
 
