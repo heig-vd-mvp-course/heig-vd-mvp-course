@@ -3,7 +3,7 @@
 [![Licence](https://img.shields.io/github/license/heig-vd-mvp-course/heig-vd-mvp-course)](./LICENSE.md)
 
 Bienvenue sur le dépôt principal du cours
-[Lancez votre MVP](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379)
+[Lancez votre Minimum Viable Product (MVP)](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379)
 enseigné à la [HEIG-VD](https://heig-vd.ch), Suisse !
 
 Ce cours est équivalent à 3 crédits ECTS (= ~75-90 heures de travail).
