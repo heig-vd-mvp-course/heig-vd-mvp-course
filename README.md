@@ -8,9 +8,9 @@ enseigné à la [HEIG-VD](https://heig-vd.ch), Suisse !
 
 Ce cours est équivalent à 3 crédits ECTS (= ~75-90 heures de travail).
 
-- 48 heures en classe (= 64 périodes de 45 minutes)
-- ~27-42 heures en dehors de la classe - Nous faisons de notre mieux pour que
-  vous n'ayez pas à travailler autant en dehors de la classe
+- 48 heures en classe pour la théorie et la réalisation du service
+- ~27-42 heures en dehors de la classe pour les interviews, la prospection, les
+  tests utilisateurs, etc.
 
 ## 🎯 Objectifs généraux
 
@@ -54,8 +54,8 @@ d'apprentissage, et les méthodes d'évaluation.
 |   [3](#-semaine-3) | [Comprendre et atteindre son public cible](#cours---comprendre-et-atteindre-son-public-cible)                             | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-2) |
 |   [4](#-semaine-4) | _Pas de cours_                                                                                                            | _Pas de projet_                                                                                                                                                                                                                      |
 |   [5](#-semaine-5) | [Promouvoir et pitcher son idée](#cours---promouvoir-et-pitcher-son-idée)                                                 | [🚨 Présentations, partages et discussions - Pitch](#projet---présentations-partages-et-discussions---pitch)                                                                                                                         |
-|   [6](#-semaine-6) | [Identification et choix d'une stack technologique](#cours---identification-et-choix-dune-stack-technologique)            | [Réalisation et hébergement de la landing page avec newsletter (1/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter)                                                                                       |
-|   [7](#-semaine-7) | _Pas de cours, uniquement du projet_                                                                                      | [Réalisation et hébergement de la landing page avec newsletter (2/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter-1)                                                                                     |
+|   [6](#-semaine-6) | [Identification et choix d'une stack technologique](#cours---identification-et-choix-dune-stack-technologique)            | [Réalisation et hébergement de la landing page avec formulaire de contact (1/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter)                                                                            |
+|   [7](#-semaine-7) | _Pas de cours, uniquement du projet_                                                                                      | [Réalisation et hébergement de la landing page avec formulaire de contact (2/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter-1)                                                                          |
 |   [8](#-semaine-8) | [Réaliser des interfaces ergonomiques et réfléchies](#cours---réaliser-des-interfaces-ergonomiques-et-réfléchies)         | [🚨 Présentations, partages et discussions - Prospection](#projet---présentations-partages-et-discussions---prospection)                                                                                                             |
 |   [9](#-semaine-9) | [Hébergement et déploiement de services](#cours---hébergement-et-déploiement-de-services)                                 | [Réalisation du service et tests utilisateurs (1/7)](#projet---réalisation-du-service-et-tests-utilisateurs)                                                                                                                         |
 | [10](#-semaine-10) | [Recevoir des feedbacks constructifs et pivoter](#cours---recevoir-des-feedbacks-constructifs-et-pivoter)                 | [Réalisation du service et tests utilisateurs (2/7)](#projet---réalisation-du-service-et-tests-utilisateurs-1)                                                                                                                       |
@@ -530,10 +530,10 @@ Les retours se font de la manière suivante :
 - Énumérer des stacks technologiques web populaires
 - Décrire ce qu'est une landing page
 - Décrire ce qu'est une newsletter
-- Expliquer l'intérêt d'une landing page avec newsletter pour un MVP
+- Expliquer l'intérêt d'une landing page avec formulaire de contact pour un MVP
 - Décrire où trouver des templates de landing page
-- Décrire où héberger une landing page avec newsletter
-- Décrire comment héberger une landing page avec newsletter
+- Décrire où héberger une landing page avec formulaire de contact
+- Décrire comment héberger une landing page avec formulaire de contact
 - Lister les éléments clés du référencement en lien avec les moteurs de
   recherche
 
@@ -562,7 +562,7 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-### Projet - Réalisation et hébergement de la landing page avec newsletter
+### Projet - Réalisation et hébergement de la landing page avec formulaire de contact
 
 - Durée : 2 périodes
 
@@ -580,11 +580,83 @@ L'évaluation ne donne pas lieu à une note.
 - Identifier les mots clés pour le référencement
 - Compléter le rapport de projet avec les interviews réalisées jusqu'ici
 - Commencer à réaliser la landing page
+- Prendre connaissance de la forme attendue pour la présentation sur la
+  [Prospection](#projet---présentations-partages-et-discussions---prospection)
+- Prendre connaissance des critères d'évaluation pour la présentation sur la
+  [Prospection](#projet---présentations-partages-et-discussions---prospection)
 
 - **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
+
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
+
+**Méthodes d'évaluation**
+
+L'évaluation prend la forme d'une présentation du projet aux personnes qui
+enseignent.
+
+L'évaluation se fait en utilisant les critères suivants :
+
+- Capacité à présenter
+- Capacité à écouter
+- Capacité à argumenter
+- Capacité à participer
+
+Les retours se font de la manière suivante :
+
+- Feedback
+
+L'évaluation ne donne pas lieu à une note.
+
+</details>
+
+## 🕖 Semaine 7
+
+### Cours
+
+_Il n'y a pas de cours cette séance, uniquement le projet._
+
+</details>
+
+### Projet - Réalisation et hébergement de la landing page avec formulaire de contact
+
+- Durée : 4 périodes
+
+<details>
+<summary>Voir les détails</summary>
+
+<br>
+
+**Objectifs**
+
+À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
+
+- Réaliser la landing page
+- Déployer la landing page sur Internet
+- Implémenter un formulaire de contact
+- Identifier les canaux de communication pour promouvoir le projet
+- Compléter le rapport de projet avec les interviews réalisées jusqu'ici
+- Compléter le rapport de projet avec les canaux de communication identifiés
+- Commencer à promouvoir la landing page
+- Commencer à réaliser la présentation sur la
+  [Prospection](#projet---présentations-partages-et-discussions---prospection)
+
+**Méthodes d'enseignement et d'apprentissage**
+
+Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+sont les suivantes :
+
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
 
 **Méthodes d'évaluation**
 
@@ -627,9 +699,7 @@ L'évaluation ne donne pas lieu à une note.
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- TODO
-
-**Méthodes d'enseignement et d'apprentissage**
+- **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -654,7 +724,7 @@ L'évaluation ne donne pas lieu à une note.
 
 </details>
 
-### Projet - Réalisation et hébergement de la landing page avec newsletter
+### Projet - Réalisation et hébergement de la landing page avec formulaire de contact
 
 - Durée : 2 périodes
 
