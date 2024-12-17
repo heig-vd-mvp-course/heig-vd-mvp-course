@@ -677,6 +677,7 @@ Les retours se font de la manière suivante :
 L'évaluation ne donne pas lieu à une note.
 
 </details>
+
 ## 🕗 Semaine 8
 
 ### Cours - Réaliser des interfaces ergonomiques et réfléchies
@@ -1224,7 +1225,7 @@ L'évaluation ne donne pas lieu à une note.
 - Présentation (pour les personnes qui enseignent)
   - Format web
   - Format PDF
-- **🚨 Séance avec évaluation notée** (60% de la note de projet)
+- **🚨 Séance avec évaluation notée** (100% de la note de cours)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1253,7 +1254,7 @@ Les retours se font de la manière suivante :
 
 - Corrigé de l'évaluation
 
-**🚨 L'évaluation donne lieu à une note.** (60% de la note de projet)
+**🚨 L'évaluation donne lieu à une note.** (100% de la note de cours)
 
 </details>
 
@@ -1363,7 +1364,7 @@ TODO: revue du semestre
 ### Projet - Présentations, partages et discussions - Présentations finales
 
 - Durée : 4 périodes
-- **🚨 Séance avec évaluation notée**
+- **🚨 Séance avec évaluation notée** (60% de la note de projet)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1400,7 +1401,7 @@ Les retours se font de la manière suivante :
 - Grille d'évaluation
   - À définir
 
-**🚨 L'évaluation donne lieu à une note.**
+**🚨 L'évaluation donne lieu à une note.** (60% de la note de projet)
 
 </details>
 
