@@ -6,7 +6,7 @@ Bienvenue sur le dépôt principal du cours
 [Lancez votre Minimum Viable Product (MVP)](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379)
 enseigné à la [HEIG-VD](https://heig-vd.ch), Suisse !
 
-Ce cours est équivalent à 3 crédits ECTS (= ~75-90 heures de travail).
+Ce cours est équivalant à 3 crédits ECTS (= ~75-90 heures de travail) :
 
 - 48 heures en classe pour la théorie et la réalisation du service
 - ~27-42 heures en dehors de la classe pour les interviews, la prospection, les
@@ -47,24 +47,27 @@ Les détails des cours et des projets sont disponibles ci-dessous. Chaque semain
 est détaillée avec les contenus, les objectifs, les méthodes d'enseignement et
 d'apprentissage, et les méthodes d'évaluation.
 
+Les numéros de semaine correspondent aux semaines définies dans le
+[Calendrier académique de la HEIG-VD](https://heig-vd.ch/formation/bachelor/calendrier-academique/).
+
 |            Semaine | Cours                                                                                                                     | Projet                                                                                                                                                                                                                               |
 | -----------------: | :------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   [1](#-semaine-1) | [Introduction, motivation et organisation de l'unité](#cours---introduction-motivation-et-organisation-de-lunité)         | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service)   |
 |   [2](#-semaine-2) | [Trouver des idées originales qui répondent à un besoin](#cours---trouver-des-idées-originales-qui-répondent-à-un-besoin) | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-1) |
 |   [3](#-semaine-3) | [Comprendre et atteindre son public cible](#cours---comprendre-et-atteindre-son-public-cible)                             | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-2) |
 |   [4](#-semaine-4) | _Pas de cours_                                                                                                            | _Pas de projet_                                                                                                                                                                                                                      |
-|   [5](#-semaine-5) | [Promouvoir et pitcher son idée](#cours---promouvoir-et-pitcher-son-idée)                                                 | [🚨 Présentations, partages et discussions - Pitch](#projet---présentations-partages-et-discussions---pitch)                                                                                                                         |
-|   [6](#-semaine-6) | [Identification et choix d'une stack technologique](#cours---identification-et-choix-dune-stack-technologique)            | [Réalisation et hébergement de la landing page avec formulaire de contact (1/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter)                                                                            |
-|   [7](#-semaine-7) | _Pas de cours, uniquement du projet_                                                                                      | [Réalisation et hébergement de la landing page avec formulaire de contact (2/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter-1)                                                                          |
-|   [8](#-semaine-8) | [Réaliser des interfaces ergonomiques et réfléchies](#cours---réaliser-des-interfaces-ergonomiques-et-réfléchies)         | [🚨 Présentations, partages et discussions - Prospection](#projet---présentations-partages-et-discussions---prospection)                                                                                                             |
+|   [5](#-semaine-5) | [Promouvoir et pitcher son idée](#cours---promouvoir-et-pitcher-son-idée)                                                 | 🚨 [Présentations, partages et discussions - Pitch](#projet---présentations-partages-et-discussions---pitch)                                                                                                                         |
+|   [6](#-semaine-6) | [Identification et choix d'une stack technologique](#cours---identification-et-choix-dune-stack-technologique)            | [Réalisation et hébergement de la landing page avec formulaire de contact (1/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact)                                                                 |
+|   [7](#-semaine-7) | _Pas de cours, uniquement du projet_                                                                                      | [Réalisation et hébergement de la landing page avec formulaire de contact (2/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-1)                                                               |
+|         _Vacances_ | _Pas de cours_                                                                                                            | _Pas de projet_                                                                                                                                                                                                                      |
+|   [8](#-semaine-8) | [Réaliser des interfaces ergonomiques et réfléchies](#cours---réaliser-des-interfaces-ergonomiques-et-réfléchies)         | 🚨 [Présentations, partages et discussions - Prospection](#projet---présentations-partages-et-discussions---prospection)                                                                                                             |
 |   [9](#-semaine-9) | [Hébergement et déploiement de services](#cours---hébergement-et-déploiement-de-services)                                 | [Réalisation du service et tests utilisateurs (1/7)](#projet---réalisation-du-service-et-tests-utilisateurs)                                                                                                                         |
 | [10](#-semaine-10) | [Recevoir des feedbacks constructifs et pivoter](#cours---recevoir-des-feedbacks-constructifs-et-pivoter)                 | [Réalisation du service et tests utilisateurs (2/7)](#projet---réalisation-du-service-et-tests-utilisateurs-1)                                                                                                                       |
 | [11](#-semaine-11) | [Réaliser des applications pérennes](#cours---réaliser-des-applications-pérennes)                                         | [Réalisation du service et tests utilisateurs (3/7)](#projet---réalisation-du-service-et-tests-utilisateurs-2)                                                                                                                       |
 | [12](#-semaine-12) | [Se faire payer pour sa passion](#cours---se-faire-payer-pour-sa-passion)                                                 | [Réalisation du service et tests utilisateurs (4/7)](#projet---réalisation-du-service-et-tests-utilisateurs-3)                                                                                                                       |
 | [13](#-semaine-13) | [Créer sa propre entreprise](#cours---créer-sa-propre-entreprise)                                                         | [Réalisation du service et tests utilisateurs (5/7)](#projet---réalisation-du-service-et-tests-utilisateurs-4)                                                                                                                       |
-| [14](#-semaine-14) | [🚨 Évaluation](#cours---évaluation)                                                                                      | [Réalisation du service et tests utilisateurs (6/7)](#projet---réalisation-du-service-et-tests-utilisateurs-5)                                                                                                                       |
-| [15](#-semaine-15) | _Pas de cours, uniquement du projet_                                                                                      | [Réalisation du service et tests utilisateurs (7/7)](#projet---réalisation-du-service-et-tests-utilisateurs-6)                                                                                                                       |
-| [16](#-semaine-16) | _Pas de cours, uniquement du projet_                                                                                      | [🚨 Présentations, partages et discussions - Présentations finales](#projet---présentations-partages-et-discussions---présentations-finales)                                                                                         |
+| [14](#-semaine-14) | 🚨 [Évaluation](#cours---évaluation)                                                                                      | [Réalisation du service et tests utilisateurs (6/7)](#projet---réalisation-du-service-et-tests-utilisateurs-5)                                                                                                                       |
+| [16](#-semaine-16) | _Pas de cours, uniquement du projet_                                                                                      | 🚨 [Présentations, partages et discussions - Présentations finales](#projet---présentations-partages-et-discussions---présentations-finales)                                                                                         |
 
 ## 🕐 Semaine 1
 
@@ -94,6 +97,7 @@ d'apprentissage, et les méthodes d'évaluation.
 - Lister les modalités d'organisation des équipes
 - Décrire comment travailler en équipe de façon efficace
 - Décrire ce qu'est un MVP
+- Décrire les différences entre un wireframe, un mockup un prototype et un MVP
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -699,7 +703,9 @@ L'évaluation ne donne pas lieu à une note.
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- **Méthodes d'enseignement et d'apprentissage**
+- Décrire les éléments clés qui composent une interface ergonomique et réfléchie
+- Identifier dans une interface quels sont les éléments ergonomiques et
+  réfléchies ou non **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -765,6 +771,7 @@ Les retours se font de la manière suivante :
 L'évaluation ne donne pas lieu à une note.
 
 </details>
+
 ## 🕘 Semaine 9
 
 ### Cours - Hébergement et déploiement de services
