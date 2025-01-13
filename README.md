@@ -1468,11 +1468,8 @@ Les retours se font de la manière suivante :
 
 **À faire pour la semaine suivante**
 
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
-Il n'y a pas de cours la semaine suivante, il n'y a donc rien à faire pour la
-semaine suivante vis-à-vis du cours
+_Il n'y a pas de cours la semaine suivante, il n'y a donc rien à faire pour la
+semaine suivante vis-à-vis du cours._
 
 </details>
 
