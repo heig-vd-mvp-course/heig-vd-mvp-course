@@ -114,6 +114,9 @@ Il n'y a pas d'évaluation pour cette séance.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Relire le support de cours si nécessaire
 
 </details>
@@ -172,6 +175,9 @@ Les retours se font de la manière suivante :
 L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
 
 - Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
   pour le projet
@@ -235,6 +241,9 @@ L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Relire le support de cours si nécessaire
 
 </details>
@@ -258,8 +267,7 @@ L'évaluation ne donne pas lieu à une note.
 - Identifier le secteur de marché
 - Identifier la plus-value du service
 - Identifier les avantages/forces et les inconvénients/faiblesses de l'idée
-- Commencer à rédiger le rapport de projet en décrivant les différentes idées
-  envisagées et la plus-value du service envisagé
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -292,9 +300,11 @@ L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
   pour le projet
-- Rédiger la suite du rapport si nécessaire
 
 </details>
 
@@ -352,6 +362,9 @@ L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Relire le support de cours si nécessaire
 
 </details>
@@ -369,7 +382,8 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- Améliorer la description du projet
+- Choisir une idée qui répond à un besoin
+- Rédiger la description du projet
 - Identifier le public cible **imaginaire**
 - Lister des personae **imaginés**
 - Améliorer la description des besoins **imaginés** du public cible
@@ -377,9 +391,7 @@ L'évaluation ne donne pas lieu à une note.
 - Rédiger une série de questions pour comprendre le public cible
 - Identifier 2-3 personnes avec qui discuter pour comprendre le public cible
 - Lister les hypothèses à valider pour comprendre le public cible
-- Compléter le rapport en décrivant le public cible et les personae **imaginés**
-- Compléter le rapport en décrivant le questionnaire pour comprendre le public
-  cible
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -417,10 +429,12 @@ L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
 - Interviewer ces personnes pour récolter des retours
-- Rédiger la suite du rapport si nécessaire
 
 </details>
 
@@ -482,6 +496,9 @@ L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Relire le support de cours si nécessaire
 
 </details>
@@ -538,10 +555,12 @@ Les retours se font de la manière suivante :
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
 - Interviewer ces personnes pour récolter des retours
-- Rédiger la suite du rapport si nécessaire
 
 </details>
 
@@ -605,6 +624,9 @@ L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Relire le support de cours si nécessaire
 
 </details>
@@ -628,11 +650,11 @@ L'évaluation ne donne pas lieu à une note.
 - Identifier les mots clés pour le référencement
 - Mettre en commun les interviews réalisées jusqu'ici
 - Partager les réflexions autour de ces interviews
-- Compléter le rapport de projet avec les interviews réalisées jusqu'ici
 - Prendre connaissance de la forme attendue pour la présentation sur la
   [Prospection](#projet---présentations-de-la-prospection)
 - Prendre connaissance des critères d'évaluation pour la présentation sur la
   [Prospection](#projet---présentations-de-la-prospection)
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -665,11 +687,13 @@ L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Finaliser la mise en ligne du site web statique
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
 - Interviewer ces personnes pour récolter des retours
-- Rédiger la suite du rapport si nécessaire
 
 </details>
 
@@ -726,6 +750,9 @@ L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Relire le support de cours si nécessaire
 
 </details>
@@ -744,14 +771,13 @@ L'évaluation ne donne pas lieu à une note.
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
 - Réaliser un mockup de la landing page
-- Réaliser la landing page
+- Comment à réaliser la landing page
 - Implémenter un formulaire de contact
 - Identifier les canaux de communication pour promouvoir le projet
-- Compléter le rapport de projet avec les interviews réalisées jusqu'ici
-- Compléter le rapport de projet avec les canaux de communication identifiés
 - Commencer à promouvoir la landing page
 - Commencer à réaliser la présentation sur la
   [Prospection](#projet---présentations-de-la-prospection)
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -784,6 +810,10 @@ L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser la landing page
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
 - Interviewer ces personnes pour récolter des retours
@@ -791,7 +821,7 @@ L'évaluation ne donne pas lieu à une note.
   identifiés
 - Finaliser la présentation sur la
   [Prospection](#projet---présentations-de-la-prospection)
-- Préparer la présentation sur la
+- Répéter la présentation sur la
   [Prospection](#projet---présentations-de-la-prospection)
 
 </details>
@@ -820,6 +850,8 @@ L'évaluation ne donne pas lieu à une note.
 - Décrire comment héberger une application web selon le type de stack
   technologique
 - Décrire où héberger une application web selon le type de stack technologique
+- Décrire comment mettre en place un pipeline de CI/CD pour le
+  développement/déploiement continu d'applications
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -846,6 +878,9 @@ L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Relire le support de cours si nécessaire
 
 </details>
@@ -864,7 +899,7 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- Présenter leur travail sur la prospection
+- Présenter le travail effectué sur la prospection
 - Répondre aux questions
 - Recevoir des feedbacks constructifs
 - Évaluer les présentation des autres groupes
@@ -876,7 +911,7 @@ Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
 - Exercices d'improvisation (10 minutes)
-- Présentations (110 minutes)
+- Présentations (80 minutes)
   - Présentations (avec slides)
   - Sessions de questions-réponses
   - Évaluations et feedbacks
@@ -899,6 +934,9 @@ Les retours se font de la manière suivante :
 **🚨 L'évaluation donne lieu à une note.** (20% de la note de projet)
 
 **À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
@@ -931,6 +969,7 @@ Les retours se font de la manière suivante :
 
 - Recevoir des feedbacks constructifs
 - Donner des feedbacks constructifs
+- Définir ce qu'est un pivot
 - Accepter/faire le deuil de devoir pivoter
 - Identifier les informations obtenues jusqu'ici pour pivoter
 - Identifier les forces et les faiblesses des éléments identifiés pour pivoter
@@ -961,6 +1000,9 @@ L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Relire le support de cours si nécessaire
 
 </details>
@@ -978,7 +1020,17 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Identifier s'il faut pivoter ou non
+- Identifier quels éléments manquent pour déterminer s'il faut pivoter ou non
+- Identifier les forces et les faiblesses des données récoltées jusqu'ici
+- Pivoter si nécessaire avec une nouvelle idée (proche de l'existant ou non)
+- Identifier les fonctionnalités minimales à implémenter pour le service
+  envisagé
+- Identifier les hypothèses à tester sur la base des fonctionnalités minimales
+- Planifier le développement des fonctionnalités de base pour le service
+  envisagé pour les semaines restantes
+- Identifier des personnes qui pourraient tester le service envisagé
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -1008,6 +1060,14 @@ Les retours se font de la manière suivante :
 - Feedback
 
 L'évaluation ne donne pas lieu à une note.
+
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Trouver une nouvelle idée (si nécessaire)
+- Effectuer des tests utilisateurs
 
 </details>
 
@@ -1033,8 +1093,10 @@ L'évaluation ne donne pas lieu à une note.
 :
 
 - Lister les éléments principaux qui détériorent la qualité d'une application
-- Lister les solutions qui permettent d'améliorer la qualité d'une application
+- Lister les éléments principaux qui améliorent la qualité d'une application
 - Identifier les freins d'une application de qualité dans une situation donnée
+- Appliquer les bonnes pratiques qui permettent d'améliorer la qualité d'une
+  application
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -1061,6 +1123,9 @@ L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Relire le support de cours si nécessaire
 
 </details>
@@ -1078,7 +1143,12 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Déployer une application de type _"Hello, world!"_ sur Internet
+- Mettre en place un pipeline de CI/CD pour déployer une application sur
+  Internet
+- Commencer à les mockups des fonctionnalités de base du service envisagé
+- Mettre en place les bonnes pratiques pour le développement du service envisagé
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -1108,6 +1178,13 @@ Les retours se font de la manière suivante :
 - Feedback
 
 L'évaluation ne donne pas lieu à une note.
+
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Réaliser des tests utilisateurs
 
 </details>
 
@@ -1133,7 +1210,10 @@ L'évaluation ne donne pas lieu à une note.
 :
 
 - Établir un business model pour son projet
-- tODO
+- Lister les différents moyens de paiement populaires en Suisse
+- Lister les différents prestataires de paiement populaires sur Internet
+- Lister les éléments légaux nécessaires pour pouvoir se faire payer pour sa
+  passion
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -1160,6 +1240,9 @@ L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Relire le support de cours si nécessaire
 - Commencer à réviser pour l'évaluation de la [semaine 13](#-semaine-13)
 
@@ -1178,7 +1261,12 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Réaliser une ébauche de business model pour leur service
+- Intégrer une solution de paiement à leur service
+- Continuer les mockups du service envisagé
+- Continuer le développement du service envisagé
+- Effectuer des tests utilisateurs
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -1208,6 +1296,14 @@ Les retours se font de la manière suivante :
 - Feedback
 
 L'évaluation ne donne pas lieu à une note.
+
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser le business model
+- Effectuer des tests utilisateurs
 
 </details>
 
@@ -1264,6 +1360,9 @@ L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
 
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
 - Relire le support de cours si nécessaire
 - Réviser pour l'évaluation de la [semaine 13](#-semaine-13)
 
@@ -1282,7 +1381,8 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Avancer sur le développement du service envisagé
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -1312,6 +1412,16 @@ Les retours se font de la manière suivante :
 - Feedback
 
 L'évaluation ne donne pas lieu à une note.
+
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Effectuer des tests utilisateurs
 
 </details>
 
@@ -1334,11 +1444,11 @@ L'évaluation ne donne pas lieu à une note.
 
 **Objectifs**
 
-- TODO
+- Évaluer les compétences acquises durant le semestre
 
 **Méthodes d'enseignement et d'apprentissage**
 
-- TODO
+- Évaluation écrite
 
 **Méthodes d'évaluation**
 
@@ -1356,6 +1466,14 @@ Les retours se font de la manière suivante :
 
 **🚨 L'évaluation donne lieu à une note.** (100% de la note de cours)
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+Il n'y a pas de cours la semaine suivante, il n'y a donc rien à faire pour la
+semaine suivante vis-à-vis du cours
+
 </details>
 
 ### Projet - Réalisation du service et tests utilisateurs (5/6)
@@ -1371,7 +1489,9 @@ Les retours se font de la manière suivante :
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Continuer le développement du service
+- Planifier les dernières étapes du développement du service
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -1401,6 +1521,14 @@ Les retours se font de la manière suivante :
 - Feedback
 
 L'évaluation ne donne pas lieu à une note.
+
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser le développement du service
+- Effectuer des tests utilisateurs
 
 </details>
 
@@ -1423,7 +1551,9 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Finaliser le développement du service
+- Finaliser le rapport
+- Commencer la présentation du projet de la [semaine 16](#-semaine-16)
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -1454,6 +1584,18 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser et rendre le développement du service
+- Finaliser et rendre le rapport
+- Finaliser la présentation sur la
+  [Présentation finale](#projet---présentations-finales)
+- Répéter la présentation sur la
+  [Présentation finale](#projet---présentations-finales)
+
 </details>
 
 ## 🕒 Semaine 15
@@ -1468,8 +1610,6 @@ la semaine 15._
 ### Cours
 
 _Il n'y a pas de cours cette séance, uniquement le projet._
-
-TODO: revue du semestre
 
 </details>
 
@@ -1487,14 +1627,25 @@ TODO: revue du semestre
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Présenter le travail effectué sur tout le semestre
+- Répondre aux questions
+- Recevoir des feedbacks constructifs
+- Évaluer les présentation des autres groupes
+- Donner des feedbacks constructifs
+- Prendre connaissance des évaluations GAPS
+- Discuter des évaluations GAPS
 
 **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Exercices d'improvisation (10 minutes)
+- Présentations (110 minutes)
+  - Présentations (avec slides)
+  - Sessions de questions-réponses
+  - Évaluations et feedbacks
+- Revue du semestre et évaluations GAPS (45 minutes)
 
 **Méthodes d'évaluation**
 
