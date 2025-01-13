@@ -112,7 +112,9 @@ sont les suivantes :
 
 Il n'y a pas d'évaluation pour cette séance.
 
-</details>
+**À faire pour la semaine suivante**
+
+- Relire le support de cours si nécessaire
 
 </details>
 
@@ -168,6 +170,11 @@ Les retours se font de la manière suivante :
 - Feedback
 
 L'évaluation ne donne pas lieu à une note.
+
+**À faire pour la semaine suivante**
+
+- Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
+  pour le projet
 
 </details>
 
@@ -226,6 +233,10 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+- Relire le support de cours si nécessaire
+
 </details>
 
 ### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)
@@ -245,7 +256,6 @@ L'évaluation ne donne pas lieu à une note.
 - Choisir une idée qui répond à un besoin
 - Décrire le besoin
 - Identifier le secteur de marché
-- Identifier le public cible envisagé
 - Identifier la plus-value du service
 - Identifier les avantages/forces et les inconvénients/faiblesses de l'idée
 - Commencer à rédiger le rapport de projet en décrivant les différentes idées
@@ -279,6 +289,12 @@ Les retours se font de la manière suivante :
 - Feedback
 
 L'évaluation ne donne pas lieu à une note.
+
+**À faire pour la semaine suivante**
+
+- Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
+  pour le projet
+- Rédiger la suite du rapport si nécessaire
 
 </details>
 
@@ -334,6 +350,10 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+- Relire le support de cours si nécessaire
+
 </details>
 
 ### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)
@@ -349,14 +369,14 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- Améliorer la description de leur projet
-- Identifier leur public cible **imaginaire**
+- Améliorer la description du projet
+- Identifier le public cible **imaginaire**
 - Lister des personae **imaginés**
-- Améliorer la description des besoins **imaginés** de leur public cible
-- Identifier les étapes pour comprendre leur public cible
-- Rédiger une série de questions pour comprendre leur public cible
-- Identifier 2-3 personnes avec qui discuter pour comprendre leur public cible
-- Lister les hypothèses à valider pour comprendre leur public cible
+- Améliorer la description des besoins **imaginés** du public cible
+- Identifier les étapes pour comprendre le public cible
+- Rédiger une série de questions pour comprendre le public cible
+- Identifier 2-3 personnes avec qui discuter pour comprendre le public cible
+- Lister les hypothèses à valider pour comprendre le public cible
 - Compléter le rapport en décrivant le public cible et les personae **imaginés**
 - Compléter le rapport en décrivant le questionnaire pour comprendre le public
   cible
@@ -394,6 +414,13 @@ Les retours se font de la manière suivante :
 - Feedback
 
 L'évaluation ne donne pas lieu à une note.
+
+**À faire pour la semaine suivante**
+
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
+- Rédiger la suite du rapport si nécessaire
 
 </details>
 
@@ -453,6 +480,10 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+- Relire le support de cours si nécessaire
+
 </details>
 
 ### Projet - Présentations du pitch
@@ -472,9 +503,9 @@ L'évaluation ne donne pas lieu à une note.
 - Préparer un pitch
 - Réaliser un pitch
 - Répondre aux questions
-- Donner des feedbacks constructifs
 - Recevoir des feedbacks constructifs
 - Évaluer les pitches des autres groupes
+- Donner des feedbacks constructifs
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -504,6 +535,13 @@ Les retours se font de la manière suivante :
   - À définir
 
 **🚨 L'évaluation donne lieu à une note.** (20% de la note de projet)
+
+**À faire pour la semaine suivante**
+
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
+- Rédiger la suite du rapport si nécessaire
 
 </details>
 
@@ -565,6 +603,10 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+- Relire le support de cours si nécessaire
+
 </details>
 
 ### Projet - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)
@@ -580,15 +622,17 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- Réaliser un mockup de la landing page
-- Prendre en main un outil de création de landing page (site web statique)
+- Prendre en main un outil de création de site web statique
+- Réaliser un site statique type _"Hello, world!"_
+- Déployer le site statique sur Internet
 - Identifier les mots clés pour le référencement
+- Mettre en commun les interviews réalisées jusqu'ici
+- Partager les réflexions autour de ces interviews
 - Compléter le rapport de projet avec les interviews réalisées jusqu'ici
-- Commencer à réaliser la landing page
 - Prendre connaissance de la forme attendue pour la présentation sur la
-  [Prospection](#projet---présentations-partages-et-discussions-prospection)
+  [Prospection](#projet---présentations-de-la-prospection)
 - Prendre connaissance des critères d'évaluation pour la présentation sur la
-  [Prospection](#projet---présentations-partages-et-discussions-prospection)
+  [Prospection](#projet---présentations-de-la-prospection)
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -618,6 +662,14 @@ Les retours se font de la manière suivante :
 - Feedback
 
 L'évaluation ne donne pas lieu à une note.
+
+**À faire pour la semaine suivante**
+
+- Finaliser la mise en ligne du site web statique
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
+- Rédiger la suite du rapport si nécessaire
 
 </details>
 
@@ -672,7 +724,9 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
-</details>
+**À faire pour la semaine suivante**
+
+- Relire le support de cours si nécessaire
 
 </details>
 
@@ -689,15 +743,15 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
+- Réaliser un mockup de la landing page
 - Réaliser la landing page
-- Déployer la landing page sur Internet
 - Implémenter un formulaire de contact
 - Identifier les canaux de communication pour promouvoir le projet
 - Compléter le rapport de projet avec les interviews réalisées jusqu'ici
 - Compléter le rapport de projet avec les canaux de communication identifiés
 - Commencer à promouvoir la landing page
 - Commencer à réaliser la présentation sur la
-  [Prospection](#projet---présentations-partages-et-discussions---prospection)
+  [Prospection](#projet---présentations-de-la-prospection)
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -728,6 +782,18 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
+- Partager votre projet autour de vous selon les canaux de communication
+  identifiés
+- Finaliser la présentation sur la
+  [Prospection](#projet---présentations-de-la-prospection)
+- Préparer la présentation sur la
+  [Prospection](#projet---présentations-de-la-prospection)
+
 </details>
 
 ## 🕗 Semaine 8
@@ -751,7 +817,9 @@ L'évaluation ne donne pas lieu à une note.
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- TODO
+- Décrire comment héberger une application web selon le type de stack
+  technologique
+- Décrire où héberger une application web selon le type de stack technologique
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -776,6 +844,10 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+- Relire le support de cours si nécessaire
+
 </details>
 
 ### Projet - Présentations de la prospection
@@ -792,14 +864,22 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Présenter leur travail sur la prospection
+- Répondre aux questions
+- Recevoir des feedbacks constructifs
+- Évaluer les présentation des autres groupes
+- Donner des feedbacks constructifs
 
 **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Exercices d'improvisation (10 minutes)
+- Présentations (110 minutes)
+  - Présentations (avec slides)
+  - Sessions de questions-réponses
+  - Évaluations et feedbacks
 
 **Méthodes d'évaluation**
 
@@ -817,6 +897,14 @@ Les retours se font de la manière suivante :
   - À définir
 
 **🚨 L'évaluation donne lieu à une note.** (20% de la note de projet)
+
+**À faire pour la semaine suivante**
+
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
+- Partager votre projet autour de vous selon les canaux de communication
+  identifiés
 
 </details>
 
@@ -841,7 +929,12 @@ Les retours se font de la manière suivante :
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- TODO
+- Recevoir des feedbacks constructifs
+- Donner des feedbacks constructifs
+- Accepter/faire le deuil de devoir pivoter
+- Identifier les informations obtenues jusqu'ici pour pivoter
+- Identifier les forces et les faiblesses des éléments identifiés pour pivoter
+- Explorer d'autres pistes pour pivoter
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -866,6 +959,10 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+- Relire le support de cours si nécessaire
+
 </details>
 
 ### Projet - Réalisation du service et tests utilisateurs (1/6)
@@ -888,7 +985,11 @@ L'évaluation ne donne pas lieu à une note.
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
 
 **Méthodes d'évaluation**
 
@@ -931,7 +1032,9 @@ L'évaluation ne donne pas lieu à une note.
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- TODO
+- Lister les éléments principaux qui détériorent la qualité d'une application
+- Lister les solutions qui permettent d'améliorer la qualité d'une application
+- Identifier les freins d'une application de qualité dans une situation donnée
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -956,6 +1059,10 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+- Relire le support de cours si nécessaire
+
 </details>
 
 ### Projet - Réalisation du service et tests utilisateurs (2/6)
@@ -978,7 +1085,11 @@ L'évaluation ne donne pas lieu à une note.
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
 
 **Méthodes d'évaluation**
 
@@ -1021,7 +1132,8 @@ L'évaluation ne donne pas lieu à une note.
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- TODO
+- Établir un business model pour son projet
+- tODO
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -1046,6 +1158,11 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+- Relire le support de cours si nécessaire
+- Commencer à réviser pour l'évaluation de la [semaine 13](#-semaine-13)
+
 </details>
 
 ### Projet - Réalisation du service et tests utilisateurs (3/6)
@@ -1068,7 +1185,11 @@ L'évaluation ne donne pas lieu à une note.
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
 
 **Méthodes d'évaluation**
 
@@ -1111,7 +1232,12 @@ L'évaluation ne donne pas lieu à une note.
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- TODO
+- Lister les formes juridiques possibles pour une entreprise en Suisse
+- Lister les avantages et inconvénients des différentes formes juridiques pour
+  une entreprise en Suisse
+- Lister les aides et soutiens possible à l'innovation en Suisse romande
+- Lister les différents éléments administratifs qu'une entreprise en Suisse doit
+  avoir et respecter
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -1136,6 +1262,11 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+- Relire le support de cours si nécessaire
+- Réviser pour l'évaluation de la [semaine 13](#-semaine-13)
+
 </details>
 
 ### Projet - Réalisation du service et tests utilisateurs (4/6)
@@ -1158,7 +1289,11 @@ L'évaluation ne donne pas lieu à une note.
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
 
 **Méthodes d'évaluation**
 
@@ -1243,7 +1378,11 @@ Les retours se font de la manière suivante :
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
 
 **Méthodes d'évaluation**
 
@@ -1291,8 +1430,11 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- Présentation magistrale
-- Discussions collectives
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
 
 **Méthodes d'évaluation**
 

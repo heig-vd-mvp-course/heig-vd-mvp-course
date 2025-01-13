@@ -14,11 +14,12 @@
   "files.insertFinalNewline": true,
   "markdown.extension.toc.levels": "2..3",
   "markdown.marp.breaks": "off",
-  "markdown.marp.enableHtml": true,
+  "markdown.marp.html": true,
   "markdownlint.config": {
     "no-duplicate-heading": {
       "siblings_only": true
     },
+    "no-emphasis-as-heading": false,
     "no-inline-html": false
   },
   "prettier.printWidth": 80,
