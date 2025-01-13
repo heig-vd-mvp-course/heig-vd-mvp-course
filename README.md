@@ -6,12 +6,6 @@ Bienvenue sur le dépôt principal du cours
 [Lancez votre Minimum Viable Product (MVP)](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379)
 enseigné à la [HEIG-VD](https://heig-vd.ch), Suisse !
 
-Ce cours est équivalent à 3 crédits ECTS (= ~75-90 heures de travail).
-
-- 48 heures en classe pour la théorie et la réalisation du service
-- ~27-42 heures en dehors de la classe pour les interviews, la prospection, les
-  tests utilisateurs, etc.
-
 ## 🎯 Objectifs généraux
 
 À l'issue de cette unité d'enseignement, la personne qui étudie sera capable de
@@ -43,28 +37,38 @@ pour en savoir plus sur le cours.
 
 ## 📅 Calendrier
 
+Ce cours est équivalent à 3 crédits ECTS (= ~75-90 heures de travail) :
+
+- 48 heures en classe pour la théorie et la réalisation du service
+- ~27-42 heures en dehors de la classe pour les interviews, la prospection, les
+  tests utilisateurs, etc.
+
 Les détails des cours et des projets sont disponibles ci-dessous. Chaque semaine
 est détaillée avec les contenus, les objectifs, les méthodes d'enseignement et
 d'apprentissage, et les méthodes d'évaluation.
 
-|            Semaine | Cours                                                                                                                     | Projet                                                                                                                                                                                                                               |
-| -----------------: | :------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   [1](#-semaine-1) | [Introduction, motivation et organisation de l'unité](#cours---introduction-motivation-et-organisation-de-lunité)         | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service)   |
-|   [2](#-semaine-2) | [Trouver des idées originales qui répondent à un besoin](#cours---trouver-des-idées-originales-qui-répondent-à-un-besoin) | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-1) |
-|   [3](#-semaine-3) | [Comprendre et atteindre son public cible](#cours---comprendre-et-atteindre-son-public-cible)                             | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-2) |
-|   [4](#-semaine-4) | _Pas de cours_                                                                                                            | _Pas de projet_                                                                                                                                                                                                                      |
-|   [5](#-semaine-5) | [Promouvoir et pitcher son idée](#cours---promouvoir-et-pitcher-son-idée)                                                 | [🚨 Présentations, partages et discussions - Pitch](#projet---présentations-partages-et-discussions---pitch)                                                                                                                         |
-|   [6](#-semaine-6) | [Identification et choix d'une stack technologique](#cours---identification-et-choix-dune-stack-technologique)            | [Réalisation et hébergement de la landing page avec formulaire de contact (1/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter)                                                                            |
-|   [7](#-semaine-7) | _Pas de cours, uniquement du projet_                                                                                      | [Réalisation et hébergement de la landing page avec formulaire de contact (2/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-newsletter-1)                                                                          |
-|   [8](#-semaine-8) | [Réaliser des interfaces ergonomiques et réfléchies](#cours---réaliser-des-interfaces-ergonomiques-et-réfléchies)         | [🚨 Présentations, partages et discussions - Prospection](#projet---présentations-partages-et-discussions---prospection)                                                                                                             |
-|   [9](#-semaine-9) | [Hébergement et déploiement de services](#cours---hébergement-et-déploiement-de-services)                                 | [Réalisation du service et tests utilisateurs (1/7)](#projet---réalisation-du-service-et-tests-utilisateurs)                                                                                                                         |
-| [10](#-semaine-10) | [Recevoir des feedbacks constructifs et pivoter](#cours---recevoir-des-feedbacks-constructifs-et-pivoter)                 | [Réalisation du service et tests utilisateurs (2/7)](#projet---réalisation-du-service-et-tests-utilisateurs-1)                                                                                                                       |
-| [11](#-semaine-11) | [Réaliser des applications pérennes](#cours---réaliser-des-applications-pérennes)                                         | [Réalisation du service et tests utilisateurs (3/7)](#projet---réalisation-du-service-et-tests-utilisateurs-2)                                                                                                                       |
-| [12](#-semaine-12) | [Se faire payer pour sa passion](#cours---se-faire-payer-pour-sa-passion)                                                 | [Réalisation du service et tests utilisateurs (4/7)](#projet---réalisation-du-service-et-tests-utilisateurs-3)                                                                                                                       |
-| [13](#-semaine-13) | [Créer sa propre entreprise](#cours---créer-sa-propre-entreprise)                                                         | [Réalisation du service et tests utilisateurs (5/7)](#projet---réalisation-du-service-et-tests-utilisateurs-4)                                                                                                                       |
-| [14](#-semaine-14) | [🚨 Évaluation](#cours---évaluation)                                                                                      | [Réalisation du service et tests utilisateurs (6/7)](#projet---réalisation-du-service-et-tests-utilisateurs-5)                                                                                                                       |
-| [15](#-semaine-15) | _Pas de cours, uniquement du projet_                                                                                      | [Réalisation du service et tests utilisateurs (7/7)](#projet---réalisation-du-service-et-tests-utilisateurs-6)                                                                                                                       |
-| [16](#-semaine-16) | _Pas de cours, uniquement du projet_                                                                                      | [🚨 Présentations, partages et discussions - Présentations finales](#projet---présentations-partages-et-discussions---présentations-finales)                                                                                         |
+Les numéros des semaines correspondent aux semaines définies dans le
+[Calendrier académique de la HEIG-VD](https://heig-vd.ch/formation/bachelor/calendrier-academique/).
+
+|            Semaine | Cours                                                                                                                     | Projet                                                                                                                                                                                                                                |
+| -----------------: | :------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   [1](#-semaine-1) | [Introduction, motivation et organisation de l'unité](#cours---introduction-motivation-et-organisation-de-lunité)         | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-13) |
+|   [2](#-semaine-2) | [Trouver des idées originales qui répondent à un besoin](#cours---trouver-des-idées-originales-qui-répondent-à-un-besoin) | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-23) |
+|   [3](#-semaine-3) | [Comprendre et atteindre son public cible](#cours---comprendre-et-atteindre-son-public-cible)                             | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-33) |
+|   [4](#-semaine-4) | _CRUNCH : pas de cours_                                                                                                   | _CRUNCH : pas de projet_                                                                                                                                                                                                              |
+|   [5](#-semaine-5) | [Promouvoir et pitcher son idée](#cours---promouvoir-et-pitcher-son-idée)                                                 | 🚨 [Présentations du pitch](#projet---présentations-du-pitch)                                                                                                                                                                         |
+|   [6](#-semaine-6) | [Identification et choix d'une stack technologique](#cours---identification-et-choix-dune-stack-technologique)            | [Réalisation et hébergement de la landing page avec formulaire de contact (1/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-12)                                                               |
+|   [7](#-semaine-7) | [Réaliser des interfaces ergonomiques et réfléchies](#cours---réaliser-des-interfaces-ergonomiques-et-réfléchies)         | [Réalisation et hébergement de la landing page avec formulaire de contact (2/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-22)                                                               |
+|         _Vacances_ | _Pas de cours_                                                                                                            | _Pas de projet_                                                                                                                                                                                                                       |
+|   [8](#-semaine-8) | [Hébergement et déploiement de services](#cours---hébergement-et-déploiement-de-services)                                 | 🚨 [Présentations de la prospection](#projet---présentations-de-la-prospection)                                                                                                                                                       |
+|   [9](#-semaine-9) | [Recevoir des feedbacks constructifs et pivoter](#cours---recevoir-des-feedbacks-constructifs-et-pivoter)                 | [Réalisation du service et tests utilisateurs (1/6)](#projet---réalisation-du-service-et-tests-utilisateurs-16)                                                                                                                       |
+| [10](#-semaine-10) | [Réaliser des applications pérennes](#cours---réaliser-des-applications-pérennes)                                         | [Réalisation du service et tests utilisateurs (2/6)](#projet---réalisation-du-service-et-tests-utilisateurs-26)                                                                                                                       |
+| [11](#-semaine-11) | [Se faire payer pour sa passion](#cours---se-faire-payer-pour-sa-passion)                                                 | [Réalisation du service et tests utilisateurs (3/6)](#projet---réalisation-du-service-et-tests-utilisateurs-36)                                                                                                                       |
+| [12](#-semaine-12) | [Créer sa propre entreprise](#cours---créer-sa-propre-entreprise)                                                         | [Réalisation du service et tests utilisateurs (4/6)](#projet---réalisation-du-service-et-tests-utilisateurs-46)                                                                                                                       |
+| [13](#-semaine-13) | 🚨 [Évaluation](#cours---évaluation)                                                                                      | [Réalisation du service et tests utilisateurs (5/6)](#projet---réalisation-du-service-et-tests-utilisateurs-56)                                                                                                                       |
+| [14](#-semaine-14) | _Pas de cours, uniquement du projet_                                                                                      | [Réalisation du service et tests utilisateurs (6/6)](#projet---réalisation-du-service-et-tests-utilisateurs-66)                                                                                                                       |
+| [15](#-semaine-15) | _Jeudi de l'Ascension : pas de cours_                                                                                     | _Jeudi de l'Ascension : pas de projet_                                                                                                                                                                                                |
+| [16](#-semaine-16) | _Pas de cours, uniquement du projet_                                                                                      | 🚨 [Présentations finales](#projet---présentations-finales)                                                                                                                                                                           |
 
 ## 🕐 Semaine 1
 
@@ -94,6 +98,7 @@ d'apprentissage, et les méthodes d'évaluation.
 - Lister les modalités d'organisation des équipes
 - Décrire comment travailler en équipe de façon efficace
 - Décrire ce qu'est un MVP
+- Décrire les différences entre un wireframe, un mockup, un prototype et un MVP
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -107,11 +112,16 @@ sont les suivantes :
 
 Il n'y a pas d'évaluation pour cette séance.
 
-</details>
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
 
 </details>
 
-### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service
+### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)
 
 - Durée : 2 périodes
 
@@ -163,6 +173,14 @@ Les retours se font de la manière suivante :
 - Feedback
 
 L'évaluation ne donne pas lieu à une note.
+
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
+  pour le projet
 
 </details>
 
@@ -221,9 +239,16 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
+
 </details>
 
-### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service
+### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)
 
 - Durée : 2 périodes
 
@@ -240,11 +265,9 @@ L'évaluation ne donne pas lieu à une note.
 - Choisir une idée qui répond à un besoin
 - Décrire le besoin
 - Identifier le secteur de marché
-- Identifier le public cible envisagé
 - Identifier la plus-value du service
 - Identifier les avantages/forces et les inconvénients/faiblesses de l'idée
-- Commencer à rédiger le rapport de projet en décrivant les différentes idées
-  envisagées et la plus-value du service envisagé
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -274,6 +297,14 @@ Les retours se font de la manière suivante :
 - Feedback
 
 L'évaluation ne donne pas lieu à une note.
+
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
+  pour le projet
 
 </details>
 
@@ -329,9 +360,16 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
+
 </details>
 
-### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service
+### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)
 
 - Durée : 2 périodes
 
@@ -344,17 +382,16 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- Améliorer la description de leur projet
-- Identifier leur public cible **imaginaire**
+- Choisir une idée qui répond à un besoin
+- Rédiger la description du projet
+- Identifier le public cible **imaginaire**
 - Lister des personae **imaginés**
-- Améliorer la description des besoins **imaginés** de leur public cible
-- Identifier les étapes pour comprendre leur public cible
-- Rédiger une série de questions pour comprendre leur public cible
-- Identifier 2-3 personnes avec qui discuter pour comprendre leur public cible
-- Lister les hypothèses à valider pour comprendre leur public cible
-- Compléter le rapport en décrivant le public cible et les personae **imaginés**
-- Compléter le rapport en décrivant le questionnaire pour comprendre le public
-  cible
+- Améliorer la description des besoins **imaginés** du public cible
+- Identifier les étapes pour comprendre le public cible
+- Rédiger une série de questions pour comprendre le public cible
+- Identifier 2-3 personnes avec qui discuter pour comprendre le public cible
+- Lister les hypothèses à valider pour comprendre le public cible
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -389,6 +426,15 @@ Les retours se font de la manière suivante :
 - Feedback
 
 L'évaluation ne donne pas lieu à une note.
+
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
 
 </details>
 
@@ -448,9 +494,16 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
+
 </details>
 
-### Projet - Présentations, partages et discussions - Pitch
+### Projet - Présentations du pitch
 
 - Durée : 2 périodes
 - **🚨 Séance avec évaluation notée** (20% de la note de projet)
@@ -467,9 +520,9 @@ L'évaluation ne donne pas lieu à une note.
 - Préparer un pitch
 - Réaliser un pitch
 - Répondre aux questions
-- Donner des feedbacks constructifs
 - Recevoir des feedbacks constructifs
 - Évaluer les pitches des autres groupes
+- Donner des feedbacks constructifs
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -499,6 +552,15 @@ Les retours se font de la manière suivante :
   - À définir
 
 **🚨 L'évaluation donne lieu à une note.** (20% de la note de projet)
+
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
 
 </details>
 
@@ -560,9 +622,16 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
+
 </details>
 
-### Projet - Réalisation et hébergement de la landing page avec formulaire de contact
+### Projet - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)
 
 - Durée : 2 périodes
 
@@ -575,77 +644,17 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- Réaliser un mockup de la landing page
-- Prendre en main un outil de création de landing page (site web statique)
+- Prendre en main un outil de création de site web statique
+- Réaliser un site statique type _"Hello, world!"_
+- Déployer le site statique sur Internet
 - Identifier les mots clés pour le référencement
-- Compléter le rapport de projet avec les interviews réalisées jusqu'ici
-- Commencer à réaliser la landing page
+- Mettre en commun les interviews réalisées jusqu'ici
+- Partager les réflexions autour de ces interviews
 - Prendre connaissance de la forme attendue pour la présentation sur la
-  [Prospection](#projet---présentations-partages-et-discussions---prospection)
+  [Prospection](#projet---présentations-de-la-prospection)
 - Prendre connaissance des critères d'évaluation pour la présentation sur la
-  [Prospection](#projet---présentations-partages-et-discussions---prospection)
-
-- **Méthodes d'enseignement et d'apprentissage**
-
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
-sont les suivantes :
-
-- Discussions en groupe
-- Pitch
-- Brainstorming
-- Feedback
-- Travail autonome en groupe ou individuel
-
-**Méthodes d'évaluation**
-
-L'évaluation prend la forme d'une présentation du projet aux personnes qui
-enseignent.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à présenter
-- Capacité à écouter
-- Capacité à argumenter
-- Capacité à participer
-
-Les retours se font de la manière suivante :
-
-- Feedback
-
-L'évaluation ne donne pas lieu à une note.
-
-</details>
-
-## 🕖 Semaine 7
-
-### Cours
-
-_Il n'y a pas de cours cette séance, uniquement le projet._
-
-</details>
-
-### Projet - Réalisation et hébergement de la landing page avec formulaire de contact
-
-- Durée : 4 périodes
-
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-**Objectifs**
-
-À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
-
-- Réaliser la landing page
-- Déployer la landing page sur Internet
-- Implémenter un formulaire de contact
-- Identifier les canaux de communication pour promouvoir le projet
-- Compléter le rapport de projet avec les interviews réalisées jusqu'ici
-- Compléter le rapport de projet avec les canaux de communication identifiés
-- Commencer à promouvoir la landing page
-- Commencer à réaliser la présentation sur la
-  [Prospection](#projet---présentations-partages-et-discussions---prospection)
+  [Prospection](#projet---présentations-de-la-prospection)
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -676,9 +685,19 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser la mise en ligne du site web statique
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
+
 </details>
 
-## 🕗 Semaine 8
+## 🕖 Semaine 7
 
 ### Cours - Réaliser des interfaces ergonomiques et réfléchies
 
@@ -699,7 +718,14 @@ L'évaluation ne donne pas lieu à une note.
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- **Méthodes d'enseignement et d'apprentissage**
+- Décrire les éléments clés qui composent une interface ergonomique et réfléchie
+- Identifier dans une interface quels sont les éléments ergonomiques et
+  réfléchies ou non
+- Lister les outils qui permettent de concevoir une interface ergonomique et
+  réfléchie
+- Lister les outils qui permettent de valider qu'une interface est accessible
+
+**Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
@@ -722,11 +748,18 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
+
 </details>
 
-### Projet - Réalisation et hébergement de la landing page avec formulaire de contact
+### Projet - Réalisation et hébergement de la landing page avec formulaire de contact (2/2)
 
-- Durée : 2 périodes
+- Durée : 4 périodes
 
 <details>
 <summary>Voir les détails</summary>
@@ -737,14 +770,25 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Réaliser un mockup de la landing page
+- Comment à réaliser la landing page
+- Implémenter un formulaire de contact
+- Identifier les canaux de communication pour promouvoir le projet
+- Commencer à promouvoir la landing page
+- Commencer à réaliser la présentation sur la
+  [Prospection](#projet---présentations-de-la-prospection)
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
 
 **Méthodes d'évaluation**
 
@@ -764,8 +808,25 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser la landing page
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
+- Partager votre projet autour de vous selon les canaux de communication
+  identifiés
+- Finaliser la présentation sur la
+  [Prospection](#projet---présentations-de-la-prospection)
+- Répéter la présentation sur la
+  [Prospection](#projet---présentations-de-la-prospection)
+
 </details>
-## 🕘 Semaine 9
+
+## 🕗 Semaine 8
 
 ### Cours - Hébergement et déploiement de services
 
@@ -786,7 +847,11 @@ L'évaluation ne donne pas lieu à une note.
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- TODO
+- Décrire comment héberger une application web selon le type de stack
+  technologique
+- Décrire où héberger une application web selon le type de stack technologique
+- Décrire comment mettre en place un pipeline de CI/CD pour le
+  développement/déploiement continu d'applications
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -811,9 +876,16 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
+
 </details>
 
-### Projet - Présentations, partages et discussions - Prospection
+### Projet - Présentations de la prospection
 
 - Durée : 2 périodes
 - **🚨 Séance avec évaluation notée** (20% de la note de projet)
@@ -827,14 +899,22 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Présenter le travail effectué sur la prospection
+- Répondre aux questions
+- Recevoir des feedbacks constructifs
+- Évaluer les présentation des autres groupes
+- Donner des feedbacks constructifs
 
 **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Exercices d'improvisation (10 minutes)
+- Présentations (80 minutes)
+  - Présentations (avec slides)
+  - Sessions de questions-réponses
+  - Évaluations et feedbacks
 
 **Méthodes d'évaluation**
 
@@ -853,9 +933,20 @@ Les retours se font de la manière suivante :
 
 **🚨 L'évaluation donne lieu à une note.** (20% de la note de projet)
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
+- Partager votre projet autour de vous selon les canaux de communication
+  identifiés
+
 </details>
 
-## 🕙 Semaine 10
+## 🕘 Semaine 9
 
 ### Cours - Recevoir des feedbacks constructifs et pivoter
 
@@ -876,7 +967,13 @@ Les retours se font de la manière suivante :
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- TODO
+- Recevoir des feedbacks constructifs
+- Donner des feedbacks constructifs
+- Définir ce qu'est un pivot
+- Accepter/faire le deuil de devoir pivoter
+- Identifier les informations obtenues jusqu'ici pour pivoter
+- Identifier les forces et les faiblesses des éléments identifiés pour pivoter
+- Explorer d'autres pistes pour pivoter
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -901,9 +998,16 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
+
 </details>
 
-### Projet - Réalisation du service et tests utilisateurs
+### Projet - Réalisation du service et tests utilisateurs (1/6)
 
 - Durée : 2 périodes
 
@@ -916,14 +1020,28 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Identifier s'il faut pivoter ou non
+- Identifier quels éléments manquent pour déterminer s'il faut pivoter ou non
+- Identifier les forces et les faiblesses des données récoltées jusqu'ici
+- Pivoter si nécessaire avec une nouvelle idée (proche de l'existant ou non)
+- Identifier les fonctionnalités minimales à implémenter pour le service
+  envisagé
+- Identifier les hypothèses à tester sur la base des fonctionnalités minimales
+- Planifier le développement des fonctionnalités de base pour le service
+  envisagé pour les semaines restantes
+- Identifier des personnes qui pourraient tester le service envisagé
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
 
 **Méthodes d'évaluation**
 
@@ -943,9 +1061,17 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Trouver une nouvelle idée (si nécessaire)
+- Effectuer des tests utilisateurs
+
 </details>
 
-## 🕚 Semaine 11
+## 🕙 Semaine 10
 
 ### Cours - Réaliser des applications pérennes
 
@@ -966,7 +1092,11 @@ L'évaluation ne donne pas lieu à une note.
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- TODO
+- Lister les éléments principaux qui détériorent la qualité d'une application
+- Lister les éléments principaux qui améliorent la qualité d'une application
+- Identifier les freins d'une application de qualité dans une situation donnée
+- Appliquer les bonnes pratiques qui permettent d'améliorer la qualité d'une
+  application
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -991,9 +1121,16 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
+
 </details>
 
-### Projet - Réalisation du service et tests utilisateurs
+### Projet - Réalisation du service et tests utilisateurs (2/6)
 
 - Durée : 2 périodes
 
@@ -1006,14 +1143,23 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Déployer une application de type _"Hello, world!"_ sur Internet
+- Mettre en place un pipeline de CI/CD pour déployer une application sur
+  Internet
+- Commencer à les mockups des fonctionnalités de base du service envisagé
+- Mettre en place les bonnes pratiques pour le développement du service envisagé
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
 
 **Méthodes d'évaluation**
 
@@ -1033,9 +1179,16 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Réaliser des tests utilisateurs
+
 </details>
 
-## 🕛 Semaine 12
+## 🕚 Semaine 11
 
 ### Cours - Se faire payer pour sa passion
 
@@ -1056,7 +1209,11 @@ L'évaluation ne donne pas lieu à une note.
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- TODO
+- Établir un business model pour son projet
+- Lister les différents moyens de paiement populaires en Suisse
+- Lister les différents prestataires de paiement populaires sur Internet
+- Lister les éléments légaux nécessaires pour pouvoir se faire payer pour sa
+  passion
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -1081,9 +1238,17 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
+- Commencer à réviser pour l'évaluation de la [semaine 13](#-semaine-13)
+
 </details>
 
-### Projet - Réalisation du service et tests utilisateurs
+### Projet - Réalisation du service et tests utilisateurs (3/6)
 
 - Durée : 2 périodes
 
@@ -1096,14 +1261,23 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Réaliser une ébauche de business model pour leur service
+- Intégrer une solution de paiement à leur service
+- Continuer les mockups du service envisagé
+- Continuer le développement du service envisagé
+- Effectuer des tests utilisateurs
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
 
 **Méthodes d'évaluation**
 
@@ -1123,9 +1297,17 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser le business model
+- Effectuer des tests utilisateurs
+
 </details>
 
-## 🕐 Semaine 13
+## 🕛 Semaine 12
 
 ### Cours - Créer sa propre entreprise
 
@@ -1146,7 +1328,12 @@ L'évaluation ne donne pas lieu à une note.
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- TODO
+- Lister les formes juridiques possibles pour une entreprise en Suisse
+- Lister les avantages et inconvénients des différentes formes juridiques pour
+  une entreprise en Suisse
+- Lister les aides et soutiens possible à l'innovation en Suisse romande
+- Lister les différents éléments administratifs qu'une entreprise en Suisse doit
+  avoir et respecter
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -1171,9 +1358,17 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
+- Réviser pour l'évaluation de la [semaine 13](#-semaine-13)
+
 </details>
 
-### Projet - Réalisation du service et tests utilisateurs
+### Projet - Réalisation du service et tests utilisateurs (4/6)
 
 - Durée : 2 périodes
 
@@ -1186,14 +1381,19 @@ L'évaluation ne donne pas lieu à une note.
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Avancer sur le développement du service envisagé
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
 
 **Méthodes d'évaluation**
 
@@ -1213,9 +1413,19 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Effectuer des tests utilisateurs
+
 </details>
 
-## 🕑 Semaine 14
+## 🕐 Semaine 13
 
 ### Cours - Évaluation
 
@@ -1234,11 +1444,11 @@ L'évaluation ne donne pas lieu à une note.
 
 **Objectifs**
 
-- TODO
+- Évaluer les compétences acquises durant le semestre
 
 **Méthodes d'enseignement et d'apprentissage**
 
-- TODO
+- Évaluation écrite
 
 **Méthodes d'évaluation**
 
@@ -1256,9 +1466,14 @@ Les retours se font de la manière suivante :
 
 **🚨 L'évaluation donne lieu à une note.** (100% de la note de cours)
 
+**À faire pour la semaine suivante**
+
+_Il n'y a pas de cours la semaine suivante, il n'y a donc rien à faire pour la
+semaine suivante vis-à-vis du cours._
+
 </details>
 
-### Projet - Réalisation du service et tests utilisateurs
+### Projet - Réalisation du service et tests utilisateurs (5/6)
 
 - Durée : 2 périodes
 
@@ -1271,15 +1486,20 @@ Les retours se font de la manière suivante :
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Continuer le développement du service
+- Planifier les dernières étapes du développement du service
+- Compléter le rapport
 
 **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- Présentation magistrale
-- Discussions collectives
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
 
 **Méthodes d'évaluation**
 
@@ -1299,19 +1519,25 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser le développement du service
+- Effectuer des tests utilisateurs
+
 </details>
 
-## 🕒 Semaine 15
+## 🕑 Semaine 14
 
 ### Cours
 
 _Il n'y a pas de cours cette séance, uniquement le projet._
 
-</details>
+### Projet - Réalisation du service et tests utilisateurs (6/6)
 
-### Projet - Réalisation du service et tests utilisateurs
-
-- Durée : 4 périodes
+- Durée : 2 périodes
 
 <details>
 <summary>Voir les détails</summary>
@@ -1322,14 +1548,20 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Finaliser le développement du service
+- Finaliser le rapport
+- Commencer la présentation du projet de la [semaine 16](#-semaine-16)
 
 **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Discussions en groupe
+- Pitch
+- Brainstorming
+- Feedback
+- Travail autonome en groupe ou individuel
 
 **Méthodes d'évaluation**
 
@@ -1349,6 +1581,25 @@ Les retours se font de la manière suivante :
 
 L'évaluation ne donne pas lieu à une note.
 
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser et rendre le développement du service
+- Finaliser et rendre le rapport
+- Finaliser la présentation sur la
+  [Présentation finale](#projet---présentations-finales)
+- Répéter la présentation sur la
+  [Présentation finale](#projet---présentations-finales)
+
+</details>
+
+## 🕒 Semaine 15
+
+_Suite au jeudi de l'Ascension, il n'y a pas de séances de cours/projet durant
+la semaine 15._
+
 </details>
 
 ## 🕓 Semaine 16
@@ -1357,11 +1608,9 @@ L'évaluation ne donne pas lieu à une note.
 
 _Il n'y a pas de cours cette séance, uniquement le projet._
 
-TODO: revue du semestre
-
 </details>
 
-### Projet - Présentations, partages et discussions - Présentations finales
+### Projet - Présentations finales
 
 - Durée : 4 périodes
 - **🚨 Séance avec évaluation notée** (60% de la note de projet)
@@ -1375,14 +1624,25 @@ TODO: revue du semestre
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- TODO
+- Présenter le travail effectué sur tout le semestre
+- Répondre aux questions
+- Recevoir des feedbacks constructifs
+- Évaluer les présentation des autres groupes
+- Donner des feedbacks constructifs
+- Prendre connaissance des évaluations GAPS
+- Discuter des évaluations GAPS
 
 **Méthodes d'enseignement et d'apprentissage**
 
 Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
 sont les suivantes :
 
-- TODO
+- Exercices d'improvisation (10 minutes)
+- Présentations (110 minutes)
+  - Présentations (avec slides)
+  - Sessions de questions-réponses
+  - Évaluations et feedbacks
+- Revue du semestre et évaluations GAPS (45 minutes)
 
 **Méthodes d'évaluation**
 
