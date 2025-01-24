@@ -6,7 +6,7 @@ marp: true
 theme: gaia
 size: 16:9
 paginate: true
-author: L. Delafontaine and V. Guidoux, avec l'aide de GitHub Copilot
+author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 title: HEIG-VD MVP Course - Introduction, motivation et organisation de l'unité
 description: Présentation du cours de Master et organisation de du cours MVP à la HEIG-VD, en Suisse
 url: https://heig-vd-mvp.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunit%C3%A9/
@@ -47,13 +47,13 @@ headingDivider: 4
 -->
 
 [web]:
-  https://heig-vd-mvp.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunit%C3%A9/
+	https://heig-vd-mvp.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunit%C3%A9/
 [pdf]:
-  https://heig-vd-mvp.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunit%C3%A9/01-cours-introduction-motivation-et-organisation-de-lunit%C3%A9.pdf
+	https://heig-vd-mvp.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunit%C3%A9/01-cours-introduction-motivation-et-organisation-de-lunit%C3%A9.pdf
 [license]:
-  https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration]:
-  https://images.unsplash.com/photo-1569504275728-9350b4c55fee?fit=crop&h=720
+	https://images.unsplash.com/photo-1569504275728-9350b4c55fee?fit=crop&h=720
 
 # Introduction and course organization
 
