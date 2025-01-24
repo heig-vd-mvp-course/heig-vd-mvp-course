@@ -87,12 +87,15 @@ jobs:
         with:
           name: course-presentations
 
+      - name: Calculate short SHA
+        run: echo "SHORT_SHA=${GITHUB_SHA::8}" >> $GITHUB_ENV
+
       - name: Release course material to GitHub Releases
         uses: softprops/action-gh-release@v2
         with:
           body: |
             Ceci est une nouvelle version pour le cours [_Lancez votre Minimum Viable Product (MVP)_](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379) enseigné à la [Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD)](https://heig-vd.ch), Suisse.
 
-            Vous pouvez accéder aux fichiers Git en utilisant le SHA de commit suivant [${{ github.sha }}](${{ github.event.repository.html_url }}/tree/${{ github.sha }}).
+            Vous pouvez accéder aux fichiers Git en utilisant le SHA de commit suivant [${{ env.SHORT_SHA }}](${{ github.event.repository.html_url }}/tree/${{ github.sha }}).
           files: |
             **/*/*-presentation.pdf
