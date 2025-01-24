@@ -1,12 +1,5 @@
 #!/usr/bin/env sh
 
-## Error handling
-set -o errexit
-set -o pipefail
-set -o noclobber
-set -o nounset
-set -o functrace
-
 ## Variables
 WORKDIR=$(pwd)
 MARP_DOCKER_IMAGE="marpteam/marp-cli:v4.1.1"

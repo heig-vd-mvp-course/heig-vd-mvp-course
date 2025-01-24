@@ -1,4 +1,4 @@
-name: HEIG-VD DAI GitHub Workflow
+name: HEIG-VD Course GitHub Workflow
 
 # Allow one concurrent deployment
 concurrency:
