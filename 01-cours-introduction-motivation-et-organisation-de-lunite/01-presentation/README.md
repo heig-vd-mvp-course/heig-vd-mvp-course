@@ -8,12 +8,12 @@ size: 16:9
 paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 title: HEIG-VD MVP Course - Introduction, motivation et organisation de l'unité
-description: Présentation du cours de Master et organisation de du cours MVP à la HEIG-VD, en Suisse
-url: https://heig-vd-mvp.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunit%C3%A9/
+description: Introduction, motivation et organisation de l'unité pour le cours MVP à la HEIG-VD, Suisse
+url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/index.html
 footer: '**HEIG-VD** - MVP Course 2024-2025 - CC BY-SA 4.0'
 style: |
     :root {
-        --color-background: #f9f9f9;
+        --color-background: #fff;
         --color-foreground: #333;
         --color-highlight: #f96;
         --color-dimmed: #888;
@@ -40,22 +40,10 @@ style: |
     section:not([class=lead]) > p, blockquote {
         text-align: justify;
     }
-    .center {
-        text-align: center;
-    }
-headingDivider: 4
+headingDivider: 6
 -->
 
-[web]:
-	https://heig-vd-mvp.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunit%C3%A9/
-[pdf]:
-	https://heig-vd-mvp.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunit%C3%A9/01-cours-introduction-motivation-et-organisation-de-lunit%C3%A9.pdf
-[license]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration]:
-	https://images.unsplash.com/photo-1569504275728-9350b4c55fee?fit=crop&h=720
-
-# Introduction and course organization
+# Introduction, motivation et organisation de l'unité
 
 <!--
 _class: lead
@@ -66,8 +54,19 @@ _paginate: false
 
 [Web][web] · [PDF][pdf]
 
-<small>L. Delafontaine and V. Guidoux, with the help of GitHub Copilot.</small>
+<small>L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot</small>
 
-<small>This work is licensed under the [CC BY-SA 4.0][license] license.</small>
+<small>
+
+<small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 
 ![bg opacity:0.25][illustration]
+
+[web]:
+	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/
+[pdf]:
+	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/01-cours-introduction-motivation-et-organisation-de-lunite-presentation.pdf
+[license]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+[illustration]:
+	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720

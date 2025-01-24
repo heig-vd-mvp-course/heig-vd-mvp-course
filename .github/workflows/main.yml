@@ -36,12 +36,12 @@ jobs:
         with:
           name: course-presentations
           path: |
-            **/*.jpg
-            **/*.jpeg
-            **/*.png
-            **/*.svg
-            **/*-presentation.pdf
-            **/index.html
+            **/*/*.jpg
+            **/*/*.jpeg
+            **/*/*.png
+            **/*/*.svg
+            **/*/*-presentation.pdf
+            **/*/index.html
           if-no-files-found: error
           retention-days: 1
 
@@ -59,7 +59,7 @@ jobs:
 
       - name: Generate index.html with tree
         run: |
-          tree -H '.' --noreport --dirsfirst -T 'HEIG-VD DAI Course' -P "*.html" --prune --charset utf-8 -o index.html
+          tree -H '.' --noreport --dirsfirst -T 'HEIG-VD MVP Course' -P "*.html|*.pdf" --prune --charset utf-8 -o index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -91,8 +91,8 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           body: |
-            This is a new release for the [Développement d'applications internet (DAI)](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=6573) course at [HEIG-VD](https://heig-vd.ch), Switzerland!
+            Ceci est une nouvelle version pour le cours [_Lancez votre Minimum Viable Product (MVP)_](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379) enseigné à la [Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD)](https://heig-vd.ch), Suisse.
 
-            Access the Git files using the following commit SHA [${{ github.sha }}](${{ github.event.repository.html_url }}/tree/${{ github.sha }}).
+            Vous pouvez accéder aux fichiers Git en utilisant le SHA de commit suivant [${{ github.sha }}](${{ github.event.repository.html_url }}/tree/${{ github.sha }}).
           files: |
-            **/*-presentation.pdf
+            **/*/*-presentation.pdf
