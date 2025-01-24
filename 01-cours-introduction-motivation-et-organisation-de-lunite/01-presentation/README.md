@@ -56,11 +56,11 @@ _paginate: false
 
 <small>L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot</small>
 
-<small>
-
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 
 ![bg opacity:0.25][illustration]
+
+<!-- URLs -->
 
 [web]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/

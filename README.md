@@ -70,7 +70,7 @@ Les numéros des semaines correspondent aux semaines définies dans le
 | [13](#-semaine-13) | 🚨 [Évaluation](#cours---évaluation)                                                                                      | [Réalisation du service et tests utilisateurs (5/6)](#projet---réalisation-du-service-et-tests-utilisateurs-56)                                                                                                                       |
 | [14](#-semaine-14) | _Pas de cours, uniquement du projet_                                                                                      | [Réalisation du service et tests utilisateurs (6/6)](#projet---réalisation-du-service-et-tests-utilisateurs-66)                                                                                                                       |
 | [15](#-semaine-15) | _Jeudi de l'Ascension : pas de cours_                                                                                     | _Jeudi de l'Ascension : pas de projet_                                                                                                                                                                                                |
-| [16](#-semaine-16) | _Pas de cours, uniquement du projet_                                                                                      | 🚨 [Présentations finales](#projet---présentations-finales)                                                                                                                                                                           |
+| [16](#-semaine-16) | [Revue du semestre](#cours---revue-du-semestre)                                                                           | 🚨 [Présentations finales](#projet---présentations-finales)                                                                                                                                                                           |
 
 ## 🕐 Semaine 1
 
@@ -197,12 +197,11 @@ il est recommandé pour la semaine suivante de :
 - Support de cours (pour les personnes qui étudient)
   - [Markdown](./03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin/SUPPORT_DE_COURS.md)
 - Présentation (pour les personnes qui enseignent)
-
   - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin/index.html)
   - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin-presentation.pdf)
 
-  <details>
-  <summary>Voir les détails</summary>
+<details>
+<summary>Voir les détails</summary>
 
 <br>
 
@@ -1625,9 +1624,9 @@ la semaine 15._
 
 ## 🕓 Semaine 16
 
-### Cours
+### Cours - Revue du semestre
 
-_Il n'y a pas de cours cette séance, uniquement le projet._
+_TODO_
 
 </details>
 
