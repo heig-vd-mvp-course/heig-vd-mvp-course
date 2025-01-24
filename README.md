@@ -80,8 +80,8 @@ Les numéros des semaines correspondent aux semaines définies dans le
 - Support de cours (pour les personnes qui étudient)
   - _Aucun support_
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunité/index.html)
-  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunité/01-cours-introduction-motivation-et-organisation-de-lunité-presentation.pdf)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/01-cours-introduction-motivation-et-organisation-de-lunite-presentation.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -126,6 +126,8 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)
 
 - Durée : 2 périodes
+- Support de cours (pour les personnes qui étudient)
+  - _Aucun support_
 - Présentation (pour les personnes qui enseignent)
   - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
   - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)

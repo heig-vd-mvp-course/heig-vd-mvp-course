@@ -7,10 +7,10 @@ concurrency:
 
 on:
   push:
-    # branches:
-    #   - main
-    # tags:
-    #   - "*"
+    branches:
+      - main
+    tags:
+      - "*"
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages and to release to GitHub Releases
 permissions:
@@ -96,6 +96,6 @@ jobs:
           body: |
             Ceci est une nouvelle version pour le cours [_Lancez votre Minimum Viable Product (MVP)_](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379) enseigné à la [Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD)](https://heig-vd.ch), Suisse.
 
-            Vous pouvez accéder aux fichiers Git en utilisant le SHA de commit suivant [${{ env.SHORT_SHA }}](${{ github.event.repository.html_url }}/tree/${{ github.sha }}).
+            Vous pouvez accéder aux fichiers sur GitHub en utilisant le lien suivant [${{ env.SHORT_SHA }}](${{ github.event.repository.html_url }}/tree/${{ github.sha }}).
           files: |
             **/*/*-presentation.pdf
