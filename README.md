@@ -3,8 +3,10 @@
 [![Licence](https://img.shields.io/github/license/heig-vd-mvp-course/heig-vd-mvp-course)](./LICENSE.md)
 
 Bienvenue sur le dépôt principal du cours
-[Lancez votre Minimum Viable Product (MVP)](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379)
-enseigné à la [HEIG-VD](https://heig-vd.ch), Suisse !
+[_Lancez votre Minimum Viable Product (MVP)_](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379)
+enseigné à la
+[Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD)](https://heig-vd.ch),
+Suisse !
 
 ## 🎯 Objectifs généraux
 
@@ -59,7 +61,7 @@ Les numéros des semaines correspondent aux semaines définies dans le
 |   [5](#-semaine-5) | [Promouvoir et pitcher son idée](#cours---promouvoir-et-pitcher-son-idée)                                                 | 🚨 [Présentations du pitch](#projet---présentations-du-pitch)                                                                                                                                                                         |
 |   [6](#-semaine-6) | [Identification et choix d'une stack technologique](#cours---identification-et-choix-dune-stack-technologique)            | [Réalisation et hébergement de la landing page avec formulaire de contact (1/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-12)                                                               |
 |   [7](#-semaine-7) | [Réaliser des interfaces ergonomiques et réfléchies](#cours---réaliser-des-interfaces-ergonomiques-et-réfléchies)         | [Réalisation et hébergement de la landing page avec formulaire de contact (2/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-22)                                                               |
-|         _Vacances_ | _Pas de cours_                                                                                                            | _Pas de projet_                                                                                                                                                                                                                       |
+|                  - | _Vacances : pas de cours_                                                                                                 | _Vacances : pas de projet_                                                                                                                                                                                                            |
 |   [8](#-semaine-8) | [Hébergement et déploiement de services](#cours---hébergement-et-déploiement-de-services)                                 | 🚨 [Présentations de la prospection](#projet---présentations-de-la-prospection)                                                                                                                                                       |
 |   [9](#-semaine-9) | [Recevoir des feedbacks constructifs et pivoter](#cours---recevoir-des-feedbacks-constructifs-et-pivoter)                 | [Réalisation du service et tests utilisateurs (1/6)](#projet---réalisation-du-service-et-tests-utilisateurs-16)                                                                                                                       |
 | [10](#-semaine-10) | [Réaliser des applications pérennes](#cours---réaliser-des-applications-pérennes)                                         | [Réalisation du service et tests utilisateurs (2/6)](#projet---réalisation-du-service-et-tests-utilisateurs-26)                                                                                                                       |
@@ -78,7 +80,6 @@ Les numéros des semaines correspondent aux semaines définies dans le
 - Support de cours (pour les personnes qui étudient)
   - _Aucun support_
 - Présentation (pour les personnes qui enseignent)
-
   - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunité/index.html)
   - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunité/01-cours-introduction-motivation-et-organisation-de-lunité-presentation.pdf)
 

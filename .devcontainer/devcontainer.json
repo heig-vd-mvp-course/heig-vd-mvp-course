@@ -1,12 +1,18 @@
 {
   "name": "HEIG-VD Course Development Container",
-  "image": "mcr.microsoft.com/devcontainers/base:bookworm",
+  "dockerComposeFile": "docker-compose.yaml",
+  "service": "devcontainer",
+  "workspaceFolder": "/workspace",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
   "customizations": {
     "vscode": {
       "extensions": [
         "DavidAnson.vscode-markdownlint",
         "esbenp.prettier-vscode",
         "GitHub.copilot-chat",
+        "jebbs.plantuml",
         "marp-team.marp-vscode",
         "ms-vsliveshare.vsliveshare-pack",
         "redhat.vscode-yaml",
