@@ -79,6 +79,8 @@ Les numéros des semaines correspondent aux semaines définies dans le
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
   - _Aucun support_
+- Quiz (pour les personnes qui étudient)
+  - _Aucun quiz_
 - Présentation (pour les personnes qui enseignent)
   - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/index.html)
   - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/01-cours-introduction-motivation-et-organisation-de-lunite-presentation.pdf)
@@ -127,7 +129,7 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
-  - _Aucun support_
+  - [Format web](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
 - Présentation (pour les personnes qui enseignent)
   - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
   - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
@@ -197,10 +199,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin/SUPPORT_DE_COURS.md)
+  - [Markdown](./03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/02-support-de-cours/README.md)
+- Quiz (pour les personnes qui étudient)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin/index.html)
-  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin-presentation.pdf)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -258,6 +263,8 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)
 
 - Durée : 2 périodes
+- Support de cours (pour les personnes qui étudient)
+  - [Format web](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
 - Présentation (pour les personnes qui enseignent)
   - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
   - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
@@ -323,14 +330,14 @@ il est recommandé pour la semaine suivante de :
 ### Cours - Comprendre et atteindre son public cible
 
 - Durée : 2 périodes
-- Quiz
-  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin/quiz.html)
-  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin/03-cours-trouver-des-idées-originales-qui-répondent-à-un-besoin-quiz.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./04-cours-comprendre-et-atteindre-son-public-cible/SUPPORT_DE_COURS.md)
+  - [Markdown](./04-cours-comprendre-et-atteindre-son-public-cible/02-support-de-cours/README.md)
+- Quiz (pour les personnes qui étudient)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/index.html)
-  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/04-cours-comprendre-et-atteindre-son-public-cible-presentation.pdf)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -385,6 +392,8 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)
 
 - Durée : 2 périodes
+- Support de cours (pour les personnes qui étudient)
+  - [Format web](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
 - Présentation (pour les personnes qui enseignent)
   - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
   - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
@@ -463,14 +472,14 @@ _Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
 ### Cours - Promouvoir et pitcher son idée
 
 - Durée : 2 périodes
-- Quiz
-  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/quiz.html)
-  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/04-cours-comprendre-et-atteindre-son-public-cible-quiz.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./05-course-promouvoir-et-pitcher-son-idée/SUPPORT_DE_COURS.md)
+  - [Markdown](./05-cours-promouvoir-et-pitcher-son-idee/02-support-de-cours/README.md)
+- Quiz (pour les personnes qui étudient)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/05-course-promouvoir-et-pitcher-son-idée/index.html)
-  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/05-course-promouvoir-et-pitcher-son-idée/05-course-promouvoir-et-pitcher-son-idée-presentation.pdf)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -525,9 +534,11 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Présentations du pitch
 
 - Durée : 2 périodes
+- Support de cours (pour les personnes qui étudient)
+  - _Aucun support_
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/06-projet-présentations-partages-et-discussions-1-pitch/index.html)
-  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/06-projet-présentations-partages-et-discussions-1-pitch/06-projet-présentations-partages-et-discussions-1-pitch-presentation.pdf)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - **🚨 Séance avec évaluation notée** (20% de la note de projet)
 
 <details>
@@ -592,10 +603,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
-  - Format web
+  - [Markdown](./07-cours-identification-et-choix-dune-stack-technologique/02-support-de-cours/README.md)
+- Quiz (pour les personnes qui étudient)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - Présentation (pour les personnes qui enseignent)
-  - Format web
-  - Format PDF
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -656,6 +670,11 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)
 
 - Durée : 2 périodes
+- Support de cours (pour les personnes qui étudient)
+  - [Format web](./08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/02-support-de-cours/README.md)
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -725,10 +744,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
-  - Format web
+  - [Markdown](./09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/02-support-de-cours/README.md)
+- Quiz (pour les personnes qui étudient)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - Présentation (pour les personnes qui enseignent)
-  - Format web
-  - Format PDF
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -782,6 +804,11 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Réalisation et hébergement de la landing page avec formulaire de contact (2/2)
 
 - Durée : 4 périodes
+- Support de cours (pour les personnes qui étudient)
+  - [Format web](./08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/02-support-de-cours/README.md)
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -854,10 +881,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
-  - Format web
+  - [Markdown](./10-cours-hebergement-et-deploiement-de-services/02-support-de-cours/README.md)
+- Quiz (pour les personnes qui étudient)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - Présentation (pour les personnes qui enseignent)
-  - Format web
-  - Format PDF
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -910,6 +940,11 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Présentations de la prospection
 
 - Durée : 2 périodes
+- Support de cours (pour les personnes qui étudient)
+  - _Aucun support_
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - **🚨 Séance avec évaluation notée** (20% de la note de projet)
 
 <details>
@@ -974,10 +1009,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
-  - Format web
+  - [Markdown](./12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/)
+- Quiz (pour les personnes qui étudient)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - Présentation (pour les personnes qui enseignent)
-  - Format web
-  - Format PDF
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1032,6 +1070,11 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Réalisation du service et tests utilisateurs (1/6)
 
 - Durée : 2 périodes
+- Support de cours (pour les personnes qui étudient)
+  - [Format web](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1099,10 +1142,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
-  - Format web
+  - [Markdown](./14-cours-realiser-des-applications-perennes/02-support-de-cours/README.md)
+- Quiz (pour les personnes qui étudient)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - Présentation (pour les personnes qui enseignent)
-  - Format web
-  - Format PDF
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1155,6 +1201,11 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Réalisation du service et tests utilisateurs (2/6)
 
 - Durée : 2 périodes
+- Support de cours (pour les personnes qui étudient)
+  - [Format web](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1216,10 +1267,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
-  - Format web
+  - [Markdown](./15-cours-se-faire-payer-pour-sa-passion/02-support-de-cours/README.md)
+- Quiz (pour les personnes qui étudient)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - Présentation (pour les personnes qui enseignent)
-  - Format web
-  - Format PDF
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1273,6 +1327,11 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Réalisation du service et tests utilisateurs (3/6)
 
 - Durée : 2 périodes
+- Support de cours (pour les personnes qui étudient)
+  - [Format web](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1335,10 +1394,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
-  - Format web
+  - [Markdown](./16-cours-creer-sa-propre-entreprise/02-support-de-cours/README.md)
+- Quiz (pour les personnes qui étudient)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - Présentation (pour les personnes qui enseignent)
-  - Format web
-  - Format PDF
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1393,6 +1455,11 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Réalisation du service et tests utilisateurs (4/6)
 
 - Durée : 2 périodes
+- Support de cours (pour les personnes qui étudient)
+  - [Format web](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1454,9 +1521,11 @@ il est recommandé pour la semaine suivante de :
 - Durée : 2 périodes
 - Support de cours (pour les personnes qui étudient)
   - _Aucun support_
+- Quiz (pour les personnes qui étudient)
+  - _Aucun quiz_
 - Présentation (pour les personnes qui enseignent)
-  - Format web
-  - Format PDF
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - **🚨 Séance avec évaluation notée** (100% de la note de cours)
 
 <details>
@@ -1498,6 +1567,11 @@ semaine suivante vis-à-vis du cours._
 ### Projet - Réalisation du service et tests utilisateurs (5/6)
 
 - Durée : 2 périodes
+- Support de cours (pour les personnes qui étudient)
+  - [Format web](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1560,6 +1634,11 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 ### Projet - Réalisation du service et tests utilisateurs (6/6)
 
 - Durée : 2 périodes
+- Support de cours (pour les personnes qui étudient)
+  - [Format web](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1628,13 +1707,27 @@ la semaine 15._
 
 ### Cours - Revue du semestre
 
-_TODO_
+- Durée: 1 période
+- Support de cours (pour les personnes qui étudient)
+  - _Aucun support_
+- Quiz (pour les personnes qui étudient)
+  - _Aucun quiz_
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 
 </details>
 
 ### Projet - Présentations finales
 
-- Durée : 4 périodes
+- Durée : 3 périodes
+- Support de cours (pour les personnes qui étudient)
+  - _Aucun support_
+- Quiz (pour les personnes qui étudient)
+  - _Aucun quiz_
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - **🚨 Séance avec évaluation notée** (60% de la note de projet)
 
 <details>
