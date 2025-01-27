@@ -594,7 +594,7 @@ Les retours se font de la manière suivante :
 - Grille d'évaluation
   - À définir
 
-**🚨 L'évaluation donne lieu à une note.** (20% de la note de projet)
+**🚨 L'évaluation donne lieu à une note.** (10% de la note de projet)
 
 **À faire pour la semaine suivante**
 
@@ -1007,7 +1007,7 @@ Les retours se font de la manière suivante :
 - Grille d'évaluation
   - À définir
 
-**🚨 L'évaluation donne lieu à une note.** (20% de la note de projet)
+**🚨 L'évaluation donne lieu à une note.** (25% de la note de projet)
 
 **À faire pour la semaine suivante**
 
@@ -1032,7 +1032,7 @@ il est recommandé pour la semaine suivante de :
   ·
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-presentation.pdf)
 - Support de cours :
-  [Markdown](./12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/)
+  [Markdown](./12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/02-support-de-cours/README.md)
 - Quiz :
   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/index.html)
   ·
@@ -1665,7 +1665,7 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 
 ### Projet - Réalisation du service et tests utilisateurs (6/6)
 
-- Durée : 2 périodes
+- Durée : 4 périodes
 - Présentation :
   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/index.html)
   ·
@@ -1743,8 +1743,7 @@ la semaine 15._
   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/index.html)
   ·
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/18-cours-revue-du-semestre-presentation.pdf)
-- Support de cours
-  - _Aucun support_
+- Support de cours : _Aucun support_
 - Quiz : _Aucun quiz_
 
 <details>
@@ -1783,7 +1782,6 @@ Il n'y a pas d'évaluation pour cette séance.
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/19-projet-presentations-finales/01-presentation/19-projet-presentations-finales-presentation.pdf)
 - Support de cours :
   [Markdown](./19-projet-presentations-finales/02-support-de-cours/README.md)
-- Quiz : _Aucun quiz_
 
 <details>
 <summary>Voir les détails</summary>
@@ -1828,7 +1826,7 @@ Les retours se font de la manière suivante :
 - Grille d'évaluation
   - À définir
 
-**🚨 L'évaluation donne lieu à une note.** (60% de la note de projet)
+**🚨 L'évaluation donne lieu à une note.** (25% de la note de projet)
 
 </details>
 
