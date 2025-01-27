@@ -34,7 +34,7 @@ find . -mindepth 3 -maxdepth 3 -type f -name "README.html" -exec sh -c '
 ' sh {} \;
 
 echo "Renaming presentation files to match parent directory..."
-find . -mindepth 3 -maxdepth 3 -path "*/01-presentation/README.pdf" -exec sh -c '
+find . -mindepth 3 -maxdepth 3 -path "*-presentation/README.pdf" -exec sh -c '
     for file; do
         chapter_name=$(basename "$(dirname "$(dirname "$file")")")
         mv "$file" "$(dirname "$file")/$chapter_name-presentation.pdf"
@@ -42,7 +42,7 @@ find . -mindepth 3 -maxdepth 3 -path "*/01-presentation/README.pdf" -exec sh -c 
 ' sh {} +
 
 echo "Renaming quiz files to match parent directory..."
-find . -mindepth 3 -maxdepth 3 -path "*/03-quiz/README.pdf" -exec sh -c '
+find . -mindepth 3 -maxdepth 3 -path "*-quiz/README.pdf" -exec sh -c '
     for file; do
         chapter_name=$(basename "$(dirname "$(dirname "$file")")")
         mv "$file" "$(dirname "$file")/$chapter_name-quiz.pdf"
