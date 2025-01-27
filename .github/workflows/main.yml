@@ -1,4 +1,4 @@
-name: HEIG-VD Course GitHub Workflow
+name: HEIG-VD MVP Course GitHub Workflow
 
 # Allow one concurrent deployment
 concurrency:
@@ -7,10 +7,10 @@ concurrency:
 
 on:
   push:
-    branches:
-      - main
-    tags:
-      - "*"
+    # branches:
+    #   - main
+    # tags:
+    #   - "*"
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages and to release to GitHub Releases
 permissions:
@@ -94,8 +94,12 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           body: |
-            Cette version contient les présentations au format PDF pour le cours [MVP](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379) enseigné à la [HEIG-VD](https://heig-vd.ch), Suisse.
+            Cette nouvelle version contient les présentations au format PDF pour le cours
+            [MVP](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379) enseigné à
+            la [HEIG-VD](https://heig-vd.ch), Suisse.
 
-            Vous pouvez directement accéder aux supports de cours de cette version avec le lien suivant : [${{ env.SHORT_SHA }}](${{ github.event.repository.html_url }}/tree/${{ github.sha }}).
+            Vous pouvez directement accéder aux supports de cours de cette version avec le
+            lien suivant :
+            [Git commit SHA `${{ env.SHORT_SHA }}`](${{ github.event.repository.html_url }}/tree/${{ github.sha }}).
           files: |
             **/*/*-presentation.pdf

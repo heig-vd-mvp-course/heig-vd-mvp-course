@@ -81,7 +81,7 @@ Les numéros des semaines correspondent aux semaines définies dans le
   - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/index.html)
   - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/01-cours-introduction-motivation-et-organisation-de-lunite-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - _Aucun support_
+  - [Markdown](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
   - _Aucun quiz_
 
@@ -132,7 +132,7 @@ il est recommandé pour la semaine suivante de :
   - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
   - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Format web](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
+  - [Markdown](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -267,7 +267,7 @@ il est recommandé pour la semaine suivante de :
   - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
   - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Format web](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
+  - [Markdown](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -396,7 +396,7 @@ il est recommandé pour la semaine suivante de :
   - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
   - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Format web](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
+  - [Markdown](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -538,7 +538,7 @@ il est recommandé pour la semaine suivante de :
   - [Format web](TODO)
   - [Format PDF](TODO)
 - Support de cours (pour les personnes qui étudient)
-  - _Aucun support_
+  - [Markdown](./06-projet-presentations-du-pitch/02-support-de-cours/README.md)
 - **🚨 Séance avec évaluation notée** (20% de la note de projet)
 
 <details>
@@ -674,7 +674,7 @@ il est recommandé pour la semaine suivante de :
   - [Format web](TODO)
   - [Format PDF](TODO)
 - Support de cours (pour les personnes qui étudient)
-  - [Format web](./08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/02-support-de-cours/README.md)
+  - [Markdown](./08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -808,7 +808,7 @@ il est recommandé pour la semaine suivante de :
   - [Format web](TODO)
   - [Format PDF](TODO)
 - Support de cours (pour les personnes qui étudient)
-  - [Format web](./08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/02-support-de-cours/README.md)
+  - [Markdown](./08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -944,7 +944,7 @@ il est recommandé pour la semaine suivante de :
   - [Format web](TODO)
   - [Format PDF](TODO)
 - Support de cours (pour les personnes qui étudient)
-  - _Aucun support_
+  - [Markdown](./11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
 - **🚨 Séance avec évaluation notée** (20% de la note de projet)
 
 <details>
@@ -1074,7 +1074,7 @@ il est recommandé pour la semaine suivante de :
   - [Format web](TODO)
   - [Format PDF](TODO)
 - Support de cours (pour les personnes qui étudient)
-  - [Format web](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+  - [Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1201,8 +1201,11 @@ il est recommandé pour la semaine suivante de :
 ### Projet - Réalisation du service et tests utilisateurs (2/6)
 
 - Durée : 2 périodes
+- Présentation (pour les personnes qui enseignent)
+  - [Format web](TODO)
+  - [Format PDF](TODO)
 - Support de cours (pour les personnes qui étudient)
-  - [Format web](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+  - [Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1328,7 +1331,7 @@ il est recommandé pour la semaine suivante de :
   - [Format web](TODO)
   - [Format PDF](TODO)
 - Support de cours (pour les personnes qui étudient)
-  - [Format web](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+  - [Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1456,7 +1459,7 @@ il est recommandé pour la semaine suivante de :
   - [Format web](TODO)
   - [Format PDF](TODO)
 - Support de cours (pour les personnes qui étudient)
-  - [Format web](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+  - [Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1520,7 +1523,7 @@ il est recommandé pour la semaine suivante de :
   - [Format web](TODO)
   - [Format PDF](TODO)
 - Support de cours (pour les personnes qui étudient)
-  - _Aucun support_
+  - [Markdown](./17-cours-evaluation/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
   - _Aucun quiz_
 - **🚨 Séance avec évaluation notée** (100% de la note de cours)
@@ -1568,7 +1571,7 @@ semaine suivante vis-à-vis du cours._
   - [Format web](TODO)
   - [Format PDF](TODO)
 - Support de cours (pour les personnes qui étudient)
-  - [Format web](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+  - [Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1635,7 +1638,7 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
   - [Format web](TODO)
   - [Format PDF](TODO)
 - Support de cours (pour les personnes qui étudient)
-  - [Format web](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+  - [Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1722,7 +1725,7 @@ la semaine 15._
   - [Format web](TODO)
   - [Format PDF](TODO)
 - Support de cours (pour les personnes qui étudient)
-  - _Aucun support_
+  - [Markdown](./19-projet-presentations-finales/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
   - _Aucun quiz_
 - **🚨 Séance avec évaluation notée** (60% de la note de projet)

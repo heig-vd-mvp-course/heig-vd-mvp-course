@@ -1,4 +1,4 @@
-# Comprendre et atteindre son public cible - Support de cours
+# Évaluation - Support de cours
 
 <!--
 _class: lead
@@ -50,4 +50,4 @@ TODO
 [illustration]:
 	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 [course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/04-cours-comprendre-et-atteindre-son-public-cible/02-support-de-cours/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/17-cours-evaluation/02-support-de-cours/README.md

@@ -60,6 +60,33 @@ _paginate: false
 
 ![bg opacity:0.25][illustration]
 
+## Plus de détails dans le support de cours
+
+<!-- _class: lead -->
+
+Cette présentation est un résumé du support de cours. Pour plus de détails,
+consultez le [support de cours][course-material].
+
+## Objectifs
+
+- TODO
+
+![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
+
+## Questions
+
+<!-- _class: lead -->
+
+Est-ce que vous avez des questions ?
+
+## Sources
+
+- Illustration principale par [Annie Spratt](https://unsplash.com/@anniespratt)
+  sur
+  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+- Illustration par [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
+  [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
+
 <!-- URLs -->
 
 [web]:
@@ -70,3 +97,5 @@ _paginate: false
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration]:
 	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+[course-material]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md
