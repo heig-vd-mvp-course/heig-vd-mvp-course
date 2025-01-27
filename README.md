@@ -542,6 +542,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Projet - Présentations du pitch
 
+- **🚨 Séance avec évaluation notée** (10% de la note de projet)
 - Durée : 2 périodes
 - Présentation :
   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/06-projet-presentations-du-pitch/01-presentation/index.html)
@@ -549,7 +550,6 @@ il est recommandé pour la semaine suivante de :
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/06-projet-presentations-du-pitch/01-presentation/06-projet-presentations-du-pitch-presentation.pdf)
 - Support de cours :
   [Markdown](./06-projet-presentations-du-pitch/02-support-de-cours/README.md)
-- **🚨 Séance avec évaluation notée** (20% de la note de projet)
 
 <details>
 <summary>Voir les détails</summary>
@@ -957,6 +957,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Projet - Présentations de la prospection
 
+- **🚨 Séance avec évaluation notée** (25% de la note de projet)
 - Durée : 2 périodes
 - Présentation :
   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/11-projet-presentations-de-la-prospection/01-presentation/index.html)
@@ -964,7 +965,6 @@ il est recommandé pour la semaine suivante de :
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/11-projet-presentations-de-la-prospection/01-presentation/11-projet-presentations-de-la-prospection-presentation.pdf)
 - Support de cours :
   [Markdown](./11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
-- **🚨 Séance avec évaluation notée** (20% de la note de projet)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1549,6 +1549,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Cours - Évaluation
 
+- **🚨 Séance avec évaluation notée** (100% de la note de cours)
 - Durée : 2 périodes
 - Présentation :
   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/index.html)
@@ -1557,7 +1558,6 @@ il est recommandé pour la semaine suivante de :
 - Support de cours :
   [Markdown](./17-cours-evaluation/02-support-de-cours/README.md)
 - Quiz : _Aucun quiz_
-- **🚨 Séance avec évaluation notée** (100% de la note de cours)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1734,8 +1734,6 @@ il est recommandé pour la semaine suivante de :
 _Suite au jeudi de l'Ascension, il n'y a pas de séances de cours/projet durant
 la semaine 15._
 
-</details>
-
 ## 🕓 Semaine 16
 
 ### Cours - Revue du semestre
@@ -1749,10 +1747,35 @@ la semaine 15._
   - _Aucun support_
 - Quiz : _Aucun quiz_
 
+<details>
+<summary>Voir les détails</summary>
+
+<br>
+
+**Objectifs**
+
+À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
+
+- Prendre connaissance des évaluations GAPS
+- Discuter des évaluations GAPS
+
+**Méthodes d'enseignement et d'apprentissage**
+
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
+sont les suivantes :
+
+- Présentation magistrale
+- Discussions collectives
+
+**Méthodes d'évaluation**
+
+Il n'y a pas d'évaluation pour cette séance.
+
 </details>
 
 ### Projet - Présentations finales
 
+- **🚨 Séance avec évaluation notée** (25% de la note de projet)
 - Durée : 3 périodes
 - Présentation :
   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/19-projet-presentations-finales/01-presentation/index.html)
@@ -1761,7 +1784,6 @@ la semaine 15._
 - Support de cours :
   [Markdown](./19-projet-presentations-finales/02-support-de-cours/README.md)
 - Quiz : _Aucun quiz_
-- **🚨 Séance avec évaluation notée** (60% de la note de projet)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1775,10 +1797,8 @@ la semaine 15._
 - Présenter le travail effectué sur tout le semestre
 - Répondre aux questions
 - Recevoir des feedbacks constructifs
-- Évaluer les présentation des autres groupes
+- Évaluer les présentations des autres groupes
 - Donner des feedbacks constructifs
-- Prendre connaissance des évaluations GAPS
-- Discuter des évaluations GAPS
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -1790,7 +1810,6 @@ sont les suivantes :
   - Présentations (avec slides)
   - Sessions de questions-réponses
   - Évaluations et feedbacks
-- Revue du semestre et évaluations GAPS (45 minutes)
 
 **Méthodes d'évaluation**
 
@@ -1817,8 +1836,3 @@ Les retours se font de la manière suivante :
 
 Ce travail est sous licence
 [Creative Commons Attribution-ShareAlike 4.0 International](./LICENSE.md).
-
-## 🤝 Contribuer
-
-Les contributions sont les bienvenues ! Veuillez lire le fichier
-[`CONTRIBUTING.md`](./CONTRIBUTING.md) pour plus de détails.
