@@ -81,7 +81,7 @@ Les numéros des semaines correspondent aux semaines définies dans le
   - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/index.html)
   - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/01-cours-introduction-motivation-et-organisation-de-lunite-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md)
+  - [Format Markdown](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
   - _Aucun quiz_
 
@@ -106,7 +106,7 @@ Les numéros des semaines correspondent aux semaines définies dans le
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Présentation magistrale
@@ -129,10 +129,10 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
-  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
+  - [Format Markdown](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -156,7 +156,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Discussions en groupe
@@ -199,13 +199,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/01-presentation/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/02-support-de-cours/README.md)
+  - [Format Markdown](./03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/03-quiz/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/03-quiz/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -230,7 +230,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Présentation magistrale
@@ -264,10 +264,10 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
-  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
+  - [Format Markdown](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -288,7 +288,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Discussions en groupe
@@ -331,13 +331,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/01-presentation/04-cours-comprendre-et-atteindre-son-public-cible-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./04-cours-comprendre-et-atteindre-son-public-cible/02-support-de-cours/README.md)
+  - [Format Markdown](./04-cours-comprendre-et-atteindre-son-public-cible/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/03-quiz/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/03-quiz/04-cours-comprendre-et-atteindre-son-public-cible-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -359,7 +359,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Présentation magistrale
@@ -393,10 +393,10 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
-  - [Format PDF](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
+  - [Format Markdown](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -420,7 +420,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Discussions en groupe
@@ -473,13 +473,13 @@ _Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/01-presentation/05-cours-promouvoir-et-pitcher-son-idee-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./05-cours-promouvoir-et-pitcher-son-idee/02-support-de-cours/README.md)
+  - [Format Markdown](./05-cours-promouvoir-et-pitcher-son-idee/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/03-quiz/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/03-quiz/05-cours-promouvoir-et-pitcher-son-idee-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -501,7 +501,7 @@ _Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Présentation magistrale
@@ -535,10 +535,10 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/06-projet-presentations-du-pitch/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/06-projet-presentations-du-pitch/01-presentation/06-projet-presentations-du-pitch-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./06-projet-presentations-du-pitch/02-support-de-cours/README.md)
+  - [Format Markdown](./06-projet-presentations-du-pitch/02-support-de-cours/README.md)
 - **🚨 Séance avec évaluation notée** (20% de la note de projet)
 
 <details>
@@ -559,7 +559,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Exercices d'improvisation (10 minutes)
@@ -603,13 +603,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/01-presentation/07-cours-identification-et-choix-dune-stack-technologique-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./07-cours-identification-et-choix-dune-stack-technologique/02-support-de-cours/README.md)
+  - [Format Markdown](./07-cours-identification-et-choix-dune-stack-technologique/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/03-quiz/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/03-quiz/07-cours-identification-et-choix-dune-stack-technologique-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -637,7 +637,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Présentation magistrale
@@ -671,10 +671,10 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/01-presentation/08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/02-support-de-cours/README.md)
+  - [Format Markdown](./08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -699,7 +699,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Discussions en groupe
@@ -744,13 +744,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/01-presentation/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/02-support-de-cours/README.md)
+  - [Format Markdown](./09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/03-quiz/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/03-quiz/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -771,7 +771,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Présentation magistrale
@@ -803,12 +803,12 @@ il est recommandé pour la semaine suivante de :
 
 ### Projet - Réalisation et hébergement de la landing page avec formulaire de contact (2/2)
 
-- Durée : 4 périodes
+- Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/01-presentation/08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/02-support-de-cours/README.md)
+  - [Format Markdown](./08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -830,7 +830,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Discussions en groupe
@@ -881,13 +881,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/01-presentation/10-cours-hebergement-et-deploiement-de-services-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./10-cours-hebergement-et-deploiement-de-services/02-support-de-cours/README.md)
+  - [Format Markdown](./10-cours-hebergement-et-deploiement-de-services/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/03-quiz/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/03-quiz/10-cours-hebergement-et-deploiement-de-services-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -907,7 +907,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Présentation magistrale
@@ -941,10 +941,10 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/11-projet-presentations-de-la-prospection/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/11-projet-presentations-de-la-prospection/01-presentation/11-projet-presentations-de-la-prospection-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+  - [Format Markdown](./11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
 - **🚨 Séance avec évaluation notée** (20% de la note de projet)
 
 <details>
@@ -964,7 +964,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Exercices d'improvisation (10 minutes)
@@ -1009,13 +1009,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/)
+  - [Format Markdown](./12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/)
 - Quiz (pour les personnes qui étudient)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1037,7 +1037,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Présentation magistrale
@@ -1071,10 +1071,10 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/13-projet-realisation-du-service-et-tests-utilisateurs-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+  - [Format Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1099,7 +1099,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Discussions en groupe
@@ -1142,13 +1142,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/01-presentation/14-cours-realiser-des-applications-perennes-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./14-cours-realiser-des-applications-perennes/02-support-de-cours/README.md)
+  - [Format Markdown](./14-cours-realiser-des-applications-perennes/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/03-quiz/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/03-quiz/14-cours-realiser-des-applications-perennes-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1168,7 +1168,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Présentation magistrale
@@ -1202,10 +1202,10 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/13-projet-realisation-du-service-et-tests-utilisateurs-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+  - [Format Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1225,7 +1225,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Discussions en groupe
@@ -1267,13 +1267,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/01-presentation/15-cours-se-faire-payer-pour-sa-passion-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./15-cours-se-faire-payer-pour-sa-passion/02-support-de-cours/README.md)
+  - [Format Markdown](./15-cours-se-faire-payer-pour-sa-passion/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/03-quiz/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/03-quiz/15-cours-se-faire-payer-pour-sa-passion-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1293,7 +1293,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Présentation magistrale
@@ -1328,10 +1328,10 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/13-projet-realisation-du-service-et-tests-utilisateurs-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+  - [Format Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1351,7 +1351,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Discussions en groupe
@@ -1394,13 +1394,13 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/16-cours-creer-sa-propre-entreprise/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/16-cours-creer-sa-propre-entreprise/01-presentation/16-cours-creer-sa-propre-entreprise-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./16-cours-creer-sa-propre-entreprise/02-support-de-cours/README.md)
+  - [Format Markdown](./16-cours-creer-sa-propre-entreprise/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/16-cours-creer-sa-propre-entreprise/03-quiz/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/16-cours-creer-sa-propre-entreprise/03-quiz/16-cours-creer-sa-propre-entreprise-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1421,7 +1421,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Présentation magistrale
@@ -1456,10 +1456,10 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/13-projet-realisation-du-service-et-tests-utilisateurs-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+  - [Format Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1475,7 +1475,7 @@ il est recommandé pour la semaine suivante de :
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Discussions en groupe
@@ -1520,10 +1520,10 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/17-cours-evaluation-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./17-cours-evaluation/02-support-de-cours/README.md)
+  - [Format Markdown](./17-cours-evaluation/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
   - _Aucun quiz_
 - **🚨 Séance avec évaluation notée** (100% de la note de cours)
@@ -1568,10 +1568,10 @@ semaine suivante vis-à-vis du cours._
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/13-projet-realisation-du-service-et-tests-utilisateurs-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+  - [Format Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1588,7 +1588,7 @@ semaine suivante vis-à-vis du cours._
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Discussions en groupe
@@ -1635,10 +1635,10 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 
 - Durée : 2 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/13-projet-realisation-du-service-et-tests-utilisateurs-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
+  - [Format Markdown](./13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1655,7 +1655,7 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Discussions en groupe
@@ -1709,8 +1709,8 @@ la semaine 15._
 
 - Durée: 1 période
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/18-cours-revue-du-semestre-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
   - _Aucun support_
 - Quiz (pour les personnes qui étudient)
@@ -1722,10 +1722,10 @@ la semaine 15._
 
 - Durée : 3 périodes
 - Présentation (pour les personnes qui enseignent)
-  - [Format web](TODO)
-  - [Format PDF](TODO)
+  - [Format web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/19-projet-presentations-finales/01-presentation/index.html)
+  - [Format PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/19-projet-presentations-finales/01-presentation/19-projet-presentations-finales-presentation.pdf)
 - Support de cours (pour les personnes qui étudient)
-  - [Markdown](./19-projet-presentations-finales/02-support-de-cours/README.md)
+  - [Format Markdown](./19-projet-presentations-finales/02-support-de-cours/README.md)
 - Quiz (pour les personnes qui étudient)
   - _Aucun quiz_
 - **🚨 Séance avec évaluation notée** (60% de la note de projet)
@@ -1749,7 +1749,7 @@ la semaine 15._
 
 **Méthodes d'enseignement et d'apprentissage**
 
-Les méthodes d'enseignement et d'apprentissage utilisés pour animer le cours
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Exercices d'improvisation (10 minutes)
