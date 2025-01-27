@@ -41,6 +41,7 @@ jobs:
             **/*/*.png
             **/*/*.svg
             **/*/*-presentation.pdf
+            **/*/*-quiz.pdf
             **/*/index.html
           if-no-files-found: error
           retention-days: 1
@@ -103,3 +104,4 @@ jobs:
             [Git commit SHA `${{ env.SHORT_SHA }}`](${{ github.event.repository.html_url }}/tree/${{ github.sha }}).
           files: |
             **/*/*-presentation.pdf
+            **/*/*-quiz.pdf
