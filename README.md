@@ -83,8 +83,7 @@ Les numéros des semaines correspondent aux semaines définies dans le
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/01-cours-introduction-motivation-et-organisation-de-lunite-presentation.pdf)
 - Support de cours :
   [Markdown](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md)
-- Quiz
-  - _Aucun quiz_
+- Quiz : _Aucun quiz_
 
 <details>
 <summary>Voir les détails</summary>
@@ -206,10 +205,10 @@ il est recommandé pour la semaine suivante de :
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/01-presentation/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin-presentation.pdf)
 - Support de cours :
   [Markdown](./03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/02-support-de-cours/README.md)
-- Quiz
-  - [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/03-quiz/index.html)
-    ·
-    [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/03-quiz/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin-quiz.pdf)
+- Quiz :
+  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/03-quiz/index.html)
+  ·
+  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/03-quiz/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -341,10 +340,10 @@ il est recommandé pour la semaine suivante de :
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/01-presentation/04-cours-comprendre-et-atteindre-son-public-cible-presentation.pdf)
 - Support de cours :
   [Markdown](./04-cours-comprendre-et-atteindre-son-public-cible/02-support-de-cours/README.md)
-- Quiz
-  - [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/03-quiz/index.html)
-    ·
-    [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/03-quiz/04-cours-comprendre-et-atteindre-son-public-cible-quiz.pdf)
+- Quiz :
+  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/03-quiz/index.html)
+  ·
+  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/03-quiz/04-cours-comprendre-et-atteindre-son-public-cible-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -486,10 +485,10 @@ _Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/01-presentation/05-cours-promouvoir-et-pitcher-son-idee-presentation.pdf)
 - Support de cours :
   [Markdown](./05-cours-promouvoir-et-pitcher-son-idee/02-support-de-cours/README.md)
-- Quiz
-  - [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/03-quiz/index.html)
-    ·
-    [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/03-quiz/05-cours-promouvoir-et-pitcher-son-idee-quiz.pdf)
+- Quiz :
+  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/03-quiz/index.html)
+  ·
+  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/03-quiz/05-cours-promouvoir-et-pitcher-son-idee-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -619,10 +618,10 @@ il est recommandé pour la semaine suivante de :
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/01-presentation/07-cours-identification-et-choix-dune-stack-technologique-presentation.pdf)
 - Support de cours :
   [Markdown](./07-cours-identification-et-choix-dune-stack-technologique/02-support-de-cours/README.md)
-- Quiz
-  - [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/03-quiz/index.html)
-    ·
-    [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/03-quiz/07-cours-identification-et-choix-dune-stack-technologique-quiz.pdf)
+- Quiz :
+  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/03-quiz/index.html)
+  ·
+  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/03-quiz/07-cours-identification-et-choix-dune-stack-technologique-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -763,10 +762,10 @@ il est recommandé pour la semaine suivante de :
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/01-presentation/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies-presentation.pdf)
 - Support de cours :
   [Markdown](./09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/02-support-de-cours/README.md)
-- Quiz
-  - [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/03-quiz/index.html)
-    ·
-    [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/03-quiz/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies-quiz.pdf)
+- Quiz :
+  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/03-quiz/index.html)
+  ·
+  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/03-quiz/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -903,10 +902,10 @@ il est recommandé pour la semaine suivante de :
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/01-presentation/10-cours-hebergement-et-deploiement-de-services-presentation.pdf)
 - Support de cours :
   [Markdown](./10-cours-hebergement-et-deploiement-de-services/02-support-de-cours/README.md)
-- Quiz
-  - [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/03-quiz/index.html)
-    ·
-    [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/03-quiz/10-cours-hebergement-et-deploiement-de-services-quiz.pdf)
+- Quiz :
+  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/03-quiz/index.html)
+  ·
+  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/03-quiz/10-cours-hebergement-et-deploiement-de-services-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1034,10 +1033,10 @@ il est recommandé pour la semaine suivante de :
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-presentation.pdf)
 - Support de cours :
   [Markdown](./12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/)
-- Quiz
-  - [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/index.html)
-    ·
-    [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-quiz.pdf)
+- Quiz :
+  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/index.html)
+  ·
+  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1170,10 +1169,10 @@ il est recommandé pour la semaine suivante de :
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/01-presentation/14-cours-realiser-des-applications-perennes-presentation.pdf)
 - Support de cours :
   [Markdown](./14-cours-realiser-des-applications-perennes/02-support-de-cours/README.md)
-- Quiz
-  - [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/03-quiz/index.html)
-    ·
-    [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/03-quiz/14-cours-realiser-des-applications-perennes-quiz.pdf)
+- Quiz :
+  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/03-quiz/index.html)
+  ·
+  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/03-quiz/14-cours-realiser-des-applications-perennes-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1298,10 +1297,10 @@ il est recommandé pour la semaine suivante de :
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/01-presentation/15-cours-se-faire-payer-pour-sa-passion-presentation.pdf)
 - Support de cours :
   [Markdown](./15-cours-se-faire-payer-pour-sa-passion/02-support-de-cours/README.md)
-- Quiz
-  - [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/03-quiz/index.html)
-    ·
-    [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/03-quiz/15-cours-se-faire-payer-pour-sa-passion-quiz.pdf)
+- Quiz :
+  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/03-quiz/index.html)
+  ·
+  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/03-quiz/15-cours-se-faire-payer-pour-sa-passion-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1428,10 +1427,10 @@ il est recommandé pour la semaine suivante de :
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/16-cours-creer-sa-propre-entreprise/01-presentation/16-cours-creer-sa-propre-entreprise-presentation.pdf)
 - Support de cours :
   [Markdown](./16-cours-creer-sa-propre-entreprise/02-support-de-cours/README.md)
-- Quiz
-  - [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/16-cours-creer-sa-propre-entreprise/03-quiz/index.html)
-    ·
-    [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/16-cours-creer-sa-propre-entreprise/03-quiz/16-cours-creer-sa-propre-entreprise-quiz.pdf)
+- Quiz :
+  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/16-cours-creer-sa-propre-entreprise/03-quiz/index.html)
+  ·
+  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/16-cours-creer-sa-propre-entreprise/03-quiz/16-cours-creer-sa-propre-entreprise-quiz.pdf)
 
 <details>
 <summary>Voir les détails</summary>
@@ -1557,8 +1556,7 @@ il est recommandé pour la semaine suivante de :
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/17-cours-evaluation-presentation.pdf)
 - Support de cours :
   [Markdown](./17-cours-evaluation/02-support-de-cours/README.md)
-- Quiz
-  - _Aucun quiz_
+- Quiz : _Aucun quiz_
 - **🚨 Séance avec évaluation notée** (100% de la note de cours)
 
 <details>
@@ -1749,8 +1747,7 @@ la semaine 15._
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/18-cours-revue-du-semestre-presentation.pdf)
 - Support de cours
   - _Aucun support_
-- Quiz
-  - _Aucun quiz_
+- Quiz : _Aucun quiz_
 
 </details>
 
@@ -1763,8 +1760,7 @@ la semaine 15._
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/19-projet-presentations-finales/01-presentation/19-projet-presentations-finales-presentation.pdf)
 - Support de cours :
   [Markdown](./19-projet-presentations-finales/02-support-de-cours/README.md)
-- Quiz
-  - _Aucun quiz_
+- Quiz : _Aucun quiz_
 - **🚨 Séance avec évaluation notée** (60% de la note de projet)
 
 <details>
