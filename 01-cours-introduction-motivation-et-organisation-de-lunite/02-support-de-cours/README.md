@@ -82,11 +82,12 @@ Note maximale : 25 points × 0,2 + 1 = 6
 
 ##### Catégorie - Présentation
 
-| #   | Critère                        | Points |
-| --- | ------------------------------ | -----: |
-| 1   | Répartition du temps de parole |    0,2 |
-| 2   | Respect du temps imparti       |    0,2 |
-| 3   | Réponses aux questions         |    0,2 |
+| #   | Critère                                                                                                                         | Points |
+| --- | ------------------------------------------------------------------------------------------------------------------------------- | -----: |
+| 1   | Répartition du temps de parole                                                                                                  |    0,2 |
+| 2   | Respect du temps imparti                                                                                                        |    0,2 |
+| 3   | Toute l'équipe contribue au projet et est capable de l'expliquer en détail afin de partager les connaissances entre les membres |    0,2 |
+| 3   | Réponses aux questions                                                                                                          |    0,2 |
 
 #### Contraintes
 
@@ -211,9 +212,9 @@ On veut retrouver dans le rapport
 | --- | ---------------------------------------------------------------- | -----: |
 | 19  | Retrospective des résultats obtenus et des perspectives d'avenir |    0,2 |
 
-| #   | Critère                                                                                                                         | Points |
-| --- | ------------------------------------------------------------------------------------------------------------------------------- | -----: |
-| 20  | Toute l'équipe contribue au projet et est capable de l'expliquer en détail afin de partager les connaissances entre les membres |    0,2 |
+| #   | Critère                                 | Points |
+| --- | --------------------------------------- | -----: |
+| 20  | Cahier des charges et charge de travail |    0,2 |
 
 #### Contraintes
 
