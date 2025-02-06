@@ -23,6 +23,9 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Évaluation écrite](#évaluation-écrite)
   - [Présentations](#présentations)
   - [Rapport final](#rapport-final)
+  - [Contraintes](#contraintes)
+  - [Astuces](#astuces)
+  - [Rendu](#rendu)
 - [Conclusion](#conclusion)
 - [Qu'est-ce que vous ferez ensuite ?](#quest-ce-que-vous-ferez-ensuite-)
 - [Sources](#sources)
@@ -105,13 +108,14 @@ plus adaptée à votre projet :
    avec leurs compétences
 3. Étapes du projet - Présentation des étapes significatives du projet
    1. Recherche et choix de l'idée
-   2. Identification du public cible
-   3. Wireframe/mockup
-   4. Questionnaires et entretiens avec le public cible
-   5. Analyse des retours et pivot si nécessaire
-   6. Choix technologiques et réalisation du MVP
-   7. Tests utilisateurs
-   8. Pérennité du projet (financier et technique)
+   2. Identification du public cible avec énumération des personae
+   3. Wireframes/mockups des fonctionnalités clés
+   4. Questionnaires et hypothèses à valider avec le public cible
+   5. Entretiens effectués avec le public cible
+   6. Analyse des retours et conclusions
+   7. Choix technologiques et réalisation du MVP
+   8. Tests utilisateurs
+   9. Pérennité du projet (financier et technique)
 4. Difficultés rencontrées et solutions - Présentation des difficultés
    rencontrées et des solutions trouvées
 5. Conclusion - Retrospective des résultats obtenus et des perspectives d'avenir
@@ -128,6 +132,81 @@ d'outils que vous pourriez utiliser si vous n'en avez pas en tête :
 - [Google Docs](https://docs.google.com/)
 - [Microsoft Word](https://www.microsoft.com/microsoft-365/word) (si vous
   souhaitez vraiment vous faire du mal)
+
+#### Critères d'évaluation
+
+- 0 point - Le travail est insuffisant
+- 0,1 point - Le travail est réalisé
+- 0,2 point - Le travail est bien réalisé (sans nécessité d’être parfait)
+
+Note maximale : 25 points × 0,2 + 1 = 6
+
+##### Catégorie 1 - Introduction
+
+| #   | Critère                | Points |
+| --- | ---------------------- | -----: |
+| 1   | Présentation du projet |    0,2 |
+| 2   | Objectifs du projet    |    0,2 |
+
+##### Catégorie 2 - Membres de l'équipe
+
+| #   | Critère                                                           | Points |
+| --- | ----------------------------------------------------------------- | -----: |
+| 1   | Présentation des membres de l'équipe                              |    0,2 |
+| 2   | Présentation des rôles et des compétences des membres de l'équipe |    0,2 |
+
+##### Catégorie 3 - Étapes du projet
+
+On veut retrouver dans le rapport
+
+| #   | Critère                                                                | Points |
+| --- | ---------------------------------------------------------------------- | -----: |
+| 1   | Énumération des idées envisagées                                       |    0,2 |
+| 2   | Choix et justification de l'idée retenue                               |    0,2 |
+| 2   | Identification du public cible                                         |    0,2 |
+| 3   | Énumération des personae                                               |    0,2 |
+| 3   | Wireframes/mockups des fonctionnalités clés                            |    0,2 |
+| 4   | Énumération des questions et hypothèses à valider avec le public cible |    0,2 |
+| 4   | Exemples pertinents d'entretiens                                       |    0,2 |
+| 5   | Analyse des entretiens                                                 |    0,2 |
+| 5   | Conclusions des entretiens                                             |    0,2 |
+| 6   | Justification des choix technologiques                                 |    0,2 |
+| 7   | Exemples pertinents de la réalisation du MVP                           |    0,2 |
+| 7   | Pertinence et réalisation des tests utilisateurs                       |    0,2 |
+| 8   | Pérennité du projet (financier et technique)                           |    0,2 |
+
+##### Catégorie 4 - Difficultés rencontrées et solutions
+
+| #   | Critère                                                            | Points |
+| --- | ------------------------------------------------------------------ | -----: |
+| 1   | Présentation des difficultés rencontrées et des solutions trouvées |    0,2 |
+
+##### Catégorie 5 - Conclusion
+
+| #   | Critère                                                          | Points |
+| --- | ---------------------------------------------------------------- | -----: |
+| 1   | Retrospective des résultats obtenus et des perspectives d'avenir |    0,2 |
+
+| #   | Critère                                                                                                                         | Points |
+| --- | ------------------------------------------------------------------------------------------------------------------------------- | -----: |
+| 1   | Toute l'équipe contribue au projet et est capable de l'expliquer en détail afin de partager les connaissances entre les membres |    0,2 |
+
+### Contraintes
+
+- Au moins deux idées doivent être présentées et explorées avant de choisir
+  celle qui sera développée
+- Les présentations doivent être présentées en équipe
+- Le nombre d'interviews est proportionnel au nombre de membres de l'équipe (un
+  membre doit réaliser au moins trois interviews)
+
+### Astuces
+
+- Nous vous conseillons de profiter de l'occasion pour expérimenter la prise de
+  parole en public, et que chaque membre de l'équipe participe à la présentation
+- Il n'est pas nécessaire de fournir les wireframes/mockups pour les
+  fonctionnalités basiques (login, logout, etc.)
+
+### Rendu
 
 ## Conclusion
 
