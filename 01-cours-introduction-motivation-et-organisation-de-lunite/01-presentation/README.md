@@ -40,6 +40,14 @@ style: |
     section:not([class=lead]) > p, blockquote {
         text-align: justify;
     }
+    .two-columns {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 1rem;
+    }
+    .center {
+        text-align: center;
+    }
 headingDivider: 6
 -->
 
@@ -59,6 +67,37 @@ _paginate: false
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 
 ![bg opacity:0.25][illustration]
+
+## Bienvenue au cours Lancez votre Minimum Viable Product (MVP) !
+
+<!-- _class: lead -->
+
+## Qui sommes-nous ?
+
+<div class="two-columns center">
+<div>
+
+**Ludovic  
+Delafontaine**
+
+![w:200](./images/ludovic-delafontaine.png)
+
+[Mail](mailto:ludovic.delafontaine@heig-vd.ch) ·
+[GitHub](https://github.com/ludelafo)
+
+</div>
+<div>
+
+**Vincent  
+Guidoux**
+
+![w:200](./images/vincent-guidoux.png)
+
+[Mail](mailto:vincent.guidoux1@heig-vd.ch) ·
+[GitHub](https://github.com/Nortalle)
+
+</div>
+</div>
 
 ## Plus de détails dans le support de cours
 
