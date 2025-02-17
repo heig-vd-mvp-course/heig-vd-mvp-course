@@ -1,10 +1,5 @@
 # Recevoir des feedbacks constructifs et pivoter - Support de cours
 
-<!--
-_class: lead
-_paginate: false
--->
-
 <https://github.com/heig-vd-mvp-course>
 
 [Markdown][course-material]
