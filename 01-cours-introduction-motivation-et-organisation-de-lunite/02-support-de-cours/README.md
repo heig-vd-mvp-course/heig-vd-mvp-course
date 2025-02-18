@@ -27,6 +27,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Grille d'évaluation des présentations](#grille-dévaluation-des-présentations)
   - [Grille d'évaluation du rapport final](#grille-dévaluation-du-rapport-final)
   - [Grille d'évaluation du produit final](#grille-dévaluation-du-produit-final)
+- [Travailler en équipe](#travailler-en-équipe)
+- [Glossaire](#glossaire)
+  - [MVP](#mvp)
+  - [Wireframe](#wireframe)
+  - [Mockup](#mockup)
+  - [Prototype](#prototype)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous allez faire ensuite](#ce-que-vous-allez-faire-ensuite)
@@ -345,6 +351,41 @@ note finale
 | 6   | Un formulaire de contact est présent et fonctionnel                                    |
 | 7   | La qualité du code source est acceptable et permet de reprendre en main le projet      |
 | 8   | Respect des délais et du format du rendu du produit final                              |
+
+## Travailler en équipe
+
+- Laissez place à l'empathie (Une personne préoccupée ne sera peut-être pas
+  capable de prendre de bonnes décisions)
+- Les individus et leurs interactions plus que les processus et les outils
+- Définir ces besoins et ces limites
+- Définir des rôles et les distribuer
+- Avoir des séances efficaces
+  - tour de clarification
+  - tour d'opposition
+
+## Glossaire
+
+### MVP
+
+- solution la plus simple pour tester le produit, faire de la prospection et
+  commencer à récolter de l'argent
+- Fonctionnel
+- Optimisé les coûts et la production
+- Maximiser le retour utilisateur
+- Fail early
+
+### Wireframe
+
+plus souvent utilisé dans les échanges techniques
+
+### Mockup
+
+plus souvent utilisé dans les échanges avec les clients
+
+### Prototype
+
+fail early, n'est pas pensé pour durer, optimisé la production ou les coûts,
+peut être modifié
 
 ## Conclusion
 
