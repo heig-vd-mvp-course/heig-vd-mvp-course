@@ -28,6 +28,9 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Grille d'évaluation du rapport final](#grille-dévaluation-du-rapport-final)
   - [Grille d'évaluation du produit final](#grille-dévaluation-du-produit-final)
 - [Comment travailler en équipe de façon efficace](#comment-travailler-en-équipe-de-façon-efficace)
+  - [Les outils à utiliser](#les-outils-à-utiliser)
+  - [Votre équipe](#votre-équipe)
+  - [Séances](#séances)
 - [Différences entre un wireframe, un mockup, un prototype et un MVP](#différences-entre-un-wireframe-un-mockup-un-prototype-et-un-mvp)
   - [Wireframe](#wireframe)
   - [Mockup](#mockup)
@@ -354,9 +357,70 @@ note finale
 
 ## Comment travailler en équipe de façon efficace
 
+Il est bien rare qu'un projet soit réalisé par une seule personne. Il est donc
+important de savoir comment travailler en équipe de façon efficace. Nous allons
+parcourir certains points qui nous semblent importants pour travailler en
+équipe.
+
+### Les outils à utiliser
+
+Beaucoup de solutions existent pour travailler en équipe (Jira, Trello, Asana,
+etc.) et on peut se sentir perdu face à toutes ces solutions. Nous vous
+rappelons qu'il est toujours plus important de mettre de l'énergie sur les
+individus et leurs interactions que sur les outils et les processus. Quelques
+soit l'outil que vous choisissez, s'il ne convient pas à votre équipe, il ne
+sera pas efficace.
+
+Si votre projet concerne le développement d'un logiciel, nous vous recommandons
+d'utiliser Git pour gérer votre code. GitHub et GitLab sont des solutions qui
+permettent de gérer le code de façon efficace et de travailler en équipe. Le
+workflow : Issue -> Pull Request/Merge request -> Review -> Merge est un
+workflow qui n'a plus à faire ses preuves et qui permet de travailler de façon
+efficace.
+
+### Votre équipe
+
+Il est important de bien connaître les membres de votre équipe. Nous ne parlons
+pas forcément de faire le profil de chaque personne pour savoir si elle est ISFJ
+ou ENTP
+([Les 16 personnalités](https://www.16personalities.com/fr/types-de-personnalite))
+mais il y a certains points qui peuvent être importants à connaître pour chaque
+personne :
+
+- Les compétences
+- Les limites
+- Les besoins
+
+Lors des entretiens, nous jugeons facilement la fameuse question : "Quels sont
+vos défauts et vos qualités ?" comme une mauvaise question. Mais si elle est
+bien posée et avec la bonne intention, elle permet de former une équipe qui se
+complète.
+
+Connaître les compétences de chaque personne permet de distribuer les rôles de
+façon efficace et de s'assurer que chaque personne est à sa place.
+
+Tout le monde a des points de frictions, des tâches qui prennent plus de temps
+ou encore des handicaps. Il est important de connaître ces limites pour ne pas
+les dépasser et pour ne pas mettre la personne en difficulté. Par exemple, une
+personne peut avoir des problèmes d'attention et connaît les astuces pour
+pallier à ce problème.
+
+Chaque personne voudra améliorer ses compétences, aura besoin d'aide ou d'une
+certaine manière de communiquer. L'équipe pourra grandir si ces besoins sont
+pris en compte.
+
+### Séances
+
+Nous pouvons vite être décontenancé lorsque nous nous rendons compte que nous
+passons plus de temps à discuter qu'à travailler. Vous trouverez ci-dessous
+quelques astuces pour avoir des séances efficaces.
+
+Commencez par un tour de température où chaque personne peut exprimer son état à
+ce moment-là. Cela permet de savoir si une personne est préoccupée ou si elle a
+des problèmes personnels.
+
 <!-- - Laissez place à l'empathie (Une personne préoccupée ne sera peut-être pas
   capable de prendre de bonnes décisions)
-- Les individus et leurs interactions plus que les processus et les outils
 - Définir ces besoins et ces limites
 - Définir des rôles et les distribuer
 - Avoir des séances efficaces
