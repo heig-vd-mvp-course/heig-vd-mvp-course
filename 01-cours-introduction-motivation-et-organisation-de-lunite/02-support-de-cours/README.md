@@ -30,6 +30,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Comment travailler en équipe de façon efficace](#comment-travailler-en-équipe-de-façon-efficace)
   - [Les outils à utiliser](#les-outils-à-utiliser)
   - [Votre équipe](#votre-équipe)
+  - [Rôles](#rôles)
   - [Séances](#séances)
 - [Différences entre un wireframe, un mockup, un prototype et un MVP](#différences-entre-un-wireframe-un-mockup-un-prototype-et-un-mvp)
   - [Wireframe](#wireframe)
@@ -357,118 +358,206 @@ note finale
 
 ## Comment travailler en équipe de façon efficace
 
-Il est bien rare qu'un projet soit réalisé par une seule personne. Il est donc
+Il est rare qu'un projet soit réalisé par une seule personne. Il est donc
 important de savoir comment travailler en équipe de façon efficace. Nous allons
-parcourir certains points qui nous semblent importants pour travailler en
-équipe.
+parcourir certains points essentiels pour une collaboration fluide et
+productive.
+
+Nous nous inspirons ici des principes de la gouvernance partagée et horizontale,
+notamment l’holacratie, où chaque membre a un rôle clair et participe aux
+décisions collectives selon un mode de gestion par consentement.
 
 ### Les outils à utiliser
 
-Beaucoup de solutions existent pour travailler en équipe (Jira, Trello, Asana,
-etc.) et on peut se sentir perdu face à toutes ces solutions. Nous vous
-rappelons qu'il est toujours plus important de mettre de l'énergie sur les
-individus et leurs interactions que sur les outils et les processus. Quelques
-soit l'outil que vous choisissez, s'il ne convient pas à votre équipe, il ne
-sera pas efficace.
-
-Si votre projet concerne le développement d'un logiciel, nous vous recommandons
-d'utiliser Git pour gérer votre code. GitHub et GitLab sont des solutions qui
-permettent de gérer le code de façon efficace et de travailler en équipe. Le
-workflow : Issue -> Pull Request/Merge request -> Review -> Merge est un
-workflow qui n'a plus à faire ses preuves et qui permet de travailler de façon
+De nombreuses solutions existent pour le travail en équipe (Jira, Trello, Asana,
+etc.), et il est facile de se sentir perdu face à tant d’options. Toutefois, il
+est toujours plus important de mettre l’accent sur les individus et leurs
+interactions plutôt que sur les outils et les processus. Quel que soit l’outil
+que vous choisissez, s’il ne convient pas à votre équipe, il ne sera pas
 efficace.
+
+Si votre projet concerne le développement d’un logiciel, nous vous recommandons
+d’utiliser Git pour gérer votre code. GitHub et GitLab sont des solutions
+éprouvées qui facilitent la gestion collaborative du code. Le workflow **Issue
+-> Pull Request/Merge Request -> Review -> Merge** a déjà largement prouvé son
+efficacité.
+
+N'hésitez pas à utiliser le CI/CD pour automatiser les tests et les déploiements
+de votre code. Automatiser les tâches répétitives vous fera gagner du temps et
+vous permettra de vous concentrer sur les tâches plus intéressantes.
 
 ### Votre équipe
 
-Il est important de bien connaître les membres de votre équipe. Nous ne parlons
-pas forcément de faire le profil de chaque personne pour savoir si elle est ISFJ
-ou ENTP
-([Les 16 personnalités](https://www.16personalities.com/fr/types-de-personnalite))
-mais il y a certains points qui peuvent être importants à connaître pour chaque
-personne :
+Il est essentiel de bien connaître les membres de votre équipe. Nous ne parlons
+pas forcément d’évaluer leur personnalité via des tests comme
+[Les 16 personnalités](https://www.16personalities.com/fr/types-de-personnalite),
+mais de comprendre des aspects concrets et utiles :
 
-- Les compétences
-- Les limites
-- Les besoins
+- **Les compétences** : Connaître les forces de chacun permet de mieux répartir
+  les responsabilités et d’optimiser la collaboration ;
+- **Les limites** : Tout le monde a des points de friction, des tâches qui
+  prennent plus de temps ou des besoins spécifiques. Identifier ces éléments
+  permet d’adapter le fonctionnement de l’équipe et d’éviter les situations de
+  stress ;
+- **Les besoins** : Chaque personne veut progresser et a des préférences en
+  termes de communication et de soutien. Prendre en compte ces besoins favorise
+  l’engagement et la montée en compétence.
 
-Lors des entretiens, nous jugeons facilement la fameuse question : "Quels sont
-vos défauts et vos qualités ?" comme une mauvaise question. Mais si elle est
-bien posée et avec la bonne intention, elle permet de former une équipe qui se
-complète.
+Des pratiques comme les check-ins réguliers ou les rétrospectives d’équipe
+peuvent aider à mieux cerner ces éléments et à ajuster la dynamique de groupe.
 
-Connaître les compétences de chaque personne permet de distribuer les rôles de
-façon efficace et de s'assurer que chaque personne est à sa place.
+### Rôles
 
-Tout le monde a des points de frictions, des tâches qui prennent plus de temps
-ou encore des handicaps. Il est important de connaître ces limites pour ne pas
-les dépasser et pour ne pas mettre la personne en difficulté. Par exemple, une
-personne peut avoir des problèmes d'attention et connaît les astuces pour
-pallier à ce problème.
+Attribuer des rôles permet de clarifier les responsabilités et d’assurer que
+chacun sait ce qu’il doit faire. Cependant, ces rôles ne sont pas figés et
+peuvent évoluer au fil du projet. La rotation des rôles est une bonne pratique
+pour favoriser l’apprentissage et l’adaptabilité.
 
-Chaque personne voudra améliorer ses compétences, aura besoin d'aide ou d'une
-certaine manière de communiquer. L'équipe pourra grandir si ces besoins sont
-pris en compte.
+Voici quelques rôles possibles :
+
+- **Point of contact** : personne en lien avec les autres équipes, les
+  encadrants et les parties prenantes, garantissant la circulation des
+  informations ;
+- **Décideur** : personne qui tranche en cas de désaccord et prend les décisions
+  finales ;
+- **Scribe** : personne qui prend des notes et consigne les décisions ;
+- **Facilitateur** : personne qui veille à ce que tout le monde puisse
+  s’exprimer, s’assure de la compréhension mutuelle et arbitre si nécessaire ;
+- **Développeur** : personne en charge du développement du produit ;
+- **Designer** : personne responsable de l’identité visuelle du produit ;
+- **Testeur** : personne chargée de tester le produit et de remonter les
+  anomalies ;
+- Et bien d’autres…
 
 ### Séances
 
-Nous pouvons vite être décontenancé lorsque nous nous rendons compte que nous
-passons plus de temps à discuter qu'à travailler. Vous trouverez ci-dessous
-quelques astuces pour avoir des séances efficaces.
+On peut rapidement être frustré en réalisant que l’on passe plus de temps à
+discuter qu’à avancer concrètement. Voici quelques principes pour des séances de
+travail efficaces.
 
-Commencez par un tour de température où chaque personne peut exprimer son état à
-ce moment-là. Cela permet de savoir si une personne est préoccupée ou si elle a
-des problèmes personnels.
+Deux rôles clés sont essentiels :
 
-<!-- - Laissez place à l'empathie (Une personne préoccupée ne sera peut-être pas
-  capable de prendre de bonnes décisions)
-- Définir ces besoins et ces limites
-- Définir des rôles et les distribuer
-- Avoir des séances efficaces
-  - tour de clarification
-  - tour d'opposition -->
+- **Facilitateur** : donne la parole, s’assure que tout le monde a compris et
+  peut s’exprimer, prend des décisions si nécessaire ;
+- **Scribe** : consigne les décisions et les actions à réaliser.
+
+**Déroulement d’une séance**
+
+1. **Tour de température** : Chaque membre partage brièvement son état du
+   moment. Cela permet d’anticiper d’éventuelles difficultés et d’adapter le
+   rythme de travail ;
+1. **résentation des points à discuter** : La personne concernée expose son
+   sujet sans interruption ;
+1. **Tour de clarification** : Les autres posent des questions pour mieux
+   comprendre, sans débat immédiat ;
+1. **Tour d’opposition** : Chacun peut exprimer des objections ou des
+   préoccupations en se concentrant sur les idées plutôt que sur les personnes ;
+1. **Réponse et ajustements** : La personne qui a présenté le sujet répond aux
+   objections et ajuste si nécessaire ;
+1. **Prise de décision** : Si des ajustements sont faits, le facilitateur ou
+   l’équipe valide la décision ;
+1. **Définition des actions à suivre (AP)** : On note qui fait quoi et pour
+   quand.
+
+Il faut éviter les discussions sans fin et les débats stériles. Pour cela, il
+est important d'éviter un effet "ping pong" où les personnes répondent
+directement aux questions posées. Attendez que chaque personne se soit exprimée
+avant de clarifier ou de proposer des ajustements.
+
+Si nous sommes d'accord avec ce qui a été dit, nous pouvons simplement faire un
+signe convenu par l'équipe (comme lever les mains et les secouer).
+
+Cette approche, inspirée de la **gestion par consentement**, garantit que les
+décisions sont prises en tenant compte des avis de tous, sans tomber dans des
+débats interminables.
+
+En appliquant ces principes, vous favorisez une collaboration plus fluide,
+efficace et respectueuse des besoins de chacun. Certains de ces concepts
+demandent un temps d’adaptation et de pratique, mais ils peuvent grandement
+améliorer la qualité de votre travail en équipe. Il faut mettre son ego de côté
+de temps en temps, votre équipe vous fait confiance et sait que vous avez des
+compétences et des connaissances à apporter.
 
 ## Différences entre un wireframe, un mockup, un prototype et un MVP
 
-<!-- Il est courant dans l'industruire de ne pas sauter à l'étape du produit final
-directement. Il est important de tester les idées, les interactions et les
-besoins du public cible avant de se lancer dans la production du produit final.
-Les prochains concepts sont des outils qui ont chacun leur -->
+Dans le développement d’un produit, il est rare de passer directement à la
+version finale sans étapes intermédiaires. Il est essentiel de tester les idées,
+les interactions et les besoins du public cible avant d’investir du temps et des
+ressources dans un produit complet. Les concepts suivants sont des outils qui
+permettent de structurer ce processus tout en minimisant les risques et les
+coûts.
 
 ### Wireframe
 
-<!-- - plus souvent utilisé dans les échanges techniques
-- très cheap, très rapide, très simple
-- Presque le plus adapté pour l'outils "papier-crayon" -->
+Un wireframe est une esquisse simplifiée du produit, souvent utilisée dans les
+échanges techniques. Son objectif principal est de définir l’organisation des
+éléments et la navigation de l’interface, sans se soucier des détails
+graphiques.
+
+- Très rapide et peu coûteux à réaliser ;
+- Utilisé pour aligner l’équipe sur la structure du produit ;
+- Peut être fait avec des outils simples comme du papier-crayon ou des logiciels
+  dédiés (Balsamiq) ;
+- Idéal pour tester et ajuster rapidement la disposition des éléments.
 
 ### Mockup
 
-<!-- - plus souvent utilisé dans les échanges avec les clients
-- Plus détaillé
-- Permet d'avoir une vision graphique du produit final
-- Deux styles:
-  - statique: identité visuelle, couleurs, polices, etc.
-  - dynamique: interactions, animations, etc.
-- Peut être utilisé pour faire des tests utilisateurs simples
-- Plus cher en temps et en argent que le wireframe -->
+Un mockup est une version plus détaillée du wireframe, qui intègre l’aspect
+visuel du produit. Il permet de mieux se projeter sur l’apparence finale et
+facilite la communication avec les parties prenantes, notamment les clients ou
+le public cible.
+
+- Plus détaillé qu’un wireframe, il inclut couleurs, typographie et mise en page
+  ;
+- Utilisé pour obtenir des retours sur l’identité visuelle et l’expérience
+  utilisateur ;
+- Demande plus de temps et de ressources qu’un wireframe, mais reste plus rapide
+  à produire qu’un prototype.
+
+Il peut être statique (simple représentation graphique) ou dynamique
+(interactions et animations). La première forme est souvent utilisée par les
+équipes médias ou design. Elle peut prendre la frome d'un PDF qui permet de
+valider l'identité visuelle, les couleurs, les polices, etc. La seconde forme
+est plus utilisée par les équipes techniques pour valider les interactions, les
+animations, etc. Des logiciels comme Figma, Penpot ou Adobe XD permettent de
+réaliser des mockups interactifs.
 
 ### Prototype
 
-<!-- - fail early
-- n'est pas pensé pour durer (!!!!)
-- permet de tester le besoin et l'interaction entre le public cible et le
-  produit
-- Ne _devrait_ pas être utilisé pour la production -->
+Un prototype est une version interactive du produit, qui simule son
+fonctionnement réel sans pour autant être finalisé. Son objectif est de tester
+l’expérience utilisateur et l’adéquation aux besoins du public cible avant
+d’investir davantage dans le développement.
+
+- Permet de tester rapidement les interactions et les parcours utilisateurs ;
+- Conçu pour détecter les problèmes d’ergonomie et améliorer l’expérience
+  utilisateur ;
+- Favorise une approche "fail early" : détecter et corriger les erreurs avant
+  d’engager trop de ressources ;
+- N’est pas conçu pour durer et ne devrait pas être utilisé en production.
 
 ### MVP
 
-<!-- - solution la plus simple pour tester le produit, faire de la prospection et
-  commencer à récolter de l'argent
-- Fonctionnel
-- Optimisé les coûts et la production
-- Maximiser le retour utilisateur
-- Fail early (Faire des pivots)
-- Fonctionnalités simples, très peu nombreuses et qui permettent à l'utilisateur
-  final de réellement utiliser le produit -->
+Le MVP est la première version fonctionnelle du produit avec un ensemble minimal
+de fonctionnalités permettant de répondre au besoin principal des utilisateurs.
+Il vise à tester l’idée sur le marché et à récolter des retours concrets.
+
+- Version la plus simple et fonctionnelle du produit ;
+- Optimisé pour minimiser les coûts et maximiser le retour utilisateur ;
+- Permet de tester le marché et d’adapter le produit en fonction des retours ;
+- Favorise l’itération rapide et les pivots si nécessaire ;
+- Contrairement au prototype, il est destiné à être réellement utilisé par les
+  utilisateurs finaux.
+
+En résumé, chaque outil a son rôle dans le processus de développement :
+
+- **Wireframe** : Définir la structure et la navigation ;
+- **Mockup** : Visualiser l’apparence finale ;
+- **Prototype** : Tester les interactions et l’ergonomie ;
+- **MVP** : Lancer une première version utilisable sur le marché.
+
+Ces étapes permettent de maximiser les chances de succès d’un projet en
+réduisant les risques et en favorisant une approche progressive et itérative.
 
 ## Conclusion
 
