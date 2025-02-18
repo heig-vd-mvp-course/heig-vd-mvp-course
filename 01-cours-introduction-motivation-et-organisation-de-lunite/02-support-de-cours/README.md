@@ -27,12 +27,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Grille d'évaluation des présentations](#grille-dévaluation-des-présentations)
   - [Grille d'évaluation du rapport final](#grille-dévaluation-du-rapport-final)
   - [Grille d'évaluation du produit final](#grille-dévaluation-du-produit-final)
-- [Travailler en équipe](#travailler-en-équipe)
-- [Glossaire](#glossaire)
-  - [MVP](#mvp)
+- [Comment travailler en équipe de façon efficace](#comment-travailler-en-équipe-de-façon-efficace)
+- [Différences entre un wireframe, un mockup, un prototype et un MVP](#différences-entre-un-wireframe-un-mockup-un-prototype-et-un-mvp)
   - [Wireframe](#wireframe)
   - [Mockup](#mockup)
   - [Prototype](#prototype)
+  - [MVP](#mvp)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous allez faire ensuite](#ce-que-vous-allez-faire-ensuite)
@@ -54,8 +54,8 @@ De façon plus concise, à la fin de cette séance, vous devriez être capable d
 - Lister les modalités d'organisation des équipes
 - Lister les modalités d'évaluation
 - Décrire comment travailler en équipe de façon efficace
-- Décrire ce qu'est un MVP
 - Décrire les différences entre un wireframe, un mockup, un prototype et un MVP
+- Décrire ce qu'est un MVP
 
 Durant ces séances théoriques, nous allons vous présenter différents concepts
 qui vous permettront de réaliser votre projet. Si vous avez des questions,
@@ -352,41 +352,59 @@ note finale
 | 7   | La qualité du code source est acceptable et permet de reprendre en main le projet      |
 | 8   | Respect des délais et du format du rendu du produit final                              |
 
-## Travailler en équipe
+## Comment travailler en équipe de façon efficace
 
-- Laissez place à l'empathie (Une personne préoccupée ne sera peut-être pas
+<!-- - Laissez place à l'empathie (Une personne préoccupée ne sera peut-être pas
   capable de prendre de bonnes décisions)
 - Les individus et leurs interactions plus que les processus et les outils
 - Définir ces besoins et ces limites
 - Définir des rôles et les distribuer
 - Avoir des séances efficaces
   - tour de clarification
-  - tour d'opposition
+  - tour d'opposition -->
 
-## Glossaire
+## Différences entre un wireframe, un mockup, un prototype et un MVP
+
+<!-- Il est courant dans l'industruire de ne pas sauter à l'étape du produit final
+directement. Il est important de tester les idées, les interactions et les
+besoins du public cible avant de se lancer dans la production du produit final.
+Les prochains concepts sont des outils qui ont chacun leur -->
+
+### Wireframe
+
+<!-- - plus souvent utilisé dans les échanges techniques
+- très cheap, très rapide, très simple
+- Presque le plus adapté pour l'outils "papier-crayon" -->
+
+### Mockup
+
+<!-- - plus souvent utilisé dans les échanges avec les clients
+- Plus détaillé
+- Permet d'avoir une vision graphique du produit final
+- Deux styles:
+  - statique: identité visuelle, couleurs, polices, etc.
+  - dynamique: interactions, animations, etc.
+- Peut être utilisé pour faire des tests utilisateurs simples
+- Plus cher en temps et en argent que le wireframe -->
+
+### Prototype
+
+<!-- - fail early
+- n'est pas pensé pour durer (!!!!)
+- permet de tester le besoin et l'interaction entre le public cible et le
+  produit
+- Ne _devrait_ pas être utilisé pour la production -->
 
 ### MVP
 
-- solution la plus simple pour tester le produit, faire de la prospection et
+<!-- - solution la plus simple pour tester le produit, faire de la prospection et
   commencer à récolter de l'argent
 - Fonctionnel
 - Optimisé les coûts et la production
 - Maximiser le retour utilisateur
-- Fail early
-
-### Wireframe
-
-- plus souvent utilisé dans les échanges techniques
-- très cheap, très rapide, très simple
-
-### Mockup
-
-plus souvent utilisé dans les échanges avec les clients
-
-### Prototype
-
-fail early, n'est pas pensé pour durer, optimisé la production ou les coûts,
-peut être modifié
+- Fail early (Faire des pivots)
+- Fonctionnalités simples, très peu nombreuses et qui permettent à l'utilisateur
+  final de réellement utiliser le produit -->
 
 ## Conclusion
 
