@@ -376,7 +376,8 @@ note finale
 
 ### Wireframe
 
-plus souvent utilisé dans les échanges techniques
+- plus souvent utilisé dans les échanges techniques
+- très cheap, très rapide, très simple
 
 ### Mockup
 
