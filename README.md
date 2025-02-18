@@ -590,8 +590,7 @@ L'évaluation se fait en utilisant les critères suivants :
 
 Les retours se font de la manière suivante :
 
-- Grille d'évaluation
-  - À définir
+- [Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-des-présentations)
 
 **🚨 L'évaluation donne lieu à une note.** (10% de la note de projet)
 
@@ -1003,8 +1002,7 @@ L'évaluation se fait en utilisant les critères suivants :
 
 Les retours se font de la manière suivante :
 
-- Grille d'évaluation
-  - À définir
+- [Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-des-présentations)
 
 **🚨 L'évaluation donne lieu à une note.** (15% de la note de projet)
 
@@ -1778,8 +1776,7 @@ L'évaluation se fait en utilisant les critères suivants :
 
 Les retours se font de la manière suivante :
 
-- Grille d'évaluation
-  - À définir
+- [Grille d'évaluation du rapport final](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-du-rapport-final)
 
 **🚨 L'évaluation donne lieu à une note.** (25% de la note de projet)
 
@@ -1897,10 +1894,8 @@ L'évaluation se fait en utilisant les critères suivants :
 
 Les retours se font de la manière suivante :
 
-- Grille d'évaluation pour la présentation
-  - À définir
-- Grille d'évaluation pour le rendu du projet
-  - À définir
+- [Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-des-présentations)
+- [Grille d'évaluation du produit final](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-du-produit-final)
 
 **🚨 L'évaluation donne lieu à une note.** (20% de la note de projet pour la
 présentation et 15% de la note de projet pour le rendu du projet)
