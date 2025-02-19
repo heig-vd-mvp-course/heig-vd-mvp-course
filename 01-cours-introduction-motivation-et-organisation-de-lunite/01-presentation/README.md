@@ -275,7 +275,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 ### Grille d'évaluation des présentations
 
 - 8 critères
-- Basée sur, en autres :
+- Basée sur, entre autres :
   - La qualité de la présentation
   - La qualité de l'argumentation
   - La qualité des réponses aux questions
@@ -286,7 +286,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 ### Grille d'évaluation du rapport final
 
 - 16 critères
-- Basée sur, en autres :
+- Basée sur, entre autres :
   - La qualité de la rédaction
   - La qualité du contenu
 - 12 pages maximum (sans compter les images, tableaux, annexes, etc.)
@@ -297,7 +297,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 ### Grille d'évaluation du produit final
 
 - 8 critères
-- Basée sur, en autres :
+- Basée sur, entre autres :
   - La qualité de la réalisation et de l'expérience utilisateur
 - 12 pages maximum (sans compter les images, tableaux, annexes, etc.)
 - [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-du-produit-final)
@@ -331,9 +331,13 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 
 ### Rôles
 
-- Importance de bien définir les choses
-- Point de contact, décideur, scribe, facilitateur, développeur, designer,
-  testeur, etc.
+- Importance de bien définir les choses et les rôles :
+  - Point de contact
+  - Décideur
+  - Scribe
+  - Facilitateur
+  - Développeur
+  - Etc.
 
 ![bg right:40%](https://images.unsplash.com/photo-1529699211952-734e80c4d42b?fit=crop&h=720)
 
@@ -447,6 +451,9 @@ Est-ce que vous avez des questions ?
   [Unsplash](https://unsplash.com/photos/a-group-of-friends-at-a-coffee-shop--uHVRvDr7pg)
 - Illustration par [Steven Wright](https://unsplash.com/@stevenwright) sur
   [Unsplash](https://unsplash.com/photos/magnifying-glass-mq8QogEBy00)
+
+---
+
 - Illustration par [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki) sur
   [Unsplash](https://unsplash.com/photos/a-pink-and-purple-phone-sitting-on-top-of-a-purple-and-pink-background-Z-vPf7KBuT8)
 
