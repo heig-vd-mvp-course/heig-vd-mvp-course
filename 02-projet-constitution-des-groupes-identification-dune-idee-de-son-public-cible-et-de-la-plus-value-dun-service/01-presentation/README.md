@@ -81,7 +81,7 @@ consultez le [support de cours][course-material]._
 
 <!-- _class: lead -->
 
-### Objectifs
+### Objectifs (1/2)
 
 - Faire connaissance
 - Présenter les idées existantes
@@ -92,7 +92,7 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
 
----
+### Objectifs (2/2)
 
 - Explorer d'autres idées
 - Commencer à approfondir une idée
