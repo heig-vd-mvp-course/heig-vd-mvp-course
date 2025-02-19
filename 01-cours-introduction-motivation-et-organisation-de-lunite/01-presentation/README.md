@@ -177,7 +177,7 @@ Selon la
 >   avec leurs avantages et inconvénients
 
 En résumé, à la fin de ce cours, vous devriez être capable de **créer un produit
-simple** mais **viable et de le lancer sur le marché après l'avoir validé.**
+simple** mais **viable et** de **le lancer sur le marché après l'avoir validé.**
 
 ## Modalités d'organisation du cours
 
@@ -373,6 +373,8 @@ Est-ce que vous avez des questions ?
 - Prendre connaissance du [support de cours][course-material]
 - Poser des questions si nécessaire
 
+![bg right:40%](https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720)
+
 ## Sources
 
 - Illustration principale par [Annie Spratt](https://unsplash.com/@anniespratt)
@@ -408,6 +410,9 @@ Est-ce que vous avez des questions ?
   [Unsplash](https://unsplash.com/photos/blue-and-white-wooden-house-on-green-grass-field-during-daytime-1UMrSoItdDE)
 - Illustration par [Niklas Tidbury](https://unsplash.com/@ntidbury) sur
   [Unsplash](https://unsplash.com/photos/brown-and-gray-wooden-house-near-mountain-valley-during-daytime-tc3SyHYF_4s)
+- Illustration par [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy)
+  sur
+  [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
 
 <!-- URLs -->
 
