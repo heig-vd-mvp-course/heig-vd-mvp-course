@@ -317,6 +317,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 - Préférez les individus et les interactions aux processus et aux outils
 - Le meilleur des outils ne remplacera jamais une bonne communication
 - Git workflow
+- Minimisez le nombre d'outils utilisés
 
 ![bg right:40%](https://images.unsplash.com/photo-1531403009284-440f080d1e12?fit=crop&h=720)
 

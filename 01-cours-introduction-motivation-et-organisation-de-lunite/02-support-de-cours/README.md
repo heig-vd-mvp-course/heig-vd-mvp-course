@@ -406,6 +406,10 @@ vous fera gagner du temps et vous permettra de vous concentrer sur les tâches
 plus intéressantes. **Attention néanmoins à ne pas vous perdre dans la
 complexité de l'automatisation.**
 
+Aussi, essayez de minimiser le nombre d'outils et de technologies utilisés. Plus
+vous en utilisez, plus vous risquez de disperser vos efforts et de perdre du
+temps à les apprendre et à les maintenir.
+
 ### Votre équipe
 
 Il est essentiel de bien connaître les membres de votre équipe. Nous ne parlons
