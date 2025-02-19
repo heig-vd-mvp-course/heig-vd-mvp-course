@@ -1,10 +1,5 @@
 # Réaliser des interfaces ergonomiques et réfléchies - Support de cours
 
-<!--
-_class: lead
-_paginate: false
--->
-
 <https://github.com/heig-vd-mvp-course>
 
 [Markdown][course-material]

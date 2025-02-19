@@ -69,8 +69,8 @@ Les numéros des semaines correspondent aux semaines définies dans le
 | [12](#-semaine-12) | [Créer sa propre entreprise](#cours---créer-sa-propre-entreprise)                                                         | [Réalisation du service et tests utilisateurs (4/6)](#projet---réalisation-du-service-et-tests-utilisateurs-46)                                                                                                                       |
 | [13](#-semaine-13) | 🚨 [Évaluation](#cours---évaluation)                                                                                      | [Réalisation du service et tests utilisateurs (5/6)](#projet---réalisation-du-service-et-tests-utilisateurs-56)                                                                                                                       |
 | [14](#-semaine-14) | _Pas de cours, uniquement du projet_                                                                                      | [Réalisation du service et tests utilisateurs (6/6)](#projet---réalisation-du-service-et-tests-utilisateurs-66)                                                                                                                       |
-| [15](#-semaine-15) | _Jeudi de l'Ascension : pas de cours_                                                                                     | _Jeudi de l'Ascension : pas de projet_                                                                                                                                                                                                |
-| [16](#-semaine-16) | [Revue du semestre](#cours---revue-du-semestre)                                                                           | 🚨 [Présentations finales](#projet---présentations-finales)                                                                                                                                                                           |
+| [15](#-semaine-15) | _Pas de cours, uniquement du projet_                                                                                      | 🚨 [Rendu du rapport](#projet---rendu-du-rapport)                                                                                                                                                                                     |
+| [16](#-semaine-16) | [Revue du semestre](#cours---revue-du-semestre)                                                                           | 🚨 [Présentations finales et rendu du projet](#projet---présentations-finales-et-rendu-du-projet)                                                                                                                                     |
 
 ## 🕐 Semaine 1
 
@@ -96,10 +96,9 @@ Les numéros des semaines correspondent aux semaines définies dans le
 :
 
 - Lister les objectifs du cours
-- Lister les modalités d'évaluation
 - Lister les modalités d'organisation du cours
 - Lister les modalités d'organisation du projet
-- Lister les modalités d'organisation des équipes
+- Lister les modalités d'évaluation
 - Décrire comment travailler en équipe de façon efficace
 - Décrire ce qu'est un MVP
 - Décrire les différences entre un wireframe, un mockup, un prototype et un MVP
@@ -542,7 +541,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Projet - Présentations du pitch
 
-- **🚨 Séance avec évaluation notée** (10% de la note de projet)
+- **🚨 Évaluation notée** (10% de la note de projet)
 - Durée : 2 périodes
 - Présentation :
   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/06-projet-presentations-du-pitch/01-presentation/index.html)
@@ -591,8 +590,7 @@ L'évaluation se fait en utilisant les critères suivants :
 
 Les retours se font de la manière suivante :
 
-- Grille d'évaluation
-  - À définir
+- [Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-des-présentations)
 
 **🚨 L'évaluation donne lieu à une note.** (10% de la note de projet)
 
@@ -957,7 +955,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Projet - Présentations de la prospection
 
-- **🚨 Séance avec évaluation notée** (25% de la note de projet)
+- **🚨 Évaluation notée** (15% de la note de projet)
 - Durée : 2 périodes
 - Présentation :
   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/11-projet-presentations-de-la-prospection/01-presentation/index.html)
@@ -1004,10 +1002,9 @@ L'évaluation se fait en utilisant les critères suivants :
 
 Les retours se font de la manière suivante :
 
-- Grille d'évaluation
-  - À définir
+- [Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-des-présentations)
 
-**🚨 L'évaluation donne lieu à une note.** (25% de la note de projet)
+**🚨 L'évaluation donne lieu à une note.** (15% de la note de projet)
 
 **À faire pour la semaine suivante**
 
@@ -1549,7 +1546,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Cours - Évaluation
 
-- **🚨 Séance avec évaluation notée** (100% de la note de cours)
+- **🚨 Évaluation notée** (100% de la note de cours)
 - Durée : 2 périodes
 - Présentation :
   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/index.html)
@@ -1720,19 +1717,82 @@ L'évaluation ne donne pas lieu à une note.
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- Finaliser et rendre le développement du service
-- Finaliser et rendre le rapport
-- Finaliser la présentation sur la
-  [Présentation finale](#projet---présentations-finales)
-- Répéter la présentation sur la
-  [Présentation finale](#projet---présentations-finales)
+- Finaliser et rendre le rapport selon les attentes spécifiées à la
+  [semaine 15](#-semaine-15)
 
 </details>
 
 ## 🕒 Semaine 15
 
-_Suite au jeudi de l'Ascension, il n'y a pas de séances de cours/projet durant
-la semaine 15._
+### Cours
+
+_Il n'y a pas de cours cette séance, uniquement le projet._
+
+### Projet - Rendu du rapport
+
+> [!CAUTION]
+>
+> Malgré le jeudi de l'Ascension, le rapport devra être remis au plus tard le
+> jeudi à 23h59. Tout retard entraînera une pénalité d'un point par jour sur la
+> note finale.
+
+- **🚨 Évaluation notée** (20% de la note de projet)
+- Durée : 0 période
+- Présentation :
+  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/index.html)
+  ·
+  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/01-cours-introduction-motivation-et-organisation-de-lunite-presentation.pdf)
+- Support de cours :
+  [Markdown](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md)
+
+<details>
+<summary>Voir les détails</summary>
+
+<br>
+
+**Objectifs**
+
+À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
+
+- Rendre le rapport du projet par mail aux personnes qui enseignent
+
+**Méthodes d'enseignement et d'apprentissage**
+
+Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
+sont les suivantes :
+
+- Travail autonome en groupe ou individuel
+
+**Méthodes d'évaluation**
+
+L'évaluation prend la forme d'un rapport à rendre par mail aux personnes qui
+enseignent.
+
+L'évaluation se fait en utilisant les critères suivants :
+
+- Qualité du rapport
+- Respect des consignes
+- Respect des délais
+
+Les retours se font de la manière suivante :
+
+- [Grille d'évaluation du rapport final](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-du-rapport-final)
+
+**🚨 L'évaluation donne lieu à une note.** (25% de la note de projet)
+
+**À faire pour la semaine suivante**
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser et rendre le développement du service selon les attentes spécifiées
+  à la [semaine 16](#-semaine-16)
+- Finaliser la présentation sur la
+  [Présentation finale](#projet---présentations-finales-et-rendu-du-projet)
+- Répéter la présentation sur la
+  [Présentation finale](#projet---présentations-finales-et-rendu-du-projet)
+
+</details>
 
 ## 🕓 Semaine 16
 
@@ -1772,9 +1832,15 @@ Il n'y a pas d'évaluation pour cette séance.
 
 </details>
 
-### Projet - Présentations finales
+### Projet - Présentations finales et rendu du projet
 
-- **🚨 Séance avec évaluation notée** (25% de la note de projet)
+> [!CAUTION]
+>
+> Le projet devra être remis au plus tard le jeudi à 23h59. Tout retard
+> entraînera une pénalité d'un point par jour sur la note finale.
+
+- **🚨 Évaluation notée** (20% de la note de projet pour la présentation et 15%
+  de la note de projet pour le rendu du projet)
 - Durée : 3 périodes
 - Présentation :
   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/19-projet-presentations-finales/01-presentation/index.html)
@@ -1811,22 +1877,28 @@ sont les suivantes :
 
 **Méthodes d'évaluation**
 
-L'évaluation prend la forme d'une présentation du projet aux autres groupes.
+L'évaluation prend la forme d'une présentation du projet aux autres groupes
+ainsi que d'un rendu du projet par mail aux personnes qui enseignent.
 
 L'évaluation se fait en utilisant les critères suivants :
 
 - Capacité à présenter et à pitcher le projet
-- Capacité à démontrer le processus utilisé pour réaliser le projet
+- Capacité à démontrer la méthodologie utilisée pour réaliser le projet
 - Capacité à présenter le(s) résultat(s) obtenu(s)
 - Capacité à présenter la contribution de chaque membre de l'équipe
 - Capacité à répondre aux questions
+- Capacité à écouter les feedbacks
+- Qualité du produit final
+- Respect des consignes
+- Respect des délais
 
 Les retours se font de la manière suivante :
 
-- Grille d'évaluation
-  - À définir
+- [Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-des-présentations)
+- [Grille d'évaluation du produit final](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-du-produit-final)
 
-**🚨 L'évaluation donne lieu à une note.** (25% de la note de projet)
+**🚨 L'évaluation donne lieu à une note.** (20% de la note de projet pour la
+présentation et 15% de la note de projet pour le rendu du projet)
 
 </details>
 
