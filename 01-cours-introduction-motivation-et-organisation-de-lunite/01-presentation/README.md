@@ -82,8 +82,10 @@ Delafontaine**
 
 ![w:200](./images/ludovic-delafontaine.png)
 
-[Mail](mailto:ludovic.delafontaine@heig-vd.ch) ·
-[GitHub](https://github.com/ludelafo)
+<small>
+<a href="mailto:ludovic.delafontaine@heig-vd.ch">ludovic.delafontaine@heig-vd.ch</a>
+<a href="https://github.com/ludelafo">github.com/ludelafo</a>
+</small>
 
 </div>
 <div>
@@ -112,6 +114,62 @@ consultez le [support de cours][course-material].
 
 ![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
 
+## Travailler en équipe efficacement
+
+<!-- _class: lead -->
+
+![bg opacity:0.2](https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?fit=crop&h=720)
+
+## 🏗️ Les outils
+
+- Préférez les individus et les interactions aux processus et aux outils
+- Git workflow
+- Automatisation
+- Peu d'outils, mais bien utilisés
+
+![bg left:40%](https://images.unsplash.com/photo-1531403009284-440f080d1e12?fit=crop&h=720)
+
+## 🤝 Votre équipe
+
+- Faire connaissance
+- Définir les compétences, limites et besoins de chaque personne
+- Définir les rôles et se les répartir
+
+![bg right:40%](https://images.unsplash.com/photo-1541532713592-79a0317b6b77?fit=crop&h=720)
+
+## Du Wireframe au MVP 🚀
+
+<!-- _class: lead -->
+
+## 🎨 Wireframe
+
+- Esquisse simple en noir et blanc
+- Focalisé sur la structure et l'expérience utilisateur
+
+![bg left:40%](https://images.unsplash.com/photo-1618788372246-79faff0c3742?fit=crop&h=720)
+
+## 🖼️ Mockup
+
+- Ajout de couleurs, typographies, visuels
+- Représentation statique et réaliste du produit
+
+## 🎛️ Prototype
+
+- Simule l'interaction utilisateur
+- Permet de tester l'ergonomie et l'expérience
+- N’est pas conçu pour durer
+- Ne devrait pas être utilisé en production
+
+![bg right:40%](https://images.unsplash.com/photo-1592660681825-70364e4dd0b9?fit=crop&h=720)
+
+## ⚡ MVP
+
+- Produit minimal fonctionnel
+- Permet d'obtenir des retours utilisateurs
+- Priorité : résoudre un problème clé avec le minimum d'effort
+
+![bg left:40%](https://images.unsplash.com/photo-1540468348633-084ed9d348f1?fit=crop&h=720)
+
 ## Questions
 
 <!-- _class: lead -->
@@ -125,6 +183,22 @@ Est-ce que vous avez des questions ?
   [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
 - Illustration par [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
+- Illustration par [Alvaro Reyes](https://unsplash.com/@alvarordesign) sur
+  [Unsplash](https://unsplash.com/photos/person-working-on-blue-and-white-paper-on-board-qWwpHwip31M)
+- Illustration par
+  [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
+  [Unsplash](https://unsplash.com/photos/man-standing-behind-flat-screen-computer-monitor-bzqU01v-G54)
+- Illustration par [John Arano](https://unsplash.com/@johnarano) sur
+  [Unsplash](https://unsplash.com/photos/three-people-holding-glass-bottles-while-talking-_qADvinJi20)
+- Illustration par [Faizur Rehman](https://unsplash.com/@fazurrehman) sur
+  [Unsplash](https://unsplash.com/photos/person-holding-black-ipad-with-green-plant-dJpupM4LiS4)
+- Illustration par [Mark König](https://unsplash.com/@markkoenig) sur
+  [Unsplash](https://unsplash.com/photos/blue-and-white-wooden-house-on-green-grass-field-during-daytime-1UMrSoItdDE)
+
+---
+
+- Illustration par [Niklas Tidbury](https://unsplash.com/@ntidbury) sur
+  [Unsplash](https://unsplash.com/photos/brown-and-gray-wooden-house-near-mountain-valley-during-daytime-tc3SyHYF_4s)
 
 <!-- URLs -->
 
