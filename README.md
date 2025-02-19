@@ -3,7 +3,7 @@
 [![Licence](https://img.shields.io/github/license/heig-vd-mvp-course/heig-vd-mvp-course)](./LICENSE.md)
 
 Bienvenue sur le dépôt principal du cours
-[_Lancez votre Minimum Viable Product (MVP)_](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379)
+[_Lancez votre minimum viable product (MVP)_](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379)
 enseigné à la
 [Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD)](https://heig-vd.ch),
 Suisse !

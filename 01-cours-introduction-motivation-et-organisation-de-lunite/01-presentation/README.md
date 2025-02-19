@@ -40,6 +40,9 @@ style: |
     section:not([class=lead]) > p, blockquote {
         text-align: justify;
     }
+    header {
+        font-size: 50%;
+    }
     .two-columns {
         display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -68,11 +71,13 @@ _paginate: false
 
 ![bg opacity:0.25][illustration]
 
-## Bienvenue au cours Lancez votre Minimum Viable Product (MVP) !
+## Bienvenue au cours Lancez votre minimum viable product (MVP) !
 
 <!-- _class: lead -->
 
-## Qui sommes-nous ?
+<!-- header: "**Introduction, motivation et organisation de l'unité**" -->
+
+## Qui sommes-nous
 
 <div class="two-columns center">
 <div>
@@ -82,10 +87,8 @@ Delafontaine**
 
 ![w:200](./images/ludovic-delafontaine.png)
 
-<small>
-<a href="mailto:ludovic.delafontaine@heig-vd.ch">ludovic.delafontaine@heig-vd.ch</a>
-<a href="https://github.com/ludelafo">github.com/ludelafo</a>
-</small>
+[E-mail](mailto:ludovic.delafontaine@heig-vd.ch) ·
+[GitHub](https://github.com/ludelafo)
 
 </div>
 <div>
@@ -95,11 +98,26 @@ Guidoux**
 
 ![w:200](./images/vincent-guidoux.png)
 
-[Mail](mailto:vincent.guidoux1@heig-vd.ch) ·
+[E-mail](mailto:vincent.guidoux1@heig-vd.ch) ·
 [GitHub](https://github.com/Nortalle)
 
 </div>
 </div>
+
+## Comment nous contacter
+
+<!-- header: '' -->
+
+Selon vos préférences, vous pouvez utiliser l'un des canaux de communication
+suivants pour toute question relative au cours :
+
+- [GitHub Discussions](https://github.com/orgs/heig-vd-mvp-course/discussions)
+  (à privilégier)
+- En personne
+- Par e-mail
+  - [Ludovic Delafontaine](mailto:ludovic.delafontaine@heig-vd.ch)
+  - [Vincent Guidoux](mailto:vincent.guidoux1@heig-vd.ch)
+- **Pas de messages sur Microsoft Teams s'il vous plaît**
 
 ## Plus de détails dans le support de cours
 
@@ -114,22 +132,37 @@ consultez le [support de cours][course-material].
 
 ![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
 
+## Objectifs du cours
+
+- TODO
+
+![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
+
+## Modalités d'évaluation
+
+### Évaluation écrite
+
+- TODO
+
 ## Travailler en équipe efficacement
 
-<!-- _class: lead -->
-
-![bg opacity:0.2](https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?fit=crop&h=720)
+<!--
+![bg opacity:0.2](https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?fit=crop&h=720) -->
 
 ## 🏗️ Les outils
+
+<!-- _header: "**Comment travailler en équipe de façon efficace**" -->
 
 - Préférez les individus et les interactions aux processus et aux outils
 - Git workflow
 - Automatisation
 - Peu d'outils, mais bien utilisés
 
-![bg left:40%](https://images.unsplash.com/photo-1531403009284-440f080d1e12?fit=crop&h=720)
+![bg right:40%](https://images.unsplash.com/photo-1531403009284-440f080d1e12?fit=crop&h=720)
 
 ## 🤝 Votre équipe
+
+<!-- _header: "**Comment travailler en équipe de façon efficace**" -->
 
 - Faire connaissance
 - Définir les compétences, limites et besoins de chaque personne
@@ -138,6 +171,8 @@ consultez le [support de cours][course-material].
 ![bg right:40%](https://images.unsplash.com/photo-1541532713592-79a0317b6b77?fit=crop&h=720)
 
 ## Du Wireframe au MVP 🚀
+
+<!-- _header: "**Comment travailler en équipe de façon efficace**" -->
 
 <!-- _class: lead -->
 
