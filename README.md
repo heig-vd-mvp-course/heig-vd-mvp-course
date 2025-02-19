@@ -128,9 +128,9 @@ il est recommandé pour la semaine suivante de :
 
 - Durée : 2 périodes
 - Présentation :
-  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/index.html)
+  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/01-presentation/index.html)
   ·
-  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service/02-projet-constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
+  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/01-presentation/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf)
 - Support de cours :
   [Markdown](./02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md)
 
