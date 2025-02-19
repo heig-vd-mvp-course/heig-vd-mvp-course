@@ -306,8 +306,7 @@ sont décrites ci-dessous.
 - 1 point - Le travail est réalisé
 - 2 points - Le travail est bien réalisé (sans la nécessité d’être parfait)
 
-Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1 =
-note finale
+Note maximale : (nombre de points obtenus / nombre de points maximum × 5 + 1)
 
 ### Grille d'évaluation des présentations
 

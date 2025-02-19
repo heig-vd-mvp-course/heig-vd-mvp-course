@@ -82,8 +82,10 @@ Delafontaine**
 
 ![w:200](./images/ludovic-delafontaine.png)
 
-[Mail](mailto:ludovic.delafontaine@heig-vd.ch) ·
-[GitHub](https://github.com/ludelafo)
+<small>
+<a href="mailto:ludovic.delafontaine@heig-vd.ch">ludovic.delafontaine@heig-vd.ch</a>
+<a href="https://github.com/ludelafo">github.com/ludelafo</a>
+</small>
 
 </div>
 <div>
