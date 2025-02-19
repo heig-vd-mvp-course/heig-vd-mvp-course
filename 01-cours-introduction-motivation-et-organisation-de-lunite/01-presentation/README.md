@@ -304,63 +304,91 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 
 ![bg right:40%](https://images.unsplash.com/photo-1487603527224-a650979f288e?fit=crop&h=720)
 
-## Travailler en équipe efficacement
+## Comment travailler en équipe de façon efficace
 
-![bg opacity:0.2](https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?fit=crop&h=720)
+- Il est rare qu'un projet soit réalisé par une seule personne
+- Savoir comment travailler en équipe de façon efficace
+- Principes de la gouvernance partagée et horizontale
 
-## 🏗️ Les outils
+![bg right:40%](https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?fit=crop&h=720)
+
+### Les outils à utiliser
 
 - Préférez les individus et les interactions aux processus et aux outils
+- Le meilleur des outils ne remplacera jamais une bonne communication
 - Git workflow
-- Automatisation
-- Peu d'outils, mais bien utilisés
 
 ![bg right:40%](https://images.unsplash.com/photo-1531403009284-440f080d1e12?fit=crop&h=720)
 
-## 🤝 Votre équipe
-
-<!-- _header: "**Comment travailler en équipe de façon efficace**" -->
+### Votre équipe
 
 - Faire connaissance
 - Définir les compétences, limites et besoins de chaque personne
-- Définir les rôles et se les répartir
+- Les rôles peuvent évoluer au fil du projet
+- Daily et weekly
 
 ![bg right:40%](https://images.unsplash.com/photo-1541532713592-79a0317b6b77?fit=crop&h=720)
 
-## Du Wireframe au MVP 🚀
+### Rôles
 
-<!-- _header: "**Comment travailler en équipe de façon efficace**" -->
+- Importance de bien définir les choses
+- Point de contact, décideur, scribe, facilitateur, développeur, designer,
+  testeur, etc.
 
-<!-- _class: lead -->
+![bg right:40%](https://images.unsplash.com/photo-1529699211952-734e80c4d42b?fit=crop&h=720)
 
-## 🎨 Wireframe
+### Séances
 
-- Esquisse simple en noir et blanc
-- Focalisé sur la structure et l'expérience utilisateur
+- Quand est-ce qu'on travaille ?
+- Gestion par consentement
+- Tour de table
+- L'importance des rôles
 
-![bg left:40%](https://images.unsplash.com/photo-1618788372246-79faff0c3742?fit=crop&h=720)
+![bg right:40%](https://images.unsplash.com/photo-1543269865-cbf427effbad?fit=crop&h=720)
 
-## 🖼️ Mockup
+## Différences entre un wireframe, un mockup, un prototype et un minimum viable product (MVP)
 
-- Ajout de couleurs, typographies, visuels
-- Représentation statique et réaliste du produit
+- **Wireframe** : définir la structure et la navigation
+- **Mockup** : visualiser l'apparence finale
+- **Prototype** : tester les interactions et l'ergonomie
+- **MVP** : lancer une première version utilisable sur le marché
 
-## 🎛️ Prototype
+![bg right:20%](https://images.unsplash.com/photo-1547057740-4b18aac8eed2?fit=crop&h=720)
+
+### Wireframe
+
+- Esquisse simplifiée du produit
+- Définit la structure et la navigation
+- Peu coûteux et rapide à réaliser
+- Papier-crayon
+
+![bg right:40%](https://images.unsplash.com/photo-1618788372246-79faff0c3742?fit=crop&h=720)
+
+### Mockup
+
+- Version plus détaillée du wireframe
+- Intègre l'aspect visuel du produit
+- De statique à dynamique
+- Utilisé pour obtenir des retours sur l'identité visuelle et l'expérience
+  utilisateur
+
+![bg right:40%](https://images.unsplash.com/photo-1703676311066-34caf2cbee33?fit=crop&h=720)
+
+### Prototype
 
 - Simule l'interaction utilisateur
 - Permet de tester l'ergonomie et l'expérience
-- N’est pas conçu pour durer
-- Ne devrait pas être utilisé en production
+- **N'est pas conçu pour durer et ne devrait pas être utilisé en production**
 
 ![bg right:40%](https://images.unsplash.com/photo-1592660681825-70364e4dd0b9?fit=crop&h=720)
 
-## ⚡ MVP
+### Minimum viable product (MVP)
 
-- Produit minimal fonctionnel
+- Produit minimal simple
 - Permet d'obtenir des retours utilisateurs
-- Priorité : résoudre un problème clé avec le minimum d'effort
+- Résoudre un problème clé avec le minimum d'effort
 
-![bg left:40%](https://images.unsplash.com/photo-1540468348633-084ed9d348f1?fit=crop&h=720)
+![bg right:40%](https://images.unsplash.com/photo-1540468348633-084ed9d348f1?fit=crop&h=720)
 
 ## Questions
 
@@ -413,6 +441,14 @@ Est-ce que vous avez des questions ?
 - Illustration par [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy)
   sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
+- Illustration par [Randy Fathe](https://unsplash.com/@randyfath) sur
+  [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-chess-pieces-G1yhU1Ej-9A)
+- Illustration par [Brooke Cagle](https://unsplash.com/@brookecagle) sur
+  [Unsplash](https://unsplash.com/photos/a-group-of-friends-at-a-coffee-shop--uHVRvDr7pg)
+- Illustration par [Steven Wright](https://unsplash.com/@stevenwright) sur
+  [Unsplash](https://unsplash.com/photos/magnifying-glass-mq8QogEBy00)
+- Illustration par [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki) sur
+  [Unsplash](https://unsplash.com/photos/a-pink-and-purple-phone-sitting-on-top-of-a-purple-and-pink-background-Z-vPf7KBuT8)
 
 <!-- URLs -->
 
