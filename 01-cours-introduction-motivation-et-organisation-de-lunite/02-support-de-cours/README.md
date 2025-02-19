@@ -381,10 +381,10 @@ important de savoir comment travailler en équipe de façon efficace. Nous allon
 parcourir certains points essentiels pour une collaboration fluide et
 productive.
 
-Nous nous inspirons ici des principes de la gouvernance partagée[^gouvernance]
-et horizontale, notamment l'holacratie[^holacratie], où chaque membre a un rôle
-clair et participe aux décisions collectives selon un mode de gestion par
-consentement.
+Nous nous inspirons ici des principes de la gouvernance partagée et horizontale,
+notamment l'holacratie, où chaque membre a un rôle clair et participe aux
+décisions collectives selon un mode de gestion par consentement[^gouvernance]
+[^holacratie].
 
 ### Les outils à utiliser
 
@@ -398,8 +398,8 @@ votre équipe, il ne sera pas efficace.
 Si votre projet concerne le développement d'un logiciel, nous vous recommandons
 d'utiliser Git pour gérer votre code. GitHub[^github] et GitLab[^gitlab] sont
 des solutions éprouvées qui facilitent la gestion collaborative du code. Le
-workflow[^git-workflows] [^gitflow] **_Issue_ -> _Pull Request_/_Merge Request_
--> _Review_ -> _Merge_** a déjà largement prouvé son efficacité.
+workflow **_Issue_ -> _Pull Request_/_Merge Request_ -> _Review_ -> _Merge_** a
+déjà largement prouvé son efficacité[^git-workflows] [^gitflow].
 
 N'hésitez pas à utiliser les concepts de pipeline de CI/CD afin d'automatiser
 les tests et les déploiements de votre code. Automatiser les tâches répétitives
@@ -423,9 +423,9 @@ personnalités[^personalite], mais de comprendre des aspects concrets et utiles 
   termes de communication et de soutien. Prendre en compte ces besoins favorise
   l'engagement et la montée en compétence.
 
-Des pratiques comme les check-ins réguliers[^scrum] (aussi appelés _"daily"_ en
-anglais) ou les rétrospectives d'équipe (aussi appelé _"weekly"_ en anglais)
-peuvent aider à mieux cerner ces éléments et à ajuster la dynamique de groupe.
+Des pratiques comme les check-ins réguliers (aussi appelés _"daily"_ en anglais)
+ou les rétrospectives d'équipe (aussi appelé _"weekly"_ en anglais) peuvent
+aider à mieux cerner ces éléments et à ajuster la dynamique de groupe[^scrum].
 
 ### Rôles
 
@@ -623,7 +623,7 @@ La séance de projet sera consacrée à la présentation des idées que vous ave
     Adobe XD, [adobe.com](https://helpx.adobe.com/ch_fr/support/xd.html), 19
     février 2025
 
-[^asana]: Asana, [asana.com](https://asana.com/fr>), 19 février 2025
+[^asana]: Asana, [asana.com](https://asana.com/fr), 19 février 2025
 [^balsamiq]: Balsamiq, [balsamiq.com](https://balsamiq.com/), 19 février 2025
 [^consentement]:
     Décision par consentement,
@@ -631,8 +631,8 @@ La séance de projet sera consacrée à la présentation des idées que vous ave
     19 février 2025
 
 [^jira]:
-    Jira, [atlassian.com](https://www.atlassian.com/fr/software/jira), 19
-    février 2025
+    Jira, [atlassian.com](https://www.atlassian.com/software/jira), 19 février
+    2025
 
 [^figma]: Figma, [figma.com](https://www.figma.com/), 19 février 2025
 [^github]: GitHub, [github.com](https://github.com/), 19 février 2025
@@ -662,6 +662,7 @@ La séance de projet sera consacrée à la présentation des idées que vous ave
     [16personalities.com](https://www.16personalities.com/fr/types-de-personnalite),
     19 février 2025
 
+[^trello]: Trello, [trello.com](https://trello.com/), 19 février 2025
 [^scrum]:
     Stand-ups Scrum,
     [atlassian.com](https://www.atlassian.com/agile/scrum/standups), 19 février
