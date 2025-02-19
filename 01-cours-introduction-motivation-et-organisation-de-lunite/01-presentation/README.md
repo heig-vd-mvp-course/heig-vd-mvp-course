@@ -138,7 +138,7 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
 
-## Objectifs (1/2)
+## Objectifs (2/2)
 
 - Décrire comment travailler en équipe de façon efficace
 - Décrire les différences entre un wireframe, un mockup, un prototype et un MVP
@@ -446,6 +446,9 @@ Est-ce que vous avez des questions ?
 - Illustration par [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy)
   sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
+
+## Sources (3/3)
+
 - Illustration par [Randy Fathe](https://unsplash.com/@randyfath) sur
   [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-chess-pieces-G1yhU1Ej-9A)
 
