@@ -414,7 +414,7 @@ pour favoriser l’apprentissage et l’adaptabilité.
 
 Voici quelques rôles possibles :
 
-- **Point of contact** : personne en lien avec les autres équipes, les
+- **Point de contact** : personne en lien avec les autres équipes, les
   encadrants et les parties prenantes, garantissant la circulation des
   informations ;
 - **Décideur** : personne qui tranche en cas de désaccord et prend les décisions
