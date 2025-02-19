@@ -275,7 +275,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 ### Grille d'évaluation des présentations
 
 - 8 critères
-- Basée sur, entre autres :
+- Basés, entre autres, sur :
   - La qualité de la présentation
   - La qualité de l'argumentation
   - La qualité des réponses aux questions
@@ -286,7 +286,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 ### Grille d'évaluation du rapport final
 
 - 16 critères
-- Basée sur, entre autres :
+- Basés, entre autres, sur :
   - La qualité de la rédaction
   - La qualité du contenu
 - 12 pages maximum (sans compter les images, tableaux, annexes, etc.)
@@ -297,7 +297,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 ### Grille d'évaluation du produit final
 
 - 8 critères
-- Basée sur, entre autres :
+- Basés, entre autres, sur :
   - La qualité de la réalisation et de l'expérience utilisateur
 - 12 pages maximum (sans compter les images, tableaux, annexes, etc.)
 - [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-du-produit-final)
