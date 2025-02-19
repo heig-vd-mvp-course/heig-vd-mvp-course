@@ -16,7 +16,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Partie 1/3](#partie-13)
   - [Objectifs](#objectifs)
   - [Déroulement](#déroulement)
-  - [Conclusion](#conclusion)
   - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Sources](#sources)
 
@@ -24,11 +23,13 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 ### Objectifs
 
-Bienvenue à la première séance pratique du cours "Lancez votre MVP" !
+Bienvenue dans la première séance pratique du cours _Lancez votre minimum viable
+product (MVP)_ !
 
-Cette séance a pour but de lancer le projet du cours. Nous allons commencer par
-vous laisser du temps pour faire connaissance, présenter les idées existantes et
-commencer à explorer d'autres idées.
+Cette séance a pour but de lancer le projet sur lequel vous allez pouvoir
+travailler tout au long du cours. Nous allons commencer par vous laisser du
+temps pour faire connaissance, présenter les idées existantes et vous permettre
+de commencer à explorer d'autres idées.
 
 De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
 
@@ -45,26 +46,20 @@ De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
 
 Durant ces séances pratiques, nous vous invitons à être autonome et à travailler
 en équipe ou de manière individuelle pour avancer sur votre projet selon les
-objectifs décrits si-dessus. Nous serons là pour vous aider et vous accompagner
+objectifs décrits ci-dessus. Nous serons là pour vous aider et vous accompagner
 dans votre projet.
 
 ### Déroulement
 
-Nous vous invitons maintenant à commencer par vous présenter, puis à présenter
-votre idée de projet. Vous pouvez également poser des questions aux autres
-personnes pour mieux comprendre leur(s) idée(s).
+Nous vous invitons maintenant à vous présenter et votre idée de projet si vous
+en avez une. N'hésitez pas à poser des questions aux autres personnes pour mieux
+comprendre leur(s) idée(s).
 
-Ensuite, nous vous invitons à former des groupes avec des personnes qui ont des
-intérêts similaires. Vous pouvez également former des groupes avec des personnes
-qui ont des intérêts différents pour avoir une vision plus large.
+Ensuite, nous vous invitons à former des groupes avec les personnes/projets qui
+vont inspirés ou à réfléchir à une idée personnelle.
 
-Enfin, nous vous invitons à explorer d'autres idées pour voir si vous trouvez
-une idée qui vous plaît plus que celle que vous avez présentée.
-
-### Conclusion
-
-Au terme de cette séance, vous devriez avoir une idée plus claire de ce que vous
-voulez faire et avec qui vous voulez le faire.
+Enfin, nous vous invitons à prendre connaissance de la structure et critères du
+rapport final et explorer/approfondir d'autres idées.
 
 ### À faire pour la semaine suivante
 

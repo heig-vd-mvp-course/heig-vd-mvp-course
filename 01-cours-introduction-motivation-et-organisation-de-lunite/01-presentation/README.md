@@ -41,6 +41,9 @@ style: |
     section:not(.lead) > p, blockquote {
         text-align: justify;
     }
+    section:has(h1) {
+        padding: 50px;
+    }
     section:has(h1) > header {
         display: none;
     }
@@ -122,8 +125,8 @@ suivants pour toute question relative au cours :
 
 <!-- _class: lead -->
 
-Cette présentation est un résumé du support de cours. Pour plus de détails,
-consultez le [support de cours][course-material].
+_Cette présentation est un résumé du support de cours. Pour plus de détails,
+consultez le [support de cours][course-material]._
 
 ## Objectifs
 

@@ -100,8 +100,8 @@ Les numéros des semaines correspondent aux semaines définies dans le
 - Lister les modalités d'organisation du projet
 - Lister les modalités d'évaluation
 - Décrire comment travailler en équipe de façon efficace
-- Décrire ce qu'est un MVP
 - Décrire les différences entre un wireframe, un mockup, un prototype et un MVP
+- Décrire ce qu'est un MVP
 
 **Méthodes d'enseignement et d'apprentissage**
 

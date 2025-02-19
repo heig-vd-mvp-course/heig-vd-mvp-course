@@ -38,8 +38,17 @@ style: |
     h1 a:link, h2 a:link, h3 a:link, h4 a:link, h5 a:link, h6 a:link {
         text-decoration: none;
     }
-    section:not([class=lead]) > p, blockquote {
+    section:not(.lead) > p, blockquote {
         text-align: justify;
+    }
+    section:has(h1) {
+        padding: 50px;
+    }
+    section:has(h1) > header {
+        display: none;
+    }
+    section > header {
+        font-size: 50%;
     }
 headingDivider: 6
 -->
@@ -65,26 +74,60 @@ _paginate: false
 
 <!-- _class: lead -->
 
-Cette présentation est un résumé du support de cours. Pour plus de détails,
-consultez le [support de cours][course-material].
+_Cette présentation est un résumé du support de cours. Pour plus de détails,
+consultez le [support de cours][course-material]._
 
-## Objectifs
-
-- TODO
-
-![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
-
-## Questions
+## Partie 1/3
 
 <!-- _class: lead -->
 
-Est-ce que vous avez des questions ?
+### Objectifs
+
+- Faire connaissance
+- Présenter les idées existantes
+- Constituer les groupes
+- Connaître les intérêts de chaque personne
+- Définir les rôles de chaque personne
+- Organiser le travail en équipe sur le semestre
+
+![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
+
+---
+
+- Explorer d'autres idées
+- Commencer à approfondir une idée
+- Prendre connaissance de la structure attendue et des critères d'évaluation du
+  rendu final
+
+![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
+
+### Déroulement
+
+Nous vous invitons maintenant à vous présenter et votre idée de projet si vous
+en avez une. N'hésitez pas à poser des questions aux autres personnes pour mieux
+comprendre leur(s) idée(s).
+
+Ensuite, nous vous invitons à former des groupes avec les personnes/projets qui
+vont inspirés ou à réfléchir à une idée personnelle.
+
+Enfin, nous vous invitons à prendre connaissance de la structure et critères du
+rapport final et explorer/approfondir d'autres idées.
+
+### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
+  pour le projet
 
 ## Sources
 
 - Illustration principale par
   [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
   [Unsplash](https://unsplash.com/photos/man-standing-behind-flat-screen-computer-monitor-bzqU01v-G54)
+- Illustration par [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
+  [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
 
 <!-- URLs -->
 
