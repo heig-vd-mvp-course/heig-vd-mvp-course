@@ -10,7 +10,8 @@ author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 title: HEIG-VD MVP Course - Se faire payer pour sa passion - Quiz
 description: Quiz sur le chapitre Se faire payer pour sa passion pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/03-quiz/index.html
-footer: '**HEIG-VD** - MVP Course 2024-2025 - CC BY-SA 4.0'
+header: "**Se faire payer pour sa passion - Quiz**"
+footer: "**HEIG-VD** - MVP Course 2024-2025 - CC BY-SA 4.0"
 style: |
     :root {
         --color-background: #fff;
@@ -37,8 +38,17 @@ style: |
     h1 a:link, h2 a:link, h3 a:link, h4 a:link, h5 a:link, h6 a:link {
         text-decoration: none;
     }
-    section:not([class=lead]) > p, blockquote {
+    section:not(.lead) > p, blockquote {
         text-align: justify;
+    }
+    section:has(h1) {
+        padding: 50px;
+    }
+    section:has(h1) > header {
+        display: none;
+    }
+    section > header {
+        font-size: 50%;
     }
 headingDivider: 6
 -->

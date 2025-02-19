@@ -3,7 +3,7 @@
 [![Licence](https://img.shields.io/github/license/heig-vd-mvp-course/heig-vd-mvp-course)](./LICENSE.md)
 
 Bienvenue sur le dépôt principal du cours
-[_Lancez votre Minimum Viable Product (MVP)_](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379)
+[_Lancez votre minimum viable product (MVP)_](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379)
 enseigné à la
 [Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD)](https://heig-vd.ch),
 Suisse !
@@ -22,8 +22,8 @@ Suisse !
   donnée
 - Utiliser les bonnes pratiques de programmation pour rendre une application
   viable et pérenne dans le temps
-- Créer, maintenir, déployer une application web de type MVP (Minimum Viable
-  Product) attractive proposant un service à son public cible
+- Créer, maintenir, déployer une application web de type minimum viable product
+  (MVP) attractive proposant un service à son public cible
 - Inclure un moyen de paiement sur un site web et se faire rémunérer pour ses
   services
 - Mettre en place des applications durables (autant au niveau technique qu'au
@@ -100,8 +100,8 @@ Les numéros des semaines correspondent aux semaines définies dans le
 - Lister les modalités d'organisation du projet
 - Lister les modalités d'évaluation
 - Décrire comment travailler en équipe de façon efficace
-- Décrire ce qu'est un MVP
 - Décrire les différences entre un wireframe, un mockup, un prototype et un MVP
+- Décrire ce qu'est un MVP
 
 **Méthodes d'enseignement et d'apprentissage**
 
