@@ -446,9 +446,6 @@ Est-ce que vous avez des questions ?
 - Illustration par [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy)
   sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
-
-## Sources (3/3)
-
 - Illustration par [Randy Fathe](https://unsplash.com/@randyfath) sur
   [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-chess-pieces-G1yhU1Ej-9A)
 - Illustration par [Brooke Cagle](https://unsplash.com/@brookecagle) sur
