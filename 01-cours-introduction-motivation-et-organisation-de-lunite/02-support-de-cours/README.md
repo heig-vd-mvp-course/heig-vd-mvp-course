@@ -620,40 +620,49 @@ La séance de projet sera consacrée à la présentation des idées que vous ave
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md
 
 [^adobe-xd]:
-    Adobe XD, https://helpx.adobe.com/ch_fr/support/xd.html, 19 février 2025
+    Adobe XD, [adobe.com](https://helpx.adobe.com/ch_fr/support/xd.html), 19
+    février 2025
 
-[^asana]: Asana, https://asana.com/fr, 19 février 2025
-[^balsamiq]: Balsamiq, https://balsamiq.com/, 19 février 2025
+[^asana]: Asana, [asana.com](https://asana.com/fr>), 19 février 2025
+[^balsamiq]: Balsamiq, [balsamiq.com](https://balsamiq.com/), 19 février 2025
 [^consentement]:
     Décision par consentement,
-    https://imfusio.com/es/bibliotheque/decision-par-consentement, 19 février
-    2025
+    [imfusio.com](https://imfusio.com/es/bibliotheque/decision-par-consentement),
+    19 février 2025
 
-[^jira]: Jira, https://www.atlassian.com/fr/software/jira, 19 février 2025
-[^figma]: Figma, https://www.figma.com/, 19 février 2025
-[^github]: GitHub, https://github.com/, 19 février 2025
-[^gitlab]: GitLab, https://gitlab.com/, 19 février 2025
+[^jira]:
+    Jira, [atlassian.com](https://www.atlassian.com/fr/software/jira), 19
+    février 2025
+
+[^figma]: Figma, [figma.com](https://www.figma.com/), 19 février 2025
+[^github]: GitHub, [github.com](https://github.com/), 19 février 2025
+[^gitlab]: GitLab, [gitlab.com](https://gitlab.com/), 19 février 2025
 [^git-workflows]:
     Comparaison des workflows Git,
-    https://www.atlassian.com/git/tutorials/comparing-workflows, 19 février 2025
+    [atlassian.com](https://www.atlassian.com/git/tutorials/comparing-workflows),
+    19 février 2025
 
 [^gouvernance]:
     Gouvernance partagée,
-    https://fr.wikipedia.org/wiki/Gouvernance_partag%C3%A9e, 19 février 2025
+    [fr.wikipedia.org](https://fr.wikipedia.org/wiki/Gouvernance_partag%C3%A9e),
+    19 février 2025
 
 [^gitflow]:
     Workflow GitFlow,
-    https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow,
+    [atlassian.com](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow),
     19 février 2025
 
 [^holacratie]:
-    Holacratie, https://fr.wikipedia.org/wiki/Holacratie, 19 février 2025
+    Holacratie, [fr.wikipedia.org](https://fr.wikipedia.org/wiki/Holacratie), 19
+    février 2025
 
-[^penpot]: Penpot, https://penpot.app/, 19 février 2025
+[^penpot]: Penpot, [penpot.app](https://penpot.app/), 19 février 2025
 [^personalite]:
     Types de personnalité,
-    https://www.16personalities.com/fr/types-de-personnalite, 19 février 2025
+    [16personalities.com](https://www.16personalities.com/fr/types-de-personnalite),
+    19 février 2025
 
 [^scrum]:
-    Stand-ups Scrum, https://www.atlassian.com/agile/scrum/standups, 19 février
+    Stand-ups Scrum,
+    [atlassian.com](https://www.atlassian.com/agile/scrum/standups), 19 février
     2025
