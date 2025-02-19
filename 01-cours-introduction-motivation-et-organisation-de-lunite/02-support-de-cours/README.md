@@ -610,8 +610,6 @@ La séance de projet sera consacrée à la présentation des idées que vous ave
 - Illustration principale par [Annie Spratt](https://unsplash.com/@anniespratt)
   sur
   [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
-- Illustration par [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
-  [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
 
 <!-- URLs -->
 
