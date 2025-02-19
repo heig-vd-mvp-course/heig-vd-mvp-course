@@ -448,6 +448,9 @@ Est-ce que vous avez des questions ?
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
 - Illustration par [Randy Fathe](https://unsplash.com/@randyfath) sur
   [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-chess-pieces-G1yhU1Ej-9A)
+
+## Sources (3/3)
+
 - Illustration par [Brooke Cagle](https://unsplash.com/@brookecagle) sur
   [Unsplash](https://unsplash.com/photos/a-group-of-friends-at-a-coffee-shop--uHVRvDr7pg)
 - Illustration par [Steven Wright](https://unsplash.com/@stevenwright) sur
