@@ -22,8 +22,8 @@ Suisse !
   donnée
 - Utiliser les bonnes pratiques de programmation pour rendre une application
   viable et pérenne dans le temps
-- Créer, maintenir, déployer une application web de type MVP (Minimum Viable
-  Product) attractive proposant un service à son public cible
+- Créer, maintenir, déployer une application web de type minimum viable product
+  (MVP) attractive proposant un service à son public cible
 - Inclure un moyen de paiement sur un site web et se faire rémunérer pour ses
   services
 - Mettre en place des applications durables (autant au niveau technique qu'au

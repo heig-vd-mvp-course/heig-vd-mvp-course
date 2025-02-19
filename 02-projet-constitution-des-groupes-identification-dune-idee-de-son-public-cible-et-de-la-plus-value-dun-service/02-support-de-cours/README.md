@@ -18,19 +18,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Déroulement](#déroulement)
   - [Conclusion](#conclusion)
   - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-  - [Qu'est-ce que vous ferez ensuite ?](#quest-ce-que-vous-ferez-ensuite-)
-- [Partie 2/3](#partie-23)
-  - [Objectifs](#objectifs-1)
-  - [Déroulement](#déroulement-1)
-  - [Conclusion](#conclusion-1)
-  - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante-1)
-  - [Qu'est-ce que vous ferez ensuite ?](#quest-ce-que-vous-ferez-ensuite--1)
-- [Partie 3/3](#partie-33)
-  - [Objectifs](#objectifs-2)
-  - [Déroulement](#déroulement-2)
-  - [Conclusion](#conclusion-2)
-  - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante-2)
-  - [Qu'est-ce que vous ferez ensuite ?](#quest-ce-que-vous-ferez-ensuite--2)
 - [Sources](#sources)
 
 ## Partie 1/3
@@ -87,11 +74,7 @@ il est recommandé pour la semaine suivante de :
 - Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
   pour le projet
 
-### Qu'est-ce que vous ferez ensuite ?
-
-La prochaine séance sera consacrée à l'approfondissement de l'idée choisie et à
-la rédaction d'un document de présentation.
-
+<!--
 ## Partie 2/3
 
 ### Objectifs
@@ -136,19 +119,19 @@ TODO
 
 TODO
 
+-->
+
 ## Sources
 
-- Illustration principale par [Annie Spratt](https://unsplash.com/@anniespratt)
-  sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
-- Illustration par [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
-  [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
+- Illustration principale par
+  [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
+  [Unsplash](https://unsplash.com/photos/man-standing-behind-flat-screen-computer-monitor-bzqU01v-G54)
 
 <!-- URLs -->
 
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?fit=crop&h=720
 [course-material]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md

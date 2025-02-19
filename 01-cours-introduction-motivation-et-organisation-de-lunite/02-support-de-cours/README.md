@@ -21,7 +21,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Évaluation écrite](#évaluation-écrite)
   - [Présentations](#présentations)
   - [Rapport final](#rapport-final)
-  - [Rendu du produit final](#rendu-du-produit-final)
+  - [Produit final](#produit-final)
 - [Grilles d'évaluation](#grilles-dévaluation)
   - [Critères d'évaluation](#critères-dévaluation)
   - [Grille d'évaluation des présentations](#grille-dévaluation-des-présentations)
@@ -44,8 +44,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 ## Objectifs
 
-Bienvenue dans la première séance théorique du cours _Lancez votre Minimum
-Viable Product (MVP)_ !
+Bienvenue dans la première séance théorique du cours _Lancez votre minimum
+viable product (MVP)_ !
 
 Cette séance a pour but de vous présenter le cours avec ses objectifs, ses
 modalités d'évaluation et son organisation ainsi que quelques outils et conseils
@@ -77,8 +77,8 @@ Selon la
   donnée
 - Utiliser les bonnes pratiques de programmation pour rendre une application
   viable et pérenne dans le temps
-- Créer, maintenir, déployer une application web de type MVP (Minimum Viable
-  Product) attractive proposant un service à son public cible
+- Créer, maintenir, déployer une application web de type minimum viable product
+  (MVP) attractive proposant un service à son public cible
 - Inclure un moyen de paiement sur un site web et se faire rémunérer pour ses
   services
 - Mettre en place des applications durables (autant au niveau technique qu'au
@@ -117,7 +117,18 @@ Le projet est une partie importante de ce cours. Il vous permettra de mettre en
 pratique les connaissances acquises durant le cours et de vous confronter à la
 réalité du terrain.
 
+Le projet est libre. Vous êtes libres de choisir le sujet de votre projet, le
+public cible, les technologies utilisées, etc.
+
+La seule contrainte est que le projet doit viser un "large" public. Cela
+signifie que le projet ne doit pas être destiné à un public restreint (par
+exemple, un projet destiné à une seule entreprise ou à un seul groupe de
+personnes).
+
 Le projet peut se dérouler en équipe ou en solo ; vous êtes libres de choisir.
+Il n'y a pas de taille maximum pour les équipes mais nous vous recommandons de
+ne pas dépasser cinq personnes pour des raisons de communication et de
+coordination.
 
 Les premières séances de projet auront pour but de vous permettre de présenter
 les idées que vous avez et de former des équipes si vous le souhaitez ou de
@@ -166,8 +177,8 @@ Les retours ne seront pas pris en compte dans la note et devraient permettre aux
 membres du groupe de s'améliorer.
 
 Les présentations seront notées sur la qualité de la présentation, la qualité de
-l'argumentation, la qualité de la réponse aux questions et la qualité de
-l'écoute des retours.
+l'argumentation, la qualité des réponses aux questions et la qualité de l'écoute
+des retours.
 
 Sauf cas contraire, les présentations sont libres et tout support peut être
 utilisé pour transmettre l'information. Vous êtes libres de choisir le format de
@@ -265,17 +276,22 @@ au long du semestre si besoin.
 - Il n'est pas nécessaire de fournir les wireframes/mockups pour les
   fonctionnalités basiques (login, logout, etc.)
 
-### Rendu du produit final
+### Produit final
 
 Le résultat final du projet devra être rendu sous forme d'un lien vers un dépôt
 Git contenant le code source de votre projet ou d'une archive contenant le code
 source de votre projet rendue par mail aux personnes qui enseignent.
 
-De plus, un lien vers le site web de votre projet devra être fourni.
+De plus, un lien vers le site web de votre projet devra être fourni. Cela nous
+permettra de tester l'application.
 
-Cela nous permettra de tester l'application et de voir le code source afin de
-vous faire un sommaire retour. Nous n'allons pas évaluer la qualité du code
-source mais il nous intéresse de voir comment vous avez réalisé votre projet.
+Le produit final sera noté sur la qualité de l'application, la qualité de la
+présentation de la problématique et de la solution, la qualité de la navigation
+et la qualité du service.
+
+Nous vous demanderons de fournir le code source afin de vous faire un sommaire
+retour. Nous n'allons pas évaluer la qualité du code source en détails mais il
+nous intéresse de voir comment vous avez réalisé votre projet.
 
 La grille d'évaluation du produit final est disponible ici :
 [Grille d'évaluation du produit final](#grille-dévaluation-du-produit-final)
@@ -309,7 +325,7 @@ sont décrites ci-dessous.
 - 1 point - Le travail est réalisé
 - 2 points - Le travail est bien réalisé (sans la nécessité d'être parfait)
 
-Note maximale : (nombre de points obtenus / nombre de points maximum × 5 + 1)
+Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 
 ### Grille d'évaluation des présentations
 

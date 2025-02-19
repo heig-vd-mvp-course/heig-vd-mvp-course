@@ -10,7 +10,8 @@ author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 title: HEIG-VD MVP Course - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service
 description: Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/01-presentation/index.html
-footer: '**HEIG-VD** - MVP Course 2024-2025 - CC BY-SA 4.0'
+header: "**Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service**"
+footer: "**HEIG-VD** - MVP Course 2024-2025 - CC BY-SA 4.0"
 style: |
     :root {
         --color-background: #fff;
@@ -81,11 +82,9 @@ Est-ce que vous avez des questions ?
 
 ## Sources
 
-- Illustration principale par [Annie Spratt](https://unsplash.com/@anniespratt)
-  sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
-- Illustration par [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
-  [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
+- Illustration principale par
+  [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
+  [Unsplash](https://unsplash.com/photos/man-standing-behind-flat-screen-computer-monitor-bzqU01v-G54)
 
 <!-- URLs -->
 
@@ -96,6 +95,6 @@ Est-ce que vous avez des questions ?
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?fit=crop&h=720
 [course-material]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md
