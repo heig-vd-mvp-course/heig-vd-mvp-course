@@ -365,24 +365,25 @@ important de savoir comment travailler en équipe de façon efficace. Nous allon
 parcourir certains points essentiels pour une collaboration fluide et
 productive.
 
-Nous nous inspirons ici des principes de la gouvernance partagée et horizontale,
-notamment l'holacratie, où chaque membre a un rôle clair et participe aux
-décisions collectives selon un mode de gestion par consentement.
+Nous nous inspirons ici des principes de la gouvernance partagée[^gouvernance]
+et horizontale, notamment l'holacratie[^holacratie], où chaque membre a un rôle
+clair et participe aux décisions collectives selon un mode de gestion par
+consentement.
 
 ### Les outils à utiliser
 
-De nombreuses solutions existent pour le travail en équipe (Jira, Trello, Asana,
-etc.), et il est facile de se sentir perdu face à tant d'options. Toutefois, il
-est toujours plus important de mettre l'accent sur les individus et leurs
-interactions plutôt que sur les outils et les processus. Quel que soit l'outil
-que vous choisissez, s'il ne convient pas à votre équipe, il ne sera pas
-efficace.
+De nombreuses solutions existent pour le travail en équipe (Jira[^jira],
+Trello[^trello], Asana[^asana], etc.), et il est facile de se sentir perdu face
+à tant d'options. Toutefois, il est toujours plus important de mettre l'accent
+sur les individus et leurs interactions plutôt que sur les outils et les
+processus. Quel que soit l'outil que vous choisissez, s'il ne convient pas à
+votre équipe, il ne sera pas efficace.
 
 Si votre projet concerne le développement d'un logiciel, nous vous recommandons
-d'utiliser Git pour gérer votre code. GitHub et GitLab sont des solutions
-éprouvées qui facilitent la gestion collaborative du code. Le workflow **_Issue_
--> _Pull Request_/_Merge Request_ -> _Review_ -> _Merge_** a déjà largement
-prouvé son efficacité.
+d'utiliser Git pour gérer votre code. GitHub[^github] et GitLab[^gitlab] sont
+des solutions éprouvées qui facilitent la gestion collaborative du code. Le
+workflow[^git-workflows] [^gitflow] **_Issue_ -> _Pull Request_/_Merge Request_
+-> _Review_ -> _Merge_** a déjà largement prouvé son efficacité.
 
 N'hésitez pas à utiliser les concepts de pipeline de CI/CD afin d'automatiser
 les tests et les déploiements de votre code. Automatiser les tâches répétitives
@@ -393,9 +394,8 @@ complexité de l'automatisation.**
 ### Votre équipe
 
 Il est essentiel de bien connaître les membres de votre équipe. Nous ne parlons
-pas forcément d'évaluer leur personnalité via des tests comme
-[Les 16 personnalités](https://www.16personalities.com/fr/types-de-personnalite),
-mais de comprendre des aspects concrets et utiles :
+pas forcément d'évaluer leur personnalité via des tests comme les 16
+personnalités[^personalite], mais de comprendre des aspects concrets et utiles :
 
 - **Les compétences** : connaître les forces de chacun permet de mieux répartir
   les responsabilités et d'optimiser la collaboration.
@@ -407,9 +407,9 @@ mais de comprendre des aspects concrets et utiles :
   termes de communication et de soutien. Prendre en compte ces besoins favorise
   l'engagement et la montée en compétence.
 
-Des pratiques comme les check-ins réguliers (aussi appelés _"daily"_ en anglais)
-ou les rétrospectives d'équipe (aussi appelé _"weekly"_ en anglais) peuvent
-aider à mieux cerner ces éléments et à ajuster la dynamique de groupe.
+Des pratiques comme les check-ins réguliers[^scrum] (aussi appelés _"daily"_ en
+anglais) ou les rétrospectives d'équipe (aussi appelé _"weekly"_ en anglais)
+peuvent aider à mieux cerner ces éléments et à ajuster la dynamique de groupe.
 
 ### Rôles
 
@@ -472,9 +472,9 @@ avant de clarifier ou de proposer des ajustements.
 Si nous sommes d'accord avec ce qui a été dit, nous pouvons simplement faire un
 signe convenu par l'équipe (comme lever les mains et les secouer).
 
-Cette approche, inspirée de la **gestion par consentement**, garantit que les
-décisions sont prises en tenant compte des avis de tous, sans tomber dans des
-débats interminables.
+Cette approche, inspirée de la **gestion par consentement**[^consentement],
+garantit que les décisions sont prises en tenant compte des avis de tous, sans
+tomber dans des débats interminables.
 
 En appliquant ces principes, vous favorisez une collaboration plus fluide,
 efficace et respectueuse des besoins de chacun. Certains de ces concepts
@@ -512,7 +512,7 @@ graphiques.
 - Très rapide et peu coûteux à réaliser
 - Utilisé pour aligner l'équipe sur la structure du produit
 - Peut être fait avec des outils simples comme du papier-crayon ou des logiciels
-  dédiés (Balsamiq)
+  dédiés (Balsamiq[^balsamiq])
 - Idéal pour tester et ajuster rapidement la disposition des éléments
 
 ### Mockup
@@ -533,8 +533,8 @@ Il peut être statique (simple représentation graphique) ou dynamique
 équipes médias ou design. Elle peut prendre la forme d'un PDF qui permet de
 valider l'identité visuelle, les couleurs, les polices, etc. La seconde forme
 est plus utilisée par les équipes techniques pour valider les interactions, les
-animations, etc. Des logiciels comme Penpot, Figma ou Adobe XD permettent de
-réaliser des mockups interactifs.
+animations, etc. Des logiciels comme Penpot[^penpot], Figma[^figma] ou Adobe
+XD[^adobe-xd] permettent de réaliser des mockups interactifs.
 
 ### Prototype
 
@@ -603,38 +603,41 @@ La séance de projet sera consacrée à la présentation des idées que vous ave
 [course-material]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md
 
-[^1]:
-    Gouvernance partagée,
-    https://fr.wikipedia.org/wiki/Gouvernance_partag%C3%A9e, 19 février 2025
+[^adobe-xd]:
+    Adobe XD, https://helpx.adobe.com/ch_fr/support/xd.html, 19 février 2025
 
-[^2]: Holacratie, https://fr.wikipedia.org/wiki/Holacratie, 19 février 2025
-[^3]: Jira, https://www.atlassian.com/fr/software/jira, 19 février 2025
-[^4]: Asana, https://asana.com/fr, 19 février 2025
-[^5]: GitHub, https://github.com/, 19 février 2025
-[^6]: GitLab, https://gitlab.com/, 19 février 2025
-[^7]:
-    Comparaison des workflows Git,
-    https://www.atlassian.com/git/tutorials/comparing-workflows, 19 février 2025
-
-[^8]:
-    Workflow GitFlow,
-    https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow,
-    19 février 2025
-
-[^9]:
-    Types de personnalité,
-    https://www.16personalities.com/fr/types-de-personnalite, 19 février 2025
-
-[^10]:
-    Stand-ups Scrum, https://www.atlassian.com/agile/scrum/standups, 19 février
-    2025
-
-[^11]:
+[^asana]: Asana, https://asana.com/fr, 19 février 2025
+[^balsamiq]: Balsamiq, https://balsamiq.com/, 19 février 2025
+[^consentement]:
     Décision par consentement,
     https://imfusio.com/es/bibliotheque/decision-par-consentement, 19 février
     2025
 
-[^12]: Balsamiq, https://balsamiq.com/, 19 février 2025
-[^13]: Figma, https://www.figma.com/, 19 février 2025
-[^14]: Penpot, https://penpot.app/, 19 février 2025
-[^15]: Adobe XD, https://helpx.adobe.com/ch_fr/support/xd.html, 19 février 2025
+[^jira]: Jira, https://www.atlassian.com/fr/software/jira, 19 février 2025
+[^figma]: Figma, https://www.figma.com/, 19 février 2025
+[^github]: GitHub, https://github.com/, 19 février 2025
+[^gitlab]: GitLab, https://gitlab.com/, 19 février 2025
+[^git-workflows]:
+    Comparaison des workflows Git,
+    https://www.atlassian.com/git/tutorials/comparing-workflows, 19 février 2025
+
+[^gouvernance]:
+    Gouvernance partagée,
+    https://fr.wikipedia.org/wiki/Gouvernance_partag%C3%A9e, 19 février 2025
+
+[^gitflow]:
+    Workflow GitFlow,
+    https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow,
+    19 février 2025
+
+[^holacratie]:
+    Holacratie, https://fr.wikipedia.org/wiki/Holacratie, 19 février 2025
+
+[^penpot]: Penpot, https://penpot.app/, 19 février 2025
+[^personalite]:
+    Types de personnalité,
+    https://www.16personalities.com/fr/types-de-personnalite, 19 février 2025
+
+[^scrum]:
+    Stand-ups Scrum, https://www.atlassian.com/agile/scrum/standups, 19 février
+    2025
