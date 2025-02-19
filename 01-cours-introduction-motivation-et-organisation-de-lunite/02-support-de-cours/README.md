@@ -247,12 +247,11 @@ plus adaptée à votre projet :
 Le rapport peut être réalisé avec l'outil de votre choix mais voici une liste
 d'outils que vous pourriez utiliser si vous n'en avez pas en tête :
 
-- [Typst](https://typs.app/)
-- [LaTeX](https://www.latex-project.org/)
-- [Markdown](https://daringfireball.net/projects/markdown/)
-- [Google Docs](https://docs.google.com/)
-- [Microsoft Word](https://www.microsoft.com/microsoft-365/word) (si vous
-  souhaitez vraiment vous faire du mal)
+- Typst[^typst]
+- LaTeX[^latex]
+- Markdown[^markdown]
+- Google Docs[^google-docs]
+- Microsoft Word[^microsoft-word] (si vous souhaitez vraiment vous faire du mal)
 
 La grille d'évaluation du rapport final est disponible ici :
 [Grille d'évaluation du rapport final](#grille-dévaluation-du-rapport-final).
@@ -652,9 +651,25 @@ La séance de projet sera consacrée à la présentation des idées que vous ave
     [atlassian.com](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow),
     19 février 2025
 
+[^google-docs]:
+    Google Docs, [docs.google.com](https://docs.google.com/), 19 février 2025
+
 [^holacratie]:
     Holacratie, [fr.wikipedia.org](https://fr.wikipedia.org/wiki/Holacratie), 19
     février 2025
+
+[^latex]:
+    LaTeX, [latex-project.org](https://www.latex-project.org/), 19 février 2025
+
+[^markdown]:
+    Markdown,
+    [daringfireball.net](https://daringfireball.net/projects/markdown/), 19
+    février 2025
+
+[^microsoft-word]:
+    Microsoft Word,
+    [microsoft.com](https://www.microsoft.com/microsoft-365/word), 19 février
+    2025
 
 [^penpot]: Penpot, [penpot.app](https://penpot.app/), 19 février 2025
 [^personalite]:
@@ -663,6 +678,7 @@ La séance de projet sera consacrée à la présentation des idées que vous ave
     19 février 2025
 
 [^trello]: Trello, [trello.com](https://trello.com/), 19 février 2025
+[^typst]: Typst, [typs.app](https://typs.app/), 19 février 2025
 [^scrum]:
     Stand-ups Scrum,
     [atlassian.com](https://www.atlassian.com/agile/scrum/standups), 19 février
