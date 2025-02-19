@@ -191,7 +191,7 @@ Le temps alloué pour chaque présentation sera défini en fonction du nombre de
 groupes qui présentent et vous sera communiqué à l'avance pour vous préparer.
 
 La grille d'évaluation des présentations est disponible ici :
-[Grille d'évaluation des présentations](#grille-dévaluation-des-présentations)
+[Grille d'évaluation des présentations](#grille-dévaluation-des-présentations).
 
 #### Contraintes
 
@@ -255,7 +255,7 @@ d'outils que vous pourriez utiliser si vous n'en avez pas en tête :
   souhaitez vraiment vous faire du mal)
 
 La grille d'évaluation du rapport final est disponible ici :
-[Grille d'évaluation du rapport final](#grille-dévaluation-du-rapport-final)
+[Grille d'évaluation du rapport final](#grille-dévaluation-du-rapport-final).
 
 Nous nous rendons disponibles pour vous faire un retour sur votre rapport tout
 au long du semestre si besoin.
@@ -294,7 +294,7 @@ retour. Nous n'allons pas évaluer la qualité du code source en détails mais i
 nous intéresse de voir comment vous avez réalisé votre projet.
 
 La grille d'évaluation du produit final est disponible ici :
-[Grille d'évaluation du produit final](#grille-dévaluation-du-produit-final)
+[Grille d'évaluation du produit final](#grille-dévaluation-du-produit-final).
 
 #### Contraintes
 
