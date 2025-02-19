@@ -128,7 +128,7 @@ suivants pour toute question relative au cours :
 _Cette présentation est un résumé du support de cours. Pour plus de détails,
 consultez le [support de cours][course-material]._
 
-## Objectifs
+## Objectifs (1/2)
 
 - Lister les objectifs du cours
 - Lister les modalités d'organisation du cours
@@ -138,7 +138,7 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
 
----
+## Objectifs (1/2)
 
 - Décrire comment travailler en équipe de façon efficace
 - Décrire les différences entre un wireframe, un mockup, un prototype et un MVP
@@ -146,7 +146,7 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
 
-## Objectifs du cours
+## Objectifs du cours (1/3)
 
 Selon la
 [fiche d'unité](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379),
@@ -158,7 +158,7 @@ Selon la
 > - Appliquer des méthodologies de validation de marché
 > - Énumérer les avantages et les inconvénients d'une stack technologique web
 
----
+## Objectifs du cours (2/3)
 
 > - Évaluer le choix d'une stack technologique web par rapport à une situation
 >   donnée
@@ -168,11 +168,11 @@ Selon la
 >   product (MVP) attractive proposant un service à son public cible
 > - Inclure un moyen de paiement sur un site web et se faire rémunérer pour ses
 >   services
+
+## Objectifs du cours (3/3)
+
 > - Mettre en place des applications durables (autant au niveau technique qu'au
 >   niveau financier)
-
----
-
 > - Énumérer les différentes formes juridiques pour la création d'une entreprise
 >   avec leurs avantages et inconvénients
 
@@ -408,7 +408,7 @@ Est-ce que vous avez des questions ?
 
 ![bg right:40%](https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720)
 
-## Sources
+## Sources (1/3)
 
 - Illustration principale par [Annie Spratt](https://unsplash.com/@anniespratt)
   sur
@@ -428,7 +428,7 @@ Est-ce que vous avez des questions ?
 - Illustration par [Lance Anderson](https://unsplash.com/@lanceanderson) sur
   [Unsplash](https://unsplash.com/photos/white-and-black-architectural-building-diagram-oSZzkAqIRIM)
 
----
+## Sources (2/3)
 
 - Illustration par [Alvaro Reyes](https://unsplash.com/@alvarordesign) sur
   [Unsplash](https://unsplash.com/photos/person-working-on-blue-and-white-paper-on-board-qWwpHwip31M)
@@ -448,13 +448,13 @@ Est-ce que vous avez des questions ?
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
 - Illustration par [Randy Fathe](https://unsplash.com/@randyfath) sur
   [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-chess-pieces-G1yhU1Ej-9A)
+
+## Sources (3/3)
+
 - Illustration par [Brooke Cagle](https://unsplash.com/@brookecagle) sur
   [Unsplash](https://unsplash.com/photos/a-group-of-friends-at-a-coffee-shop--uHVRvDr7pg)
 - Illustration par [Steven Wright](https://unsplash.com/@stevenwright) sur
   [Unsplash](https://unsplash.com/photos/magnifying-glass-mq8QogEBy00)
-
----
-
 - Illustration par [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki) sur
   [Unsplash](https://unsplash.com/photos/a-pink-and-purple-phone-sitting-on-top-of-a-purple-and-pink-background-Z-vPf7KBuT8)
 
