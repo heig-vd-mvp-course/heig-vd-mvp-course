@@ -44,3 +44,5 @@ TODO
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration-principale]:
 	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+
+[^example]: Example, [example.com](https://example.com/), 20 février 2025

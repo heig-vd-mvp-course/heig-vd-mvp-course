@@ -404,6 +404,7 @@ Est-ce que vous avez des questions ?
 ## À vous de jouer !
 
 - Prendre connaissance du [support de cours][course-material]
+- Prendre connaissance des grilles d'évaluation et de leurs critères
 - Poser des questions si nécessaire
 
 ![bg right:40%][illustration-a-vous-de-jouer]

@@ -219,16 +219,17 @@ il est recommandé pour la semaine suivante de :
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- Décrire ce qu'est une idée originale
 - Décrire ce qu'est un besoin
 - Décrire ce qu'est un secteur de marché
 - Identifier des secteurs de marché prometteurs pour y fournir un nouveau
   service
+- Décrire ce qu'est une idée originale
 - Lister des sources d'inspiration pour trouver des idées originales
 - Générer des idées originales
 - Identifier les avantages et les inconvénients d'une idée
 - Évaluer la pertinence d'une idée
 - Évaluer la faisabilité d'une idée
+- Lister des sources d'inspiration pour trouver des idées originales
 
 **Méthodes d'enseignement et d'apprentissage**
 
