@@ -100,7 +100,7 @@ consultez le [support de cours][course-material]._
 - Deux méthodes dans ce cours :
   - Brainstorming : basée sur des idées textuelles
   - Doodling : basée sur des idées visuelles (gribouillages)
-- De bons outils mais parfois limités
+- **Toutes les idées sont bonnes**
 
 ![bg right:40%][illustration-methodologies-generer-des-idees-1]
 
@@ -175,7 +175,12 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
-- TODO
+- [Illustration][illustration-methodologies-generer-des-idees-1] par
+  [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
+  [Unsplash](https://unsplash.com/photos/paper-on-wall-m2TU2gfqSeE)
+- [Illustration][illustration-methodologies-generer-des-idees-2] par
+  [Sunguk Kim](https://unsplash.com/@sunyu) sur
+  [Unsplash](https://unsplash.com/photos/happy-birthday-to-you-greeting-card-o9RLeUVowG8)
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
