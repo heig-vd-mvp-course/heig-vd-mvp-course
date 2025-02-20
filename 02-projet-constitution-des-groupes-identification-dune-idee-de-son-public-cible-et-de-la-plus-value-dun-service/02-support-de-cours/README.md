@@ -8,7 +8,7 @@ L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 
 Ce travail est sous licence [CC BY-SA 4.0][license].
 
-![Illustration principale][illustration]
+![Illustration principale][illustration-principale]
 
 ## Table des matières
 
@@ -124,9 +124,9 @@ TODO
 
 <!-- URLs -->
 
-[license]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration]:
-	https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?fit=crop&h=720
 [course-material]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md
+[license]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+[illustration-principale]:
+	https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?fit=crop&h=720
