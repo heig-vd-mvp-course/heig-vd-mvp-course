@@ -170,18 +170,17 @@ les inconvénients de chaque idée et de les comparer entre elles.
 
 Une matrice de décision est composée de deux axes :
 
-1. Le temps évalué pour réaliser la solution : court terme, moyen terme, long
-   terme
+1. L'effort pour réaliser la solution : faible, moyen, fort
 2. L'impact de la dite solution : faible, moyen, fort
 
-Le tableau suivant illustre une matrice de décision :
+Le tableau suivant illustre une matrice de décision basée sur l':
 
-|                   |                    |                 |                |
-| :---------------- | :----------------- | :-------------- | :------------- |
-| **Impact élevé**  | _Idée 1_, _Idée 4_ |                 |                |
-| **Impact moyen**  |                    | _Idée 5_        | _Idée 3_       |
-| **Impact faible** | _Idée 6_           | _Idée 2_        |                |
-|                   | **Court terme**    | **Moyen terme** | **Long terme** |
+|                   |                    |                  |                  |
+| :---------------- | :----------------- | :--------------- | :--------------- |
+| **Impact élevé**  | _Idée 1_, _Idée 4_ |                  |                  |
+| **Impact moyen**  |                    | _Idée 5_         | _Idée 3_         |
+| **Impact faible** | _Idée 6_           | _Idée 2_         |                  |
+|                   | **Effort faible**  | **Effort moyen** | **Effort élevé** |
 
 Placez chaque idée dans la matrice en fonction de son impact et du temps
 nécessaire pour la réaliser. Cela vous permettra de visualiser les avantages et
@@ -218,12 +217,11 @@ Si vous avez du mal à trouver des idées originales, n'hésitez pas à vous
 inspirer de ces sources d'inspiration. Pour vous aider, vous pouvez vous
 inspirer de différentes sources :
 
-- Indie Hackers[^todo]
-- Product Hunt[^todo]
-- Reddit[^todo]
-- Hacker News[^todo]
-- Kickstarter[^todo]
-- Indiegogo[^todo]
+- Indie Hackers[^indie-hackers]
+- Product Hunt[^product-hunt]
+- Hacker News[^hackers-news]
+- Kickstarter[^kickstarter]
+- Indiegogo[^indiegogo]
 
 N'hésitez pas à explorer ces sources pour trouver des idées qui peuvent vous
 inspirer.
@@ -246,6 +244,25 @@ TODO
     Démarche design,
     [fr.wikipedia.org](https://fr.wikipedia.org/wiki/D%C3%A9marche_design), 20
     février 2025
+
+[^hackers-news]:
+    Hacker News, [news.ycombinator.com](https://news.ycombinator.com/), 20
+    février 2025
+
+[^indiegogo]:
+    Indiegogo, [indiegogo.com](https://www.indiegogo.com/), 20 février 2025
+
+[^indie-hackers]:
+    Indie Hackers, [indiehackers.com](https://www.indiehackers.com/), 20 février
+    2025
+
+[^kickstarter]:
+    Kickstarter, [kickstarter.com](https://www.kickstarter.com/), 20 février
+    2025
+
+[^product-hunt]:
+    Product Hunt, [producthunt.com](https://www.producthunt.com/), 20 février
+    2025
 
 <!-- URLs -->
 

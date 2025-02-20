@@ -26,9 +26,6 @@ style: |
     table {
         width: 100%;
     }
-    th:first-child {
-        width: 15%;
-    }
     h1, h2, h3, h4, h5, h6 {
         color: var(--color-headings);
     }
@@ -79,15 +76,83 @@ consultez le [support de cours][course-material]._
 
 ## Objectifs (1/2)
 
-- TODO
-
-![bg right:40%][illustration-objectifs]
+- Décrire ce qu'est un besoin
+- Décrire ce qu'est un secteur de marché
+- Identifier des secteurs de marché prometteurs pour y fournir un nouveau
+  service
+- Décrire ce qu'est une idée originale
+- Générer des idées originales ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
-- TODO
+- Identifier les avantages et les inconvénients d'une idée
+- Évaluer la pertinence d'une idée
+- Évaluer la faisabilité d'une idée
+- Lister des sources d'inspiration pour trouver des idées originales
 
 ![bg right:40%][illustration-objectifs]
+
+## Partie de Guidoux
+
+## Méthodologies pour générer des idées
+
+- But : générer de nouvelles idées
+- Deux méthodes dans ce cours :
+  - Brainstorming : basée sur des idées textuelles
+  - Doodling : basée sur des idées visuelles (gribouillages)
+- De bons outils mais parfois limités
+
+![bg right:40%][illustration-methodologies-generer-des-idees-1]
+
+![bg vertical][illustration-methodologies-generer-des-idees-2]
+
+### Brainstorming
+
+1. Fixer un objectif clair (problème à résoudre, question à répondre)
+2. Encourager le non-jugement
+3. Distribuer des post-its pour noter les idées
+4. Commencer l'exercice **par une phase de réflexion individuelle**
+5. Partager les idées au reste du groupe
+6. Regrouper les idées par thème
+7. Voter pour les idées les plus prometteuses
+
+**Attention à ne pas juger les idées pendant la phase de génération !**
+
+### Doodling
+
+- Sensiblement le même processus que le brainstorming (réflexion individuelle,
+  partage, discussion, etc.)
+- Utilise des dessins (gribouillages/doodles) pour générer des idées
+- Permet de générer des idées plus originales
+- Les dessins sont souvent plus axées sur les processus et interactions des
+  utilisateurs ce qui complète le brainstorming
+
+**Les dessins demande une compréhension plus simple et plus rapide des
+problèmes/idées et permettent souvent d'être plus créatif.**
+
+## Identifier et sélectionner les "bonnes" idées
+
+Une simple matrice de décision (basée sur l'effort et l'impact) peut aider à
+sélectionner les "bonnes" idées.
+
+La partie supérieure gauche sont les idées les plus prometteuses.
+
+|                   |                    |                  |                  |
+| :---------------- | :----------------- | :--------------- | :--------------- |
+| **Impact élevé**  | _Idée 1_, _Idée 4_ |                  |                  |
+| **Impact moyen**  |                    | _Idée 5_         | _Idée 3_         |
+| **Impact faible** | _Idée 6_           | _Idée 2_         |                  |
+|                   | **Effort faible**  | **Effort moyen** | **Effort élevé** |
+
+## Trouver des sources d'inspiration d'idées originales
+
+Il existe plusieurs communautés pour trouver de l'inspiration :
+
+- [Indie Hackers](https://www.indiehackers.com/)
+- [Product Hunt](https://www.producthunt.com/)
+- [Hacker News](https://news.ycombinator.com/)
+- [Kickstarter](https://www.kickstarter.com/)
+- [Indiegogo](https://www.indiegogo.com/)
 
 ## Questions
 
@@ -134,3 +199,7 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
+[illustration-methodologies-generer-des-idees-1]:
+	https://images.unsplash.com/photo-1552664688-cf412ec27db2?fit=crop&h=720
+[illustration-methodologies-generer-des-idees-2]:
+	https://images.unsplash.com/photo-1623116135497-a90bdc0ddca9?fit=crop&h=720

@@ -26,9 +26,6 @@ style: |
     table {
         width: 100%;
     }
-    th:first-child {
-        width: 15%;
-    }
     h1, h2, h3, h4, h5, h6 {
         color: var(--color-headings);
     }
@@ -404,7 +401,6 @@ Est-ce que vous avez des questions ?
 ## À vous de jouer !
 
 - Prendre connaissance du [support de cours][course-material]
-- Prendre connaissance des grilles d'évaluation et de leurs critères
 - Poser des questions si nécessaire
 
 ![bg right:40%][illustration-a-vous-de-jouer]
