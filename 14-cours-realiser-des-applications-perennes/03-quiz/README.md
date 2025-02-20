@@ -101,8 +101,8 @@ Est-ce que vous avez des questions ?
 
 ## Sources
 
-- Illustration principale par [Annie Spratt](https://unsplash.com/@anniespratt)
-  sur
+- [Illustration principale][illustration-principale] par
+  [Annie Spratt](https://unsplash.com/@anniespratt) sur
   [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
 
 <!-- URLs -->
@@ -113,7 +113,10 @@ Est-ce que vous avez des questions ?
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/01-presentation/14-cours-realiser-des-applications-perennes-presentation.pdf
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 [course-material]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/14-cours-realiser-des-applications-perennes/02-support-de-cours/README.md
+
+<!-- Illustrations -->
+
+[illustration-principale]:
+	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720

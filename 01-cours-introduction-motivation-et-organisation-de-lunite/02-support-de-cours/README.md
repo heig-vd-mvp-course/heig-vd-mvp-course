@@ -607,18 +607,9 @@ La séance de projet sera consacrée à la présentation des idées que vous ave
 
 ## Sources
 
-- Illustration principale par [Annie Spratt](https://unsplash.com/@anniespratt)
-  sur
+- [Illustration principale][illustration-principale] par
+  [Annie Spratt](https://unsplash.com/@anniespratt) sur
   [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
-
-<!-- URLs -->
-
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md
-[license]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 
 [^adobe-xd]:
     Adobe XD, [adobe.com](https://helpx.adobe.com/ch_fr/support/xd.html), 19
@@ -685,3 +676,12 @@ La séance de projet sera consacrée à la présentation des idées que vous ave
     Stand-ups Scrum,
     [atlassian.com](https://www.atlassian.com/agile/scrum/standups), 19 février
     2025
+
+<!-- URLs -->
+
+[course-material]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md
+[license]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+[illustration-principale]:
+	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720

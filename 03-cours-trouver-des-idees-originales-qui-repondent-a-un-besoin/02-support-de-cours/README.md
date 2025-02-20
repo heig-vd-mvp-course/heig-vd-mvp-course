@@ -238,9 +238,14 @@ TODO
 
 ## Sources
 
-- Illustration principale par [Annie Spratt](https://unsplash.com/@anniespratt)
-  sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+- [Illustration principale][illustration-principale] par
+  [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) sur
+  [Unsplash](https://unsplash.com/photos/blue-and-orange-abstract-painting-yn97LNy0bao)
+
+[^design-thinking]:
+    Démarche design,
+    [fr.wikipedia.org](https://fr.wikipedia.org/wiki/D%C3%A9marche_design), 20
+    février 2025
 
 <!-- URLs -->
 
@@ -249,9 +254,4 @@ TODO
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
-
-[^design-thinking]:
-    Démarche design,
-    [fr.wikipedia.org](https://fr.wikipedia.org/wiki/D%C3%A9marche_design), 20
-    février 2025
+	https://images.unsplash.com/photo-1553949345-eb786bb3f7ba?fit=crop&h=720
