@@ -57,8 +57,8 @@ Les numéros des semaines correspondent aux semaines définies dans le
 |   [1](#-semaine-1) | [Introduction, motivation et organisation de l'unité](#cours---introduction-motivation-et-organisation-de-lunité)         | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-13) |
 |   [2](#-semaine-2) | [Trouver des idées originales qui répondent à un besoin](#cours---trouver-des-idées-originales-qui-répondent-à-un-besoin) | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-23) |
 |   [3](#-semaine-3) | [Comprendre et atteindre son public cible](#cours---comprendre-et-atteindre-son-public-cible)                             | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-33) |
-|   [4](#-semaine-4) | _CRUNCH : pas de cours_                                                                                                   | _CRUNCH : pas de projet_                                                                                                                                                                                                              |
-|   [5](#-semaine-5) | [Promouvoir et pitcher son idée](#cours---promouvoir-et-pitcher-son-idée)                                                 | 🚨 [Présentations du pitch](#projet---présentations-du-pitch)                                                                                                                                                                         |
+|   [4](#-semaine-4) | [Promouvoir et pitcher son idée](#cours---promouvoir-et-pitcher-son-idée)                                                 | 🚨 [Présentations du pitch](#projet---présentations-du-pitch)                                                                                                                                                                         |
+|   [5](#-semaine-5) | _CRUNCH : pas de cours_                                                                                                   | _CRUNCH : pas de projet_                                                                                                                                                                                                              |
 |   [6](#-semaine-6) | [Identification et choix d'une stack technologique](#cours---identification-et-choix-dune-stack-technologique)            | [Réalisation et hébergement de la landing page avec formulaire de contact (1/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-12)                                                               |
 |   [7](#-semaine-7) | [Réaliser des interfaces ergonomiques et réfléchies](#cours---réaliser-des-interfaces-ergonomiques-et-réfléchies)         | [Réalisation et hébergement de la landing page avec formulaire de contact (2/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-22)                                                               |
 |                  - | _Vacances : pas de cours_                                                                                                 | _Vacances : pas de projet_                                                                                                                                                                                                            |
@@ -471,10 +471,6 @@ il est recommandé pour la semaine suivante de :
 
 ## 🕓 Semaine 4
 
-_Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
-
-## 🕔 Semaine 5
-
 ### Cours - Promouvoir et pitcher son idée
 
 - Durée : 2 périodes
@@ -604,6 +600,10 @@ il est recommandé pour la semaine suivante de :
 - Interviewer ces personnes pour récolter des retours
 
 </details>
+
+## 🕔 Semaine 5
+
+_Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
 
 ## 🕕 Semaine 6
 
