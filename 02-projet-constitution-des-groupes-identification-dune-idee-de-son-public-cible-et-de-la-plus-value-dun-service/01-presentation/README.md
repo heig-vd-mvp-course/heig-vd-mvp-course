@@ -68,7 +68,7 @@ _paginate: false
 
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 
-![bg opacity:0.25][illustration]
+![bg opacity:0.25][illustration-principale]
 
 ## Plus de détails dans le support de cours
 
@@ -90,7 +90,7 @@ consultez le [support de cours][course-material]._
 - Définir les rôles de chaque personne
 - Organiser le travail en équipe sur le semestre
 
-![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
+![bg right:40%][illustration-objectifs]
 
 ### Objectifs (2/2)
 
@@ -99,7 +99,7 @@ consultez le [support de cours][course-material]._
 - Prendre connaissance de la structure attendue et des critères d'évaluation du
   rendu final
 
-![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
+![bg right:40%][illustration-objectifs]
 
 ### Déroulement
 
@@ -123,10 +123,11 @@ il est recommandé pour la semaine suivante de :
 
 ## Sources
 
-- Illustration principale par
+- [Illustration principale][illustration-principale] par
   [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
   [Unsplash](https://unsplash.com/photos/man-standing-behind-flat-screen-computer-monitor-bzqU01v-G54)
-- Illustration par [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
+- [Illustration][illustration-objectifs] par
+  [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
 
 <!-- URLs -->
@@ -135,9 +136,14 @@ il est recommandé pour la semaine suivante de :
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/01-presentation/
 [pdf]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/01-presentation/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service-presentation.pdf
-[license]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration]:
-	https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?fit=crop&h=720
 [course-material]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md
+[license]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+
+<!-- Illustrations -->
+
+[illustration-principale]:
+	https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?fit=crop&h=720
+[illustration-objectifs]:
+	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720

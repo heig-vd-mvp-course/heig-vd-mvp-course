@@ -68,20 +68,26 @@ _paginate: false
 
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 
-![bg opacity:0.25][illustration]
+![bg opacity:0.25][illustration-principale]
 
 ## Plus de détails dans le support de cours
 
 <!-- _class: lead -->
 
-Cette présentation est un résumé du support de cours. Pour plus de détails,
-consultez le [support de cours][course-material].
+_Cette présentation est un résumé du support de cours. Pour plus de détails,
+consultez le [support de cours][course-material]._
 
-## Objectifs
+## Objectifs (1/2)
 
 - TODO
 
-![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
+![bg right:40%][illustration-objectifs]
+
+## Objectifs (2/2)
+
+- TODO
+
+![bg right:40%][illustration-objectifs]
 
 ## Questions
 
@@ -89,23 +95,40 @@ consultez le [support de cours][course-material].
 
 Est-ce que vous avez des questions ?
 
-## Sources
+## À vous de jouer !
 
-- Illustration principale par [Annie Spratt](https://unsplash.com/@anniespratt)
-  sur
+- Prendre connaissance du [support de cours][course-material]
+- Poser des questions si nécessaire
+
+![bg right:40%][illustration-a-vous-de-jouer]
+
+## Sources (1/3)
+
+- [Illustration principale][illustration-principale] par
+  [Annie Spratt](https://unsplash.com/@anniespratt) sur
   [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
-- Illustration par [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
+- [Illustration][illustration-objectifs] par
+  [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
-
-<!-- URLs -->
+- TODO
+- [Illustration][illustration-a-vous-de-jouer] par
+  [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
+  [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
 
 [web]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/
 [pdf]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-presentation.pdf
-[license]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 [course-material]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/02-support-de-cours/README.md
+[license]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+
+<!-- Illustrations -->
+
+[illustration-principale]:
+	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+[illustration-objectifs]:
+	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
+[illustration-a-vous-de-jouer]:
+	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720

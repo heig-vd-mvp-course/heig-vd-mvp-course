@@ -68,33 +68,49 @@ _paginate: false
 
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 
-![bg opacity:0.25][illustration]
+![bg opacity:0.25][illustration-principale]
 
 ## Plus de détails dans le support de cours
 
 <!-- _class: lead -->
 
-Cette présentation est un résumé du support de cours. Pour plus de détails,
-consultez le [support de cours][course-material].
+_Cette présentation est un résumé du support de cours. Pour plus de détails,
+consultez le [support de cours][course-material]._
 
-## Objectifs
-
-- TODO
-
-![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
-
-## Questions
+## Séance 1/2
 
 <!-- _class: lead -->
 
-Est-ce que vous avez des questions ?
+### Objectifs (1/2)
+
+- TODO
+
+![bg right:40%][illustration-objectifs]
+
+### Objectifs (2/2)
+
+- TODO
+
+![bg right:40%][illustration-objectifs]
+
+### Déroulement
+
+TODO
+
+### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- TODO
 
 ## Sources
 
-- Illustration principale par [Annie Spratt](https://unsplash.com/@anniespratt)
-  sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
-- Illustration par [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
+- [Illustration principale][illustration-principale] par
+  [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
+  [Unsplash](https://unsplash.com/photos/man-standing-behind-flat-screen-computer-monitor-bzqU01v-G54)
+- [Illustration][illustration-objectifs] par
+  [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
 
 <!-- URLs -->
@@ -103,9 +119,14 @@ Est-ce que vous avez des questions ?
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/01-presentation/
 [pdf]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/01-presentation/08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact-presentation.pdf
-[license]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 [course-material]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/02-support-de-cours/README.md
+[license]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+
+<!-- Illustrations -->
+
+[illustration-principale]:
+	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+[illustration-objectifs]:
+	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720

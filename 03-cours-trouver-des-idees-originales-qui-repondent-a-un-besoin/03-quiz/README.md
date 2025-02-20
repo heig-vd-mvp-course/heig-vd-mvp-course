@@ -68,14 +68,15 @@ _paginate: false
 
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 
-![bg opacity:0.25][illustration]
+![bg opacity:0.25][illustration-principale]
 
 ## Plus de détails dans le support de cours
 
 <!-- _class: lead -->
 
-Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
-cours. Pour plus de détails, consultez le [support de cours][course-material].
+**Cette présentation est un quiz pour tester ses connaissances sur le chapitre
+en cours. Pour plus de détails, consultez le [support de
+cours][course-material].**
 
 ## Question 1
 
@@ -113,7 +114,7 @@ Est-ce que vous avez des questions ?
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/01-presentation/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin-presentation.pdf
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration]:
+[illustration-principale]:
 	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 [course-material]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/02-support-de-cours/README.md
