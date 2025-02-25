@@ -46,6 +46,12 @@ De façon plus concise, à la fin de cette séance, vous devriez être capable d
 
 ## Partie de Guidoux
 
+<!-- - Décrire ce qu'est un secteur de marché
+- Décrire ce qu'est un besoin [DTS - empathie]
+- Identifier des secteurs de marché prometteurs pour y fournir un nouveau
+  service
+- Décrire ce qu'est une idée originale -->
+
 ## Méthodologies pour générer des idées
 
 Il existe de multitudes méthodologies pour générer des idées. Ces méthodologies

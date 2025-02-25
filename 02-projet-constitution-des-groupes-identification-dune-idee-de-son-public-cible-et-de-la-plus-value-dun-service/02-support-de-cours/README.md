@@ -13,13 +13,17 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
-- [Partie 1/3](#partie-13)
+- [Séance 1/3](#séance-13)
   - [Objectifs](#objectifs)
   - [Déroulement](#déroulement)
   - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
+- [Séance 2/3](#séance-23)
+  - [Objectifs](#objectifs-1)
+  - [Déroulement](#déroulement-1)
+  - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante-1)
 - [Sources](#sources)
 
-## Partie 1/3
+## Séance 1/3
 
 ### Objectifs
 
@@ -69,29 +73,46 @@ il est recommandé pour la semaine suivante de :
 - Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
   pour le projet
 
-<!--
-## Partie 2/3
+## Séance 2/3
 
 ### Objectifs
 
-TODO
+Deuxième séance pratique du cours _Lancez votre minimum viable product (MVP)_ !
+
+Cette séance a pour but de tester les outils de créativité pour trouver des
+idées originales et de choisir une idée qui répond à un besoin.
+
+De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
+
+- Lister des idées originales
+- Choisir une idée qui répond à un besoin
+- Décrire le besoin
+- Identifier le secteur de marché
+- Identifier la plus-value du service
+- Identifier les avantages/forces et les inconvénients/faiblesses de l'idée
+- Compléter le rapport
 
 ### Déroulement
 
-TODO
+Nous vous invitons maintenant à prendre la parole pour définir vos groupes et
+les projets sur lesquels vous allez travailler.
 
-### Conclusion
+Ensuite, nous vous invitons à tester les outils de créativité pour trouver des
+idées originales et choisir une idée qui répond à un besoin.
 
-TODO
+Enfin, nous vous invitons à décrire le besoin, identifier le secteur de marché,
+identifier la plus-value du service, identifier si votre idée est bonne et
+compléter le rapport.
 
 ### À faire pour la semaine suivante
 
-TODO
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
 
-### Qu'est-ce que vous ferez ensuite ?
+- Compléter le rapport avec les informations demandées
+- Continuer à générer des idées
 
-TODO
-
+<!--
 ## Partie 3/3
 
 ### Objectifs

@@ -118,6 +118,30 @@ il est recommandé pour la semaine suivante de :
 - Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
   pour le projet
 
+## Séance 2/3
+
+<!-- _class: lead -->
+
+### Déroulement
+
+Nous vous invitons maintenant à prendre la parole pour définir vos groupes et
+les projets sur lesquels vous allez travailler.
+
+Ensuite, nous vous invitons à tester les outils de créativité pour trouver des
+idées originales et choisir une idée qui répond à un besoin.
+
+Enfin, nous vous invitons à décrire le besoin, identifier le secteur de marché,
+identifier la plus-value du service, identifier si votre idée est bonne et
+compléter le rapport.
+
+### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Compléter le rapport avec les informations demandées
+- Continuer à générer des idées
+
 ## Sources
 
 - [Illustration principale][illustration-principale] par
