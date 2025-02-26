@@ -113,6 +113,15 @@ Une idée originale est une idée qui **améliore la vie** sur différents aspec
 celui-ci. Elle peut être une **réinvention ou une réadaptation d'une idée
 existante**.
 
+## Question 4 - Donnée
+
+Qu'est-ce qui rend un marché plus prometteur qu'un autre ?
+
+## Question 4 - Réponse
+
+Un marché est plus prometteur qu'un autre s'il est en pleine expansion, s'il est
+suffisamment grand pour accueillir de nouveaux acteurs et s'il est peu saturé.
+
 ## Questions
 
 <!-- _class: lead -->
