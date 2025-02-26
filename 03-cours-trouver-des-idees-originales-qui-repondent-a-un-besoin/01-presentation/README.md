@@ -98,13 +98,13 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-secteur-de-marche]
 
-### L'industrie pharmaceutique
+### Secteur pharmaceutique
 
 ![bg right:40%][illustration-secteur-de-marche-pharmaceutique]
 
-### L'industrie bancaire
+### Secteur agricole
 
-![bg right:40%][illustration-secteur-de-marche-bancaire]
+![bg right:40%][illustration-secteur-de-marche-agricole]
 
 ## Identifier un besoin
 
@@ -217,11 +217,11 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-secteur-de-marche-pharmaceutique] par
   [Louis Reed](https://unsplash.com/@_louisreed) sur
   [Unsplash](https://unsplash.com/photos/refill-of-liquid-on-tubes-pwcKF7L4-no)
-- [Illustration][illustration-secteur-de-marche-bancaire] par
-  [Frrn](https://unsplash.com/@frrn) sur
-  [Unsplash](https://unsplash.com/photos/gray-concrete-building-during-daytime-WgUHuGSWPVM)
+- [Illustration][illustration-secteur-de-marche-agricole] par
+  [Olivier Mary](https://unsplash.com/@oliviermary) sur
+  [Unsplash](https://unsplash.com/photos/orange-pumpkin-on-green-grass-4JHV1dgjayI)
 - [Illustration][illustration-identifier-un-besoin] par
-  [Youssef Naddam](https://unsplash.com/@youssefnaddam) sur
+  [youssef naddam](https://unsplash.com/@youssefnaddam) sur
   [Unsplash](https://unsplash.com/photos/two-persons-arms-iJ2IG8ckCpA)
 - [Illustration][illustration-identifier-marche-prometteur] par
   [Dmitry Topkin](https://unsplash.com/@dtopkin1) sur
@@ -257,8 +257,8 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1594700062947-2a1bc1fd19b6?fit=crop&h=720
 [illustration-secteur-de-marche-pharmaceutique]:
 	https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?fit=crop&h=720
-[illustration-secteur-de-marche-bancaire]:
-	https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?fit=crop&h=720
+[illustration-secteur-de-marche-agricole]:
+	https://images.unsplash.com/photo-1600020888788-94adc279a4a7?fit=crop&h=720
 [illustration-identifier-un-besoin]:
 	https://images.unsplash.com/photo-1541976844346-f18aeac57b06?fit=crop&h=720
 [illustration-identifier-marche-prometteur]:

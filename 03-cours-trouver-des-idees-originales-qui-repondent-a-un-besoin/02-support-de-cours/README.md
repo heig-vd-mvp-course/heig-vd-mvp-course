@@ -15,8 +15,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
 - [Secteur de marché / secteur économique](#secteur-de-marché--secteur-économique)
-  - [L'industrie pharmaceutique](#lindustrie-pharmaceutique)
-  - [L'industrie bancaire](#lindustrie-bancaire)
+  - [Le secteur pharmaceutique](#le-secteur-pharmaceutique)
+  - [Le secteur agricole](#le-secteur-agricole)
 - [Identifier un besoin](#identifier-un-besoin)
 - [Identifier marché prometteur](#identifier-marché-prometteur)
 - [Identifier une idée pertinente](#identifier-une-idée-pertinente)
@@ -64,24 +64,28 @@ comprendre leurs besoins et de mieux répondre à leurs attentes.
 Voici certains secteurs de marché qui existent en Suisse :
 
 - L'industrie pharmaceutique
-- L'industrie agroalimentaire
+- L'industrie agricole
 - L'industrie horlogère
-- L'industrie bancaire
 - L'industrie du tourisme
 - Etc.
 
 Deux exemples de ces secteurs de marché sont l'industrie pharmaceutique et
-l'industrie bancaire.
+l'industrie horlogère.
 
-### L'industrie pharmaceutique
+### Le secteur pharmaceutique
 
-L’industrie chimique et pharmaceutique est le principal secteur d’exportation de
-la Suisse. Elle représente chaque année près de la moitié du volume des
-exportations suisses et contribue à environ 7% du PIB. Plus d’un millier
-d’entreprises sont actives dans ce secteur, et deux d’entre elles comptent parmi
-les plus grandes au monde.[^pharmaceutique]
+[Le secteur] pharmaceutique est le principal secteur d’exportation de la Suisse.
+Elle représente chaque année près de la moitié du volume des exportations
+suisses et contribue à environ 7% du PIB. Plus d’un millier d’entreprises sont
+actives dans ce secteur, et deux d’entre elles comptent parmi les plus grandes
+au monde.[^pharmaceutique]
 
-### L'industrie bancaire
+### Le secteur agricole
+
+Bien qu’il ne représente qu’une petite part de l’économie suisse, le secteur
+agricole participe à la sécurité alimentaire de la population suisse et
+contribue de façon importante à la préservation des paysages et, partant, au
+tourisme.[^agricole]
 
 ## Identifier un besoin
 
@@ -303,6 +307,11 @@ TODO
 - [Illustration principale][illustration-principale] par
   [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) sur
   [Unsplash](https://unsplash.com/photos/blue-and-orange-abstract-painting-yn97LNy0bao)
+
+[^agricole]:
+    Le secteur économique de l'agriculture,
+    [.admin.ch](https://www.eda.admin.ch/aboutswitzerland/fr/home/wirtschaft/taetigkeitsgebiete/landwirtschaft.html),
+    26 février 2025
 
 [^design-thinking]:
     Démarche design,
