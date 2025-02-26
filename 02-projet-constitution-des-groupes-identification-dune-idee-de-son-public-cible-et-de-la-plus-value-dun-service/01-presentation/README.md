@@ -131,7 +131,7 @@ Ensuite, nous vous invitons à tester les outils de créativité pour trouver de
 idées originales et choisir une idée qui répond à un besoin.
 
 Enfin, nous vous invitons à décrire le besoin, identifier le secteur de marché,
-identifier la plus-value du service, identifier si votre idée est bonne et
+identifier la plus-value du service, identifier si votre idée est pertinente et
 compléter le rapport.
 
 ### À faire pour la semaine suivante
@@ -139,8 +139,8 @@ compléter le rapport.
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- Compléter le rapport avec les informations demandées
-- Continuer à générer des idées
+- Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
+  pour le projet
 
 ## Sources
 

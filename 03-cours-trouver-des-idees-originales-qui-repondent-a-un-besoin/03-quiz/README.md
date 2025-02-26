@@ -75,21 +75,43 @@ _paginate: false
 en cours. Pour plus de détails, consultez le [support de
 cours][course-material].**
 
-## Question 1
+## Question 1 - Donnée
 
-TODO
+Quels sont les principaux éléments à prendre en compte pour comprendre le
+contexte d'une idée ?
 
-## Réponse 1
+## Question 1 - Réponse
 
-TODO
+Les principaux éléments à prendre en compte pour comprendre le contexte d'une
+idée sont :
 
-## Question 2
+- Contexte social
+- Contexte économique
+- Contexte politique et réglementaire
+- Contexte technologique
+- Contexte géographique
 
-TODO
+## Question 2 - Donnée
 
-## Réponse 2
+Pourquoi est-il important de comprendre le secteur de marché avant de se lancer
+dans l'entrepreneuriat ?
 
-TODO
+## Question 2 - Réponse
+
+Il est important de comprendre le secteur de marché pour identifier les
+opportunités et les menaces, mieux cibler les clients, comprendre leurs besoins
+et répondre à leurs attentes.
+
+## Question 3 - Donnée
+
+Comment définiriez-vous une idée originale ?
+
+## Réponse 3 - Réponse
+
+Une idée originale est une idée qui **améliore la vie** sur différents aspects,
+**répond à un besoin**, est **consciente de son contexte** et s'adapte à
+celui-ci. Elle peut être une **réinvention ou une réadaptation d'une idée
+existante**.
 
 ## Questions
 

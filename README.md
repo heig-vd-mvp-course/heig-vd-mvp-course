@@ -219,6 +219,7 @@ il est recommandé pour la semaine suivante de :
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
+- Décrire ce qu'est un contexte
 - Décrire ce qu'est un besoin
 - Décrire ce qu'est un secteur de marché
 - Identifier des secteurs de marché prometteurs pour y fournir un nouveau
@@ -282,6 +283,7 @@ il est recommandé pour la semaine suivante de :
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
+- Identifier le contexte
 - Lister des idées originales
 - Choisir une idée qui répond à un besoin
 - Décrire le besoin

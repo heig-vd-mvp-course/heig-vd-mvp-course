@@ -47,6 +47,11 @@ style: |
     section > header {
         font-size: 50%;
     }
+    .two-columns {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
 headingDivider: 6
 -->
 
@@ -76,6 +81,7 @@ consultez le [support de cours][course-material]._
 
 ## Objectifs (1/2)
 
+- Décrire ce qu'est un contexte
 - Décrire ce qu'est un besoin
 - Décrire ce qu'est un secteur de marché
 - Identifier des secteurs de marché prometteurs pour y fournir un nouveau
@@ -94,29 +100,100 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-objectifs]
 
-## Secteur de marché
+## Contexte
+
+- Social
+- Économique
+- Politique & réglementaire
+- Technologique
+- Géographique
+
+![bg right:40%][illustration-contexte]
+
+## Les secteurs de marché
+
+Chaque secteur à ses opportunités et ses menaces, dans un contexte donné.
+
+- Pharmaceutique
+- Agricole
+- Horloger
+- Trourisme
 
 ![bg right:40%][illustration-secteur-de-marche]
 
-### Secteur pharmaceutique
+### Le secteur pharmaceutique
 
-![bg right:40%][illustration-secteur-de-marche-pharmaceutique]
+<div class="two-columns center">
+<div>
 
-### Secteur agricole
+- **Opportunités** :
+  - Croissance constante
+  - Investissements dans la recherche et le développement
+  - Main-d'œuvre qualifiée
+  - Infrastructure de qualité
 
-![bg right:40%][illustration-secteur-de-marche-agricole]
+</div>
+<div>
 
-## Identifier un besoin
+- **Menaces** :
+  - Secteur très réglementé
+  - Normes de qualité strictes
+  - Investissements massifs dans la recherche et le développement
+  </div>
+
+### Le secteur agricole
+
+<div class="two-columns center">
+<div>
+
+- **Opportunités** :
+  - Pratiques agricoles durables
+  - Nouvelles technologies
+  - Réduction de l'impact environnemental
+
+</div>
+
+<div>
+
+- **Menaces** :
+  - Concurrence des produits importés
+  - Normes de qualité strictes
+  - Coûts de production élevés
+
+</div>
+
+## Besoin
+
+Dans un contexte donné, un besoin peut être de vouloir :
+
+- Une meilleur qualité de vie
+- Gagner du temps
+- Économiser de l'argent
 
 ![bg right:40%][illustration-identifier-un-besoin]
 
 ## Identifier marché prometteur
 
+- Avoir conscience des opportunités et des menaces
+- Opportunités d'agilité
+- Résilient face aux crises
+- être suffisamment grand pour accueillir de nouvelles entreprises
+
 ![bg right:40%][illustration-identifier-marche-prometteur]
 
-## Identifier une idée pertinente
+<!-- ## Idée originale -->
 
-![bg right:40%][illustration-identifier-idee-pertinente]
+---
+
+<!-- _class: lead -->
+
+> _Une **idée originale** est une idée ancrée dans son contexte, mais qui en
+> explore les limites. ._
+
+<!-- > _Une **idée originale** est une idée qui comprend son contexte et ose en
+> dévier légèrement._ -->
+
+![bg right:40% ][illustration-identifier-idee-pertinente]
 
 ## Méthodologies pour générer des idées
 
@@ -229,6 +306,9 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-identifier-idee-pertinente] par
   [Alejandro Bianchi](https://unsplash.com/@ale_s_bianchi) sur
   [Unsplash](https://unsplash.com/photos/light-bulb-illustration-_kdTyfnUFAc)
+- [Illustration][illustration-contexte] par
+  [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) sur
+  [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-white-paper-sheet-mounted-on-cork-board-ZT9gjcJog6U)
 
 <!-- URLs -->
 
@@ -265,3 +345,5 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1581306144940-6fdc110b7b71?fit=crop&h=720
 [illustration-identifier-idee-pertinente]:
 	https://images.unsplash.com/photo-1529310399831-ed472b81d589?fit=crop&h=720
+[illustration-contexte]:
+	https://images.unsplash.com/photo-1577401159468-3bbc7ee440b5?fit=crop&h=720

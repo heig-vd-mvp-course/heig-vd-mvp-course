@@ -14,7 +14,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
-- [Secteur de marché / secteur économique](#secteur-de-marché--secteur-économique)
+- [Contexte](#contexte)
+- [Les secteurs de marché](#les-secteurs-de-marché)
   - [Le secteur pharmaceutique](#le-secteur-pharmaceutique)
   - [Le secteur agricole](#le-secteur-agricole)
 - [Besoin](#besoin)
@@ -38,6 +39,7 @@ réalisables.
 
 De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
+- Décrire ce qu'est un contexte
 - Décrire ce qu'est un besoin
 - Décrire ce qu'est un secteur de marché
 - Identifier des secteurs de marché prometteurs pour y fournir un nouveau
@@ -49,17 +51,59 @@ De façon plus concise, à la fin de cette séance, vous devriez être capable d
 - Évaluer la faisabilité d'une idée
 - Lister des sources d'inspiration pour trouver des idées originales
 
-## Secteur de marché / secteur économique
+## Contexte
+
+Avant de se lancer dans la recherche d’idées, il est essentiel de comprendre le
+contexte dans lequel elles vont évoluer. Une même idée peut être pertinente dans
+un pays et complètement inadaptée dans un autre. Elle peut être viable
+aujourd’hui mais obsolète demain, ou encore être freinée par des contraintes
+légales ou culturelles.
+
+Le contexte est une notion complexe qui regroupe de nombreux éléments, parmi
+lesquels :
+
+- **Contexte social** : Les habitudes de consommation, les valeurs culturelles
+  et les attentes du public influencent la demande pour un produit ou un
+  service.
+- **Contexte économique** : Un marché en croissance peut offrir plus
+  d’opportunités qu’un secteur en crise. De même, le pouvoir d’achat et le
+  niveau de concurrence sont des facteurs clés à analyser.
+- **Contexte politique et réglementaire** : Les lois, les subventions ou les
+  interdictions sont autant de contraintes à prendre en compte.
+- **Contexte technologique** : Les avancées techniques agrandissent l'horizon
+  des possibles ou rend obsolètes certaines solutions.
+- **Contexte géographique** : Les ressources naturelles, le climat,
+  l’accessibilité ou encore la densité de population jouent un rôle clé. Une
+  solution adaptée à une grande ville peut ne pas l’être pour une région rurale,
+  et inversement.
+
+Voici quelques exemples de contextes qui peuvent influencer la pertinence d’une
+idée :
+
+- L’essor des produits biologiques est en partie dû à une prise de conscience
+  collective sur la santé et l’environnement.
+- L’essor des énergies renouvelables est en grande partie porté par des
+  décisions politiques et des incitations financières.
+- L’essor de l’intelligence artificielle ouvre des opportunités dans de nombreux
+  secteurs, tandis que certaines professions deviennent automatisables.
+
+Prendre en compte ces éléments permet d’éviter les erreurs stratégiques et
+d’adapter une idée à son environnement pour maximiser ses chances de succès.
+
+## Les secteurs de marché
 
 Avant de se lancer dans l'entrepreneuriat, il est important de bien comprendre
-le secteur de marché dans lequel vous souhaitez vous lancer. Il faut savoir que
-la définition n'est pas forcément clair et que 'il existe plusieurs définitions.
+les secteurs de marché dans lequel vous souhaitez vous lancer. Il faut savoir
+que la définition n'est pas forcément clair et que 'il existe plusieurs
+définitions.
 
 La définition qui intéresse les réflexions de ce cours est : Un secteur de
 marché est un ensemble d'entreprises qui proposent des produits ou des services
 similaires à un groupe de clients. La seule interaction qu'a un secteur avec les
 autres secteurs est ce qu'il propose. Le secteur pharmaceutique propose des
 médicaments, le secteur agricole propose des produits alimentaires, etc.
+
+Sa définition dépend aussi du contexte dans lequel il est utilisé.
 
 Il est important de bien comprendre le secteur de marché dans lequel vous
 souhaitez vous lancer pour identifier les opportunités et les menaces qui
@@ -75,15 +119,15 @@ Voici certains secteurs de marché qui existent en Suisse :
 - Etc.
 
 Deux exemples de ces secteurs de marché sont l'industrie pharmaceutique et
-l'industrie horlogère.
+l'industrie agricole.
 
 ### Le secteur pharmaceutique
 
-[Le secteur] pharmaceutique est le principal secteur d’exportation de la Suisse.
-Elle représente chaque année près de la moitié du volume des exportations
-suisses et contribue à environ 7% du PIB. Plus d’un millier d’entreprises sont
-actives dans ce secteur, et deux d’entre elles comptent parmi les plus grandes
-au monde.[^pharmaceutique]
+> _[Le secteur] pharmaceutique est le principal secteur d’exportation de la
+> Suisse. Elle représente chaque année près de la moitié du volume des
+> exportations suisses et contribue à environ 7% du PIB. Plus d’un millier
+> d’entreprises sont actives dans ce secteur, et deux d’entre elles comptent
+> parmi les plus grandes au monde._[^pharmaceutique]
 
 Dans ses menaces, le secteur pharmaceutique est un secteur très réglementé. Les
 autorités de régulation imposent des normes de qualité très strictes pour
@@ -98,15 +142,15 @@ d'une main-d'œuvre qualifiée et d'une infrastructure de qualité.
 
 ### Le secteur agricole
 
-Bien qu’il ne représente qu’une petite part de l’économie suisse, le secteur
-agricole participe à la sécurité alimentaire de la population suisse et
-contribue de façon importante à la préservation des paysages et, partant, au
-tourisme.[^agricole]
+> _Bien qu’il ne représente qu’une petite part de l’économie suisse, le secteur
+> agricole participe à la sécurité alimentaire de la population suisse et
+> contribue de façon importante à la préservation des paysages et, partant, au
+> tourisme._[^agricole]
 
-Dans ses menaces, le secteur agricole est un secteur en crise. Les agriculteurs
-sont confrontés à de nombreux défis : la concurrence des produits importés, les
-normes de qualité très strictes imposées par les autorités de régulation, les
-coûts de production élevés, etc.
+Dans ses menaces, le secteur agricole est un secteur en crise. Les personnes
+agricultrices sont confrontés à de nombreux défis : la concurrence des produits
+importés, les normes de qualité très strictes imposées par les autorités de
+régulation, les coûts de production élevés, etc.
 
 Dans ses opportunités, le secteur agricole est un secteur en pleine mutation.
 Les agriculteurs sont de plus en plus nombreux à se tourner vers des pratiques
@@ -130,7 +174,8 @@ Un besoin peut être de vouloir:
 - Une meilleur qualité de vie
 - Gagner du temps
 - Économiser de l'argent
-- Résoudre un problème
+
+Bien sûr, un besoin dépend du contexte dans lequel il est exprimé.
 
 ## Identifier marché prometteur
 
@@ -145,8 +190,6 @@ Avant d'identifier les besoins dans un secteur de marché, il faut s'assurer que
 ses menaces et ses opportunités sont bien comprises et qu'elle sont en
 adéquation avec ce que vous pouvez proposer.
 
-...
-
 Maintenant, il reste à trouver une idée originale.
 
 ## Idée originale
@@ -155,17 +198,18 @@ Nous entendons souvent parler d'idées originales, de trouver "la" bonne idée,
 celle qui va révolutionner le monde, celle qui va changer la vie des gens, celle
 qui va vous rendre riche, etc. Mais qu'est-ce qu'une idée originale ?
 
-Une idée doit pouvoir améliorer la vie sur différents aspects. Elle peut :
-
-- faire gagner du temps
-- faire économiser de l'argent
-- améliorer la qualité de vie
-- résoudre un problème
-- répondre à un besoin
+Une idée doit pouvoir améliorer la vie sur différents aspects. Elle répond à un
+besoin.
 
 La politique et les normes sociales peuvent aussi influencer la pertinence d'une
 idée. Une idée que vous avez eue pendant un voyage à l'autre bout du monde ou un
 besoin que vous y avez identifié peut ne pas être pertinent au retour chez vous.
+
+Une idée originale peut avoir déjà existé. Ce qui importe, c'est de la
+réinventer, de la repenser, de la réadapter à un contexte donné.
+
+Une idée originale, c'est une idée qui est consciente de son contexte et qui en
+sort légèrement.
 
 ## Méthodologies pour générer des idées
 
@@ -353,7 +397,10 @@ TODO
 
 ## Qu'est-ce que vous ferez ensuite ?
 
-TODO
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
 
 ## Sources
 
