@@ -37,6 +37,9 @@ TODO
   [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
 
 [^example]: Example, [example.com](https://example.com/), 20 février 2025
+[^12factor]:
+    The Twelve-Factor App, [12factor.net](https://12factor.net/), 26 février
+    2025
 
 <!-- URLs -->
 
