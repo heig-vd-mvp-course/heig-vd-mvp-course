@@ -58,6 +58,16 @@ style: |
 headingDivider: 6
 -->
 
+<!--
+
+Commentaires
+
+Cette présentation avait duré 45 minutes. Mais la partie sur la gestion d'équipe
+était un peu longue. 35 minutes serait plus approprié, de toute façon, le
+contenu est dans le support de cours.
+
+-->
+
 # Introduction, motivation et organisation de l'unité
 
 <!--
