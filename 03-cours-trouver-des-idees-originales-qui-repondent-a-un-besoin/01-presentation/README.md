@@ -100,7 +100,7 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-objectifs]
 
-## Contexte
+## Comprendre le contexte dans lequel nous évoluons
 
 - Social
 - Économique
@@ -110,7 +110,7 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-contexte]
 
-## Les secteurs de marché
+## Identifier des secteurs de marché
 
 Chaque secteur à ses opportunités et ses menaces, dans un contexte donné.
 
@@ -118,51 +118,56 @@ Chaque secteur à ses opportunités et ses menaces, dans un contexte donné.
 - Agricole
 - Horloger
 - Trourisme
+- Et bien d'autres
 
 ![bg right:40%][illustration-secteur-de-marche]
 
-### Le secteur pharmaceutique
+### Exemple : le secteur pharmaceutique
 
 <div class="two-columns center">
 <div>
 
-- **Opportunités** :
-  - Croissance constante
-  - Investissements dans la recherche et le développement
-  - Main-d'œuvre qualifiée
-  - Infrastructure de qualité
+**Menaces**
+
+- Secteur très réglementé
+- Normes de qualité strictes
+- Investissements massifs dans la recherche et le développement
 
 </div>
 <div>
 
-- **Menaces** :
-  - Secteur très réglementé
-  - Normes de qualité strictes
-  - Investissements massifs dans la recherche et le développement
-  </div>
+**Opportunités**
 
-### Le secteur agricole
+- Croissance constante
+- Investissements dans la recherche et le développement
+- Main-d'œuvre qualifiée
+- Infrastructure de qualité
+
+</div>
+
+### Exemple : le secteur agricole
 
 <div class="two-columns center">
 <div>
 
-- **Opportunités** :
-  - Pratiques agricoles durables
-  - Nouvelles technologies
-  - Réduction de l'impact environnemental
+**Menaces**
+
+- Concurrence des produits importés
+- Normes de qualité strictes
+- Coûts de production élevés
 
 </div>
-
 <div>
 
-- **Menaces** :
-  - Concurrence des produits importés
-  - Normes de qualité strictes
-  - Coûts de production élevés
+**Opportunités**
+
+- Pratiques agricoles durables
+- Nouvelles technologies
+- Réduction de l'impact environnemental
 
 </div>
 
-## Besoin
+## Définir un besoin
 
 Dans un contexte donné, un besoin peut être de vouloir :
 
@@ -170,9 +175,11 @@ Dans un contexte donné, un besoin peut être de vouloir :
 - Gagner du temps
 - Économiser de l'argent
 
+Bien sûr, un besoin dépend du contexte dans lequel il est exprimé.
+
 ![bg right:40%][illustration-identifier-un-besoin]
 
-## Identifier marché prometteur
+## Identifier un marché prometteur
 
 - Avoir conscience des opportunités et des menaces
 - Opportunités d'agilité
@@ -181,14 +188,12 @@ Dans un contexte donné, un besoin peut être de vouloir :
 
 ![bg right:40%][illustration-identifier-marche-prometteur]
 
-<!-- ## Idée originale -->
-
----
+## Trouver une idée originale
 
 <!-- _class: lead -->
 
 > _Une **idée originale** est une idée ancrée dans son contexte, mais qui en
-> explore les limites. ._
+> explore les limites._
 
 <!-- > _Une **idée originale** est une idée qui comprend son contexte et ose en
 > dévier légèrement._ -->

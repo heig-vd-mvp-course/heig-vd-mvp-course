@@ -94,11 +94,12 @@ De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
 
 ### Déroulement
 
-Nous vous invitons maintenant à prendre la parole pour définir vos groupes et
-les projets sur lesquels vous allez travailler.
+Nous vous invitons maintenant à prendre la parole pour rappeler vos groupes, les
+projets sur lesquels vous allez travailler et présenter l'avancement de votre
+projet.
 
-Ensuite, nous vous invitons à tester les outils de créativité pour trouver des
-idées originales et choisir une idée qui répond à un besoin.
+Ensuite, nous vous invitons à tester les outils de créativité pour explorer
+d'autres idées originales qui répondent à un besoin défini.
 
 Enfin, nous vous invitons à décrire le besoin, identifier le secteur de marché,
 identifier la plus-value du service, identifier si votre idée est pertinente et

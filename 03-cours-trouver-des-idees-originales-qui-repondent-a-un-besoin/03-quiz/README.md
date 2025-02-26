@@ -71,14 +71,13 @@ _paginate: false
 
 <!-- _class: lead -->
 
-**Cette présentation est un quiz pour tester ses connaissances sur le chapitre
-en cours. Pour plus de détails, consultez le [support de
-cours][course-material].**
+_Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
+cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
 ## Question 1 - Donnée
 
-Quels sont les principaux éléments à prendre en compte pour comprendre le
-contexte d'une idée ?
+> Quels sont les principaux éléments à prendre en compte pour comprendre le
+> contexte d'une idée ?
 
 ## Question 1 - Réponse
 
@@ -93,8 +92,8 @@ idée sont :
 
 ## Question 2 - Donnée
 
-Pourquoi est-il important de comprendre le secteur de marché avant de se lancer
-dans l'entrepreneuriat ?
+> Pourquoi est-il important de comprendre le secteur de marché avant de se
+> lancer dans l'entrepreneuriat ?
 
 ## Question 2 - Réponse
 
@@ -104,7 +103,7 @@ et répondre à leurs attentes.
 
 ## Question 3 - Donnée
 
-Comment définiriez-vous une idée originale ?
+> Comment définiriez-vous une idée originale ?
 
 ## Réponse 3 - Réponse
 
@@ -115,12 +114,67 @@ existante**.
 
 ## Question 4 - Donnée
 
-Qu'est-ce qui rend un marché plus prometteur qu'un autre ?
+> Qu'est-ce qui rend un marché plus prometteur qu'un autre ?
 
 ## Question 4 - Réponse
 
 Un marché est plus prometteur qu'un autre s'il est en pleine expansion, s'il est
 suffisamment grand pour accueillir de nouveaux acteurs et s'il est peu saturé.
+
+## Question 5 - Donnée
+
+> Quelles est la différence entre les méthodes de brainstorming et de doodling ?
+
+## Question 5 - Réponse
+
+Le brainstorming est une méthode de créativité qui consiste à générer un maximum
+d'idées en un minimum de temps, basée sur l'écriture.
+
+Le doodling est une méthode de créativité qui consiste à dessiner pour stimuler
+la créativité et partager des idées de façon visuelle.
+
+## Question 6 - Donnée
+
+> Par quoi devrions-nous commencer lors de l'utilisation de méthodes de
+> créativité comme le brainstorming ou le doodling ?
+
+## Question 6 - Réponse
+
+1. Définir un objectif clair
+2. Faire l'exercice de façon individuelle
+3. Partager les idées
+4. Regrouper les idées
+5. Sélectionner les idées les plus prometteuses
+
+## Question 7 - Donnée
+
+> Comment pouvons-nous définir une "bonne" idée ?
+
+## Question 7 - Réponse
+
+Une "bonne" idée est une idée est toujours subjective, mais il existe la matrice
+de décision basée sur les critères suivants :
+
+1. L'effort pour réaliser la solution (faible, moyen, fort)
+2. L'impact de la dite solution (faible, moyen, fort)
+
+L'impact est librement défini par et pour chaque personne (économique, sociétal,
+etc.).
+
+## Question 8 - Donnée
+
+> Où trouver des idées originales ?
+
+## Question 8 - Réponse
+
+Il existe plusieurs sources pour trouver des idées originales :
+
+- Les besoins des utilisateurs
+- Les tendances du marché
+- Les technologies émergentes
+- Votre vie de tous les jours
+- Des communautés sur Internet (forums, réseaux sociaux, etc.)
+- Etc.
 
 ## Questions
 
