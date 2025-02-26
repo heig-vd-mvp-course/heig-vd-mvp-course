@@ -17,9 +17,9 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Secteur de marché / secteur économique](#secteur-de-marché--secteur-économique)
   - [Le secteur pharmaceutique](#le-secteur-pharmaceutique)
   - [Le secteur agricole](#le-secteur-agricole)
-- [Identifier un besoin](#identifier-un-besoin)
+- [Besoin](#besoin)
 - [Identifier marché prometteur](#identifier-marché-prometteur)
-- [Identifier une idée pertinente](#identifier-une-idée-pertinente)
+- [Idée originale](#idée-originale)
 - [Méthodologies pour générer des idées](#méthodologies-pour-générer-des-idées)
   - [Brainstorming](#brainstorming)
   - [Doodling](#doodling)
@@ -52,9 +52,14 @@ De façon plus concise, à la fin de cette séance, vous devriez être capable d
 ## Secteur de marché / secteur économique
 
 Avant de se lancer dans l'entrepreneuriat, il est important de bien comprendre
-le secteur de marché dans lequel vous souhaitez vous lancer. Un secteur de
+le secteur de marché dans lequel vous souhaitez vous lancer. Il faut savoir que
+la définition n'est pas forcément clair et que 'il existe plusieurs définitions.
+
+La définition qui intéresse les réflexions de ce cours est : Un secteur de
 marché est un ensemble d'entreprises qui proposent des produits ou des services
-similaires à un groupe de clients.
+similaires à un groupe de clients. La seule interaction qu'a un secteur avec les
+autres secteurs est ce qu'il propose. Le secteur pharmaceutique propose des
+médicaments, le secteur agricole propose des produits alimentaires, etc.
 
 Il est important de bien comprendre le secteur de marché dans lequel vous
 souhaitez vous lancer pour identifier les opportunités et les menaces qui
@@ -80,6 +85,17 @@ suisses et contribue à environ 7% du PIB. Plus d’un millier d’entreprises s
 actives dans ce secteur, et deux d’entre elles comptent parmi les plus grandes
 au monde.[^pharmaceutique]
 
+Dans ses menaces, le secteur pharmaceutique est un secteur très réglementé. Les
+autorités de régulation imposent des normes de qualité très strictes pour
+garantir la sécurité des patients. Les entreprises doivent donc investir
+massivement dans la recherche et le développement de nouveaux médicaments pour
+répondre à ces normes.
+
+Dans ses opportunités, le secteur pharmaceutique est un secteur en croissance
+constante. La Suisse est un pays qui investit beaucoup dans la recherche et le
+développement de nouveaux médicaments. Elle est également un pays qui dispose
+d'une main-d'œuvre qualifiée et d'une infrastructure de qualité.
+
 ### Le secteur agricole
 
 Bien qu’il ne représente qu’une petite part de l’économie suisse, le secteur
@@ -87,24 +103,57 @@ agricole participe à la sécurité alimentaire de la population suisse et
 contribue de façon importante à la préservation des paysages et, partant, au
 tourisme.[^agricole]
 
-## Identifier un besoin
+Dans ses menaces, le secteur agricole est un secteur en crise. Les agriculteurs
+sont confrontés à de nombreux défis : la concurrence des produits importés, les
+normes de qualité très strictes imposées par les autorités de régulation, les
+coûts de production élevés, etc.
+
+Dans ses opportunités, le secteur agricole est un secteur en pleine mutation.
+Les agriculteurs sont de plus en plus nombreux à se tourner vers des pratiques
+agricoles plus durables et respectueuses de l'environnement. Ils investissent
+dans de nouvelles technologies pour améliorer leur productivité et réduire leur
+impact sur l'environnement.
+
+## Besoin
 
 La vie est comme elle est. Elle est faite de hauts et de bas, de joies et de
 peines, de succès et d'échecs. Ce qui importe lorsque l'on entreprend, c'est de
 savoir identifier où sont les points de friction, les problèmes, les besoins
-insatisfaits.
+insatisfaits. Essayer de créer un besoin est une entreprise risquée et
+contre-productive pour la société.
 
-Une personne peut avoir un problème et requerrir une solution. Il est fort
-probable qu'elle n'ait pas su identifier le problème correctement. C'est très
-important de
+C'est pour ça qu'il est important de bien identifier les besoins de votre public
+cible.
+
+Un besoin peut être de vouloir:
+
+- Une meilleur qualité de vie
+- Gagner du temps
+- Économiser de l'argent
+- Résoudre un problème
 
 ## Identifier marché prometteur
 
-## Identifier une idée pertinente
+Fort de la connaissance des secteurs de marché et de ce qu'est un besoin, il est
+temps de se lancer dans la recherche d'un marché prometteur.
+
+Un marché prometteur est un marché qui présente des opportunités de croissance
+et de développement. C'est un marché qui est en pleine expansion, qui est
+suffisamment grand pour accueillir de nouveaux acteurs et qui est peu saturé.
+
+Avant d'identifier les besoins dans un secteur de marché, il faut s'assurer que
+ses menaces et ses opportunités sont bien comprises et qu'elle sont en
+adéquation avec ce que vous pouvez proposer.
+
+...
+
+Maintenant, il reste à trouver une idée originale.
+
+## Idée originale
 
 Nous entendons souvent parler d'idées originales, de trouver "la" bonne idée,
 celle qui va révolutionner le monde, celle qui va changer la vie des gens, celle
-qui va vous rendre riche, etc.
+qui va vous rendre riche, etc. Mais qu'est-ce qu'une idée originale ?
 
 Une idée doit pouvoir améliorer la vie sur différents aspects. Elle peut :
 
@@ -113,6 +162,10 @@ Une idée doit pouvoir améliorer la vie sur différents aspects. Elle peut :
 - améliorer la qualité de vie
 - résoudre un problème
 - répondre à un besoin
+
+La politique et les normes sociales peuvent aussi influencer la pertinence d'une
+idée. Une idée que vous avez eue pendant un voyage à l'autre bout du monde ou un
+besoin que vous y avez identifié peut ne pas être pertinent au retour chez vous.
 
 ## Méthodologies pour générer des idées
 
