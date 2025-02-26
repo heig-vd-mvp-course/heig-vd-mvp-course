@@ -26,9 +26,6 @@ style: |
     table {
         width: 100%;
     }
-    th:first-child {
-        width: 15%;
-    }
     h1, h2, h3, h4, h5, h6 {
         color: var(--color-headings);
     }
@@ -68,14 +65,14 @@ _paginate: false
 
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 
-![bg opacity:0.25][illustration]
+![bg opacity:0.25][illustration-principale]
 
 ## Plus de détails dans le support de cours
 
 <!-- _class: lead -->
 
-Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
-cours. Pour plus de détails, consultez le [support de cours][course-material].
+_Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
+cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
 ## Question 1
 
@@ -101,8 +98,8 @@ Est-ce que vous avez des questions ?
 
 ## Sources
 
-- Illustration principale par [Annie Spratt](https://unsplash.com/@anniespratt)
-  sur
+- [Illustration principale][illustration-principale] par
+  [Annie Spratt](https://unsplash.com/@anniespratt) sur
   [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
 
 <!-- URLs -->
@@ -111,9 +108,12 @@ Est-ce que vous avez des questions ?
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/01-presentation/
 [pdf]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/01-presentation/07-cours-identification-et-choix-dune-stack-technologique-presentation.pdf
-[license]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 [course-material]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/07-cours-identification-et-choix-dune-stack-technologique/02-support-de-cours/README.md
+[license]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+
+<!-- Illustrations -->
+
+[illustration-principale]:
+	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720

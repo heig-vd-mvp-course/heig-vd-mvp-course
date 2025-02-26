@@ -26,9 +26,6 @@ style: |
     table {
         width: 100%;
     }
-    th:first-child {
-        width: 15%;
-    }
     h1, h2, h3, h4, h5, h6 {
         color: var(--color-headings);
     }
@@ -61,6 +58,16 @@ style: |
 headingDivider: 6
 -->
 
+<!--
+
+Commentaires
+
+Cette présentation avait duré 45 minutes. Mais la partie sur la gestion d'équipe
+était un peu longue. 35 minutes serait plus approprié, de toute façon, le
+contenu est dans le support de cours.
+
+-->
+
 # Introduction, motivation et organisation de l'unité
 
 <!--
@@ -76,7 +83,7 @@ _paginate: false
 
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 
-![bg opacity:0.25][illustration]
+![bg opacity:0.25][illustration-principale]
 
 ## Bienvenue au cours Lancez votre minimum viable product (MVP) !
 
@@ -136,7 +143,7 @@ consultez le [support de cours][course-material]._
 - Lister les modalités d'organisation des équipes
 - Lister les modalités d'évaluation
 
-![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
+![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
@@ -144,7 +151,7 @@ consultez le [support de cours][course-material]._
 - Décrire les différences entre un wireframe, un mockup, un prototype et un MVP
 - Décrire ce qu'est un MVP
 
-![bg right:40%](https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720)
+![bg right:40%][illustration-objectifs]
 
 ## Objectifs du cours (1/3)
 
@@ -199,7 +206,7 @@ Nous nous réjouissons de vous accompagner dans ce cours !
   groupe restreint)
 - Projet à rendre à la fin du semestre
 
-![bg right:40%](https://images.unsplash.com/photo-1519389950473-47ba0277781c?fit=crop&h=720)
+![bg right:40%][illustration-modalites-dorganisation-du-projet]
 
 ## Modalités d'évaluation
 
@@ -219,7 +226,7 @@ démarche et l'apprentissage.
 - Durée minimale de 45 minutes
 - Devrait utiliser la plateforme d'évaluation en ligne de la HEIG-VD
 
-![bg right:40%](https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?fit=crop&h=720)
+![bg right:40%][illustration-evaluation-ecrite]
 
 ### Présentations
 
@@ -230,7 +237,7 @@ démarche et l'apprentissage.
 
 Profitez-en pour vous entraîner !
 
-![bg right:40%](https://images.unsplash.com/photo-1535016120720-40c646be5580?fit=crop&h=720)
+![bg right:40%][illustration-presentations]
 
 ### Rapport final
 
@@ -239,7 +246,7 @@ Profitez-en pour vous entraîner !
 - Un rapport avant tout pour vous-même pour voir l'avancement
 - Une structure et des outils vous sont proposés dans le support de cours
 
-![bg right:40%](https://images.unsplash.com/photo-1532153955177-f59af40d6472?fit=crop&h=720)
+![bg right:40%][illustration-rapport-final]
 
 ### Produit final
 
@@ -249,7 +256,7 @@ Profitez-en pour vous entraîner !
 - La qualité du code ne sera que peu évaluée
 - **Ne codez pas tout de suite !**
 
-![bg right:40%](https://images.unsplash.com/photo-1523275335684-37898b6baf30?fit=crop&h=720)
+![bg right:40%][illustration-produit-final]
 
 ## Grilles d'évaluation
 
@@ -260,7 +267,7 @@ cours][course-material] :
 - [Grille d'évaluation du rapport final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-du-rapport-final)
 - [Grille d'évaluation du produit final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-du-produit-final)
 
-![bg right:40%](https://images.unsplash.com/photo-1487603527224-a650979f288e?fit=crop&h=720)
+![bg right:40%][illustration-grilles-devaluation]
 
 ### Critères d'évaluation
 
@@ -270,7 +277,7 @@ cours][course-material] :
 
 Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 
-![bg right:40%](https://images.unsplash.com/photo-1487603527224-a650979f288e?fit=crop&h=720)
+![bg right:40%][illustration-grilles-devaluation]
 
 ### Grille d'évaluation des présentations
 
@@ -281,7 +288,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
   - La qualité des réponses aux questions
 - [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
 
-![bg right:40%](https://images.unsplash.com/photo-1487603527224-a650979f288e?fit=crop&h=720)
+![bg right:40%][illustration-grilles-devaluation]
 
 ### Grille d'évaluation du rapport final
 
@@ -292,17 +299,17 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 - 12 pages maximum (sans compter les images, tableaux, annexes, etc.)
 - [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-du-rapport-final)
 
-![bg right:40%](https://images.unsplash.com/photo-1487603527224-a650979f288e?fit=crop&h=720)
+![bg right:40%][illustration-grilles-devaluation]
 
 ### Grille d'évaluation du produit final
 
 - 8 critères
 - Basés, entre autres, sur :
+  - La qualité de la problématique et de sa solution
   - La qualité de la réalisation et de l'expérience utilisateur
-- 12 pages maximum (sans compter les images, tableaux, annexes, etc.)
 - [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-du-produit-final)
 
-![bg right:40%](https://images.unsplash.com/photo-1487603527224-a650979f288e?fit=crop&h=720)
+![bg right:40%][illustration-grilles-devaluation]
 
 ## Comment travailler en équipe de façon efficace
 
@@ -310,7 +317,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 - Savoir comment travailler en équipe de façon efficace
 - Principes de la gouvernance partagée et horizontale
 
-![bg right:40%](https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?fit=crop&h=720)
+![bg right:40%][illustration-comment-travailler-en-equipe-de-facon-efficace]
 
 ### Les outils à utiliser
 
@@ -319,7 +326,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 - Git workflow
 - Minimisez le nombre d'outils utilisés
 
-![bg right:40%](https://images.unsplash.com/photo-1531403009284-440f080d1e12?fit=crop&h=720)
+![bg right:40%][illustration-les-outils-a-utiliser]
 
 ### Votre équipe
 
@@ -328,7 +335,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 - Les rôles peuvent évoluer au fil du projet
 - Daily et weekly
 
-![bg right:40%](https://images.unsplash.com/photo-1541532713592-79a0317b6b77?fit=crop&h=720)
+![bg right:40%][illustration-votre-equipe]
 
 ### Rôles
 
@@ -340,7 +347,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
   - Développeur
   - Etc.
 
-![bg right:40%](https://images.unsplash.com/photo-1529699211952-734e80c4d42b?fit=crop&h=720)
+![bg right:40%][illustration-roles]
 
 ### Séances
 
@@ -349,7 +356,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 - Tour de table
 - L'importance des rôles
 
-![bg right:40%](https://images.unsplash.com/photo-1543269865-cbf427effbad?fit=crop&h=720)
+![bg right:40%][illustration-seances]
 
 ## Différences entre un wireframe, un mockup, un prototype et un minimum viable product (MVP)
 
@@ -358,7 +365,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 - **Prototype** : tester les interactions et l'ergonomie
 - **MVP** : lancer une première version utilisable sur le marché
 
-![bg right:20%](https://images.unsplash.com/photo-1547057740-4b18aac8eed2?fit=crop&h=720)
+![bg right:20%][illustration-differences-entre-un-wireframe-un-mockup-un-prototype-et-un-minimum-viable-product-mvp]
 
 ### Wireframe
 
@@ -367,7 +374,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 - Peu coûteux et rapide à réaliser
 - Papier-crayon
 
-![bg right:40%](https://images.unsplash.com/photo-1618788372246-79faff0c3742?fit=crop&h=720)
+![bg right:40%][illustration-wireframe]
 
 ### Mockup
 
@@ -377,7 +384,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 - Utilisé pour obtenir des retours sur l'identité visuelle et l'expérience
   utilisateur
 
-![bg right:40%](https://images.unsplash.com/photo-1703676311066-34caf2cbee33?fit=crop&h=720)
+![bg right:40%][illustration-mockup]
 
 ### Prototype
 
@@ -385,7 +392,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 - Permet de tester l'ergonomie et l'expérience
 - **N'est pas conçu pour durer et ne devrait pas être utilisé en production**
 
-![bg right:40%](https://images.unsplash.com/photo-1592660681825-70364e4dd0b9?fit=crop&h=720)
+![bg right:40%][illustration-prototype]
 
 ### Minimum viable product (MVP)
 
@@ -393,7 +400,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 - Permet d'obtenir des retours utilisateurs
 - Résoudre un problème clé avec le minimum d'effort
 
-![bg right:40%](https://images.unsplash.com/photo-1540468348633-084ed9d348f1?fit=crop&h=720)
+![bg right:40%][illustration-minimum-viable-product-mvp]
 
 ## Questions
 
@@ -406,57 +413,73 @@ Est-ce que vous avez des questions ?
 - Prendre connaissance du [support de cours][course-material]
 - Poser des questions si nécessaire
 
-![bg right:40%](https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720)
+![bg right:40%][illustration-a-vous-de-jouer]
 
 ## Sources (1/3)
 
-- Illustration principale par [Annie Spratt](https://unsplash.com/@anniespratt)
-  sur
+- [Illustration principale][illustration-principale] par
+  [Annie Spratt](https://unsplash.com/@anniespratt) sur
   [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
-- Illustration par [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
+- [Illustration][illustration-objectifs] par
+  [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
-- Illustration par [Marvin Meyer](https://unsplash.com/@marvelous) sur
+- [Illustration][illustration-modalites-dorganisation-du-projet] par
+  [Marvin Meyer](https://unsplash.com/@marvelous) sur
   [Unsplash](https://unsplash.com/photos/people-sitting-down-near-table-with-assorted-laptop-computers-SYTO3xs06fU)
-- Illustration par [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) sur
+- [Illustration][illustration-evaluation-ecrite] par
+  [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) sur
   [Unsplash](https://unsplash.com/photos/person-writing-on-white-paper-qDgTQOYk6B8)
-- Illustration par [Alex Litvin](https://unsplash.com/@alexlitvin) sur
+- [Illustration][illustration-presentations] par
+  [Alex Litvin](https://unsplash.com/@alexlitvin) sur
   [Unsplash](https://unsplash.com/photos/turned-on-led-projector-on-table-MAYsdoYpGuk)
-- Illustration par [Annie Spratt](https://unsplash.com/@anniespratt) sur
+- [Illustration][illustration-rapport-final] par
+  [Annie Spratt](https://unsplash.com/@anniespratt) sur
   [Unsplash](https://unsplash.com/photos/white-and-black-paper-lot-_dAnK9GJvdY)
-- Illustration par [Rachit Tank](https://unsplash.com/@rachitank) sur
+- [Illustration][illustration-produit-final] par
+  [Rachit Tank](https://unsplash.com/@rachitank) sur
   [Unsplash](https://unsplash.com/photos/round-white-watch-with-white-band-2cFZ_FB08UM)
-- Illustration par [Lance Anderson](https://unsplash.com/@lanceanderson) sur
+- [Illustration][illustration-grilles-devaluation] par
+  [Lance Anderson](https://unsplash.com/@lanceanderson) sur
   [Unsplash](https://unsplash.com/photos/white-and-black-architectural-building-diagram-oSZzkAqIRIM)
 
 ## Sources (2/3)
 
-- Illustration par [Alvaro Reyes](https://unsplash.com/@alvarordesign) sur
-  [Unsplash](https://unsplash.com/photos/person-working-on-blue-and-white-paper-on-board-qWwpHwip31M)
-- Illustration par
-  [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
+- [Illustration][illustration-comment-travailler-en-equipe-de-facon-efficace]
+  par [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
   [Unsplash](https://unsplash.com/photos/man-standing-behind-flat-screen-computer-monitor-bzqU01v-G54)
-- Illustration par [John Arano](https://unsplash.com/@johnarano) sur
+- [Illustration][illustration-les-outils-a-utiliser] par
+  [Alvaro Reyes](https://unsplash.com/@alvarordesign) sur
+  [Unsplash](https://unsplash.com/photos/person-working-on-blue-and-white-paper-on-board-qWwpHwip31M)
+- [Illustration][illustration-votre-equipe] par
+  [John Arano](https://unsplash.com/@johnarano) sur
   [Unsplash](https://unsplash.com/photos/three-people-holding-glass-bottles-while-talking-_qADvinJi20)
-- Illustration par [Faizur Rehman](https://unsplash.com/@fazurrehman) sur
-  [Unsplash](https://unsplash.com/photos/person-holding-black-ipad-with-green-plant-dJpupM4LiS4)
-- Illustration par [Mark König](https://unsplash.com/@markkoenig) sur
-  [Unsplash](https://unsplash.com/photos/blue-and-white-wooden-house-on-green-grass-field-during-daytime-1UMrSoItdDE)
-- Illustration par [Niklas Tidbury](https://unsplash.com/@ntidbury) sur
-  [Unsplash](https://unsplash.com/photos/brown-and-gray-wooden-house-near-mountain-valley-during-daytime-tc3SyHYF_4s)
-- Illustration par [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy)
-  sur
-  [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
-- Illustration par [Randy Fathe](https://unsplash.com/@randyfath) sur
+- [Illustration][illustration-roles] par
+  [Randy Fathe](https://unsplash.com/@randyfath) sur
   [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-chess-pieces-G1yhU1Ej-9A)
+- [Illustration][illustration-seances] par
+  [Brooke Cagle](https://unsplash.com/@brookecagle) sur
+  [Unsplash](https://unsplash.com/photos/a-group-of-friends-at-a-coffee-shop--uHVRvDr7pg)
+- [Illustration][illustration-differences-entre-un-wireframe-un-mockup-un-prototype-et-un-minimum-viable-product-mvp]
+  par [Steven Wright](https://unsplash.com/@stevenwright) sur
+  [Unsplash](https://unsplash.com/photos/magnifying-glass-mq8QogEBy00)
+- [Illustration][illustration-wireframe] par
+  [Faizur Rehman](https://unsplash.com/@fazurrehman) sur
+  [Unsplash](https://unsplash.com/photos/person-holding-black-ipad-with-green-plant-dJpupM4LiS4)
+- [Illustration][illustration-mockup] par
+  [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki) sur
+  [Unsplash](https://unsplash.com/photos/a-pink-and-purple-phone-sitting-on-top-of-a-purple-and-pink-background-Z-vPf7KBuT8)
 
 ## Sources (3/3)
 
-- Illustration par [Brooke Cagle](https://unsplash.com/@brookecagle) sur
-  [Unsplash](https://unsplash.com/photos/a-group-of-friends-at-a-coffee-shop--uHVRvDr7pg)
-- Illustration par [Steven Wright](https://unsplash.com/@stevenwright) sur
-  [Unsplash](https://unsplash.com/photos/magnifying-glass-mq8QogEBy00)
-- Illustration par [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki) sur
-  [Unsplash](https://unsplash.com/photos/a-pink-and-purple-phone-sitting-on-top-of-a-purple-and-pink-background-Z-vPf7KBuT8)
+- [Illustration][illustration-prototype] par
+  [Mark König](https://unsplash.com/@markkoenig) sur
+  [Unsplash](https://unsplash.com/photos/blue-and-white-wooden-house-on-green-grass-field-during-daytime-1UMrSoItdDE)
+- [Illustration][illustration-minimum-viable-product-mvp] par
+  [Niklas Tidbury](https://unsplash.com/@ntidbury) sur
+  [Unsplash](https://unsplash.com/photos/brown-and-gray-wooden-house-near-mountain-valley-during-daytime-tc3SyHYF_4s)
+- [Illustration][illustration-a-vous-de-jouer] par
+  [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
+  [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
 
 <!-- URLs -->
 
@@ -464,9 +487,48 @@ Est-ce que vous avez des questions ?
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/
 [pdf]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/01-cours-introduction-motivation-et-organisation-de-lunite-presentation.pdf
-[license]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 [course-material]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md
+[license]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+
+<!-- Illustrations -->
+
+[illustration-principale]:
+	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+[illustration-objectifs]:
+	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
+[illustration-modalites-dorganisation-du-projet]:
+	https://images.unsplash.com/photo-1519389950473-47ba0277781c?fit=crop&h=720
+[illustration-evaluation-ecrite]:
+	https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?fit=crop&h=720
+[illustration-presentations]:
+	https://images.unsplash.com/photo-1535016120720-40c646be5580?fit=crop&h=720
+[illustration-rapport-final]:
+	https://images.unsplash.com/photo-1532153955177-f59af40d6472?fit=crop&h=720
+[illustration-produit-final]:
+	https://images.unsplash.com/photo-1523275335684-37898b6baf30?fit=crop&h=720
+[illustration-grilles-devaluation]:
+	https://images.unsplash.com/photo-1487603527224-a650979f288e?fit=crop&h=720
+[illustration-comment-travailler-en-equipe-de-facon-efficace]:
+	https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?fit=crop&h=720
+[illustration-les-outils-a-utiliser]:
+	https://images.unsplash.com/photo-1531403009284-440f080d1e12?fit=crop&h=720
+[illustration-votre-equipe]:
+	https://images.unsplash.com/photo-1541532713592-79a0317b6b77?fit=crop&h=720
+[illustration-roles]:
+	https://images.unsplash.com/photo-1529699211952-734e80c4d42b?fit=crop&h=720
+[illustration-seances]:
+	https://images.unsplash.com/photo-1543269865-cbf427effbad?fit=crop&h=720
+[illustration-differences-entre-un-wireframe-un-mockup-un-prototype-et-un-minimum-viable-product-mvp]:
+	https://images.unsplash.com/photo-1547057740-4b18aac8eed2?fit=crop&h=720
+[illustration-wireframe]:
+	https://images.unsplash.com/photo-1618788372246-79faff0c3742?fit=crop&h=720
+[illustration-mockup]:
+	https://images.unsplash.com/photo-1703676311066-34caf2cbee33?fit=crop&h=720
+[illustration-prototype]:
+	https://images.unsplash.com/photo-1592660681825-70364e4dd0b9?fit=crop&h=720
+[illustration-minimum-viable-product-mvp]:
+	https://images.unsplash.com/photo-1540468348633-084ed9d348f1?fit=crop&h=720
+[illustration-a-vous-de-jouer]:
+	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720

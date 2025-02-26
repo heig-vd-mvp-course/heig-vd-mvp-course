@@ -26,9 +26,6 @@ style: |
     table {
         width: 100%;
     }
-    th:first-child {
-        width: 15%;
-    }
     h1, h2, h3, h4, h5, h6 {
         color: var(--color-headings);
     }
@@ -68,30 +65,116 @@ _paginate: false
 
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 
-![bg opacity:0.25][illustration]
+![bg opacity:0.25][illustration-principale]
 
 ## Plus de détails dans le support de cours
 
 <!-- _class: lead -->
 
-Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
-cours. Pour plus de détails, consultez le [support de cours][course-material].
+_Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
+cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
-## Question 1
+## Question 1 - Donnée
 
-TODO
+> Quels sont les principaux éléments à prendre en compte pour comprendre le
+> contexte d'une idée ?
 
-## Réponse 1
+## Question 1 - Réponse
 
-TODO
+Les principaux éléments à prendre en compte pour comprendre le contexte d'une
+idée sont :
 
-## Question 2
+- Contexte social
+- Contexte économique
+- Contexte politique et réglementaire
+- Contexte technologique
+- Contexte géographique
 
-TODO
+## Question 2 - Donnée
 
-## Réponse 2
+> Pourquoi est-il important de comprendre le secteur de marché avant de se
+> lancer dans l'entrepreneuriat ?
 
-TODO
+## Question 2 - Réponse
+
+Il est important de comprendre le secteur de marché pour identifier les
+opportunités et les menaces, mieux cibler les clients, comprendre leurs besoins
+et répondre à leurs attentes.
+
+## Question 3 - Donnée
+
+> Comment définiriez-vous une idée originale ?
+
+## Réponse 3 - Réponse
+
+Une idée originale est une idée qui **améliore la vie** sur différents aspects,
+**répond à un besoin**, est **consciente de son contexte** et s'adapte à
+celui-ci. Elle peut être une **réinvention ou une réadaptation d'une idée
+existante**.
+
+## Question 4 - Donnée
+
+> Qu'est-ce qui rend un marché plus prometteur qu'un autre ?
+
+## Question 4 - Réponse
+
+Un marché est plus prometteur qu'un autre s'il est en pleine expansion, s'il est
+suffisamment grand pour accueillir de nouveaux acteurs et s'il est peu saturé.
+
+## Question 5 - Donnée
+
+> Quelles est la différence entre les méthodes de brainstorming et de doodling ?
+
+## Question 5 - Réponse
+
+Le brainstorming est une méthode de créativité qui consiste à générer un maximum
+d'idées en un minimum de temps, basée sur l'écriture.
+
+Le doodling est une méthode de créativité qui consiste à dessiner pour stimuler
+la créativité et partager des idées de façon visuelle.
+
+## Question 6 - Donnée
+
+> Par quoi devrions-nous commencer lors de l'utilisation de méthodes de
+> créativité comme le brainstorming ou le doodling ?
+
+## Question 6 - Réponse
+
+1. Définir un objectif clair
+2. Faire l'exercice de façon individuelle
+3. Partager les idées
+4. Regrouper les idées
+5. Sélectionner les idées les plus prometteuses
+
+## Question 7 - Donnée
+
+> Comment pouvons-nous définir une "bonne" idée ?
+
+## Question 7 - Réponse
+
+Une "bonne" idée est une idée est toujours subjective, mais il existe la matrice
+de décision basée sur les critères suivants :
+
+1. L'effort pour réaliser la solution (faible, moyen, fort)
+2. L'impact de la dite solution (faible, moyen, fort)
+
+L'impact est librement défini par et pour chaque personne (économique, sociétal,
+etc.).
+
+## Question 8 - Donnée
+
+> Où trouver des idées originales ?
+
+## Question 8 - Réponse
+
+Il existe plusieurs sources pour trouver des idées originales :
+
+- Les besoins des utilisateurs
+- Les tendances du marché
+- Les technologies émergentes
+- Votre vie de tous les jours
+- Des communautés sur Internet (forums, réseaux sociaux, etc.)
+- Etc.
 
 ## Questions
 
@@ -101,9 +184,9 @@ Est-ce que vous avez des questions ?
 
 ## Sources
 
-- Illustration principale par [Annie Spratt](https://unsplash.com/@anniespratt)
-  sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+- [Illustration principale][illustration-principale] par
+  [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) sur
+  [Unsplash](https://unsplash.com/photos/blue-and-orange-abstract-painting-yn97LNy0bao)
 
 <!-- URLs -->
 
@@ -111,9 +194,12 @@ Est-ce que vous avez des questions ?
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/01-presentation/
 [pdf]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/01-presentation/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin-presentation.pdf
-[license]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 [course-material]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/02-support-de-cours/README.md
+[license]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+
+<!-- Illustrations -->
+
+[illustration-principale]:
+	https://images.unsplash.com/photo-1553949345-eb786bb3f7ba?fit=crop&h=720

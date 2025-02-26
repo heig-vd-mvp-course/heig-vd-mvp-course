@@ -52,25 +52,25 @@ d'apprentissage, et les méthodes d'évaluation.
 Les numéros des semaines correspondent aux semaines définies dans le
 [Calendrier académique de la HEIG-VD](https://heig-vd.ch/formation/bachelor/calendrier-academique/).
 
-|            Semaine | Cours                                                                                                                     | Projet                                                                                                                                                                                                                                |
-| -----------------: | :------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   [1](#-semaine-1) | [Introduction, motivation et organisation de l'unité](#cours---introduction-motivation-et-organisation-de-lunité)         | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-13) |
-|   [2](#-semaine-2) | [Trouver des idées originales qui répondent à un besoin](#cours---trouver-des-idées-originales-qui-répondent-à-un-besoin) | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-23) |
-|   [3](#-semaine-3) | [Comprendre et atteindre son public cible](#cours---comprendre-et-atteindre-son-public-cible)                             | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-33) |
-|   [4](#-semaine-4) | _CRUNCH : pas de cours_                                                                                                   | _CRUNCH : pas de projet_                                                                                                                                                                                                              |
-|   [5](#-semaine-5) | [Promouvoir et pitcher son idée](#cours---promouvoir-et-pitcher-son-idée)                                                 | 🚨 [Présentations du pitch](#projet---présentations-du-pitch)                                                                                                                                                                         |
-|   [6](#-semaine-6) | [Identification et choix d'une stack technologique](#cours---identification-et-choix-dune-stack-technologique)            | [Réalisation et hébergement de la landing page avec formulaire de contact (1/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-12)                                                               |
-|   [7](#-semaine-7) | [Réaliser des interfaces ergonomiques et réfléchies](#cours---réaliser-des-interfaces-ergonomiques-et-réfléchies)         | [Réalisation et hébergement de la landing page avec formulaire de contact (2/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-22)                                                               |
-|                  - | _Vacances : pas de cours_                                                                                                 | _Vacances : pas de projet_                                                                                                                                                                                                            |
-|   [8](#-semaine-8) | [Hébergement et déploiement de services](#cours---hébergement-et-déploiement-de-services)                                 | 🚨 [Présentations de la prospection](#projet---présentations-de-la-prospection)                                                                                                                                                       |
-|   [9](#-semaine-9) | [Recevoir des feedbacks constructifs et pivoter](#cours---recevoir-des-feedbacks-constructifs-et-pivoter)                 | [Réalisation du service et tests utilisateurs (1/6)](#projet---réalisation-du-service-et-tests-utilisateurs-16)                                                                                                                       |
-| [10](#-semaine-10) | [Réaliser des applications pérennes](#cours---réaliser-des-applications-pérennes)                                         | [Réalisation du service et tests utilisateurs (2/6)](#projet---réalisation-du-service-et-tests-utilisateurs-26)                                                                                                                       |
-| [11](#-semaine-11) | [Se faire payer pour sa passion](#cours---se-faire-payer-pour-sa-passion)                                                 | [Réalisation du service et tests utilisateurs (3/6)](#projet---réalisation-du-service-et-tests-utilisateurs-36)                                                                                                                       |
-| [12](#-semaine-12) | [Créer sa propre entreprise](#cours---créer-sa-propre-entreprise)                                                         | [Réalisation du service et tests utilisateurs (4/6)](#projet---réalisation-du-service-et-tests-utilisateurs-46)                                                                                                                       |
-| [13](#-semaine-13) | 🚨 [Évaluation](#cours---évaluation)                                                                                      | [Réalisation du service et tests utilisateurs (5/6)](#projet---réalisation-du-service-et-tests-utilisateurs-56)                                                                                                                       |
-| [14](#-semaine-14) | _Pas de cours, uniquement du projet_                                                                                      | [Réalisation du service et tests utilisateurs (6/6)](#projet---réalisation-du-service-et-tests-utilisateurs-66)                                                                                                                       |
-| [15](#-semaine-15) | _Pas de cours, uniquement du projet_                                                                                      | 🚨 [Rendu du rapport](#projet---rendu-du-rapport)                                                                                                                                                                                     |
-| [16](#-semaine-16) | [Revue du semestre](#cours---revue-du-semestre)                                                                           | 🚨 [Présentations finales et rendu du projet](#projet---présentations-finales-et-rendu-du-projet)                                                                                                                                     |
+|               Semaine | Dates             | Cours                                                                                                                     | Projet                                                                                                                                                                                                                                |
+| --------------------: | :---------------- | :------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|      [1](#-semaine-1) | 17.02. - 23.02.25 | [Introduction, motivation et organisation de l'unité](#cours---introduction-motivation-et-organisation-de-lunité)         | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-13) |
+|      [2](#-semaine-2) | 24.02. - 02.03.25 | [Trouver des idées originales qui répondent à un besoin](#cours---trouver-des-idées-originales-qui-répondent-à-un-besoin) | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-23) |
+|      [3](#-semaine-3) | 03.03. - 09.03.25 | [Comprendre et atteindre son public cible](#cours---comprendre-et-atteindre-son-public-cible)                             | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)](#projet---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-33) |
+|   🚨 [4](#-semaine-4) | 10.03. - 16.03.25 | [Promouvoir et pitcher son idée](#cours---promouvoir-et-pitcher-son-idée)                                                 | [Présentations du pitch](#projet---présentations-du-pitch)                                                                                                                                                                            |
+|      [5](#-semaine-5) | 17.03. - 23.03.25 | _CRUNCH : pas de cours_                                                                                                   | _CRUNCH : pas de projet_                                                                                                                                                                                                              |
+|      [6](#-semaine-6) | 24.03. - 30.03.25 | [Identification et choix d'une stack technologique](#cours---identification-et-choix-dune-stack-technologique)            | [Réalisation et hébergement de la landing page avec formulaire de contact (1/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-12)                                                               |
+|      [7](#-semaine-7) | 31.03. - 06.04.25 | [Réaliser des interfaces ergonomiques et réfléchies](#cours---réaliser-des-interfaces-ergonomiques-et-réfléchies)         | [Réalisation et hébergement de la landing page avec formulaire de contact (2/2)](#projet---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-22)                                                               |
+|   🚨 [8](#-semaine-8) | 07.04. - 13.04.25 | [Hébergement et déploiement de services](#cours---hébergement-et-déploiement-de-services)                                 | [Présentations de la prospection](#projet---présentations-de-la-prospection)                                                                                                                                                          |
+|      [9](#-semaine-9) | 14.04. - 20.04.25 | [Recevoir des feedbacks constructifs et pivoter](#cours---recevoir-des-feedbacks-constructifs-et-pivoter)                 | [Réalisation du service et tests utilisateurs (1/6)](#projet---réalisation-du-service-et-tests-utilisateurs-16)                                                                                                                       |
+|                     - | 21.04. - 27.04.25 | _Vacances : pas de cours_                                                                                                 | _Vacances : pas de projet_                                                                                                                                                                                                            |
+|    [10](#-semaine-10) | 28.04. - 04.05.25 | [Réaliser des applications pérennes](#cours---réaliser-des-applications-pérennes)                                         | [Réalisation du service et tests utilisateurs (2/6)](#projet---réalisation-du-service-et-tests-utilisateurs-26)                                                                                                                       |
+|    [11](#-semaine-11) | 05.05. - 11.05.25 | [Se faire payer pour sa passion](#cours---se-faire-payer-pour-sa-passion)                                                 | [Réalisation du service et tests utilisateurs (3/6)](#projet---réalisation-du-service-et-tests-utilisateurs-36)                                                                                                                       |
+|    [12](#-semaine-12) | 12.05. - 18.05.25 | [Créer sa propre entreprise](#cours---créer-sa-propre-entreprise)                                                         | [Réalisation du service et tests utilisateurs (4/6)](#projet---réalisation-du-service-et-tests-utilisateurs-46)                                                                                                                       |
+| 🚨 [13](#-semaine-13) | 19.05. - 25.05.25 | [Évaluation](#cours---évaluation)                                                                                         | [Réalisation du service et tests utilisateurs (5/6)](#projet---réalisation-du-service-et-tests-utilisateurs-56)                                                                                                                       |
+|    [14](#-semaine-14) | 26.05. - 01.06.25 | _Pas de cours, uniquement du projet_                                                                                      | [Réalisation du service et tests utilisateurs (6/6)](#projet---réalisation-du-service-et-tests-utilisateurs-66)                                                                                                                       |
+| 🚨 [15](#-semaine-15) | 02.06. - 08.06.25 | _Pas de cours, uniquement du projet_                                                                                      | [Rendu du rapport](#projet---rendu-du-rapport)                                                                                                                                                                                        |
+| 🚨 [16](#-semaine-16) | 09.06. - 15.06.25 | [Revue du semestre](#cours---revue-du-semestre)                                                                           | [Présentations finales et rendu du projet](#projet---présentations-finales-et-rendu-du-projet)                                                                                                                                        |
 
 ## 🕐 Semaine 1
 
@@ -219,16 +219,18 @@ il est recommandé pour la semaine suivante de :
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- Décrire ce qu'est une idée originale
+- Décrire ce qu'est un contexte
 - Décrire ce qu'est un besoin
 - Décrire ce qu'est un secteur de marché
 - Identifier des secteurs de marché prometteurs pour y fournir un nouveau
   service
+- Décrire ce qu'est une idée originale
 - Lister des sources d'inspiration pour trouver des idées originales
 - Générer des idées originales
 - Identifier les avantages et les inconvénients d'une idée
 - Évaluer la pertinence d'une idée
 - Évaluer la faisabilité d'une idée
+- Lister des sources d'inspiration pour trouver des idées originales
 
 **Méthodes d'enseignement et d'apprentissage**
 
@@ -281,6 +283,7 @@ il est recommandé pour la semaine suivante de :
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
+- Identifier le contexte
 - Lister des idées originales
 - Choisir une idée qui répond à un besoin
 - Décrire le besoin
@@ -471,10 +474,6 @@ il est recommandé pour la semaine suivante de :
 
 ## 🕓 Semaine 4
 
-_Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
-
-## 🕔 Semaine 5
-
 ### Cours - Promouvoir et pitcher son idée
 
 - Durée : 2 périodes
@@ -604,6 +603,10 @@ il est recommandé pour la semaine suivante de :
 - Interviewer ces personnes pour récolter des retours
 
 </details>
+
+## 🕔 Semaine 5
+
+_Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
 
 ## 🕕 Semaine 6
 
