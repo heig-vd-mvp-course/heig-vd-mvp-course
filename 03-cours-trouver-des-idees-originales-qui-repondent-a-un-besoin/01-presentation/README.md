@@ -81,7 +81,9 @@ consultez le [support de cours][course-material]._
 - Identifier des secteurs de marché prometteurs pour y fournir un nouveau
   service
 - Décrire ce qu'est une idée originale
-- Générer des idées originales ![bg right:40%][illustration-objectifs]
+- Générer des idées originales !
+
+[bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
@@ -92,7 +94,29 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-objectifs]
 
-## Partie de Guidoux
+## Secteur de marché
+
+![bg right:40%][illustration-secteur-de-marche]
+
+### L'industrie pharmaceutique
+
+![bg right:40%][illustration-secteur-de-marche-pharmaceutique]
+
+### L'industrie bancaire
+
+![bg right:40%][illustration-secteur-de-marche-bancaire]
+
+## Identifier un besoin
+
+![bg right:40%][illustration-identifier-un-besoin]
+
+## Identifier marché prometteur
+
+![bg right:40%][illustration-identifier-marche-prometteur]
+
+## Identifier une idée pertinente
+
+![bg right:40%][illustration-identifier-idee-pertinente]
 
 ## Méthodologies pour générer des idées
 
@@ -167,7 +191,7 @@ Est-ce que vous avez des questions ?
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 
-## Sources (1/3)
+## Sources (1/2)
 
 - [Illustration principale][illustration-principale] par
   [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) sur
@@ -184,6 +208,27 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
+- [Illustration][illustration-secteur-de-marche] par
+  [Masum Ali](https://unsplash.com/@masum_ali_photography) sur
+  [Unsplash](https://unsplash.com/photos/refill-of-liquid-on-tubes-pwcKF7L4-no)
+
+## Sources (2/2)
+
+- [Illustration][illustration-secteur-de-marche-pharmaceutique] par
+  [Louis Reed](https://unsplash.com/@_louisreed) sur
+  [Unsplash](https://unsplash.com/photos/refill-of-liquid-on-tubes-pwcKF7L4-no)
+- [Illustration][illustration-secteur-de-marche-bancaire] par
+  [Frrn](https://unsplash.com/@frrn) sur
+  [Unsplash](https://unsplash.com/photos/gray-concrete-building-during-daytime-WgUHuGSWPVM)
+- [Illustration][illustration-identifier-un-besoin] par
+  [Youssef Naddam](https://unsplash.com/@youssefnaddam) sur
+  [Unsplash](https://unsplash.com/photos/two-persons-arms-iJ2IG8ckCpA)
+- [Illustration][illustration-identifier-marche-prometteur] par
+  [Dmitry Topkin](https://unsplash.com/@dtopkin1) sur
+  [Unsplash](https://unsplash.com/photos/woman-in-black-jacket-wearing-yellow-knit-cap-xdx5hIHGt4A)
+- [Illustration][illustration-identifier-idee-pertinente] par
+  [Alejandro Bianchi](https://unsplash.com/@ale_s_bianchi) sur
+  [Unsplash](https://unsplash.com/photos/light-bulb-illustration-_kdTyfnUFAc)
 
 <!-- URLs -->
 
@@ -208,3 +253,15 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1552664688-cf412ec27db2?fit=crop&h=720
 [illustration-methodologies-generer-des-idees-2]:
 	https://images.unsplash.com/photo-1623116135497-a90bdc0ddca9?fit=crop&h=720
+[illustration-secteur-de-marche]:
+	https://images.unsplash.com/photo-1594700062947-2a1bc1fd19b6?fit=crop&h=720
+[illustration-secteur-de-marche-pharmaceutique]:
+	https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?fit=crop&h=720
+[illustration-secteur-de-marche-bancaire]:
+	https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?fit=crop&h=720
+[illustration-identifier-un-besoin]:
+	https://images.unsplash.com/photo-1541976844346-f18aeac57b06?fit=crop&h=720
+[illustration-identifier-marche-prometteur]:
+	https://images.unsplash.com/photo-1581306144940-6fdc110b7b71?fit=crop&h=720
+[illustration-identifier-idee-pertinente]:
+	https://images.unsplash.com/photo-1529310399831-ed472b81d589?fit=crop&h=720

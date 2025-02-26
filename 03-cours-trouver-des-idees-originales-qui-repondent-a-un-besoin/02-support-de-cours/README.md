@@ -14,7 +14,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
-- [Partie de Guidoux](#partie-de-guidoux)
+- [Secteur de marché / secteur économique](#secteur-de-marché--secteur-économique)
+  - [L'industrie pharmaceutique](#lindustrie-pharmaceutique)
+  - [L'industrie bancaire](#lindustrie-bancaire)
+- [Identifier un besoin](#identifier-un-besoin)
+- [Identifier marché prometteur](#identifier-marché-prometteur)
+- [Identifier une idée pertinente](#identifier-une-idée-pertinente)
 - [Méthodologies pour générer des idées](#méthodologies-pour-générer-des-idées)
   - [Brainstorming](#brainstorming)
   - [Doodling](#doodling)
@@ -44,13 +49,66 @@ De façon plus concise, à la fin de cette séance, vous devriez être capable d
 - Évaluer la faisabilité d'une idée
 - Lister des sources d'inspiration pour trouver des idées originales
 
-## Partie de Guidoux
+## Secteur de marché / secteur économique
 
-<!-- - Décrire ce qu'est un secteur de marché
-- Décrire ce qu'est un besoin [DTS - empathie]
-- Identifier des secteurs de marché prometteurs pour y fournir un nouveau
-  service
-- Décrire ce qu'est une idée originale -->
+Avant de se lancer dans l'entrepreneuriat, il est important de bien comprendre
+le secteur de marché dans lequel vous souhaitez vous lancer. Un secteur de
+marché est un ensemble d'entreprises qui proposent des produits ou des services
+similaires à un groupe de clients.
+
+Il est important de bien comprendre le secteur de marché dans lequel vous
+souhaitez vous lancer pour identifier les opportunités et les menaces qui
+peuvent exister. Cela vous permettra de mieux cibler vos clients, de mieux
+comprendre leurs besoins et de mieux répondre à leurs attentes.
+
+Voici certains secteurs de marché qui existent en Suisse :
+
+- L'industrie pharmaceutique
+- L'industrie agroalimentaire
+- L'industrie horlogère
+- L'industrie bancaire
+- L'industrie du tourisme
+- Etc.
+
+Deux exemples de ces secteurs de marché sont l'industrie pharmaceutique et
+l'industrie bancaire.
+
+### L'industrie pharmaceutique
+
+L’industrie chimique et pharmaceutique est le principal secteur d’exportation de
+la Suisse. Elle représente chaque année près de la moitié du volume des
+exportations suisses et contribue à environ 7% du PIB. Plus d’un millier
+d’entreprises sont actives dans ce secteur, et deux d’entre elles comptent parmi
+les plus grandes au monde.[^pharmaceutique]
+
+### L'industrie bancaire
+
+## Identifier un besoin
+
+La vie est comme elle est. Elle est faite de hauts et de bas, de joies et de
+peines, de succès et d'échecs. Ce qui importe lorsque l'on entreprend, c'est de
+savoir identifier où sont les points de friction, les problèmes, les besoins
+insatisfaits.
+
+Une personne peut avoir un problème et requerrir une solution. Il est fort
+probable qu'elle n'ait pas su identifier le problème correctement. C'est très
+important de
+
+## Identifier marché prometteur
+
+## Identifier une idée pertinente
+
+Nous entendons souvent parler d'idées originales, de trouver "la" bonne idée,
+celle qui va révolutionner le monde, celle qui va changer la vie des gens, celle
+qui va vous rendre riche, etc.
+
+Une idée doit pouvoir améliorer la vie sur différents aspects. Elle peut :
+
+- faire gagner du temps
+- faire économiser de l'argent
+- améliorer la qualité de vie
+- résoudre un problème
+- répondre à un besoin
 
 ## Méthodologies pour générer des idées
 
@@ -265,6 +323,11 @@ TODO
 [^kickstarter]:
     Kickstarter, [kickstarter.com](https://www.kickstarter.com/), 20 février
     2025
+
+[^pharmaceutique]:
+    Chimie et pharmacie,
+    [.admin.ch](https://www.eda.admin.ch/aboutswitzerland/fr/home/wirtschaft/taetigkeitsgebiete/chemie-und-pharma.html),
+    26 février 2025
 
 [^product-hunt]:
     Product Hunt, [producthunt.com](https://www.producthunt.com/), 20 février
