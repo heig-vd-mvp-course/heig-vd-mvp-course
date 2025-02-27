@@ -122,6 +122,24 @@ il est recommandé pour la semaine suivante de :
 
 <!-- _class: lead -->
 
+### Objectifs (1/2)
+
+- Identifier le contexte dans lequel évolue le projet
+- Identifier le secteur de marché dans lequel évolue le projet
+- Décrire le besoin auquel répond le projet
+- Lister des idées originales
+- Choisir une idée qui répond à un besoin
+
+![bg right:40%][illustration-objectifs]
+
+### Objectifs (2/2)
+
+- Identifier la plus-value du service
+- Identifier les avantages/forces et les inconvénients/faiblesses de l'idée
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
 ### Déroulement
 
 Nous vous invitons maintenant à prendre la parole pour rappeler vos groupes, les
