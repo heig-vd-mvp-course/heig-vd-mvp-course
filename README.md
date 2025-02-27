@@ -283,11 +283,11 @@ il est recommandé pour la semaine suivante de :
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
-- Identifier le contexte
+- Identifier le contexte dans lequel évolue le projet
+- Identifier le secteur de marché dans lequel évolue le projet
+- Décrire le besoin auquel répond le projet
 - Lister des idées originales
 - Choisir une idée qui répond à un besoin
-- Décrire le besoin
-- Identifier le secteur de marché
 - Identifier la plus-value du service
 - Identifier les avantages/forces et les inconvénients/faiblesses de l'idée
 - Compléter le rapport
