@@ -47,6 +47,11 @@ style: |
     section > header {
         font-size: 50%;
     }
+    .two-columns {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
 headingDivider: 6
 -->
 

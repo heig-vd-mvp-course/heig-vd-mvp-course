@@ -47,6 +47,11 @@ style: |
     section > header {
         font-size: 50%;
     }
+    .two-columns {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
 headingDivider: 6
 -->
 
@@ -160,6 +165,34 @@ il est recommandé pour la semaine suivante de :
 
 - Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
   pour le projet
+
+## Séance 3/3
+
+<!-- _class: lead -->
+
+### Objectifs (1/2)
+
+- Choisir une idée qui répond à un besoin
+- Rédiger la description du projet
+- Identifier le public cible **imaginaire**
+- Lister des personae **imaginés**
+- Améliorer la description des besoins **imaginés** du public cible
+- Identifier les étapes pour comprendre le public cible
+
+![bg right:40%][illustration-objectifs]
+
+### Objectifs (2/2)
+
+- Rédiger une série de questions pour comprendre le public cible
+- Identifier 2-3 personnes avec qui discuter pour comprendre le public cible
+- Lister les hypothèses à valider pour comprendre le public cible
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
+### Déroulement
+
+TODO
 
 ## Sources
 
