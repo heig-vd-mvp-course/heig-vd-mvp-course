@@ -96,6 +96,22 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-objectifs]
 
+## Partie Guidoux
+
+## Identifier les (réels) besoins d'un public cible
+
+Qu'est-ce qu'un besoin (rappel)
+
+## Comment dialoguer avec son public cible
+
+### Les différents formes possibles d'un dialogue
+
+### Limiter les biais de confirmation
+
+### Poser les bonnes questions
+
+## Comment réduire les incertitudes et valider les hypothèses
+
 ## Questions
 
 <!-- _class: lead -->

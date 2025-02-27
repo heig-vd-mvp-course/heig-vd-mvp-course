@@ -14,8 +14,15 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
+- [Partie Guidoux](#partie-guidoux)
+- [Identifier les (réels) besoins d'un public cible](#identifier-les-réels-besoins-dun-public-cible)
+- [Comment dialoguer avec son public cible](#comment-dialoguer-avec-son-public-cible)
+  - [Les différents formes possibles d'un dialogue](#les-différents-formes-possibles-dun-dialogue)
+  - [Limiter les biais de confirmation](#limiter-les-biais-de-confirmation)
+  - [Poser les bonnes questions](#poser-les-bonnes-questions)
+- [Comment réduire les incertitudes et valider les hypothèses](#comment-réduire-les-incertitudes-et-valider-les-hypothèses)
 - [Conclusion](#conclusion)
-- [Qu'est-ce que vous ferez ensuite ?](#quest-ce-que-vous-ferez-ensuite-)
+- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
 
 ## Objectifs
@@ -28,11 +35,31 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - Décrire comment dialoguer avec un public cible
 - Lister les hypothèses à valider pour comprendre un public cible
 
+## Partie Guidoux
+
+## Identifier les (réels) besoins d'un public cible
+
+Qu'est-ce qu'un besoin (rappel)
+
+## Comment dialoguer avec son public cible
+
+### Les différents formes possibles d'un dialogue
+
+- Questionnaires quantitatifs
+- Entretiens qualitatifs
+-
+
+### Limiter les biais de confirmation
+
+### Poser les bonnes questions
+
+## Comment réduire les incertitudes et valider les hypothèses
+
 ## Conclusion
 
 TODO
 
-## Qu'est-ce que vous ferez ensuite ?
+## Ce que vous ferez ensuite
 
 TODO
 

@@ -28,7 +28,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Trouver des sources d'inspiration d'idées originales](#trouver-des-sources-dinspiration-didées-originales)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous allez faire ensuite](#ce-que-vous-allez-faire-ensuite)
+- [Ce que vous ferez ensuite](#ce-que-vous-allez-faire-ensuite)
 - [Sources](#sources)
 
 ## Objectifs
@@ -423,7 +423,7 @@ il est recommandé pour la semaine suivante de :
 
 - Relire le support de cours si nécessaire
 
-## Ce que vous allez faire ensuite
+## Ce que vous ferez ensuite
 
 La séance de projet sera consacrée à la mise en pratique des concepts abordés
 dans ce support de cours. Vous serez amené à trouver des idées originales qui
