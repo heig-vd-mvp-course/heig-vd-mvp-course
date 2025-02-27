@@ -388,14 +388,22 @@ Dans le domaine digital, il existe des communautés qui partagent des idées et
 des projets innovants, souvent dans le but de les promouvoir ou de les financer.
 
 Si vous avez du mal à trouver des idées originales, n'hésitez pas à vous
-inspirer de ces sources d'inspiration. Pour vous aider, vous pouvez vous
-inspirer de différentes sources :
+inspirer de ces communautés sur Internet :
 
 - Indie Hackers[^indie-hackers]
 - Product Hunt[^product-hunt]
 - Hacker News[^hackers-news]
 - Kickstarter[^kickstarter]
 - Indiegogo[^indiegogo]
+
+Plus local et plus proche de nous, les structures suivantes peuvent vous
+inspirer :
+
+- GENILEM[^genilem]
+- Fondation FIT[^fondation-fit]
+- Gebert Rüf Stiftung[^gebert-ruf-stiftung]
+- Agorize[^agorize]
+- HEIG-VD[^heig-vd]
 
 N'hésitez pas à explorer ces sources pour trouver des idées qui peuvent vous
 inspirer.
@@ -435,11 +443,21 @@ répondent à un besoin dans un secteur de marché donné.
 [^design-thinking]:
     Démarche design,
     [fr.wikipedia.org](https://fr.wikipedia.org/wiki/D%C3%A9marche_design), 20
-    février 2025
 
+[^fondation-fit]:
+    Fondation FIT, [fondation-fit.ch](https://www.fondation-fit.ch/fr) février
+    2025
+
+[^gebert-ruf-stiftung]:
+    Gebert Rüf Stiftung, [grstiftung.ch](https://www.grstiftung.ch/fr/)
+
+[^genilem]: GENILEM, [genilem.com](https://genilem.ch/)
 [^hackers-news]:
     Hacker News, [news.ycombinator.com](https://news.ycombinator.com/), 20
     février 2025
+
+[^heig-vd]:
+    HEIG-VD, [heig-vd.ch](https://heig-vd.ch/innovation/pepiniere-de-start-up)
 
 [^indiegogo]:
     Indiegogo, [indiegogo.com](https://www.indiegogo.com/), 20 février 2025

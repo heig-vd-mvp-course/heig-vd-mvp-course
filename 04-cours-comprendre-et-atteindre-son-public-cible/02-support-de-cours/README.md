@@ -20,7 +20,13 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 ## Objectifs
 
-- TODO
+- Décrire ce qu'est un public cible
+- Décrire ce qu'est un persona
+- Identifier un public cible
+- Décrire les étapes pour comprendre un public cible
+- Identifier les (réels) besoins d'un public cible
+- Décrire comment dialoguer avec un public cible
+- Lister les hypothèses à valider pour comprendre un public cible
 
 ## Conclusion
 

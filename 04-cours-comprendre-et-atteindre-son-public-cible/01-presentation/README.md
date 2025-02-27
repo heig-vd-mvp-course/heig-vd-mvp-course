@@ -47,6 +47,11 @@ style: |
     section > header {
         font-size: 50%;
     }
+    .two-columns {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
 headingDivider: 6
 -->
 
@@ -76,13 +81,18 @@ consultez le [support de cours][course-material]._
 
 ## Objectifs (1/2)
 
-- TODO
+- Décrire ce qu'est un public cible
+- Décrire ce qu'est un persona
+- Identifier un public cible
+- Décrire les étapes pour comprendre un public cible
+- Identifier les (réels) besoins d'un public cible
+- Décrire comment dialoguer avec un public cible
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
-- TODO
+- Lister les hypothèses à valider pour comprendre un public cible
 
 ![bg right:40%][illustration-objectifs]
 
