@@ -89,7 +89,7 @@ consultez le [support de cours][course-material]._
 - Décrire ce qu'est une idée originale
 - Générer des idées originales !
 
-[bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
