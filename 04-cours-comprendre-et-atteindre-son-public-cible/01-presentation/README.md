@@ -96,21 +96,91 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-objectifs]
 
-## Partie Guidoux
-
 ## Identifier les (réels) besoins d'un public cible
 
-Qu'est-ce qu'un besoin (rappel)
+- Un besoin représente un écart entre une situation actuelle et une situation
+  désirée
+- Il peut être explicite ou implicite
+- Difficile à identifier
+- Un besoin peut en cacher un autre
+
+<!-- https://images.unsplash.com/photo-1511376979163-f804dff7ad7b?fit=crop&h=720 -->
+
+<!-- https://unsplash.com/photos/person-sitting-in-a-chair-in-front-of-a-man-rRWiVQzLm7k -->
+
+<!-- https://unsplash.com/@charlesdeluvio -->
+
+## Comprendre son public cible et construire des personas
+
+<!-- _class: lead -->
+
+### Qu'est-ce qu'un public cible ?
+
+- L'âge, le genre, la localisation géographique
+- Le niveau d'éducation et la profession
+- Les centres d'intérêt et habitudes de consommation
+- Les besoins et problèmes spécifiques
+
+<!-- https://images.unsplash.com/photo-1510925751334-0fe90906839b?fit=crop&h=720 -->
+
+<!-- https://unsplash.com/photos/two-child-playing-arrow-t3IYuQZRDNE -->
+
+<!-- https://unsplash.com/@anniespratt -->
+
+### Qu'est-ce qu'un persona ?
+
+- Un nom et une courte biographie
+- Des objectifs et défis
+- Des comportements et motivations
+- Des préférences en matière de communication et de consommation
+
+### Exemple
+
+- Léa, 28 ans, designer UX
+- Objectif : trouver des outils intuitifs pour collaborer
+- Défis : convaincre ses collègues, manque de temps
 
 ## Comment dialoguer avec son public cible
 
+L'être humain est pluriel et complexe. Savoir dialoguer avec son public cible
+nécessite de la curiosité, de l'empathie et de l'ouverture.
+
 ### Les différents formes possibles d'un dialogue
+
+- Questionnaires quantitatifs
+- Entretiens qualitatifs
+- Observation terrain
+- Tests et retours utilisateurs
 
 ### Limiter les biais de confirmation
 
+- Multiplier les sources d'information qualitatives
+- Poser des questions ouvertes sans orienter les réponses
+- Favoriser l’écoute active et la reformulation
+- Recourir à des experts ou des regards extérieurs pour challenger les
+  conclusions
+
 ### Poser les bonnes questions
 
+- Empathie
+- Parlé du passé, pas du futur
+- Éviter les questions fermées ou suggestives
+- Faire parler de problèmes concrets
+- Rechercher des preuves de paiement ou d'engagement
+- Écouter plus, parler moins
+
+## Savoir se remettre en question
+
+> _Savoir quel égo mobiliser à quel moment est une compétence clé. L'enjeu n'est
+> pas de s'effacer, mais de placer son énergie et son assurance au bon endroit,
+> au bon moment._
+
 ## Comment réduire les incertitudes et valider les hypothèses
+
+- Prototype rapide
+- Expérimentations terrain
+- Analyse des données
+- Itération continue
 
 ## Questions
 

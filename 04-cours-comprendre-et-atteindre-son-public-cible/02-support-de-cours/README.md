@@ -17,12 +17,13 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Identifier les (réels) besoins d'un public cible](#identifier-les-réels-besoins-dun-public-cible)
 - [Comprendre son public cible et construire des personas](#comprendre-son-public-cible-et-construire-des-personas)
   - [Qu'est-ce qu'un public cible ?](#quest-ce-quun-public-cible-)
-- [Qu'est-ce qu'un persona ?](#quest-ce-quun-persona-)
+  - [Qu'est-ce qu'un persona ?](#quest-ce-quun-persona-)
   - [Exemple](#exemple)
 - [Comment dialoguer avec son public cible](#comment-dialoguer-avec-son-public-cible)
   - [Les différents formes possibles d'un dialogue](#les-différents-formes-possibles-dun-dialogue)
   - [Limiter les biais de confirmation](#limiter-les-biais-de-confirmation)
   - [Poser les bonnes questions](#poser-les-bonnes-questions)
+- [Savoir se remettre en question](#savoir-se-remettre-en-question)
 - [Comment réduire les incertitudes et valider les hypothèses](#comment-réduire-les-incertitudes-et-valider-les-hypothèses)
 - [Conclusion](#conclusion)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
@@ -49,6 +50,11 @@ ou implicite (non exprimé mais ressenti). Identifier les besoins d'un public
 cible permet d'adapter une offre, un produit ou un service à ses attentes
 réelles.
 
+Qu'il soit formulé ou ressenti, un besoin peut-être difficile à identifier. Un
+besoin peut en cacher un autre, et il est essentiel de creuser pour comprendre
+les motivations profondes d'une personne. Les sections suivantes détaillent les
+moyens de comprendre les besoins d'un public cible.
+
 ## Comprendre son public cible et construire des personas
 
 Lorsque nous développons un produit, un service ou un projet, il est essentiel
@@ -68,7 +74,7 @@ démographiques, comportementales et contextuelles, telles que :
 - Les centres d'intérêt et habitudes de consommation
 - Les besoins et problèmes spécifiques
 
-## Qu'est-ce qu'un persona ?
+### Qu'est-ce qu'un persona ?
 
 Un persona est une représentation semi-fictive d'un utilisateur type basée sur
 des recherches et des données réelles. Il nous permet de mieux visualiser et
@@ -142,6 +148,28 @@ Principes clés de The Mom Test :
 - **Écouter plus, parler moins** : Laisser la personne s'exprimer sans
   l'influencer par des explications ou des justifications inutiles.
 
+## Savoir se remettre en question
+
+Comprendre son public cible, c'est aussi accepter que nos premières hypothèses
+puissent être erronées. Se remettre en question ne signifie pas manquer de
+confiance en soi, mais savoir ajuster son égo selon la situation.
+
+- Lors des interviews, il est essentiel de mettre de côté l'égo lié à notre
+  capacité à trouver des solutions. L'objectif n'est pas de convaincre, mais
+  d'écouter et de comprendre. Développer son empathie et sa capacité d'écoute
+  est ici un véritable atout.
+- Lors des pitchs, un autre type d'égo est nécessaire : celui de l'affirmation
+  et de la conviction. Il s'agit de défendre une vision, d'inspirer confiance et
+  de donner envie de suivre une idée.
+- Lors des retours et questionnements, il faut savoir équilibrer ouverture et
+  affirmation. Accepter la critique et les objections ne signifie pas tout
+  remettre en cause, mais savoir trier ce qui est pertinent pour améliorer son
+  projet.
+
+Savoir quel égo mobiliser à quel moment est une compétence clé. L'enjeu n'est
+pas de s'effacer, mais de placer son énergie et son assurance au bon endroit, au
+bon moment.
+
 ## Comment réduire les incertitudes et valider les hypothèses
 
 Une fois les besoins identifiés, il est crucial de tester et valider les
@@ -156,6 +184,8 @@ hypothèses pour s’assurer de leur pertinence. Quelques méthodes :
 - **Itération continue** : améliorer progressivement l’offre en fonction des
   feedbacks
 
+<!-- TODO Ajouter le contenu de Ludovic -->
+
 ## Conclusion
 
 Définir un public cible et créer des personas sont des étapes essentielles pour
@@ -165,7 +195,7 @@ décision et l’optimisation des ressources. En nous mettant à la place de nos
 utilisateurs, nous améliorons leur expérience et augmentons nos chances de
 succès.
 
-<!-- TODO Ajouter le contenu de Ludovic -->
+<!-- TODO Ajouter la conclusion de Ludovic -->
 
 ## Ce que vous ferez ensuite
 
