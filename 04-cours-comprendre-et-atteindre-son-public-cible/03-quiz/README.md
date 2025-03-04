@@ -79,21 +79,47 @@ _paginate: false
 _Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
 cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
-## Question 1
+## Question 1 - Donnée
 
-TODO
+> Comment éviter les biais de confirmation lors des échanges avec un public
+> cible ?
 
-## Réponse 1
+## Question 1 - Réponse
 
-TODO
+- Multiplier les sources d'information
+- Poser des questions ouvertes
+- Favoriser l’écoute active et la reformulation
+- Recourir à des experts ou des regards extérieurs
 
-## Question 2
+## Question 2 - Donnée
 
-TODO
+> Qu'est-ce qu'un persona ?
 
-## Réponse 2
+## Question 2 - Réponse
 
-TODO
+Un persona est une représentation semi-fictive d'un utilisateur type basée sur
+des recherches et des données réelles. Il permet de mieux visualiser et
+comprendre les attentes, comportements et motivations de notre public cible.
+
+## Question 3 - Donnée
+
+> Pourquoi est-il important de comprendre les besoins d'un public cible ?
+
+## Question 3 - Réponse
+
+Comprendre les besoins d'un public cible permet d'adapter une offre, un produit
+ou un service à ses attentes réelles, améliorant ainsi l'expérience utilisateur
+et augmentant les chances de succès.
+
+## Question 5 - Donnée
+
+> Quels sont les principes clés de The Mom Test pour poser les bonnes questions
+> ?
+
+## Question 5 - Réponse
+
+Vous ne pouvez pas vendre un produit ou expliquer une idée tant que vous n'avez
+pas réussi à expliquer le problème qu'il résout à votre maman.
 
 ## Questions
 
