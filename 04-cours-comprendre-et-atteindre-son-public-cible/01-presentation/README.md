@@ -213,7 +213,7 @@ nécessite de la curiosité, de l'empathie et de l'ouverture.
 - Rechercher des preuves de paiement ou d'engagement
 - Écouter plus, parler moins
 
-<!-- https://images.unsplash.com/photo-1544208757-ddbaebce244e? -->
+<!-- https://images.unsplash.com/photo-1544208757-ddbaebce244e?fit=crop&h=720 -->
 
 <!-- https://unsplash.com/photos/flock-of-flying-birds-yn8aHOdNLZo -->
 
@@ -227,7 +227,7 @@ nécessite de la curiosité, de l'empathie et de l'ouverture.
 > pas de s'effacer, mais de placer son énergie et son assurance au bon endroit,
 > au bon moment._
 
-<!-- https://images.unsplash.com/photo-1519242220831-09410926fbff? -->
+<!-- https://images.unsplash.com/photo-1519242220831-09410926fbff?fit=crop&h=720 -->
 
 <!-- https://unsplash.com/photos/grayscale-photo-of-person-inside-the-plant-formation-1KdnEeZ-gLU -->
 
@@ -242,7 +242,7 @@ nécessite de la curiosité, de l'empathie et de l'ouverture.
 - Analyse des données
 - Itération continue
 
-<!-- https://images.unsplash.com/photo-1624382085379-0a9314fc48cc? -->
+<!-- https://images.unsplash.com/photo-1624382085379-0a9314fc48cc?fit=crop&h=720 -->
 
 <!-- https://unsplash.com/photos/person-holding-brown-wooden-hand-tool-u46idDCpc-M -->
 
