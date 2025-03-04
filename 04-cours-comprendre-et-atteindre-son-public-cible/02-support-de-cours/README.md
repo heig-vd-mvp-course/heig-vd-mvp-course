@@ -122,14 +122,25 @@ question. Pour éviter ce biais :
 
 ### Poser les bonnes questions
 
-La qualité des réponses obtenues dépend fortement de la manière dont les
-questions sont posées. Quelques principes :
+S'inspirer des principes de The Mom Test de Rob Fitzpatrick permet d'obtenir des
+informations pertinentes lors des échanges avec un public cible.
 
-- Privilégier les questions ouvertes plutôt que fermées
-- Éviter les formulations biaisées ou suggestives
-- Se concentrer sur des faits et expériences plutôt que sur des opinions
-  générales
-- Tester les questions sur un petit échantillon avant de les diffuser largement
+Principes clés de The Mom Test :
+
+- **Parler du passé, pas du futur** : Les intentions et opinions ne sont pas
+  fiables. Il est préférable de demander ce que les personnes ont réellement
+  fait dans le passé.
+- **Éviter les questions fermées ou suggestives** : Par exemple, au lieu de
+  demander "Aimeriez-vous une application qui fait X ?", il vaut mieux demander
+  "Comment gérez-vous actuellement X ?".
+- **Faire parler de problèmes concrets** : Demander aux utilisateurs quelles
+  difficultés ils rencontrent, comment ils les résolvent, et à quelle fréquence
+  cela se produit.
+- **Rechercher des preuves de paiement ou d'engagement** : Si une personne est
+  réellement prête à acheter ou à utiliser une solution, elle l'a souvent déjà
+  fait d'une manière ou d'une autre.
+- **Écouter plus, parler moins** : Laisser la personne s'exprimer sans
+  l'influencer par des explications ou des justifications inutiles.
 
 ## Comment réduire les incertitudes et valider les hypothèses
 
