@@ -158,13 +158,49 @@ Enfin, nous vous invitons à décrire le besoin, identifier le secteur de march�
 identifier la plus-value du service, identifier si votre idée est pertinente et
 compléter le rapport.
 
+## Séance 3/3
+
+<!-- _class: lead -->
+
+### Objectifs (1/2)
+
+- Choisir une idée qui répond à un besoin
+- Rédiger la description du projet
+- Identifier le public cible **imaginaire**
+- Lister des personae **imaginés**
+- Améliorer la description des besoins **imaginés** du public cible
+- Identifier les étapes pour comprendre le public cible
+
+![bg right:40%][illustration-objectifs]
+
+### Objectifs (2/2)
+
+- Rédiger une série de questions pour comprendre le public cible
+- Identifier 2-3 personnes avec qui discuter pour comprendre le public cible
+- Lister les hypothèses à valider pour comprendre le public cible
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
+### Déroulement
+
+Nous vous invitons à travailler sur votre public cible **imaginaire**, ses
+personae et ses besoins.
+
+Ensuite, identifiez les personnes avec qui vous allez discuter et préparez une
+série de questions pour un entretien.
+
+Enfin, listez les hypothèses à valider pour comprendre le public cible et
+complétez le rapport.
+
 ### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
-  pour le projet
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
 
 ## Séance 3/3
 

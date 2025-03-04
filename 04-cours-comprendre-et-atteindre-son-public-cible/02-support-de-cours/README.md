@@ -14,8 +14,11 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
-- [Partie Guidoux](#partie-guidoux)
 - [Identifier les (réels) besoins d'un public cible](#identifier-les-réels-besoins-dun-public-cible)
+- [Comprendre son public cible et construire des personas](#comprendre-son-public-cible-et-construire-des-personas)
+  - [Qu'est-ce qu'un public cible ?](#quest-ce-quun-public-cible-)
+- [Qu'est-ce qu'un persona ?](#quest-ce-quun-persona-)
+  - [Exemple](#exemple)
 - [Comment dialoguer avec son public cible](#comment-dialoguer-avec-son-public-cible)
   - [Les différents formes possibles d'un dialogue](#les-différents-formes-possibles-dun-dialogue)
   - [Limiter les biais de confirmation](#limiter-les-biais-de-confirmation)
@@ -27,6 +30,9 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 ## Objectifs
 
+À l'issue de cette séance, les personnes qui étudient devraient être capables de
+:
+
 - Décrire ce qu'est un public cible
 - Décrire ce qu'est un persona
 - Identifier un public cible
@@ -35,33 +41,127 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - Décrire comment dialoguer avec un public cible
 - Lister les hypothèses à valider pour comprendre un public cible
 
-## Partie Guidoux
-
 ## Identifier les (réels) besoins d'un public cible
 
-Qu'est-ce qu'un besoin (rappel)
+Un besoin représente un écart entre une situation actuelle et une situation
+désirée. Il peut être explicite (formulé clairement par la personne concernée)
+ou implicite (non exprimé mais ressenti). Identifier les besoins d'un public
+cible permet d'adapter une offre, un produit ou un service à ses attentes
+réelles.
+
+## Comprendre son public cible et construire des personas
+
+Lorsque nous développons un produit, un service ou un projet, il est essentiel
+de comprendre pour qui nous le faisons. Avoir une idée claire de notre public
+cible nous permet d'adapter notre offre à ses besoins, d'affiner notre
+communication et d'améliorer l'expérience utilisateur. Pour cela, nous utilisons
+deux concepts clés : le public cible et les personas.
+
+### Qu'est-ce qu'un public cible ?
+
+Le public cible représente l'ensemble des personnes susceptibles d'être
+intéressées par notre produit ou service. Il est défini par des caractéristiques
+démographiques, comportementales et contextuelles, telles que :
+
+- L'âge, le genre, la localisation géographique
+- Le niveau d'éducation et la profession
+- Les centres d'intérêt et habitudes de consommation
+- Les besoins et problèmes spécifiques
+
+## Qu'est-ce qu'un persona ?
+
+Un persona est une représentation semi-fictive d'un utilisateur type basée sur
+des recherches et des données réelles. Il nous permet de mieux visualiser et
+comprendre les attentes, comportements et motivations de notre public cible. Un
+persona comprend généralement :
+
+- Un nom et une courte biographie
+- Des objectifs et défis
+- Des comportements et motivations
+- Des préférences en matière de communication et de consommation
+
+### Exemple
+
+Léa a 28 ans et elle est designer UX. Son objectif est de trouver des outils
+intuitifs pour collaborer avec son équipe. Elle a du mal à convaincre ses
+collègues d'adopter un nouvel outil et manque de temps pour tester de nouvelles
+solutions. Léa recherche des recommandations sur des blogs spécialisés et
+privilégie les produits avec une bonne documentation et un support réactif.
 
 ## Comment dialoguer avec son public cible
 
+Pour comprendre les besoins et attentes de notre public cible, il est essentiel
+de dialoguer avec lui. Cette section explore les différentes formes de dialogue,
+les biais à éviter et les bonnes pratiques pour poser des questions pertinentes.
+
 ### Les différents formes possibles d'un dialogue
 
-- Questionnaires quantitatifs
-- Entretiens qualitatifs
--
+Pour identifier les besoins d’un public cible, il est essentiel d’interagir avec
+lui à travers différents moyens d’échange :
+
+- **Questionnaires quantitatifs** : recueillir des données mesurables sur un
+  grand échantillon pour détecter des tendances générales.
+- **Entretiens qualitatifs** : échanges approfondis permettant d’obtenir des
+  réponses détaillées sur les motivations et attentes.
+- **Observation terrain** : analyser le comportement des utilisateurs sans les
+  interroger directement.
+- **Tests et retours utilisateurs** : mettre un produit ou un service entre les
+  mains des utilisateurs et recueillir leurs feedbacks.
 
 ### Limiter les biais de confirmation
 
+Un biais de confirmation est la tendance à privilégier les informations qui
+confortent nos hypothèses initiales, en ignorant celles qui les remettent en
+question. Pour éviter ce biais :
+
+- Multiplier les sources d'information (données quantitatives et qualitatives)
+- Poser des questions ouvertes sans orienter les réponses
+- Favoriser l’écoute active et la reformulation
+- Recourir à des experts ou des regards extérieurs pour challenger les
+  conclusions
+
 ### Poser les bonnes questions
+
+La qualité des réponses obtenues dépend fortement de la manière dont les
+questions sont posées. Quelques principes :
+
+- Privilégier les questions ouvertes plutôt que fermées
+- Éviter les formulations biaisées ou suggestives
+- Se concentrer sur des faits et expériences plutôt que sur des opinions
+  générales
+- Tester les questions sur un petit échantillon avant de les diffuser largement
 
 ## Comment réduire les incertitudes et valider les hypothèses
 
+Une fois les besoins identifiés, il est crucial de tester et valider les
+hypothèses pour s’assurer de leur pertinence. Quelques méthodes :
+
+- **Prototypage rapide** : créer une version simplifiée du produit et observer
+  les réactions
+- **Expérimentations terrain** : mettre en place des tests réels avec le public
+  cible
+- **Analyse des données** : exploiter les retours d’expérience et ajuster en
+  conséquence
+- **Itération continue** : améliorer progressivement l’offre en fonction des
+  feedbacks
+
 ## Conclusion
 
-TODO
+Définir un public cible et créer des personas sont des étapes essentielles pour
+concevoir un produit ou service pertinent. Cette démarche nous aide à aligner
+notre offre avec les attentes des utilisateurs, tout en facilitant la prise de
+décision et l’optimisation des ressources. En nous mettant à la place de nos
+utilisateurs, nous améliorons leur expérience et augmentons nos chances de
+succès.
+
+<!-- TODO Ajouter le contenu de Ludovic -->
 
 ## Ce que vous ferez ensuite
 
-TODO
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
 
 ## Sources
 
