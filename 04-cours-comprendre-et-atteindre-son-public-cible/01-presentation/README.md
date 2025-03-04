@@ -104,6 +104,8 @@ consultez le [support de cours][course-material]._
 - Difficile à identifier
 - Un besoin peut en cacher un autre
 
+![bg right:40%][illustration-besoins]
+
 <!-- https://images.unsplash.com/photo-1511376979163-f804dff7ad7b?fit=crop&h=720 -->
 
 <!-- https://unsplash.com/photos/person-sitting-in-a-chair-in-front-of-a-man-rRWiVQzLm7k -->
@@ -295,3 +297,11 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
+[illustration-besoins]:
+	https://images.unsplash.com/photo-1511376979163-f804dff7ad7b?fit=crop&h=720
+[illustration-public-cible]:
+	https://images.unsplash.com/photo-1510925751334-0fe90906839b?fit=crop&h=720
+[illustration-persona]:
+	https://images.unsplash.com/photo-1652720198810-16b0b1a631fc?fit=crop&h=720
+[illustration-exemple]:
+	https://images.unsplash.com/photo-1518611540400-6b85a0704342?fit=crop&h=720
