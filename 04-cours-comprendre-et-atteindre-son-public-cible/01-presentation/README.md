@@ -110,6 +110,8 @@ consultez le [support de cours][course-material]._
 
 <!-- https://unsplash.com/@charlesdeluvio -->
 
+<!-- charlesdeluvio -->
+
 ## Comprendre son public cible et construire des personas
 
 <!-- _class: lead -->
@@ -127,6 +129,8 @@ consultez le [support de cours][course-material]._
 
 <!-- https://unsplash.com/@anniespratt -->
 
+<!-- Annie Spratt -->
+
 ### Qu'est-ce qu'un persona ?
 
 - Un nom et une courte biographie
@@ -134,16 +138,40 @@ consultez le [support de cours][course-material]._
 - Des comportements et motivations
 - Des préférences en matière de communication et de consommation
 
+<!-- https://images.unsplash.com/photo-1652720198810-16b0b1a631fc?fit=crop&h=720 -->
+
+<!-- https://unsplash.com/photos/a-man-is-walking-down-a-long-hallway-SMp_W0x1VwE -->
+
+<!-- https://unsplash.com/@peterwang1996 -->
+
+<!-- Peter Wang -->
+
 ### Exemple
 
 - Léa, 28 ans, designer UX
 - Objectif : trouver des outils intuitifs pour collaborer
 - Défis : convaincre ses collègues, manque de temps
 
+<!-- https://images.unsplash.com/photo-1518611540400-6b85a0704342?fit=crop&h=720  -->
+
+<!-- https://unsplash.com/photos/grayscale-photo-of-woman-s97-KYat9sA -->
+
+<!-- https://unsplash.com/@richardconr -->
+
+<!-- Richard Jaimes -->
+
 ## Comment dialoguer avec son public cible
 
 L'être humain est pluriel et complexe. Savoir dialoguer avec son public cible
 nécessite de la curiosité, de l'empathie et de l'ouverture.
+
+<!-- https://images.unsplash.com/photo-1638926078851-08e161a65af3?fit=crop&h=720 -->
+
+<!-- https://unsplash.com/photos/a-pine-cone-sitting-on-top-of-a-pine-tree-O2C1dBdJcNQ -->
+
+<!-- https://unsplash.com/@chanphoto -->
+
+<!-- Chandler Cruttenden -->
 
 ### Les différents formes possibles d'un dialogue
 
@@ -152,6 +180,14 @@ nécessite de la curiosité, de l'empathie et de l'ouverture.
 - Observation terrain
 - Tests et retours utilisateurs
 
+<!-- https://images.unsplash.com/photo-1618382521478-a0bfaf1a7604?fit=crop&h=720 -->
+
+<!-- https://unsplash.com/photos/gray-sand-with-water-droplets-tCPbxjzQDmE -->
+
+<!-- https://unsplash.com/@dylanhendricks -->
+
+<!-- Dylann Hendricks -->
+
 ### Limiter les biais de confirmation
 
 - Multiplier les sources d'information qualitatives
@@ -159,6 +195,14 @@ nécessite de la curiosité, de l'empathie et de l'ouverture.
 - Favoriser l’écoute active et la reformulation
 - Recourir à des experts ou des regards extérieurs pour challenger les
   conclusions
+
+<!-- https://images.unsplash.com/photo-1548147963-30ac0d3d7723?fit=crop&h=720 -->
+
+<!-- https://unsplash.com/photos/aerial-view-photography-of-road-between-green-grass-0Ezh0PRhtPo -->
+
+<!-- https://unsplash.com/@victor_g -->
+
+<!-- Victor -->
 
 ### Poser les bonnes questions
 
@@ -169,11 +213,27 @@ nécessite de la curiosité, de l'empathie et de l'ouverture.
 - Rechercher des preuves de paiement ou d'engagement
 - Écouter plus, parler moins
 
+<!-- https://images.unsplash.com/photo-1544208757-ddbaebce244e? -->
+
+<!-- https://unsplash.com/photos/flock-of-flying-birds-yn8aHOdNLZo -->
+
+<!-- https://unsplash.com/@ilkkago -->
+
+<!-- Ilkka Kärkkäinen -->
+
 ## Savoir se remettre en question
 
 > _Savoir quel égo mobiliser à quel moment est une compétence clé. L'enjeu n'est
 > pas de s'effacer, mais de placer son énergie et son assurance au bon endroit,
 > au bon moment._
+
+<!-- https://images.unsplash.com/photo-1519242220831-09410926fbff? -->
+
+<!-- https://unsplash.com/photos/grayscale-photo-of-person-inside-the-plant-formation-1KdnEeZ-gLU -->
+
+<!-- https://unsplash.com/@qwitka -->
+
+<!-- Maksym Kaharlytskyi -->
 
 ## Comment réduire les incertitudes et valider les hypothèses
 
@@ -181,6 +241,14 @@ nécessite de la curiosité, de l'empathie et de l'ouverture.
 - Expérimentations terrain
 - Analyse des données
 - Itération continue
+
+<!-- https://images.unsplash.com/photo-1624382085379-0a9314fc48cc? -->
+
+<!-- https://unsplash.com/photos/person-holding-brown-wooden-hand-tool-u46idDCpc-M -->
+
+<!-- https://unsplash.com/@supergios -->
+
+<!-- Jonny Gios -->
 
 ## Questions
 
