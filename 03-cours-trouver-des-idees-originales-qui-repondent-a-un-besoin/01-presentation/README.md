@@ -235,7 +235,7 @@ Bien sûr, un besoin dépend du contexte dans lequel il est exprimé.
 - Les dessins sont souvent plus axées sur les processus et interactions des
   utilisateurs ce qui complète le brainstorming
 
-**Les dessins demande une compréhension plus simple et plus rapide des
+**Les dessins demandent une compréhension plus simple et plus rapide des
 problèmes/idées et permettent souvent d'être plus créatif.**
 
 ## Identifier et sélectionner les "bonnes" idées

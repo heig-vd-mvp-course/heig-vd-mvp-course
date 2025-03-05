@@ -96,21 +96,13 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-objectifs]
 
-## Identifier les (réels) besoins d'un public cible
+## Public cible et personas
 
-- Un besoin représente un écart entre une situation actuelle et une situation
-  désirée
-- Il peut être explicite ou implicite
-- Difficile à identifier
-- Un besoin peut en cacher un autre
-
-![bg right:40%][illustration-besoins]
-
-## Comprendre son public cible et construire des personas
-
-<!-- _class: lead -->
-
-![bg right:40%][illustration-public-construire-personas]
+- Un service ou un produit est réalisé pour une cible spécifique.
+- Savoir pour qui nous concevons un service ou un produit est essentiel.
+- Deux concepts clés :
+  - Le public cible
+  - Les personas ![bg right:40%][illustration-public-construire-personas]
 
 ### Qu'est-ce qu'un public cible ?
 
@@ -130,18 +122,58 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-persona]
 
-### Exemple
+### Exemple illustré (1/2)
+
+> Léa a 28 ans et elle est designer UX. Son objectif est de trouver des outils
+> intuitifs pour collaborer avec son équipe.
+>
+> Elle a du mal à convaincre ses collègues d'adopter un nouvel outil et l'équipe
+> manque de temps pour tester de nouvelles solutions.
+>
+> Léa recherche des recommandations sur des blogs spécialisés et privilégie les
+> produits avec une bonne documentation et un support réactif.
+
+## Exemple illustré (2/2)
+
+**Résumé**
 
 - Léa, 28 ans, designer UX
 - Objectif : trouver des outils intuitifs pour collaborer
-- Défis : convaincre ses collègues, manque de temps
+- Défis : convaincre ses collègues, manque de temps pour l'équipe
+
+Un autre potentiel public se cache derrière Léa : les collègues de Léa.
 
 ![bg right:40%][illustration-exemple]
 
+## Identifier et comprendre un public cible
+
+1. Définir les objectifs
+2. Définir des hypothèses (personas + besoins)
+3. Établir les moyens pour obtenir des réponses (interviews, tests, etc.)
+4. Récolter et analyser les données
+5. Itérer et ajuster
+
+![bg right:40%][illustration-principale]
+
+## Identifier les (réels) besoins d'un public cible
+
+- Un besoin représente un écart entre une situation actuelle et une situation
+  désirée
+- Il peut être explicite ou implicite
+- Difficile à identifier
+- Un besoin peut en cacher un autre
+
+**Pour le moment, tout est imaginé !**
+
+![bg right:40%][illustration-besoins]
+
 ## Comment dialoguer avec son public cible
 
-L'être humain est pluriel et complexe. Savoir dialoguer avec son public cible
-nécessite de la curiosité, de l'empathie et de l'ouverture.
+- L'être humain est pluriel et complexe.
+- Savoir dialoguer avec son public cible nécessite :
+  - De la curiosité
+  - De l'empathie
+  - De l'ouverture
 
 ![bg right:40%][illustration-dialogue]
 
@@ -150,7 +182,7 @@ nécessite de la curiosité, de l'empathie et de l'ouverture.
 - Questionnaires quantitatifs
 - Entretiens qualitatifs
 - Observation terrain
-- Tests et retours utilisateurs
+- Tests et retours utilisateurs (**à éviter en premier lieu**)
 
 ![bg right:40%][illustration-dialogue-formes]
 
@@ -160,37 +192,62 @@ nécessite de la curiosité, de l'empathie et de l'ouverture.
 - Favoriser l’écoute active et la reformulation
 - Recourir à des experts ou des regards extérieurs pour challenger les
   conclusions
+- **Éviter les tests en premier lieu**
 
 ![bg right:40%][illustration-dialogue-biais]
 
-### Poser les bonnes questions
+### Poser les bonnes questions (1/2)
+
+Le livre [_The Mom Test_](https://themomtest.com/) est **une des meilleures
+ressources que nous ayons trouvées** pour comprendre comment poser les bonnes
+questions :
+
+- Écrit par un ingénieur
+- Pragmatique et efficace
+- Lu en 1 à 2 heures
+
+![bg right:37%](https://m.media-amazon.com/images/I/61ixLoT4lyL._SL1360_.jpg)
+
+### Poser les bonnes questions (2/2)
 
 - Empathie
 - Parlé du passé, pas du futur
 - Éviter les questions fermées ou suggestives
 - Faire parler de problèmes concrets
 - Écouter plus, parler moins
+- **Ne pas parler de son idée !**
 
-![bg right:40%][illustration-dialogue-questions]
+![bg right:37%](https://m.media-amazon.com/images/I/61ixLoT4lyL._SL1360_.jpg)
 
-## Savoir se remettre en question
+### Savoir se remettre en question
 
-> _Savoir quel égo mobiliser à quel moment est une compétence clé. L'enjeu n'est
-> pas de s'effacer, mais de placer son énergie et son assurance au bon endroit,
-> au bon moment._
+> Savoir quel égo mobiliser à quel moment est une compétence clé.
+>
+> L'enjeu n'est pas de s'effacer, mais de placer son énergie et son assurance au
+> bon endroit, au bon moment.
 
 ![bg right:40%][illustration-remise-en-question]
 
-## Comment réduire les incertitudes et valider les hypothèses
+## Comment réduire les incertitudes et valider les hypothèses (1/2)
+
+But : éliminer toutes nos questions et incertitudes avec les outils suivants :
+
+- Interviews utilisateurs
+- Questionnaires en ligne
+- Observation terrain
+
+![bg right:40%][illustration-reduire-incertitudes]
+
+## Comment réduire les incertitudes et valider les hypothèses (2/2)
 
 - Prototype rapide
 - Expérimentations terrain
 - Analyse des données
 - Itération continue
 
-![bg right:40%][illustration-reduire-incertitudes]
+**Laissez votre idée de côté !**
 
-<!-- TODO Ajouter la présentation de Ludovic -->
+![bg right:40%][illustration-reduire-incertitudes]
 
 ## Questions
 
@@ -208,8 +265,8 @@ Est-ce que vous avez des questions ?
 ## Sources (1/3)
 
 - [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+  [Yvette de Wit](https://unsplash.com/@yvettedewit) sur
+  [Unsplash](https://unsplash.com/photos/stage-light-front-of-audience-NYrVisodQ2M)
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
@@ -243,9 +300,6 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-dialogue-biais] par
   [Victor](https://unsplash.com/@victor_g) sur
   [Unsplash](https://unsplash.com/photos/aerial-view-photography-of-road-between-green-grass-0Ezh0PRhtPo)
-- [Illustration][illustration-dialogue-questions] par
-  [Ilkka Kärkkäinen](https://unsplash.com/@ilkkago) sur
-  [Unsplash](https://unsplash.com/photos/flock-of-flying-birds-yn8aHOdNLZo)
 - [Illustration][illustration-remise-en-question] par
   [Maksym Kaharlytskyi](https://unsplash.com/@qwitka) sur
   [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-inside-the-plant-formation-1KdnEeZ-gLU)
@@ -267,7 +321,7 @@ Est-ce que vous avez des questions ?
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:
@@ -288,8 +342,6 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1618382521478-a0bfaf1a7604?fit=crop&h=720
 [illustration-dialogue-biais]:
 	https://images.unsplash.com/photo-1548147963-30ac0d3d7723?fit=crop&h=720
-[illustration-dialogue-questions]:
-	https://images.unsplash.com/photo-1544208757-ddbaebce244e?fit=crop&h=720
 [illustration-remise-en-question]:
 	https://images.unsplash.com/photo-1519242220831-09410926fbff?fit=crop&h=720
 [illustration-reduire-incertitudes]:

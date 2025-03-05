@@ -28,7 +28,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Trouver des sources d'inspiration d'idées originales](#trouver-des-sources-dinspiration-didées-originales)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous ferez ensuite](#ce-que-vous-allez-faire-ensuite)
+- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
 
 ## Objectifs

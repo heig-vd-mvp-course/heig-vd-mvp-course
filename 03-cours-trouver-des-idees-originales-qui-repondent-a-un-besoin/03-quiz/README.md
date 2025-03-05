@@ -181,6 +181,29 @@ Il existe plusieurs sources pour trouver des idées originales :
 - Des communautés sur Internet (forums, réseaux sociaux, etc.)
 - Etc.
 
+## Question 9 - Donnée
+
+> Parmi la liste suivante, quels sont les éléments qui décrivent un besoin ?
+>
+> 1. _"J'ai de la peine à me réveiller le matin."_
+> 2. _"J'ai besoin d'un café pour m'aider à me réveiller le matin."_
+> 3. _"Je suis fatigué le matin."_
+> 4. _Un café le matin me réveille."_
+> 5. _"J'ai de la peine à me réveiller, car je n'entends pas mon réveil."_
+
+## Question 9 - Réponse
+
+Seuls les éléments 1, 3 et 5 décrivent un besoin. Les éléments 2 et 4 sont des
+solutions à un besoin/un problème.
+
+L'élément 2 est un piège car il décrit bien une solution. Le besoin est en
+réalité de se réveiller plus facilement, de se sentir plus éveillé le matin ou
+encore de mieux dormir pour être moins fatigué.
+
+Pensez aux besoins comme les besoins fonctionnels d'une personne et sa solution
+comme les besoins non-fonctionnels, comme étudié dans le cours de Développement
+d'applications internet (DAI).
+
 ## Questions
 
 <!-- _class: lead -->

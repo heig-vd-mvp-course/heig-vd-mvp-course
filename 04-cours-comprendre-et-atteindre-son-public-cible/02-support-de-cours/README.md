@@ -14,25 +14,31 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
-- [Identifier les (réels) besoins d'un public cible](#identifier-les-réels-besoins-dun-public-cible)
-- [Comprendre son public cible et construire des personas](#comprendre-son-public-cible-et-construire-des-personas)
+- [Public cible et personas](#public-cible-et-personas)
   - [Qu'est-ce qu'un public cible ?](#quest-ce-quun-public-cible-)
   - [Qu'est-ce qu'un persona ?](#quest-ce-quun-persona-)
-  - [Exemple](#exemple)
+  - [Exemple illustré](#exemple-illustré)
+- [Identifier et comprendre un public cible](#identifier-et-comprendre-un-public-cible)
+- [Identifier les (réels) besoins d'un public cible](#identifier-les-réels-besoins-dun-public-cible)
 - [Comment dialoguer avec son public cible](#comment-dialoguer-avec-son-public-cible)
   - [Les différents formes possibles d'un dialogue](#les-différents-formes-possibles-dun-dialogue)
   - [Limiter les biais de confirmation](#limiter-les-biais-de-confirmation)
   - [Poser les bonnes questions](#poser-les-bonnes-questions)
-- [Savoir se remettre en question](#savoir-se-remettre-en-question)
+  - [Savoir se remettre en question](#savoir-se-remettre-en-question)
 - [Comment réduire les incertitudes et valider les hypothèses](#comment-réduire-les-incertitudes-et-valider-les-hypothèses)
 - [Conclusion](#conclusion)
+- [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
 
 ## Objectifs
 
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
+Cette séance a pour objectif de vous permettre de comprendre et d'atteindre
+votre public cible. Pour cela, vous apprendrez à identifier les besoins réels de
+votre public cible, à dialoguer avec lui, à construire des personas et à valider
+vos hypothèses.
+
+De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
 - Décrire ce qu'est un public cible
 - Décrire ce qu'est un persona
@@ -42,20 +48,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - Décrire comment dialoguer avec un public cible
 - Lister les hypothèses à valider pour comprendre un public cible
 
-## Identifier les (réels) besoins d'un public cible
-
-Un besoin représente un écart entre une situation actuelle et une situation
-désirée. Il peut être explicite (formulé clairement par la personne concernée)
-ou implicite (non exprimé mais ressenti). Identifier les besoins d'un public
-cible permet d'adapter une offre, un produit ou un service à ses attentes
-réelles.
-
-Qu'il soit formulé ou ressenti, un besoin peut-être difficile à identifier. Un
-besoin peut en cacher un autre, et il est essentiel de creuser pour comprendre
-les motivations profondes d'une personne. Les sections suivantes détaillent les
-moyens de comprendre les besoins d'un public cible.
-
-## Comprendre son public cible et construire des personas
+## Public cible et personas
 
 Lorsque nous développons un produit, un service ou un projet, il est essentiel
 de comprendre pour qui nous le faisons. Avoir une idée claire de notre public
@@ -86,13 +79,72 @@ persona comprend généralement :
 - Des comportements et motivations
 - Des préférences en matière de communication et de consommation
 
-### Exemple
+### Exemple illustré
 
-Léa a 28 ans et elle est designer UX. Son objectif est de trouver des outils
-intuitifs pour collaborer avec son équipe. Elle a du mal à convaincre ses
-collègues d'adopter un nouvel outil et manque de temps pour tester de nouvelles
-solutions. Léa recherche des recommandations sur des blogs spécialisés et
-privilégie les produits avec une bonne documentation et un support réactif.
+Soit la situation suivante :
+
+> Léa a 28 ans et elle est designer UX. Son objectif est de trouver des outils
+> intuitifs pour collaborer avec son équipe.
+>
+> Elle a du mal à convaincre ses collègues d'adopter un nouvel outil et l'équipe
+> manque de temps pour tester de nouvelles solutions.
+>
+> Léa recherche des recommandations sur des blogs spécialisés et privilégie les
+> produits avec une bonne documentation et un support réactif.
+
+Ici, Léa est un exemple de persona. En se mettant à sa place, nous pouvons
+imaginer ses besoins, ses attentes et ses contraintes. Cela nous permet de
+concevoir un produit ou un service qui répondra à ses besoins spécifiques.
+
+Dans le cas de Léa, son objectif est de trouver des outils intuitifs pour
+collaborer avec son équipe.
+
+Ses défis sont de convaincre ses collègues d'adopter un nouvel outil et de
+trouver des solutions adaptées à leurs contraintes de temps.
+
+En se basant sur ces informations, nous pouvons créer un persona pour Léa :
+
+- Léa, 28 ans, designer UX
+- Objectif : trouver des outils intuitifs pour collaborer
+- Défis : convaincre ses collègues, manque de temps pour l'équipe
+
+Indirectement, nous comprenons qu'il y a aussi un second public cible : les
+collègues de Léa. Ils sont réticents à adopter de nouveaux outils et manquent de
+temps pour les tester. Pour les convaincre, il faudra prendre en compte leurs
+besoins et leurs contraintes spécifiques.
+
+## Identifier et comprendre un public cible
+
+Pour identifier et comprendre un public cible, il est essentiel de suivre une
+démarche structurée. Voici les étapes clés pour comprendre un public cible :
+
+1. **Définir les objectifs** : clarifier les attentes et les enjeux du projet
+2. **Définir des hypothèses** : formuler des idées sur les besoins **imaginés**
+   et attentes **imaginées** du public cible
+3. **Établir les moyens pour obtenir des réponses** : définir les méthodes pour
+   dialoguer avec le public cible et valider les hypothèses
+4. **Récolter et analyser les données** : dialoguer avec le public cible pour
+   identifier les besoins réels et valider les hypothèses
+5. **Itérer et ajuster** : améliorer l'offre en fonction des retours et des
+   résultats
+
+## Identifier les (réels) besoins d'un public cible
+
+Un besoin représente un écart entre une situation actuelle et une situation
+désirée. Il peut être explicite (formulé clairement par la personne concernée)
+ou implicite (non exprimé mais ressenti). Identifier les besoins d'un public
+cible permet d'adapter une offre, un produit ou un service à ses attentes
+réelles.
+
+Qu'il soit formulé ou ressenti, un besoin peut-être difficile à identifier. Un
+besoin peut en cacher un autre, et il est essentiel de creuser pour comprendre
+les motivations profondes d'une personne. Les sections suivantes détaillent les
+moyens de comprendre les besoins d'un public cible.
+
+Plus souvent, les besoins sont exprimés en termes de problèmes à résoudre et
+sont implicites (= difficile à exprimer de façon concrète/explicite). Il est
+donc essentiel de poser les bonnes questions pour identifier les besoins réels
+d'un public cible.
 
 ## Comment dialoguer avec son public cible
 
@@ -102,17 +154,18 @@ les biais à éviter et les bonnes pratiques pour poser des questions pertinente
 
 ### Les différents formes possibles d'un dialogue
 
-Pour identifier les besoins d’un public cible, il est essentiel d’interagir avec
-lui à travers différents moyens d’échange :
+Pour identifier les besoins d'un public cible, il est essentiel d'interagir avec
+lui à travers différents moyens d'échange :
 
 - **Questionnaires quantitatifs** : recueillir des données mesurables sur un
   grand échantillon pour détecter des tendances générales.
-- **Entretiens qualitatifs** : échanges approfondis permettant d’obtenir des
+- **Entretiens qualitatifs** : échanges approfondis permettant d'obtenir des
   réponses détaillées sur les motivations et attentes.
 - **Observation terrain** : analyser le comportement des utilisateurs sans les
   interroger directement.
 - **Tests et retours utilisateurs** : mettre un produit ou un service entre les
-  mains des utilisateurs et recueillir leurs feedbacks.
+  mains des utilisateurs et recueillir leurs feedbacks (**à éviter en premier
+  lieu**).
 
 ### Limiter les biais de confirmation
 
@@ -122,30 +175,49 @@ question. Pour éviter ce biais :
 
 - Multiplier les sources d'information (données quantitatives et qualitatives)
 - Poser des questions ouvertes sans orienter les réponses
-- Favoriser l’écoute active et la reformulation
+- Favoriser l'écoute active et la reformulation
 - Recourir à des experts ou des regards extérieurs pour challenger les
   conclusions
+- **Éviter à tout prix les tests et retours utilisateurs avant d'avoir une
+  vision claire des besoins**
 
 ### Poser les bonnes questions
 
-S'inspirer des principes de The Mom Test de Rob Fitzpatrick permet d'obtenir des
-informations pertinentes lors des échanges avec un public cible.
+S'inspirer des principes du livre _The Mom Test_ écrit par Rob Fitzpatrick
+permet d'obtenir des informations pertinentes lors des échanges avec un public
+cible.[^the-mom-test]
 
-Principes clés de The Mom Test :
+Principes clés du livre _The Mom Test_ :
 
-- **Parler du passé, pas du futur** : Les intentions et opinions ne sont pas
+- **Parler du passé, pas du futur** : les intentions et opinions ne sont pas
   fiables. Il est préférable de demander ce que les personnes ont réellement
   fait dans le passé.
-- **Éviter les questions fermées ou suggestives** : Par exemple, au lieu de
-  demander "Aimeriez-vous une application qui fait X ?", il vaut mieux demander
-  "Comment gérez-vous actuellement X ?".
-- **Faire parler de problèmes concrets** : Demander aux utilisateurs quelles
+- **Éviter les questions fermées ou suggestives** : par exemple, au lieu de
+  demander _"Aimeriez-vous une application qui fait X ?"_, il vaut mieux
+  demander _"Comment gérez-vous actuellement X ?"_.
+- **Faire parler de problèmes concrets** : demander aux utilisateurs quelles
   difficultés ils rencontrent, comment ils les résolvent, et à quelle fréquence
   cela se produit.
-- **Écouter plus, parler moins** : Laisser la personne s'exprimer sans
+- **Écouter plus, parler moins** : laisser la personne s'exprimer sans
   l'influencer par des explications ou des justifications inutiles.
+- **Ne pas parler de son idée !** : votre idée n'est pas le sujet de la
+  conversation. L'objectif est de comprendre les besoins et attentes de votre
+  public cible.
 
-## Savoir se remettre en question
+> [!TIP]
+>
+> _The Mom Test_ est une des meilleures ressources que nous (Ludovic et Vincent)
+> ayons trouvé pour apprendre à poser les bonnes questions et obtenir des
+> retours pertinents de nos utilisateurs.
+>
+> Écrit par un ingénieur, ce livre propose une approche pragmatique et concrète
+> pour valider des idées et comprendre les besoins de son public cible. Il est
+> aussi très rapidement lu (1 à 2 heures).
+>
+> Nous vous recommandons vivement de le lire si vous souhaitez approfondir ce
+> sujet.
+
+### Savoir se remettre en question
 
 Comprendre son public cible, c'est aussi accepter que nos premières hypothèses
 puissent être erronées. Se remettre en question ne signifie pas manquer de
@@ -155,59 +227,91 @@ confiance en soi, mais savoir ajuster son égo selon la situation.
   capacité à trouver des solutions. L'objectif n'est pas de convaincre, mais
   d'écouter et de comprendre. Développer son empathie et sa capacité d'écoute
   est ici un véritable atout.
-- Lors des pitchs, un autre type d'égo est nécessaire : celui de l'affirmation
-  et de la conviction. Il s'agit de défendre une vision, d'inspirer confiance et
-  de donner envie de suivre une idée.
+- Lors des pitchs (= promouvoir son projet), un autre type d'égo est nécessaire
+  : celui de l'affirmation et de la conviction. Il s'agit de défendre une
+  vision, d'inspirer confiance et de donner envie de suivre une idée.
 - Lors des retours et questionnements, il faut savoir équilibrer ouverture et
   affirmation. Accepter la critique et les objections ne signifie pas tout
   remettre en cause, mais savoir trier ce qui est pertinent pour améliorer son
   projet.
 
-Savoir quel égo mobiliser à quel moment est une compétence clé. L'enjeu n'est
-pas de s'effacer, mais de placer son énergie et son assurance au bon endroit, au
-bon moment.
+Savoir quel égo mobiliser à quel moment est une compétence clé.
+
+L'enjeu n'est pas de s'effacer, mais de placer son énergie et son assurance au
+bon endroit, au bon moment.
 
 ## Comment réduire les incertitudes et valider les hypothèses
 
 Une fois les besoins identifiés, il est crucial de tester et valider les
-hypothèses pour s’assurer de leur pertinence. Quelques méthodes :
+hypothèses pour s'assurer de leur pertinence.
 
+Lorsque nous concevons un produit ou service, nous partons souvent d'hypothèses
+sur les besoins et attentes de nos utilisateurs. Pour réduire les incertitudes
+et valider ces hypothèses, il est essentiel de tester nos idées avec le public
+cible.
+
+Notez toutes vos incertitudes et hypothèses. Pour chaque hypothèse, définissez
+une méthode de validation et un indicateur de succès. Testez vos idées, analysez
+les résultats et ajustez en conséquence.
+
+Lors des interviews, essayez de valider vos hypothèses en posant des questions
+ouvertes et en observant les réactions. Soyez attentif aux signaux faibles et
+aux non-dits pour comprendre les besoins réels de vos utilisateurs.
+
+Quelques méthodes :
+
+- **Interviews utilisateurs** : poser des questions ouvertes pour comprendre les
+  besoins et attentes
+- **Questionnaires en ligne** : recueillir des données quantitatives sur un
+  échantillon plus large
+- **Observation terrain** : analyser le comportement des utilisateurs dans leur
+  environnement naturel
 - **Prototypage rapide** : créer une version simplifiée du produit et observer
   les réactions
 - **Expérimentations terrain** : mettre en place des tests réels avec le public
   cible
-- **Analyse des données** : exploiter les retours d’expérience et ajuster en
+- **Analyse des données** : exploiter les retours d'expérience et ajuster en
   conséquence
-- **Itération continue** : améliorer progressivement l’offre en fonction des
+- **Itération continue** : améliorer progressivement l'offre en fonction des
   feedbacks
-
-<!-- TODO Ajouter le contenu de Ludovic -->
 
 ## Conclusion
 
 Définir un public cible et créer des personas sont des étapes essentielles pour
 concevoir un produit ou service pertinent. Cette démarche nous aide à aligner
 notre offre avec les attentes des utilisateurs, tout en facilitant la prise de
-décision et l’optimisation des ressources. En nous mettant à la place de nos
+décision et l'optimisation des ressources. En nous mettant à la place de nos
 utilisateurs, nous améliorons leur expérience et augmentons nos chances de
 succès.
 
-<!-- TODO Ajouter la conclusion de Ludovic -->
+De plus, l'étape de validation des hypothèses au travers d'interviews, de
+questionnaires et de tests nous permet de réduire les incertitudes et de valider
+nos choix. En dialoguant avec notre public cible, en posant les bonnes questions
+et en acceptant de nous remettre en question, nous améliorons notre
+compréhension des besoins et motivations de nos utilisateurs pour leur offrir
+une solution adaptée.
 
-## Ce que vous ferez ensuite
+## À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
 - Relire le support de cours si nécessaire
 
+## Ce que vous ferez ensuite
+
+La séance de projet sera consacrée à l'identification de votre public cible et à
+la création de personas. Vous serez amené à définir les besoins de votre public
+cible et à valider vos hypothèses.
+
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+  [Yvette de Wit](https://unsplash.com/@yvettedewit) sur
+  [Unsplash](https://unsplash.com/photos/stage-light-front-of-audience-NYrVisodQ2M)
 
-[^example]: Example, [example.com](https://example.com/), 20 février 2025
+[^the-mom-test]:
+    The Mom Test, [momtestbook.com](https://www.momtestbook.com/), 05 mars 2025
 
 <!-- URLs -->
 
@@ -216,4 +320,4 @@ il est recommandé pour la semaine suivante de :
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?fit=crop&h=720
