@@ -185,16 +185,26 @@ Il existe plusieurs sources pour trouver des idées originales :
 
 > Parmi la liste suivante, quels sont les éléments qui décrivent un besoin ?
 >
-> 1. _"J'ai de la peine à me réveiller le matin."_
-> 2. _"J'ai besoin d'un café pour m'aider à me réveiller le matin."_
-> 3. _"Je suis fatigué le matin."_
-> 4. _Un café le matin me réveille."_
-> 5. _"J'ai de la peine à me réveiller, car je n'entends pas mon réveil."_
+> 1. "J'ai de la peine à me réveiller le matin."
+> 2. "J'ai besoin d'un café pour m'aider à me réveiller le matin."
+> 3. "Je suis fatigué le matin."
+> 4. "Un café le matin me réveille."
+> 5. "J'ai de la peine à me réveiller, car je n'entends pas mon réveil."
 
-## Question 9 - Réponse
+## Question 9 - Réponse (1/2)
+
+> 1. **"J'ai de la peine à me réveiller le matin."**
+> 2. "J'ai besoin d'un café pour m'aider à me réveiller le matin."
+> 3. **"Je suis fatigué le matin."**
+> 4. Un café le matin me réveille."
+> 5. **"J'ai de la peine à me réveiller, car je n'entends pas mon réveil."**
 
 Seuls les éléments 1, 3 et 5 décrivent un besoin. Les éléments 2 et 4 sont des
 solutions à un besoin/un problème.
+
+## Question 9 - Réponse (2/2)
+
+> 2. "J'ai besoin d'un café pour m'aider à me réveiller le matin."
 
 L'élément 2 est un piège car il décrit bien une solution. Le besoin est en
 réalité de se réveiller plus facilement, de se sentir plus éveillé le matin ou

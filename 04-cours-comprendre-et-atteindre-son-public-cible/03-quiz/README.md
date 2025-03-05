@@ -157,10 +157,20 @@ valider des hypothèses et de comparer des groupes de façon statistique.
 > 4. "Comment travaillez-vous habituellement dans ce cas ?"
 > 5. "Est-ce que j'ai oublié quelque chose qui vous semble important ?"
 
-## Question 6 - Réponse
+## Question 6 - Réponse (1/2)
 
-Les questions 2, 4 et 5 sont considérées comme de bonnes questions, car elles
-sont ouvertes et permettent d'obtenir des réponses riches et détaillées.
+> 1. "Est-ce que vous aimez le produit ?"
+> 2. **"Qu'est-ce qui vous plaît dans le processus ?"**
+> 3. "Qu'est-ce qui ne vous plaît pas ma solution ?"
+> 4. **"Comment travaillez-vous habituellement dans ce cas ?"**
+> 5. **"Est-ce que j'ai oublié quelque chose qui vous semble important ?"**
+
+Les questions 2, 4 et 5 sont considérées comme de bonnes questions ouvertes qui
+permettent d'obtenir des réponses riches et détaillées.
+
+## Question 6 - Réponse (2/2)
+
+> 1. "Est-ce que vous aimez le produit ?"
 
 La question 1 est à faire attention selon quel produit on parle. Si l'on parle
 de votre produit, c'est une très mauvaise idée. Si c'est un autre produit qui
@@ -173,8 +183,6 @@ La question 3 est évidemment une mauvaise question.
 > Quelle est une règle primordiale pour réaliser un interview qualitatif ?
 
 ## Question 7 - Réponse
-
-~~On ferme sa gueule et on écoute.~~
 
 L'écoute active est une compétence essentielle pour mener un entretien
 qualitatif.
