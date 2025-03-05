@@ -81,13 +81,18 @@ consultez le [support de cours][course-material]._
 
 ## Objectifs (1/2)
 
-- TODO
+- Décrire ce qu'est un pitch
+- Identifier les éléments clés d'un pitch
+- Décrire les étapes pour préparer un pitch
+- Identifier les erreurs à éviter lors d'un pitch
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
-- TODO
+- Décrire comment pitcher son idée
+- Donner des feedbacks constructifs
+- Recevoir des feedbacks constructifs
 
 ![bg right:40%][illustration-objectifs]
 

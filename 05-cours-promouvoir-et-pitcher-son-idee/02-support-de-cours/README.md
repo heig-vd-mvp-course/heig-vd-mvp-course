@@ -15,20 +15,32 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
 - [Conclusion](#conclusion)
-- [Ce que vous ferez ensuite](#quest-ce-que-vous-ferez-ensuite-)
+- [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Sources](#sources)
 
 ## Objectifs
 
-- TODO
+À l'issue de cette séance, les personnes qui étudient devraient être capables de
+:
+
+- Décrire ce qu'est un pitch
+- Identifier les éléments clés d'un pitch
+- Décrire les étapes pour préparer un pitch
+- Identifier les erreurs à éviter lors d'un pitch
+- Décrire comment pitcher son idée
+- Donner des feedbacks constructifs
+- Recevoir des feedbacks constructifs
 
 ## Conclusion
 
 TODO
 
-## Ce que vous ferez ensuite
+## À faire pour la semaine suivante
 
-TODO
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
 
 ## Sources
 
