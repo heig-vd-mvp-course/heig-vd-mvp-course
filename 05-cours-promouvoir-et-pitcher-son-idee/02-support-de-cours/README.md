@@ -120,9 +120,10 @@ Toutes les étapes des dernières semaines vous ont préparé à pitcher votre i
 
 ## La règle de trois
 
-La règle de trois est un principe narrative qui consiste à présenter des
+[La règle de trois est un principe narrative qui consiste à présenter des
 personnages, des concepts ou des idées par groupe de trois. Cela permet de
-faciliter la mémorisation et de donner du rythme à une narration.
+faciliter la mémorisation et de donner du rythme à une
+narration.][^rule-of-three]
 
 Ce principe est beaucoup utilisé dans l'improvisation et la comédie. Au prochain
 spectacle ou stand-up que vous verrez, observez la structure des blagues. Vous
@@ -174,7 +175,6 @@ il est recommandé pour la semaine suivante de :
   [Annie Spratt](https://unsplash.com/@anniespratt) sur
   [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
 
-[^example]: Example, [example.com](https://example.com/), 20 février 2025
 [^rule-of-three]:
     Rule of three,
     [wikipedia.org](<https://en.wikipedia.org/wiki/Rule_of_three_(writing)>), 5
