@@ -96,6 +96,86 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-objectifs]
 
+## Qu'est-ce qu'un pitch ?
+
+![bg right:40%][illustration-pitch-1]
+
+## Les éléments clés d'un pitch réussi
+
+- L’accroche
+- Le problème
+- La solution
+- L’unicité
+- L’appel à l’action
+
+### Raconter une histoire
+
+1. C'est l'histoire de ....
+2. Tous les jours, ....
+3. Jusqu'au jour où ....
+4. À cause de ça, ....
+5. C'est alors que ....
+
+## Préparation d'un pitch
+
+- Connaître son audience : adapter son message.
+- Clarifier son message : éviter le jargon inutile.
+- S’entraîner : tester devant des amis, enregistrer sa voix.
+- Travailler son langage corporel : posture, regard, gestuelle.
+
+## Éviter les erreurs
+
+<!-- TODO -->
+
+- Trop d’informations
+- Manque de clarté
+- Absence d’émotion
+- Manque de préparation
+- Pas de conclusion claire
+
+## Ajouter de l'impact à votre pitch
+
+<!-- TODO -->
+
+- Soyez authentique : parlez avec passion et conviction
+- Restez simple : un message facile à retenir
+- Créez de l’émotion : racontez une histoire
+- Terminez en force : laissez une impression durable
+
+## La règle de trois (1/3)
+
+<!-- _class: lead -->
+
+> Notre solution est rapide et efficace
+
+## La règle de trois (2/3)
+
+<!-- _class: lead -->
+
+> "Notre solution est rapide, efficace, simple et écologique."
+
+## La règle de trois (3/3)
+
+<!-- _class: lead -->
+
+> "Notre solution n'est pas seulement rapide, ni seulement efficace, mais elle
+> est aussi **écologique**."
+
+## Donner des feedbacks constructifs
+
+- Ce que j'aime dans votre proposition, c'est...
+- Ce que j'aimerais voir d'avantage, c'est...
+- Ce que ça m'inspire comme piste, c'est...
+
+## Recevoir des feedbacks constructifs
+
+<!-- Pour recevoir des feedbacks constructifs, il faut savoir écouter. Ne pas
+interrompre la personne qui vous donne un feedback. Prendre des notes si
+nécessaire. Et poser des questions si vous ne comprenez pas un point.
+
+Mais surtout, dites merci et n'essayer pas de vous justifier. Les feedbacks sont
+des pistes d'amélioration, pas des critiques personnelles. -->
+
 ## Questions
 
 <!-- _class: lead -->
@@ -121,6 +201,12 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
+- [Illustration][illustration-pitch-1] par
+  [Kyle Cleveland](https://unsplash.com/@kyleclevelandphoto) sur
+  [Unsplash](https://unsplash.com/photos/woman-in-green-and-white-plaid-dress-shirt-and-black-pants-leaning-on-gray-wall-b5OzroVj4DY)
+- [Illustration][illustration-pitch-2] par
+  [David Hinkle](https://unsplash.com/@hinkshoots) sur
+  [Unsplash](https://unsplash.com/photos/man-in-white-dress-shirt-and-black-pants-standing-beside-glass-window-cloA7tBdZ4c)
 
 <!-- URLs -->
 
@@ -141,3 +227,7 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
+[illustration-pitch-1]:
+	https://images.unsplash.com/photo-1614475496299-d4499fb699f1?fit=crop&h=720
+[illustration-pitch-2]:
+	https://images.unsplash.com/photo-1611940273499-e7e8ed5cbb55?fit=crop&h=720
