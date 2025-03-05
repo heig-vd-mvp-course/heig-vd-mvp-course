@@ -142,9 +142,6 @@ Principes clés de The Mom Test :
 - **Faire parler de problèmes concrets** : Demander aux utilisateurs quelles
   difficultés ils rencontrent, comment ils les résolvent, et à quelle fréquence
   cela se produit.
-- **Rechercher des preuves de paiement ou d'engagement** : Si une personne est
-  réellement prête à acheter ou à utiliser une solution, elle l'a souvent déjà
-  fait d'une manière ou d'une autre.
 - **Écouter plus, parler moins** : Laisser la personne s'exprimer sans
   l'influencer par des explications ou des justifications inutiles.
 

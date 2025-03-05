@@ -228,7 +228,23 @@ il est recommandé pour la semaine suivante de :
 
 ### Déroulement
 
-TODO
+Nous vous invitons à travailler sur votre public cible **imaginaire**, ses
+personae et ses besoins.
+
+Ensuite, identifiez les personnes avec qui vous allez discuter et préparez une
+série de questions pour un entretien.
+
+Enfin, listez les hypothèses à valider pour comprendre le public cible et
+complétez le rapport.
+
+### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
 
 ## Sources
 

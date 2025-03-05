@@ -121,6 +121,8 @@ et augmentant les chances de succès.
 Vous ne pouvez pas vendre un produit ou expliquer une idée tant que vous n'avez
 pas réussi à expliquer le problème qu'il résout à votre maman.
 
+<!-- TODO Ajouter les questions de Ludovic -->
+
 ## Questions
 
 <!-- _class: lead -->

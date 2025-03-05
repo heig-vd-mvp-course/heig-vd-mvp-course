@@ -190,6 +190,8 @@ nécessite de la curiosité, de l'empathie et de l'ouverture.
 
 ![bg right:40%][illustration-reduire-incertitudes]
 
+<!-- TODO Ajouter la présentation de Ludovic -->
+
 ## Questions
 
 <!-- _class: lead -->
