@@ -87,7 +87,7 @@ consultez le [support de cours][course-material]._
 - Identifier des secteurs de marché prometteurs pour y fournir un nouveau
   service
 - Décrire ce qu'est une idée originale
-- Générer des idées originales !
+- Générer des idées originales
 
 ![bg right:40%][illustration-objectifs]
 
@@ -131,7 +131,7 @@ Chaque secteur à ses opportunités et ses menaces, dans un contexte donné.
 
 - Secteur très réglementé
 - Normes de qualité strictes
-- Investissements massifs dans la recherche et le développement
+- Dimension éthique
 
 </div>
 <div>
@@ -139,7 +139,7 @@ Chaque secteur à ses opportunités et ses menaces, dans un contexte donné.
 **Opportunités**
 
 - Croissance constante
-- Investissements dans la recherche et le développement
+- Investissements massifs dans la recherche et le développement
 - Main-d'œuvre qualifiée
 - Infrastructure de qualité
 
@@ -155,6 +155,8 @@ Chaque secteur à ses opportunités et ses menaces, dans un contexte donné.
 - Concurrence des produits importés
 - Normes de qualité strictes
 - Coûts de production élevés
+- Pression politique et environnementale
+- Non valorisation du travail
 
 </div>
 <div>
@@ -171,7 +173,7 @@ Chaque secteur à ses opportunités et ses menaces, dans un contexte donné.
 
 Dans un contexte donné, un besoin peut être de vouloir :
 
-- Une meilleur qualité de vie
+- Une meilleure qualité de vie
 - Gagner du temps
 - Économiser de l'argent
 
@@ -184,7 +186,7 @@ Bien sûr, un besoin dépend du contexte dans lequel il est exprimé.
 - Avoir conscience des opportunités et des menaces
 - Opportunités d'agilité
 - Résilient face aux crises
-- être suffisamment grand pour accueillir de nouvelles entreprises
+- Être suffisamment grand pour accueillir de nouvelles entreprises
 
 ![bg right:40%][illustration-identifier-marche-prometteur]
 
@@ -233,7 +235,7 @@ Bien sûr, un besoin dépend du contexte dans lequel il est exprimé.
 - Les dessins sont souvent plus axées sur les processus et interactions des
   utilisateurs ce qui complète le brainstorming
 
-**Les dessins demande une compréhension plus simple et plus rapide des
+**Les dessins demandent une compréhension plus simple et plus rapide des
 problèmes/idées et permettent souvent d'être plus créatif.**
 
 ## Identifier et sélectionner les "bonnes" idées
@@ -244,21 +246,36 @@ sélectionner les "bonnes" idées.
 La partie supérieure gauche sont les idées les plus prometteuses.
 
 |                   |                    |                  |                  |
-| :---------------- | :----------------- | :--------------- | :--------------- |
+| :---------------: | :----------------: | :--------------: | :--------------: |
 | **Impact élevé**  | _Idée 1_, _Idée 4_ |                  |                  |
-| **Impact moyen**  |                    | _Idée 5_         | _Idée 3_         |
-| **Impact faible** | _Idée 6_           | _Idée 2_         |                  |
+| **Impact moyen**  |                    |     _Idée 5_     |     _Idée 3_     |
+| **Impact faible** |      _Idée 6_      |     _Idée 2_     |                  |
 |                   | **Effort faible**  | **Effort moyen** | **Effort élevé** |
 
 ## Trouver des sources d'inspiration d'idées originales
 
 Il existe plusieurs communautés pour trouver de l'inspiration :
 
+<div class="two-columns center">
+<div>
+
 - [Indie Hackers](https://www.indiehackers.com/)
 - [Product Hunt](https://www.producthunt.com/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Kickstarter](https://www.kickstarter.com/)
 - [Indiegogo](https://www.indiegogo.com/)
+
+</div>
+<div>
+
+- [GENILEM](https://genilem.ch/)
+- [Fondation FIT](https://www.fondation-fit.ch/fr)
+- [Gebert Rüf Stiftung](https://www.grstiftung.ch/fr/)
+- [Agorize](https://www.agorize.com/fr/)
+- [HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)
+
+</div>
+</div>
 
 ## Questions
 
@@ -293,15 +310,15 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-secteur-de-marche] par
   [Masum Ali](https://unsplash.com/@masum_ali_photography) sur
   [Unsplash](https://unsplash.com/photos/refill-of-liquid-on-tubes-pwcKF7L4-no)
-
-## Sources (2/2)
-
 - [Illustration][illustration-secteur-de-marche-pharmaceutique] par
   [Louis Reed](https://unsplash.com/@_louisreed) sur
   [Unsplash](https://unsplash.com/photos/refill-of-liquid-on-tubes-pwcKF7L4-no)
 - [Illustration][illustration-secteur-de-marche-agricole] par
   [Olivier Mary](https://unsplash.com/@oliviermary) sur
   [Unsplash](https://unsplash.com/photos/orange-pumpkin-on-green-grass-4JHV1dgjayI)
+
+## Sources (2/2)
+
 - [Illustration][illustration-identifier-un-besoin] par
   [youssef naddam](https://unsplash.com/@youssefnaddam) sur
   [Unsplash](https://unsplash.com/photos/two-persons-arms-iJ2IG8ckCpA)

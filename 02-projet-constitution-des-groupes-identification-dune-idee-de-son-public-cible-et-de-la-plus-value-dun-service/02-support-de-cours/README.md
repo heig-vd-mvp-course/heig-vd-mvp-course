@@ -21,6 +21,11 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Objectifs](#objectifs-1)
   - [Déroulement](#déroulement-1)
   - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante-1)
+- [Partie 3/3](#partie-33)
+  - [Objectifs](#objectifs-2)
+  - [Déroulement](#déroulement-2)
+  - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante-2)
+- [Conclusion](#conclusion)
 - [Sources](#sources)
 
 ## Séance 1/3
@@ -114,30 +119,52 @@ il est recommandé pour la semaine suivante de :
 - Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
   pour le projet
 
-<!--
 ## Partie 3/3
 
 ### Objectifs
 
-TODO
+Troisième séance pratique du cours _Lancez votre minimum viable product (MVP)_ !
+
+Cette séance a pour but de comprendre le public cible du projet et de valider
+les hypothèses.
+
+De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
+
+- Choisir une idée qui répond à un besoin
+- Rédiger la description du projet
+- Identifier le public cible **imaginaire**
+- Lister des personae **imaginés**
+- Améliorer la description des besoins **imaginés** du public cible
+- Identifier les étapes pour comprendre le public cible
+- Rédiger une série de questions pour comprendre le public cible
+- Identifier 2-3 personnes avec qui discuter pour comprendre le public cible
+- Lister les hypothèses à valider pour comprendre le public cible
+- Compléter le rapport
 
 ### Déroulement
 
-TODO
+Nous vous invitons à travailler sur votre public cible **imaginaire**, ses
+personae et ses besoins.
 
-### Conclusion
+Ensuite, identifiez les personnes avec qui vous allez discuter et préparez une
+série de questions pour un entretien.
 
-TODO
+Enfin, listez les hypothèses à valider pour comprendre le public cible et
+complétez le rapport.
 
 ### À faire pour la semaine suivante
 
-TODO
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
 
-### Qu'est-ce que vous ferez ensuite ?
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
 
-TODO
+## Conclusion
 
--->
+Bravo pour votre travail ! Vous avez maintenant une idée plus claire de votre
+public cible et des besoins à satisfaire.
 
 ## Sources
 

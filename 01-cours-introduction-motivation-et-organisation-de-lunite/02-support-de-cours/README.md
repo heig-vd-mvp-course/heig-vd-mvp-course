@@ -39,7 +39,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Minimum viable product (MVP)](#minimum-viable-product-mvp)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous allez faire ensuite](#ce-que-vous-allez-faire-ensuite)
+- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
 
 ## Objectifs
@@ -600,7 +600,7 @@ il est recommandé pour la semaine suivante de :
 
 - Relire le support de cours si nécessaire
 
-## Ce que vous allez faire ensuite
+## Ce que vous ferez ensuite
 
 La séance de projet sera consacrée à la présentation des idées que vous avez et
 à la formation des équipes si vous le souhaitez.
