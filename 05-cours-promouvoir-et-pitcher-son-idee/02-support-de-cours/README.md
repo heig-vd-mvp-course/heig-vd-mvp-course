@@ -64,10 +64,12 @@ Un pitch doit captiver et convaincre rapidement.
 - **L’appel à l’action** : ce que vous attendez de votre auditoire (investir,
   tester, collaborer…).
 
-Si vous arrivez à ajouter un persona et son histoire, c'est encore mieux. Le
-public se sentira concerné et comprendra mieux votre idée. Et à la fin de la
-présentation, vous pourrez revenir sur le persona pour montrer comment votre
-solution répond à ses besoins.
+> [!TIP] Ajouter une narration
+>
+> Si vous arrivez à ajouter un persona et son histoire, c'est encore mieux. Le
+> public se sentira concerné et comprendra mieux votre idée. Et à la fin de la
+> présentation, vous pourrez revenir sur le persona pour montrer comment votre
+> solution répond à ses besoins.
 
 ### Raconter une histoire
 
@@ -91,10 +93,11 @@ Toutes les étapes des dernières semaines vous ont préparé à pitcher votre i
 - **S’entraîner** : tester devant des amis, enregistrer sa voix.
 - **Travailler son langage corporel** : posture, regard, gestuelle.
 
-> [!TIP] Quoi de mieux pour s'améliorer que de s'entraîner ? Des concours de
-> pitchs sont organisés régulièrement. C'est une excellente occasion de tester
-> votre pitch devant un public et de recevoir des feedbacks. Pour plus
-> d'informations, consultez le site <https://pitch.genilem.ch/>
+> [!TIP] Quoi de mieux pour s'améliorer que de s'entraîner ?
+>
+> Des concours de pitchs sont organisés régulièrement. C'est une excellente
+> occasion de tester votre pitch devant un public et de recevoir des feedbacks.
+> Pour plus d'informations, consultez le site <https://pitch.genilem.ch/>
 
 ## Éviter les erreurs
 
