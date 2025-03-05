@@ -264,7 +264,7 @@ Est-ce que vous avez des questions ?
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 
-## Sources (1/3)
+## Sources (1/2)
 
 - [Illustration principale][illustration-principale] par
   [Yvette de Wit](https://unsplash.com/@yvettedewit) sur
@@ -291,7 +291,7 @@ Est-ce que vous avez des questions ?
   [Richard Jaimes](https://unsplash.com/@richardconr) sur
   [Unsplash](https://unsplash.com/photos/grayscale-photo-of-a-woman-s97-KYat9sA)
 
-## Sources (2/3)
+## Sources (2/2)
 
 - [Illustration][illustration-dialogue] par
   [Chandler Cruttenden](https://unsplash.com/@chanphoto) sur
