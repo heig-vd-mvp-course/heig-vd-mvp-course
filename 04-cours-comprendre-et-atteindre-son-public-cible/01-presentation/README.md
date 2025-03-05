@@ -96,13 +96,15 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-objectifs]
 
-## Public cible et personas
+## Public cible et personae
 
 - Un service ou un produit est réalisé pour une cible spécifique.
 - Savoir pour qui nous concevons un service ou un produit est essentiel.
 - Deux concepts clés :
   - Le public cible
-  - Les personas ![bg right:40%][illustration-public-construire-personas]
+  - Les personae
+
+![bg right:40%][illustration-public-construire-personae]
 
 ### Qu'est-ce qu'un public cible ?
 
@@ -148,7 +150,7 @@ Un autre potentiel public se cache derrière Léa : les collègues de Léa.
 ## Identifier et comprendre un public cible
 
 1. Définir les objectifs
-2. Définir des hypothèses (personas + besoins)
+2. Définir des hypothèses (personae + besoins)
 3. Établir les moyens pour obtenir des réponses (interviews, tests, etc.)
 4. Récolter et analyser les données
 5. Itérer et ajuster
@@ -276,7 +278,7 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-besoins] par
   [Charles Deluvio](https://unsplash.com/@charlesdeluvio) sur
   [Unsplash](https://unsplash.com/photos/person-sitting-in-a-chair-in-front-of-a-man-rRWiVQzLm7k)
-- [Illustration][illustration-public-construire-personas] par
+- [Illustration][illustration-public-construire-personae] par
   [Jeremy Bishop](https://unsplash.com/@jeremybishop) sur
   [Unsplash](https://unsplash.com/photos/pyramid-of-khafre-HcgK4WoBwzg)
 - [Illustration][illustration-public-cible] par
@@ -328,7 +330,7 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
 [illustration-besoins]:
 	https://images.unsplash.com/photo-1511376979163-f804dff7ad7b?fit=crop&h=720
-[illustration-public-construire-personas]:
+[illustration-public-construire-personae]:
 	https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?fit=crop&h=720
 [illustration-public-cible]:
 	https://images.unsplash.com/photo-1510925751334-0fe90906839b?fit=crop&h=720

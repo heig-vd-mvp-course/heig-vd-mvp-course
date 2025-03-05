@@ -24,8 +24,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Partie 3/3](#partie-33)
   - [Objectifs](#objectifs-2)
   - [Déroulement](#déroulement-2)
-  - [Conclusion](#conclusion)
   - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante-2)
+- [Conclusion](#conclusion)
 - [Sources](#sources)
 
 ## Séance 1/3
@@ -152,11 +152,6 @@ série de questions pour un entretien.
 Enfin, listez les hypothèses à valider pour comprendre le public cible et
 complétez le rapport.
 
-### Conclusion
-
-Bravo pour votre travail ! Vous avez maintenant une idée plus claire de votre
-public cible et des besoins à satisfaire.
-
 ### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -165,6 +160,11 @@ il est recommandé pour la semaine suivante de :
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
 - Interviewer ces personnes pour récolter des retours
+
+## Conclusion
+
+Bravo pour votre travail ! Vous avez maintenant une idée plus claire de votre
+public cible et des besoins à satisfaire.
 
 ## Sources
 

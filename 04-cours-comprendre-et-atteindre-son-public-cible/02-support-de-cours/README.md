@@ -14,7 +14,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
-- [Public cible et personas](#public-cible-et-personas)
+- [Public cible et personae](#public-cible-et-personae)
   - [Qu'est-ce qu'un public cible ?](#quest-ce-quun-public-cible-)
   - [Qu'est-ce qu'un persona ?](#quest-ce-quun-persona-)
   - [Exemple illustré](#exemple-illustré)
@@ -35,7 +35,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 Cette séance a pour objectif de vous permettre de comprendre et d'atteindre
 votre public cible. Pour cela, vous apprendrez à identifier les besoins réels de
-votre public cible, à dialoguer avec lui, à construire des personas et à valider
+votre public cible, à dialoguer avec lui, à construire des personae et à valider
 vos hypothèses.
 
 De façon plus concise, à la fin de cette séance, vous devriez être capable de :
@@ -48,13 +48,13 @@ De façon plus concise, à la fin de cette séance, vous devriez être capable d
 - Décrire comment dialoguer avec un public cible
 - Lister les hypothèses à valider pour comprendre un public cible
 
-## Public cible et personas
+## Public cible et personae
 
 Lorsque nous développons un produit, un service ou un projet, il est essentiel
 de comprendre pour qui nous le faisons. Avoir une idée claire de notre public
 cible nous permet d'adapter notre offre à ses besoins, d'affiner notre
 communication et d'améliorer l'expérience utilisateur. Pour cela, nous utilisons
-deux concepts clés : le public cible et les personas.
+deux concepts clés : le public cible et les personae.
 
 ### Qu'est-ce qu'un public cible ?
 
@@ -277,7 +277,7 @@ Quelques méthodes :
 
 ## Conclusion
 
-Définir un public cible et créer des personas sont des étapes essentielles pour
+Définir un public cible et créer des personae sont des étapes essentielles pour
 concevoir un produit ou service pertinent. Cette démarche nous aide à aligner
 notre offre avec les attentes des utilisateurs, tout en facilitant la prise de
 décision et l'optimisation des ressources. En nous mettant à la place de nos
@@ -301,7 +301,7 @@ il est recommandé pour la semaine suivante de :
 ## Ce que vous ferez ensuite
 
 La séance de projet sera consacrée à l'identification de votre public cible et à
-la création de personas. Vous serez amené à définir les besoins de votre public
+la création de personae. Vous serez amené à définir les besoins de votre public
 cible et à valider vos hypothèses.
 
 ## Sources
