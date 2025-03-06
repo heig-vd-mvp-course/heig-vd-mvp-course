@@ -15,20 +15,33 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
 - [Conclusion](#conclusion)
-- [Ce que vous ferez ensuite](#quest-ce-que-vous-ferez-ensuite-)
+- [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Sources](#sources)
 
 ## Objectifs
 
-- TODO
+À l'issue de cette séance, les personnes qui étudient devraient être capables de
+:
+
+- Préparer un pitch
+- Réaliser un pitch
+- Répondre aux questions
+- Recevoir des feedbacks constructifs
+- Évaluer les pitches des autres groupes
+- Donner des feedbacks constructifs
 
 ## Conclusion
 
 TODO
 
-## Ce que vous ferez ensuite
+## À faire pour la semaine suivante
 
-TODO
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
 
 ## Sources
 

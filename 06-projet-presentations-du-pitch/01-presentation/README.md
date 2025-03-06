@@ -79,15 +79,14 @@ _paginate: false
 _Cette présentation est un résumé du support de cours. Pour plus de détails,
 consultez le [support de cours][course-material]._
 
-## Objectifs (1/2)
+## Objectifs
 
-- TODO
-
-![bg right:40%][illustration-objectifs]
-
-## Objectifs (2/2)
-
-- TODO
+- Préparer un pitch
+- Réaliser un pitch
+- Répondre aux questions
+- Recevoir des feedbacks constructifs
+- Évaluer les pitches des autres groupes
+- Donner des feedbacks constructifs
 
 ![bg right:40%][illustration-objectifs]
 
@@ -100,7 +99,9 @@ TODO
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- TODO
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
 
 ## Sources
 
