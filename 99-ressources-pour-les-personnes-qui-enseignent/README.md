@@ -68,3 +68,12 @@ l'avancement de la préparation du cours.
 - [ ] 4-5 questions Vincent
 - [ ] 4-5 questions Ludovic
 ```
+
+## Durant le cours
+
+Le fil rouge d'un cours est le suivant :
+
+- Quiz du cours précédent
+- Prise de parole des groupes sur leur avancement
+- Théorie
+- Pratique
