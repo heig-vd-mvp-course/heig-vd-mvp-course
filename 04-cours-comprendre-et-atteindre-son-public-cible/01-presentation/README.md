@@ -149,8 +149,8 @@ Un autre potentiel public se cache derrière Léa : les collègues de Léa.
 
 ## Identifier et comprendre un public cible
 
-1. Définir les objectifs
-2. Définir des hypothèses (personae + besoins)
+1. Définir les objectifs du projet
+2. Définir des hypothèses à valider (personae + besoins)
 3. Établir les moyens pour obtenir des réponses (interviews, tests, etc.)
 4. Récolter et analyser les données
 5. Itérer et ajuster
@@ -212,27 +212,30 @@ questions :
 
 ### Poser les bonnes questions (2/2)
 
-- Empathie
-- Parlé du passé, pas du futur
+**Élements clés à retenir**
+
+- Faire preuve d'empathie
+- Parler du passé, pas du futur
 - Éviter les questions fermées ou suggestives
 - Faire parler de problèmes concrets
 - Écouter plus, parler moins
 - **Ne pas parler de son idée !**
 
-![bg right:37%](https://m.media-amazon.com/images/I/61ixLoT4lyL._SL1360_.jpg)
-
 ### Savoir se remettre en question
 
-> Savoir quel égo mobiliser à quel moment est une compétence clé.
->
-> L'enjeu n'est pas de s'effacer, mais de placer son énergie et son assurance au
-> bon endroit, au bon moment.
+Il y a une différence entre la conversation et le pitch :
+
+- Lors d'une conversation, l'objectif est de comprendre.
+- Lors d'un pitch, l'objectif est de promouvoir et convaincre.
+
+Ce ne sont pas les mêmes egos !
 
 ![bg right:40%][illustration-remise-en-question]
 
 ## Comment réduire les incertitudes et valider les hypothèses (1/2)
 
-But : éliminer toutes nos questions et incertitudes avec les outils suivants :
+But : éliminer toutes nos questions et incertitudes à l'aide des outils suivants
+:
 
 - Interviews utilisateurs
 - Questionnaires en ligne
