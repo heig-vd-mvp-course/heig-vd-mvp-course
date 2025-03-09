@@ -179,7 +179,7 @@ Un autre potentiel public se cache derrière Léa : les collègues de Léa.
 
 ![bg right:40%][illustration-dialogue]
 
-### Les différents formes possibles d'un dialogue
+### Les différentes formes possibles d'un dialogue
 
 - Questionnaires quantitatifs
 - Entretiens qualitatifs

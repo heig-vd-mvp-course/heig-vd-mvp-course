@@ -98,7 +98,7 @@ consultez le [support de cours][course-material]._
 
 ## Qu'est-ce qu'un pitch ?
 
-![bg right:40%][illustration-pitch-1]
+![bg right:40%][illustration-pitch-2]
 
 ## Les éléments clés d'un pitch réussi
 
@@ -146,20 +146,20 @@ consultez le [support de cours][course-material]._
 
 <!-- _class: lead -->
 
-> Notre solution est rapide et efficace
+_"Notre solution est rapide et efficace"_
 
 ## La règle de trois (2/3)
 
 <!-- _class: lead -->
 
-> "Notre solution est rapide, efficace, simple et écologique."
+_"Notre solution est rapide, efficace, simple et écologique."_
 
 ## La règle de trois (3/3)
 
 <!-- _class: lead -->
 
-> "Notre solution n'est pas seulement rapide, ni seulement efficace, mais elle
-> est aussi **écologique**."
+_"Notre solution n'est pas seulement rapide, ni seulement efficace, mais elle
+est aussi **écologique**."_
 
 ## Donner des feedbacks constructifs
 
@@ -167,14 +167,16 @@ consultez le [support de cours][course-material]._
 - Ce que j'aimerais voir d'avantage, c'est...
 - Ce que ça m'inspire comme piste, c'est...
 
+![bg right:40%][illustration-donner-feedbacks]
+
 ## Recevoir des feedbacks constructifs
 
-<!-- Pour recevoir des feedbacks constructifs, il faut savoir écouter. Ne pas
-interrompre la personne qui vous donne un feedback. Prendre des notes si
-nécessaire. Et poser des questions si vous ne comprenez pas un point.
+- Écouter sans interrompre
+- Dire merci
+- Demander des précisions si nécessaire
+- Ne pas se justifier
 
-Mais surtout, dites merci et n'essayer pas de vous justifier. Les feedbacks sont
-des pistes d'amélioration, pas des critiques personnelles. -->
+![bg right:40%][illustration-recevoir-feedbacks]
 
 ## Questions
 
@@ -207,6 +209,12 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-pitch-2] par
   [David Hinkle](https://unsplash.com/@hinkshoots) sur
   [Unsplash](https://unsplash.com/photos/man-in-white-dress-shirt-and-black-pants-standing-beside-glass-window-cloA7tBdZ4c)
+- [Illustration][illustration-recevoir-feedbacks]] par
+  [Dylann Hendricks](https://unsplash.com/@dylanhendricks) sur
+  [Unsplash](https://unsplash.com/photos/gray-sand-with-water-droplets-tCPbxjzQDmE)
+- [Illustration][illustration-donner-feedbacks] par
+  [Jon Tyson](https://unsplash.com/@jontyson) sur
+  [Unsplash](https://unsplash.com/photos/yellow-awesome-printed-signage-82ZEOTntP8g)
 
 <!-- URLs -->
 
@@ -231,3 +239,7 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1614475496299-d4499fb699f1?fit=crop&h=720
 [illustration-pitch-2]:
 	https://images.unsplash.com/photo-1611940273499-e7e8ed5cbb55?fit=crop&h=720
+[illustration-recevoir-feedbacks]:
+	https://images.unsplash.com/photo-1618382521478-a0bfaf1a7604?fit=crop&h=720
+[illustration-donner-feedbacks]:
+	https://images.unsplash.com/photo-1508591360875-10163ed98c8e?fit=crop&h=720
