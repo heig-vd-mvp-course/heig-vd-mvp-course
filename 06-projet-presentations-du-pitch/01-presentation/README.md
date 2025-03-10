@@ -93,8 +93,10 @@ consultez le [support de cours][course-material]._
 ## Déroulement
 
 Vous avez 20 minutes pour préparer votre pitch, après quoi chaque groupe a 2
-minutes pour présenter son pitch. Et ensuite, l'audience vous posera des
-questions.
+minutes pour présenter son pitch suivi d'un moments de questions et feedbacks.
+
+Challengez-vous ! Remettez-vous en question et soyez prêts à recevoir des
+feedbacks constructifs.
 
 ## À faire pour la semaine suivante
 

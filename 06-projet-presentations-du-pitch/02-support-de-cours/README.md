@@ -14,6 +14,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
+- [Déroulement](#déroulement)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Sources](#sources)
@@ -30,9 +31,19 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - Évaluer les pitches des autres groupes
 - Donner des feedbacks constructifs
 
+## Déroulement
+
+Vous avez 20 minutes pour préparer votre pitch, après quoi chaque groupe a 2
+minutes pour présenter son pitch suivi d'un moments de questions et feedbacks.
+
+Challengez-vous ! Remettez-vous en question et soyez prêts à recevoir des
+feedbacks constructifs.
+
 ## Conclusion
 
-TODO
+Les présentations de pitch sont un moment important dans le développement de
+votre projet. C'est l'occasion de confronter vos idées à celles des autres et
+d'obtenir des retours constructifs.
 
 ## À faire pour la semaine suivante
 
