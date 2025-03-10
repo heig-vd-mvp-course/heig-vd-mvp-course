@@ -101,13 +101,7 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-pitch-2]
 
-## Les éléments clés d'un pitch réussi
-
-- L’accroche
-- Le problème
-- La solution
-- L’unicité
-- L’appel à l’action
+<!-- TODO Ludo -->
 
 ### Raconter une histoire
 
@@ -117,31 +111,7 @@ consultez le [support de cours][course-material]._
 4. À cause de ça, ....
 5. C'est alors que ....
 
-## Préparation d'un pitch
-
-- Connaître son audience : adapter son message.
-- Clarifier son message : éviter le jargon inutile.
-- S’entraîner : tester devant des amis, enregistrer sa voix.
-- Travailler son langage corporel : posture, regard, gestuelle.
-
-## Éviter les erreurs
-
-<!-- TODO -->
-
-- Trop d’informations
-- Manque de clarté
-- Absence d’émotion
-- Manque de préparation
-- Pas de conclusion claire
-
-## Ajouter de l'impact à votre pitch
-
-<!-- TODO -->
-
-- Soyez authentique : parlez avec passion et conviction
-- Restez simple : un message facile à retenir
-- Créez de l’émotion : racontez une histoire
-- Terminez en force : laissez une impression durable
+![bg right:40%][illustration-histoire]
 
 ## La règle de trois (1/3)
 
@@ -167,6 +137,8 @@ est aussi **écologique**."_
 - Ne pas se rabaisser parmi
 - Comment réagir lorsqu'une personne dit quelque chose de faux
 - Faire briller ses partenaires
+
+![bg right:40%][illustration-equipes]
 
 ## Donner des feedbacks constructifs
 
@@ -217,11 +189,17 @@ Est-ce que vous avez des questions ?
   [David Hinkle](https://unsplash.com/@hinkshoots) sur
   [Unsplash](https://unsplash.com/photos/man-in-white-dress-shirt-and-black-pants-standing-beside-glass-window-cloA7tBdZ4c)
 - [Illustration][illustration-recevoir-feedbacks]] par
-  [Dylann Hendricks](https://unsplash.com/@dylanhendricks) sur
-  [Unsplash](https://unsplash.com/photos/gray-sand-with-water-droplets-tCPbxjzQDmE)
+  [Larry George II](https://unsplash.com/@itslarryg) sur
+  [Unsplash](https://unsplash.com/photos/man-in-red-dress-shirt-and-blue-denim-jeans--uGGyKVjoWo)
 - [Illustration][illustration-donner-feedbacks] par
   [Jon Tyson](https://unsplash.com/@jontyson) sur
   [Unsplash](https://unsplash.com/photos/yellow-awesome-printed-signage-82ZEOTntP8g)
+- [Illustration][illustration-equipes] par
+  [Austin Kehmeier](https://unsplash.com/@a_kehmeier) sur
+  [Unsplash](https://unsplash.com/photos/view-of-two-persons-hands-lyiKExA4zQA)
+- [Illustration][illustration-histoire] par
+  [OurWhisky Foundation](https://unsplash.com/@ourwhiskyfoundation) sur
+  [Unsplash](https://unsplash.com/photos/a-person-reading-a-book-and-drinking-a-glass-of-whiskey-kJMgr2LT4RQ)
 
 <!-- URLs -->
 
@@ -247,6 +225,10 @@ Est-ce que vous avez des questions ?
 [illustration-pitch-2]:
 	https://images.unsplash.com/photo-1611940273499-e7e8ed5cbb55?fit=crop&h=720
 [illustration-recevoir-feedbacks]:
-	https://images.unsplash.com/photo-1618382521478-a0bfaf1a7604?fit=crop&h=720
+	https://images.unsplash.com/photo-1625024573146-5b95a5b861b5?fit=crop&h=720
 [illustration-donner-feedbacks]:
 	https://images.unsplash.com/photo-1508591360875-10163ed98c8e?fit=crop&h=720
+[illustration-equipes]:
+	https://images.unsplash.com/photo-1578357078586-491adf1aa5ba?fit=crop&h=720
+[illustration-histoire]:
+	https://images.unsplash.com/photo-1699728838283-72e593cd15c7?fit=crop&h=720
