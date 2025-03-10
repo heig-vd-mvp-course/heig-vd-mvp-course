@@ -92,7 +92,9 @@ consultez le [support de cours][course-material]._
 
 ## Déroulement
 
-TODO
+Vous avez 20 minutes pour préparer votre pitch, après quoi chaque groupe a 2
+minutes pour présenter son pitch. Et ensuite, l'audience vous posera des
+questions.
 
 ## À faire pour la semaine suivante
 
@@ -106,8 +108,8 @@ il est recommandé pour la semaine suivante de :
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
-  [Unsplash](https://unsplash.com/photos/man-standing-behind-flat-screen-computer-monitor-bzqU01v-G54)
+  [Rob Laughter](https://unsplash.com/@roblaughter) sur
+  [Unsplash](https://unsplash.com/photos/red-theater-curtain-WW1jsInXgwM)
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
@@ -126,6 +128,6 @@ il est recommandé pour la semaine suivante de :
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1514306191717-452ec28c7814?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720

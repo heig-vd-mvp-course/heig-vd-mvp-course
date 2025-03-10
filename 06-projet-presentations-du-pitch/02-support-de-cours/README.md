@@ -46,8 +46,8 @@ il est recommandé pour la semaine suivante de :
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+  [Rob Laughter](https://unsplash.com/@roblaughter) sur
+  [Unsplash](https://unsplash.com/photos/red-theater-curtain-WW1jsInXgwM)
 
 <!-- URLs -->
 
@@ -56,4 +56,4 @@ il est recommandé pour la semaine suivante de :
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1514306191717-452ec28c7814?fit=crop&h=720
