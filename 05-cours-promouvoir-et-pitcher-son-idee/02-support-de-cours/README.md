@@ -37,6 +37,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - Décrire les étapes pour préparer un pitch
 - Identifier les erreurs à éviter lors d'un pitch
 - Décrire comment pitcher son idée
+- Citer des techniques pour pitcher en équipe
 - Donner des feedbacks constructifs
 - Recevoir des feedbacks constructifs
 
@@ -87,7 +88,10 @@ Toutes les étapes des dernières semaines vous ont préparé à pitcher votre i
 
 ## Ajouter de l'impact à votre pitch
 
-<!-- TODO Ludo-->
+<!--
+    TODO Ludo
+    Pas forcément nécessaire cette section ?
+-->
 
 - **Soyez authentique** : parlez avec passion et conviction
 - **Restez simple** : un message facile à retenir
@@ -142,6 +146,51 @@ verrez que beaucoup d'entre elles suivent la règle de trois.
 > "Mon ex ne m'a pas seulement quitté, il a aussi pris mon chien et changer mon
 > mot de passe Netflix."
 
+## Travailler en équipe lors d'un pitch
+
+Pitcher en équipe peut être un excellent moyen de renforcer votre présentation
+en mettant en valeur les compétences complémentaires des membres de votre
+groupe. Cependant, cela demande de respecter certaines bonnes pratiques pour
+garantir une présentation harmonieuse et convaincante.
+
+**Ne pas se rabaisser**
+
+- **Soyez solidaires** : Même en cas d'erreur ou d'imprécision, évitez de
+  souligner publiquement les erreurs de votre partenaire. Corrigez subtilement
+  ou recentrez la conversation si nécessaire.
+- **Restez positifs** : Maintenez toujours un état d'esprit encourageant, qui
+  valorise chaque intervention.
+
+**Réagir lorsqu'un équipier dit quelque chose de faux**
+
+- **Correction subtile** : Si une correction immédiate est nécessaire,
+  privilégiez des formulations douces et constructives. Par exemple : « Si je
+  peux juste ajouter une précision… » ou « Pour compléter ce point, précisons
+  que… ».
+- **Soutenir la confiance** : Évitez d'interrompre brusquement votre partenaire,
+  afin de préserver son assurance face au public.
+
+**Faire briller ses partenaires**
+
+- **Mettez en avant les forces de chacun** : Présentez clairement les membres de
+  votre équipe et leurs expertises.
+- **Passez le relais efficacement** : Valorisez explicitement les idées ou les
+  points forts exposés par vos équipiers. Par exemple : « Comme [prénom] l'a
+  brillamment exposé tout à l'heure… ».
+- **Écoute active et validation** : Pendant que vos partenaires présentent,
+  montrez de l'intérêt et de l'approbation par votre langage corporel
+  (hochements de tête, regards encourageants).
+
+> [!TIP]
+>
+> **Pratiquez ensemble** : L'entraînement collectif permet d'améliorer
+> naturellement ces interactions positives, de clarifier les rôles et d'assurer
+> une fluidité durant le pitch.
+
+Enfin, souvenez-vous qu'une équipe qui s'entraide et valorise mutuellement ses
+membres sera perçue comme plus professionnelle, unie et crédible auprès de son
+auditoire.
+
 ## Donner des feedbacks constructifs
 
 Pour savoir recevoir des feedbacks, il faut savoir en donner.
@@ -169,7 +218,9 @@ ce que vous allez faire avec ce feedback.
 
 ## Conclusion
 
-TODO
+Pitcher son idée est une compétence essentielle pour tout entrepreneur. Cela
+permet de convaincre des investisseurs, des clients ou des partenaires de vous
+suivre dans votre aventure.
 
 ## À faire pour la semaine suivante
 

@@ -503,6 +503,7 @@ il est recommandé pour la semaine suivante de :
 - Décrire les étapes pour préparer un pitch
 - Identifier les erreurs à éviter lors d'un pitch
 - Décrire comment pitcher son idée
+- Citer des techniques pour pitcher en équipe
 - Donner des feedbacks constructifs
 - Recevoir des feedbacks constructifs
 

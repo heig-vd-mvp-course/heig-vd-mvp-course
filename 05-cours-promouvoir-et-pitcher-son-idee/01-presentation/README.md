@@ -91,6 +91,7 @@ consultez le [support de cours][course-material]._
 ## Objectifs (2/2)
 
 - Décrire comment pitcher son idée
+- Citer des techniques pour pitcher en équipe
 - Donner des feedbacks constructifs
 - Recevoir des feedbacks constructifs
 
@@ -160,6 +161,12 @@ _"Notre solution est rapide, efficace, simple et écologique."_
 
 _"Notre solution n'est pas seulement rapide, ni seulement efficace, mais elle
 est aussi **écologique**."_
+
+## Travailler en équipe lors d'un pitch
+
+- Ne pas se rabaisser parmi
+- Comment réagir lorsqu'une personne dit quelque chose de faux
+- Faire briller ses partenaires
 
 ## Donner des feedbacks constructifs
 
