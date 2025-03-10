@@ -21,6 +21,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Les éléments clés d'un pitch réussi](#les-éléments-clés-dun-pitch-réussi)
   - [Raconter une histoire](#raconter-une-histoire)
 - [La règle de trois](#la-règle-de-trois)
+- [Travailler en équipe lors d'un pitch](#travailler-en-équipe-lors-dun-pitch)
 - [Donner des feedbacks constructifs](#donner-des-feedbacks-constructifs)
 - [Recevoir des feedbacks constructifs](#recevoir-des-feedbacks-constructifs)
 - [Conclusion](#conclusion)
@@ -158,8 +159,8 @@ garantir une présentation harmonieuse et convaincante.
 - **Soyez solidaires** : Même en cas d'erreur ou d'imprécision, évitez de
   souligner publiquement les erreurs de votre partenaire. Corrigez subtilement
   ou recentrez la conversation si nécessaire.
-- **Restez positifs** : Maintenez toujours un état d'esprit encourageant, qui
-  valorise chaque intervention.
+- **Gardez un esprit positif** : Maintenez toujours un état d'esprit
+  encourageant, qui valorise chaque intervention.
 
 **Réagir lorsqu'un équipier dit quelque chose de faux**
 
@@ -187,9 +188,9 @@ garantir une présentation harmonieuse et convaincante.
 > naturellement ces interactions positives, de clarifier les rôles et d'assurer
 > une fluidité durant le pitch.
 
-Enfin, souvenez-vous qu'une équipe qui s'entraide et valorise mutuellement ses
-membres sera perçue comme plus professionnelle, unie et crédible auprès de son
-auditoire.
+Enfin, souvenez-vous qu'une équipe qui s'entraide et qui se valorise
+mutuellement sera perçue comme plus professionnelle, unie et crédible auprès de
+son auditoire.
 
 ## Donner des feedbacks constructifs
 

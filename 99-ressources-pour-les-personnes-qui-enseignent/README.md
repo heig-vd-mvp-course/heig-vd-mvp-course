@@ -7,6 +7,10 @@
   - [Email envoyé aux personnes qui étudient avant le premier cours](#email-envoyé-aux-personnes-qui-étudient-avant-le-premier-cours)
 - [Avant le cours](#avant-le-cours)
   - [Issue](#issue)
+- [Durant le cours](#durant-le-cours)
+- [Projet](#projet)
+- [Évaluation](#évaluation)
+- [Quiz](#quiz)
 
 ## Avant l'unité
 
@@ -77,3 +81,18 @@ Le fil rouge d'un cours est le suivant :
 - Prise de parole des groupes sur leur avancement
 - Théorie
 - Pratique
+
+## Projet
+
+- [ ] Ne pas oublier
+
+## Évaluation
+
+- [ ] Parler des critères du pitch
+- [ ] Fil rouge, programme, durée du pitch
+- [ ] Préparation des feuilles d'évaluation
+- [ ] Programme
+
+## Quiz
+
+- [ ] 4-5 questions Ludovic
