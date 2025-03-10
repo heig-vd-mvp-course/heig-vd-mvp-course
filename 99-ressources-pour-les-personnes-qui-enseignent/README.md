@@ -8,9 +8,6 @@
 - [Avant le cours](#avant-le-cours)
   - [Issue](#issue)
 - [Durant le cours](#durant-le-cours)
-- [Projet](#projet)
-- [Évaluation](#évaluation)
-- [Quiz](#quiz)
 
 ## Avant l'unité
 
@@ -77,22 +74,7 @@ l'avancement de la préparation du cours.
 
 Le fil rouge d'un cours est le suivant :
 
-- Quiz du cours précédent
+- Quiz du cours précédent animé par les personnes qui enseignent
 - Prise de parole des groupes sur leur avancement
-- Théorie
-- Pratique
-
-## Projet
-
-- [ ] Ne pas oublier
-
-## Évaluation
-
-- [ ] Parler des critères du pitch
-- [ ] Fil rouge, programme, durée du pitch
-- [ ] Préparation des feuilles d'évaluation
-- [ ] Programme
-
-## Quiz
-
-- [ ] 4-5 questions Ludovic
+- Présentation de la théorie par les personnes qui enseignent
+- Pratique par les personnes qui étudient

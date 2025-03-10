@@ -14,6 +14,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
+  - [Grille d'évaluation de la présentation](#grille-dévaluation-de-la-présentation)
 - [Déroulement](#déroulement)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
@@ -30,6 +31,24 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - Recevoir des feedbacks constructifs
 - Évaluer les pitches des autres groupes
 - Donner des feedbacks constructifs
+
+### Grille d'évaluation de la présentation
+
+| #   | Critère                                                                   |
+| :-- | :------------------------------------------------------------------------ |
+| 1   | La problématique ainsi que sa solution permettent de comprendre le projet |
+| 2   | L'élocution est claire et compréhensible                                  |
+| 3   | Les informations sont claires et bien présentées                          |
+| 4   | Les contenus présentés sont pertinents et supportent l'argumentation      |
+| 5   | Le temps imparti est respecté                                             |
+| 6   | Les réponses aux questions sont pertinentes                               |
+| 7   | Les retours sont écoutés et pris en compte                                |
+
+- 0 point - Le travail est insuffisant
+- 1 point - Le travail est réalisé
+- 2 points - Le travail est bien réalisé (sans la nécessité d'être parfait)
+
+Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 
 ## Déroulement
 

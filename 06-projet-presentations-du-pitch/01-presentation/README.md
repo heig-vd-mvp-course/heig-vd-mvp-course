@@ -90,6 +90,26 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-objectifs]
 
+### Grille d'évaluation de la présentation (1/2)
+
+- 0 point - Le travail est insuffisant
+- 1 point - Le travail est réalisé
+- 2 points - Le travail est bien réalisé (sans la nécessité d'être parfait)
+
+Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
+
+---
+
+| #   | Critère                                                                   |
+| :-- | :------------------------------------------------------------------------ |
+| 1   | La problématique ainsi que sa solution permettent de comprendre le projet |
+| 2   | L'élocution est claire et compréhensible                                  |
+| 3   | Les informations sont claires et bien présentées                          |
+| 4   | Les contenus présentés sont pertinents et supportent l'argumentation      |
+| 5   | Le temps imparti est respecté                                             |
+| 6   | Les réponses aux questions sont pertinentes                               |
+| 7   | Les retours sont écoutés et pris en compte                                |
+
 ## Déroulement
 
 Vous avez 20 minutes pour préparer votre pitch, après quoi chaque groupe a 2
