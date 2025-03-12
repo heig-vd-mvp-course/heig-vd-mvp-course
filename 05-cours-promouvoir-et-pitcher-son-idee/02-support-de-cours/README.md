@@ -163,27 +163,25 @@ concurrents, etc.
 >
 > **La règle de trois**
 >
-> _"La règle de trois est un principe narratif qui consiste à présenter des
-> personnages, des concepts ou des idées par groupe de trois. Cela permet de
-> faciliter la mémorisation et de donner du rythme à une
-> narration."_[^rule-of-three]
+> _« La règle de trois est un principe narratif qui consiste à présenter des
+> personnages, des concepts ou des idées par groupe de trois. Elle facilite la
+> mémorisation et donne du rythme à la narration. »_[^rule-of-three]
 >
-> Ce principe est beaucoup utilisé dans l'improvisation et la comédie. Au
-> prochain spectacle ou stand-up que vous verrez, observez la structure des
-> blagues. Vous verrez que beaucoup d'entre elles suivent la règle de trois.
+> Très utilisée en **improvisation** et en **comédie**, cette règle est
+> omniprésente dans les spectacles et le stand-up. Observez la structure des
+> blagues : beaucoup suivent ce principe.
 >
-> Voici quelques exemples de la règle de trois :
+> Par exemple, vous voulez mettre en avant un avantage clé de votre solution,
+> comme son impact écologique.
 >
-> - Exemple 1 :
->   1. _"Notre solution est rapide."_
->   2. _"Notre solution est rapide et efficace."_
->   3. _"Notre solution n'est pas seulement rapide, ni seulement efficace, mais
->      elle est aussi écologique."_
-> - _"Mon ex ne m'a pas seulement quitté (1) ; il a aussi pris mon chien (2) et
->   changé mon mot de passe Netflix (3)."_
+> Vous pourriez simplement dire :  
+> **_« Notre solution est écologique. »_**
 >
-> Chaque groupe de trois éléments permet de renforcer le propos et de donner du
-> rythme à la narration.
+> Mais cela aurait moins d’impact que si vous utilisiez la règle de trois :  
+> **_« Notre solution est rapide, efficace et écologique. »_**
+>
+> Cette structure renforce l’effet rythmique et facilite la rétention du
+> message.
 
 ## Éléments à éviter lors d'un pitch
 

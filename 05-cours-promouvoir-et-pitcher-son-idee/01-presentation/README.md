@@ -170,29 +170,15 @@ votre auditoire et de rendre votre pitch mémorable.
 
 ![bg right:40%][illustration-la-regle-de-trois]
 
-### _"Notre solution est rapide."_
+### _"Notre solution est écologique."_
 
 <!-- _class: lead -->
 
-### _"Notre solution est rapide et efficace."_
+### _"Notre solution est rapide, efficace et écologique."_
 
 <!-- _class: lead -->
 
-### _"Notre solution n'est pas seulement rapide, ni seulement efficace, mais elle est aussi écologique."_
-
-<!-- _class: lead -->
-
-### _"Mon ex m'a quitté."_
-
-<!-- _class: lead -->
-
-### _"Mon ex m'a quitté et il a pris mon chien."_
-
-<!-- _class: lead -->
-
-### _"Mon ex ne m'a pas seulement quitté ; il a aussi pris mon chien et changé mon mot de passe Netflix."_
-
-<!-- _class: lead -->
+<!-- Exemples connus: "Veni, vidi, vici", "Liberté, égalité, fraternité", "Dubo, Dubon, Dubonnet" -->
 
 ## Éléments à éviter lors d'un pitch
 
