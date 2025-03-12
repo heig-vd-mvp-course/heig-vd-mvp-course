@@ -167,9 +167,9 @@ concurrents, etc.
 > personnages, des concepts ou des idées par groupe de trois. Elle facilite la
 > mémorisation et donne du rythme à la narration. »_[^rule-of-three]
 >
-> Très utilisée en **improvisation** et en **comédie**, cette règle est
-> omniprésente dans les spectacles et le stand-up. Observez la structure des
-> blagues : beaucoup suivent ce principe.
+> Très utilisée en **improvisation**, en **comédie** et en **publicité**, cette
+> règle est omniprésente dans les spectacles et le stand-up. Observez la
+> structure des blagues : beaucoup suivent ce principe.
 >
 > Par exemple, vous voulez mettre en avant un avantage clé de votre solution,
 > comme son impact écologique.
@@ -247,7 +247,7 @@ une présentation harmonieuse et convaincante.
 - **Ne pas monopoliser la parole** : évitez les monologues et laissez de la
   place à vos partenaires et aux questions du public.
 
-**Réagir lorsque quelque de dit est faux**
+**Réagir lorsque quelque chose de dit est faux**
 
 - **Correction subtile** : si une correction immédiate est nécessaire,
   privilégiez des formulations douces et constructives. Par exemple : _"Si je
