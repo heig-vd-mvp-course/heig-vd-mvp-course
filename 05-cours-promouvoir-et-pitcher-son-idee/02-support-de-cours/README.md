@@ -163,9 +163,9 @@ concurrents, etc.
 >
 > **La règle de trois**
 >
-> _« La règle de trois est un principe narratif qui consiste à présenter des
+> _"La règle de trois est un principe narratif qui consiste à présenter des
 > personnages, des concepts ou des idées par groupe de trois. Elle facilite la
-> mémorisation et donne du rythme à la narration. »_[^rule-of-three]
+> mémorisation et donne du rythme à la narration."_[^rule-of-three]
 >
 > Très utilisée en **improvisation**, en **comédie** et en **publicité**, cette
 > règle est omniprésente dans les spectacles et le stand-up. Observez la
@@ -175,10 +175,10 @@ concurrents, etc.
 > comme son impact écologique.
 >
 > Vous pourriez simplement dire :  
-> **_« Notre solution est écologique. »_**
+> **_"Notre solution est écologique."_**
 >
 > Mais cela aurait moins d’impact que si vous utilisiez la règle de trois :  
-> **_« Notre solution est rapide, efficace et écologique. »_**
+> **_"Notre solution est rapide, efficace et écologique."_**
 >
 > Cette structure renforce l’effet rythmique et facilite la rétention du
 > message.
