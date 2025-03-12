@@ -115,9 +115,9 @@ Les bonnes pratiques lorsqu'on pitch en équipe sont :
 La méthode simple pour donner un feedback constructif est de structurer ses
 phrases ainsi :
 
-- Ce que j'aime dans votre proposition, c'est...
-- Ce que j'aimerais voir davantage, c'est...
-- Ce qui pourrait être amélioré...
+- _"Ce que j'aime dans votre proposition, c'est..."_
+- _"Ce que j'aimerais voir davantage, c'est..."_
+- _"Ce qui pourrait être amélioré..."_
 
 ## Question 4 - Donnée
 
@@ -135,11 +135,11 @@ Lorsqu'on reçoit un feedback constructif, il est recommandé de :
 
 ## Question 5 - Donnée
 
-> Pourquoi est-il conseillé d'utiliser la règle de trois dans un pitch ?
+> En quoi la règle de trois peut aider dans un pitch ?
 
 ## Question 5 - Réponse
 
-La règle de trois est conseillée dans un pitch car elle :
+La règle de trois peut aider dans un pitch car elle :
 
 - Facilite la mémorisation
 - Donne du rythme à la narration
@@ -155,6 +155,50 @@ La règle de trois est conseillée dans un pitch car elle :
 L'avantage principal d'intégrer une histoire dans un pitch est de susciter
 l'émotion, de rendre le problème concret et de permettre au public de mieux
 visualiser l'impact de la solution proposée.
+
+## Question 7 - Donnée
+
+> Quelle est la différence entre un pitch et une présentation classique ?
+
+## Question 7 - Réponse
+
+La différence entre un pitch et une présentation classique est que :
+
+- Un pitch est court, concis, impactant et est axé et l'émotion
+- Un pitch a pour objectif de susciter l'intérêt et de convaincre rapidement
+- Un pitch est souvent utilisé pour promouvoir une idée, un projet ou un produit
+
+Une présentation classique est plus détaillée, plus longue et plus exhaustive.
+
+## Question 8 - Donnée
+
+> Quelle structure peut-on suivre pour un pitch efficace ?
+
+## Question 8 - Réponse
+
+<div class="two-columns">
+<div>
+
+La structure d'un pitch efficace est généralement la suivante :
+
+1. L'accroche
+2. Le problème
+3. La solution
+4. L'appel à l'action
+
+</div>
+<div>
+
+Une structure narrative peut aider à structurer un pitch :
+
+> 1. _"Il était une fois, ..."_ / _"C'est l'histoire de ..."_
+> 2. _"Et tous les jours, ..."_
+> 3. _"Et un jour, ..."_
+> 4. _"Et à cause de ça, ..."_
+> 5. _"Et finalement, ..."_
+
+</div>
+</div>
 
 ## Questions
 

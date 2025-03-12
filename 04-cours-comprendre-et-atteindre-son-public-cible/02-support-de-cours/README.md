@@ -21,7 +21,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Identifier et comprendre un public cible](#identifier-et-comprendre-un-public-cible)
 - [Identifier les (réels) besoins d'un public cible](#identifier-les-réels-besoins-dun-public-cible)
 - [Comment dialoguer avec son public cible](#comment-dialoguer-avec-son-public-cible)
-  - [Les différentes formes possibles d'un dialogue](#les-différents-formes-possibles-dun-dialogue)
+  - [Les différentes formes possibles d'un dialogue](#les-différentes-formes-possibles-dun-dialogue)
   - [Limiter les biais de confirmation](#limiter-les-biais-de-confirmation)
   - [Poser les bonnes questions](#poser-les-bonnes-questions)
   - [Savoir se remettre en question](#savoir-se-remettre-en-question)
