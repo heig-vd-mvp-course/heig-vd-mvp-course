@@ -86,12 +86,12 @@ consultez le [support de cours][course-material]._
 - Identifier un public cible
 - Décrire les étapes pour comprendre un public cible
 - Identifier les (réels) besoins d'un public cible
+- Décrire comment dialoguer avec un public cible
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
-- Décrire comment dialoguer avec un public cible
 - Lister les hypothèses à valider pour comprendre un public cible
 
 ![bg right:40%][illustration-objectifs]
