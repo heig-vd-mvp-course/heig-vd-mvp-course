@@ -208,7 +208,7 @@ Sans oublier de sourire, de regarder son auditoire et rester confiant.e !
 - Il n'est pas nécessaire que tout le monde parle, chacun.e peut avoir un rôle
   spécifique.
 - Quelques règles peuvent aider (rester unifié.es, ne pas interrompre, réagir
-  lorsque quelque de dit est faux, faire briller ses partenaires).
+  lorsque quelque chose de dit est faux, faire briller ses partenaires).
 
 ![bg right:40%][illustration-travailler-en-equipe-lors-dun-pitch]
 
