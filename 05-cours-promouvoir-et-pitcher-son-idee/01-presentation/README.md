@@ -165,7 +165,7 @@ votre auditoire et de rendre votre pitch mémorable.
 **La règle de trois**
 
 - Principe narratif qui présente des informations par groupes de trois.
-- Souvent utilisé dans l'improvisation et la comédie.
+- Souvent utilisé dans l'impro, la comédie, la publicité, etc.
 - Permet de faciliter la mémorisation et de donner du rythme au discours.
 
 ![bg right:40%][illustration-la-regle-de-trois]
