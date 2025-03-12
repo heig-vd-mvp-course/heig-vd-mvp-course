@@ -3,10 +3,13 @@
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
-- [Avant le cours](#avant-le-cours)
+- [Avant l'unité](#avant-lunité)
   - [Email envoyé aux personnes qui étudient avant le premier cours](#email-envoyé-aux-personnes-qui-étudient-avant-le-premier-cours)
+- [Avant le cours](#avant-le-cours)
+  - [Issue](#issue)
+- [Durant le cours](#durant-le-cours)
 
-## Avant le cours
+## Avant l'unité
 
 ### Email envoyé aux personnes qui étudient avant le premier cours
 
@@ -30,3 +33,48 @@ Si vous avez des questions, n'hésitez pas à nous contacter.
 Nous vous souhaitons une bonne journée et à bientôt,
 Ludovic Delafontaine et Vincent Guidoux
 ```
+
+## Avant le cours
+
+### Issue
+
+Créez une issue pour chaque cours, projet et quiz. Cela permet de suivre
+l'avancement de la préparation du cours.
+
+```text
+# Finalisation de la semaine n
+
+## Cours
+
+### Vincent
+
+- [ ]
+
+### Ludovic
+
+- [ ]
+
+## Projet
+
+### Vincent
+
+- [ ]
+
+### Ludovic
+
+- [ ]
+
+## Quiz
+
+- [ ] 4-5 questions Vincent
+- [ ] 4-5 questions Ludovic
+```
+
+## Durant le cours
+
+Le fil rouge d'un cours est le suivant :
+
+- Quiz du cours précédent animé par les personnes qui enseignent
+- Prise de parole des groupes sur leur avancement
+- Présentation de la théorie par les personnes qui enseignent
+- Pratique par les personnes qui étudient

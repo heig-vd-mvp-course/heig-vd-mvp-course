@@ -21,7 +21,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Identifier et comprendre un public cible](#identifier-et-comprendre-un-public-cible)
 - [Identifier les (réels) besoins d'un public cible](#identifier-les-réels-besoins-dun-public-cible)
 - [Comment dialoguer avec son public cible](#comment-dialoguer-avec-son-public-cible)
-  - [Les différents formes possibles d'un dialogue](#les-différents-formes-possibles-dun-dialogue)
+  - [Les différentes formes possibles d'un dialogue](#les-différentes-formes-possibles-dun-dialogue)
   - [Limiter les biais de confirmation](#limiter-les-biais-de-confirmation)
   - [Poser les bonnes questions](#poser-les-bonnes-questions)
   - [Savoir se remettre en question](#savoir-se-remettre-en-question)
@@ -152,7 +152,7 @@ Pour comprendre les besoins et attentes de notre public cible, il est essentiel
 de dialoguer avec lui. Cette section explore les différentes formes de dialogue,
 les biais à éviter et les bonnes pratiques pour poser des questions pertinentes.
 
-### Les différents formes possibles d'un dialogue
+### Les différentes formes possibles d'un dialogue
 
 Pour identifier les besoins d'un public cible, il est essentiel d'interagir avec
 lui à travers différents moyens d'échange :

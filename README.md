@@ -503,6 +503,7 @@ il est recommandé pour la semaine suivante de :
 - Décrire les étapes pour préparer un pitch
 - Identifier les erreurs à éviter lors d'un pitch
 - Décrire comment pitcher son idée
+- Citer des techniques pour pitcher en équipe
 - Donner des feedbacks constructifs
 - Recevoir des feedbacks constructifs
 
@@ -570,7 +571,6 @@ il est recommandé pour la semaine suivante de :
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
-- Exercices d'improvisation (10 minutes)
 - Temps de préparation (20 minutes)
 - Présentations (60 minutes)
   - Présentations (sans slides)
@@ -987,7 +987,6 @@ il est recommandé pour la semaine suivante de :
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
-- Exercices d'improvisation (10 minutes)
 - Présentations (80 minutes)
   - Présentations (avec slides)
   - Sessions de questions-réponses
@@ -1872,7 +1871,6 @@ Il n'y a pas d'évaluation pour cette séance.
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
-- Exercices d'improvisation (10 minutes)
 - Présentations (110 minutes)
   - Présentations (avec slides)
   - Sessions de questions-réponses
