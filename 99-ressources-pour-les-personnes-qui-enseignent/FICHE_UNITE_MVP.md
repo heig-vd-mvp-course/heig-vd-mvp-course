@@ -18,10 +18,10 @@ _État au 11.09.2024 à 18:41_
 
 ### Répartition des périodes
 
-| Semestre    | E1  | S1  | S2  | E2  | S3  | S4  | E3  | S5  | S6  |
-| ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cours       |     |     |     |     |     |     |     |     | 16  |
-| Laboratoire |     |     |     |     |     |     |     |     | 48  |
+| Semestre    |  E1 |  S1 |  S2 |  E2 |  S3 |  S4 |  E3 |  S5 |  S6 |
+| :---------- | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| Cours       |     |     |     |     |     |     |     |     |  16 |
+| Laboratoire |     |     |     |     |     |     |     |     |  48 |
 
 ## Connaissances préalables recommandées
 
@@ -86,29 +86,29 @@ au long du cours.
 
 _Répartition des périodes indiquée à titre informatif._
 
-| Cours                                                                                                                            | 24  |
-| -------------------------------------------------------------------------------------------------------------------------------- | --- |
-| Introduction, motivation et organisation de l'unité                                                                              | 2   |
-| Trouver des idées originales qui répondent à un besoin (design thinking et philosophie Indie Hackers)                            | 2   |
-| Comprendre, atteindre et discuter avec son public cible (Mom test, marketing et SEO)                                             | 2   |
-| Promouvoir et pitcher son idée (prestance et présentations)                                                                      | 2   |
-| Identification et choix d'une stack technologique (par ex. Hugo, Next.js, Lavarel, NestJS, Spring Boot, MVC vs backend/frontend) | 2   |
-| Réaliser des interfaces ergonomiques et réfléchies (UI/UX avec mockups)                                                          | 2   |
-| Hébergement et déploiement de services (par ex. GitHub Pages, GitLab Pages, Heroku, Exoscale, Infomaniak)                        | 2   |
-| Recevoir des feedbacks constructifs et pivoter (changement de produit, comment faire ?)                                          | 2   |
-| Réaliser des applications pérennes (architecture, documentation et accessibilité)                                                | 2   |
-| Se faire payer pour sa passion (systèmes de paiement et questions juridiques)                                                    | 2   |
-| Créer sa propre entreprise (formes juridiques, responsabilités et aides/ressources à disposition)                                | 2   |
-| Évaluation théorique                                                                                                             | 2   |
+| Cours                                                                                                                            |  24 |
+| :------------------------------------------------------------------------------------------------------------------------------- | --: |
+| Introduction, motivation et organisation de l'unité                                                                              |   2 |
+| Trouver des idées originales qui répondent à un besoin (design thinking et philosophie Indie Hackers)                            |   2 |
+| Comprendre, atteindre et discuter avec son public cible (Mom test, marketing et SEO)                                             |   2 |
+| Promouvoir et pitcher son idée (prestance et présentations)                                                                      |   2 |
+| Identification et choix d'une stack technologique (par ex. Hugo, Next.js, Lavarel, NestJS, Spring Boot, MVC vs backend/frontend) |   2 |
+| Réaliser des interfaces ergonomiques et réfléchies (UI/UX avec mockups)                                                          |   2 |
+| Hébergement et déploiement de services (par ex. GitHub Pages, GitLab Pages, Heroku, Exoscale, Infomaniak)                        |   2 |
+| Recevoir des feedbacks constructifs et pivoter (changement de produit, comment faire ?)                                          |   2 |
+| Réaliser des applications pérennes (architecture, documentation et accessibilité)                                                |   2 |
+| Se faire payer pour sa passion (systèmes de paiement et questions juridiques)                                                    |   2 |
+| Créer sa propre entreprise (formes juridiques, responsabilités et aides/ressources à disposition)                                |   2 |
+| Évaluation théorique                                                                                                             |   2 |
 
-| Laboratoire                                                                                               | 40  |
-| --------------------------------------------------------------------------------------------------------- | --- |
-| Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service | 6   |
-| Présentations, partages et discussions autour de la notion du pitch                                       | 2   |
-| Réalisation et hébergement de la landing page avec newsletter                                             | 4   |
-| Présentations, partages et discussions autour de la notion de prospection                                 | 2   |
-| Réalisation, déploiement et tests utilisateurs du service                                                 | 22  |
-| Présentations finales et revue du semestre                                                                | 4   |
+| Laboratoire                                                                                               |  40 |
+| :-------------------------------------------------------------------------------------------------------- | --: |
+| Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service |   6 |
+| Présentations, partages et discussions autour de la notion du pitch                                       |   2 |
+| Réalisation et hébergement de la landing page avec newsletter                                             |   4 |
+| Présentations, partages et discussions autour de la notion de prospection                                 |   2 |
+| Réalisation, déploiement et tests utilisateurs du service                                                 |  22 |
+| Présentations finales et revue du semestre                                                                |   4 |
 
 ## Bibliographie
 
