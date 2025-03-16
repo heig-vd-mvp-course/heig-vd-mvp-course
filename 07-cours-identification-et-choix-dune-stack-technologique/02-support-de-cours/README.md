@@ -140,7 +140,7 @@ Pages[^github-pages] :
 Pour optimiser votre visibilité sur les moteurs de recherche, appliquez ces
 bonnes pratiques :
 
-<!-- TODO VINCENT vraiment mettre plus de détails, tu sais plus que ça gars -->
+<!-- TODO: VINCENT vraiment mettre plus de détails, tu sais plus que ça gars -->
 
 - **Balise titre (Title)** : claire, concise et contenant des mots-clés
   pertinents
@@ -171,8 +171,8 @@ il est recommandé pour la semaine suivante de :
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+  [Viktor Forgacs](https://unsplash.com/@sonance) sur
+  [Unsplash](https://unsplash.com/photos/green-grass-field-with-trees-and-a-black-and-white-cross--0rQ6AbnqeQ)
 
 <!-- URLs -->
 
@@ -181,6 +181,6 @@ il est recommandé pour la semaine suivante de :
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1613396276557-57ba407006f9?fit=crop&h=720
 
 [^github-pages]: <https://pages.github.com/>

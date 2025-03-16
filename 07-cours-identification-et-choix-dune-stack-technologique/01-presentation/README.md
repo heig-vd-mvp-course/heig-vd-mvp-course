@@ -170,13 +170,7 @@ Exemple avec GitHub Pages :
 
 ### Bonnes pratiques SEO pour votre landing page
 
-- Balise titre optimisée (Title)
-- Meta description attractive
-- Structure HTML claire (H1, H2, H3)
-- Images légères avec attribut ALT
-- Temps de chargement rapide (optimisation des ressources)
-- Compatibilité mobile (responsive)
-- Accessibilité renforcée
+<!-- TODO : GUIDOUX -->
 
 ## Questions
 
@@ -194,12 +188,11 @@ Est-ce que vous avez des questions ?
 ## Sources (1/3)
 
 - [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+  [Viktor Forgacs](https://unsplash.com/@sonance) sur
+  [Unsplash](https://unsplash.com/photos/green-grass-field-with-trees-and-a-black-and-white-cross--0rQ6AbnqeQ)
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
-- TODO
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
@@ -227,7 +220,7 @@ Est-ce que vous avez des questions ?
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1613396276557-57ba407006f9?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:

@@ -15,26 +15,45 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
 - [Conclusion](#conclusion)
-- [Ce que vous ferez ensuite](#quest-ce-que-vous-ferez-ensuite-)
+	- [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Sources](#sources)
 
 ## Objectifs
 
-- TODO
+À l'issue de cette séance, les personnes qui étudient devraient être capables de
+:
+
+- Prendre en main un outil de création de site web statique
+- Réaliser un site statique type _"Hello, world!"_
+- Déployer le site statique sur Internet
+- Identifier les mots clés pour le référencement
+- Mettre en commun les interviews réalisées jusqu'ici
+- Partager les réflexions autour de ces interviews
+- Prendre connaissance de la forme attendue pour la présentation sur la
+  [Prospection](./../../11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+- Prendre connaissance des critères d'évaluation pour la présentation sur la
+  [Prospection](./../../11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+- Compléter le rapport
 
 ## Conclusion
 
 TODO
 
-## Ce que vous ferez ensuite
+### À faire pour la semaine suivante
 
-TODO
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser la mise en ligne du site web statique
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
 
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+  [Denys Nevozhai](https://unsplash.com/@dnevozhai) sur
+  [Unsplash](https://unsplash.com/photos/low-angle-photography-of-building-interior-JsdvKIcvAGo)
 
 <!-- URLs -->
 
@@ -43,4 +62,4 @@ TODO
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1505178041309-ad46d2e4207b?fit=crop&h=720
