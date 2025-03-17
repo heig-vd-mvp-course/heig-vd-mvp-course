@@ -79,14 +79,11 @@ _paginate: false
 _Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
 cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
-Voici une proposition complète pour les 4 questions du quiz, en lien avec le
-support de cours :
-
-## Question 1 - donnée
+## Question 1 - Donnée
 
 Quelles sont les caractéristiques essentielles d'une landing page efficace ?
 
-## Question 1 - réponse
+## Question 1 - Réponse
 
 Une landing page efficace doit contenir :
 
@@ -94,37 +91,37 @@ Une landing page efficace doit contenir :
 - Un appel à l'action évident (CTA)
 - Un design simple, engageant et rassurant
 
-## Question 2 - donnée
+## Question 2 - Donnée
 
 Pourquoi intégrer une landing page avec formulaire de contact dans votre MVP ?
 
-## Question 2 - réponse
+## Question 2 - Réponse
 
 Une landing page avec formulaire permet de :
 
 - Tester rapidement une idée sur le marché sans coûts élevés
-- Recueillir des données précieuses (emails, feedbacks)
+- Recueillir des Données précieuses (emails, feedbacks)
 - Valider l'intérêt réel pour votre produit ou service
 - Établir un premier contact direct avec votre public cible
 
-## Question 3 - donnée
+## Question 3 - Donnée
 
 Citez deux plateformes où vous pouvez trouver des templates pour créer
 facilement une landing page.
 
-## Question 3 - réponse
+## Question 3 - Réponse
 
 Voici deux plateformes pour trouver des templates de landing page :
 
 - [Bootstrap](https://getbootstrap.com/docs/examples/)
 - [One Page Love](https://onepagelove.com/)
 
-## Question 4 - donnée
+## Question 4 - Donnée
 
 Quelles sont les bonnes pratiques SEO à respecter pour optimiser une landing
 page ?
 
-## Question 4 - réponse
+## Question 4 - Réponse
 
 Pour optimiser une landing page en référencement (SEO), il est important de
 respecter ces bonnes pratiques :

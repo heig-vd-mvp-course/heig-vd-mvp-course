@@ -99,25 +99,79 @@ consultez le [support de cours][course-material]._
 
 ## Choisir la stack technologique adaptée à votre projet
 
+![bg right:40%][illustration-objectifs]
+
+### Un petit retour dans le passé
+
+![bg right:40%][illustration-objectifs]
+
 ### Comprendre ce qu'est une stack technologique web
 
 <!-- TODO : LUDO -->
+
+![bg right:40%][illustration-objectifs]
 
 ### Avantages et inconvénients d'une stack technologique web (1/2)
 
 <!-- TODO : LUDO -->
 
+![bg right:40%][illustration-objectifs]
+
 ### Avantages et inconvénients d'une stack technologique web (2/2)
 
 <!-- TODO : LUDO -->
+
+![bg right:40%][illustration-objectifs]
 
 ### Choisir la stack technologique adaptée à votre projet
 
 <!-- TODO : LUDO -->
 
+![bg right:40%][illustration-objectifs]
+
+#### Quel(s) langage(s) de programmation/framework(s)/outil(s) choisir
+
+![bg right:40%][illustration-objectifs]
+
+#### Solution _"fait maison"_ vs solution clé en main
+
+![bg right:40%][illustration-objectifs]
+
+#### Full-stack vs front-end vs back-end
+
+![bg right:40%][illustration-objectifs]
+
+#### Performances vs maintenabilité
+
+![bg right:40%][illustration-objectifs]
+
+#### Monolithique vs microservices
+
+![bg right:40%][illustration-objectifs]
+
+#### Polyrepo vs monorepo
+
+![bg right:40%][illustration-objectifs]
+
+#### SQL vs NoSQL
+
+![bg right:40%][illustration-objectifs]
+
+#### _"boring technology"_ vs _"new shiny thing"_
+
+![bg right:40%][illustration-objectifs]
+
 ### Exemples populaires de stacks technologiques web
 
 <!-- TODO : LUDO -->
+
+![bg right:40%][illustration-objectifs]
+
+### Conclusion
+
+<!-- TODO : LUDO -->
+
+![bg right:40%][illustration-objectifs]
 
 ## Créer une landing page efficace pour votre MVP
 
