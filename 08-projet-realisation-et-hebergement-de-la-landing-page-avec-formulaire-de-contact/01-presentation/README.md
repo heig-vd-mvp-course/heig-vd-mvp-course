@@ -97,9 +97,9 @@ consultez le [support de cours][course-material]._
 
 - Partager les réflexions autour de ces interviews
 - Prendre connaissance de la forme attendue pour la présentation sur la
-  [Prospection](./../../11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+  [Prospection](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
 - Prendre connaissance des critères d'évaluation pour la présentation sur la
-  [Prospection](./../../11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+  [Prospection](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
 - Compléter le rapport
 
 ![bg right:40%][illustration-objectifs]
