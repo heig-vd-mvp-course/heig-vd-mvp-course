@@ -27,7 +27,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Trouver des templates pour votre landing page](#trouver-des-templates-pour-votre-landing-page)
   - [Hébergement d'une landing page avec formulaire de contact](#hébergement-dune-landing-page-avec-formulaire-de-contact)
   - [Mettre en ligne une landing page avec formulaire de contact](#mettre-en-ligne-une-landing-page-avec-formulaire-de-contact)
-  - [Bonnes pratiques SEO pour votre landing page](#bonnes-pratiques-seo-pour-votre-landing-page)
+  - [Bonnes pratiques de référencement pour votre landing page](#bonnes-pratiques-de-référencement-pour-votre-landing-page)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
@@ -414,6 +414,12 @@ Une ressource humoristique que vous pouvez consulter est le site suivant :
 
 ## Créer une landing page efficace pour votre MVP
 
+Après avoir choisi la stack technologique adaptée à votre projet, il est
+important de créer une landing page efficace pour valider votre MVP. Elle se
+détache du reste de stack technologique car elle est souvent plus simple et
+rapide à mettre en place. Rien ne vous empêche de l'intégrer dans votre stack
+technologique.
+
 ### Définition d'une landing page
 
 Une landing page est une page web spécifiquement conçue pour encourager une
@@ -445,6 +451,7 @@ personnaliser :
 
 - [Bootstrap](https://getbootstrap.com/docs/examples/)
 - [One Page Love](https://onepagelove.com/)
+- [HUGO templates](https://master--hugothemes.netlify.app/tags/onepage/)
 
 Ces templates permettent de créer rapidement une landing page optimisée pour la
 conversion, adaptée aux appareils mobiles et visuellement attrayante.
@@ -481,27 +488,80 @@ Pages[^github-pages] :
 5. Activez GitHub Pages dans les paramètres du dépôt
 6. Configurez le domaine personnalisé si nécessaire
 
-### Bonnes pratiques SEO pour votre landing page
+### Bonnes pratiques de référencement pour votre landing page
 
-Pour optimiser votre visibilité sur les moteurs de recherche, appliquez ces
-bonnes pratiques :
+Avant de commencer à créer votre landing page, il est essentiel de penser au
+référencement (Search Engine Optimization (SEO)) dès la conception. Le SEO ne se
+limite pas à l'insertion de mots-clés, il englobe de nombreux aspects techniques
+et éditoriaux qui, ensemble, permettent aux moteurs de recherche de comprendre
+et de classer efficacement votre contenu.
 
-<!-- TODO: VINCENT vraiment mettre plus de détails, tu sais plus que ça gars -->
+**Structure HTML optimisée**
 
-- **Balise titre (Title)** : claire, concise et contenant des mots-clés
-  pertinents
-- **Balises meta** : description et mots-clés pertinents
-- **Structure sémantique** : avec balises HTML (H1, H2, H3)
-- **Images optimisées** : avec texte alternatif (alt) pertinent
-- **Temps de chargement rapide** : (compression des images, code optimisé)
-- **Compatibilité mobile (responsive design)** : adapté à tous les appareils
-- **Accessibilité** : pour les personnes en situation de handicap
+Une structure HTML bien organisée aide les moteurs de recherche à analyser votre
+page. Voici quelques points clés :
 
-En suivant ces conseils, votre landing page aura plus de chances d'attirer et de
-convertir efficacement le public ciblé.
+- **Balise `<title>`** : Utilisez un titre concis (moins de 60 caractères)
+  incluant le mot-clé principal.
+- **Meta description** : Rédigez une description engageante en moins de 160
+  caractères qui résume le contenu de la page et inclut des mots-clés
+  pertinents.
+- **Hiérarchisation avec les balises de titres (`<h1>`, `<h2>`, `<h3>`)**:
+  Utilisez une seule balise`<h1>`pour le titre principal et des
+  balises`<h2>`et`<h3>` pour structurer les sous-sections.
+- **Utilisation des balises sémantiques** (`<article>`, `<section>`, `<aside>`,
+  `<nav>`) pour améliorer la lisibilité et l’indexation.
 
-N'oubliez pas de mesurer les performances de votre landing page avec des outils
-comme <https://pagespeed.web.dev/>.
+Avant de lister les différents points, il est important de rappeler que le
+référencement est un domaine complexe et en constante évolution. Il est donc
+important de suivre les recommandations des moteurs de recherche et de rester
+informé des dernières tendances.
+
+**Contenu et mots-clés**
+
+Si nous vous conseillons de penser au référencement avant de créer votre landing
+page, c'est parce que le contenu textuel est un élément clé pour le
+référencement. Effectivement, les moteurs de recherche utilisent des robots
+d'indexation pour analyser le contenu des pages web et déterminer leur
+pertinence par rapport aux requêtes des utilisateurs.
+
+- **Pertinence du contenu** : Assurez-vous que le texte est pertinent par
+  rapport aux mots-clés ciblés. Ne vous contentez pas d'insérer des mots-clés de
+  manière artificielle : le contenu doit être informatif et répondre aux
+  questions de vos visiteurs.
+
+- **Mots-clés stratégiques** : Intégrez des mots-clés dans les titres,
+  sous-titres et le corps du texte. Par exemple, si vous ciblez "landing page
+  SEO", intégrez ce terme de manière naturelle dans vos paragraphes et titres.
+
+Aussi, simplement mettre les mots-clés de la concurrence ne suffit pas. Nous
+voyons de plus en plus de sections dans les site web qui sont dédiées à la
+concurrence. Cela permet de montrer que vous êtes au courant de ce qui se fait
+dans votre domaine et que vous avez une proposition de valeur différente, mais
+surtout, d'améliorer votre référencement. Lorsque les personnes cherchent un
+concurrent, ils vont tomber sur votre site web et découvrir votre proposition de
+valeur.
+
+**Performance et aspects techniques**
+
+La compatibilité mobile (responsive design) est un autre élément clé pour le
+référencement. En effet, les moteurs de recherche favorisent les sites web qui
+sont adaptés à tous les appareils, y compris les smartphones et les tablettes.
+
+L'accessibilité est également un élément clé pour le référencement. Assurez-vous
+que votre site est accessible à tout le monde, y compris aux personnes en
+situation de handicap, en utilisant par exemple des attributs `alt` pour les
+images.
+
+La vitesse de chargement est également un élément clé pour le référencement. En
+effet, les moteurs de recherche favorisent les sites web qui se chargent
+rapidement. Il est donc important d'optimiser la vitesse de chargement de votre
+landing page en compressant les images, en optimisant le code, etc.
+
+Un outil très utile pour vérifier la qualité de votre landing page est
+[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/).
+Il vous permet de mesurer les performances de votre page et de recevoir des
+recommandations pour l'optimiser.
 
 ## Conclusion
 
