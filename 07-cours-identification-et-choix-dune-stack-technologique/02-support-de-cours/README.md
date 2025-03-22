@@ -69,6 +69,8 @@ influencer son succès.
 Afin de mieux comprendre les enjeux actuels de la stack technologique, il est
 important de comprendre l'histoire du web.
 
+#### Les débuts du web
+
 Le web a été inventé par Tim Berners-Lee en 1989. Il a été conçu pour permettre
 aux personnes dans le domaine de la recherche de partager des informations entre
 elles. Le premier site web a été mis en ligne en 1991.
@@ -77,14 +79,16 @@ A l'époque, le nombre d'utilisateurs était très faible et les sites web étai
 très simples. Ils étaient composés de simples fichiers HTML, CSS et JavaScript
 et étaient hébergés sur des serveurs web. Chaque site web était unique et
 indépendant et, si vous avez vécu cette époque, vous vous souvenez peut-être du
-nombre varié de sites web différents.
+nombre varié de sites web différents (peu de standards).
 
-Avec le nombre croissant d'utilisateurs, les sites web sont devenus de plus en
-plus complexes et interactifs.
+#### L'explosion du web
 
-Des solutions full-stack ont été développées pour répondre à ces besoins,
-notamment Laravel/Symfony pour PHP, Ruby on Rails pour Ruby, Django pour Python,
-etc.
+Avec l'accès du grand public sur le web, le nombre croissant d'utilisateurs, les
+sites web sont devenus de plus en plus complexes et interactifs.
+
+Des standards se mettent en place et des solutions full-stack ont été
+développées pour répondre à ces besoins, notamment Laravel/Symfony pour PHP,
+Ruby on Rails pour Ruby, Django pour Python, etc.
 
 Ces solutions permettent de créer des applications web plus interactives de
 façon plus rapide grâce à leur structure et les différentes fonctionnalités qui
@@ -95,6 +99,8 @@ client de leur affichage. C'est ce qu'il s'appelle le rendu côté serveur
 Ces solutions, très efficaces pour les applications web classiques, ont été
 remises en question avec l'explosion de l'accès à Internet, notamment grâce aux
 smartphones.
+
+#### La révolution des smartphones
 
 Les applications web modernes nécessitent des temps de chargement plus rapides
 avec une meilleure expérience utilisateur, imitant les applications mobiles
@@ -108,11 +114,14 @@ Cela permet de réduire le temps de chargement des pages web et d'améliorer
 l'expérience utilisateur.
 
 Indirectement, cela a permis de réduire la charge sur les serveurs et de réduire
-les coûts d'hébergement. Cependant, cela a également introduit de nouveaux
-problèmes, tels le référencement et l'indexation des pages web par les moteurs
-de recherche : les pages n'étant plus générées côté serveur, les moteurs de
-recherche ne pouvaient plus les lire efficacement et en comprendre leur contenu
-et leur sémantique.
+les coûts d'hébergement.
+
+#### Indexation et référencement
+
+Cependant, cela a également introduit de nouveaux problèmes, tels le
+référencement et l'indexation des pages web par les moteurs de recherche : les
+pages n'étant plus générées côté serveur, les moteurs de recherche ne pouvaient
+plus les lire efficacement et en comprendre leur contenu et leur sémantique.
 
 Afin de résoudre ces problèmes, des solutions hybrides ont été développées,
 permettant de combiner les avantages du rendu côté serveur et du rendu côté
@@ -126,8 +135,8 @@ choisir la bonne stack technologique pour votre projet.
 
 ### Comprendre ce qu'est une stack technologique web
 
-Une stack technologique est un ensemble d'outils, de langages et de frameworks
-utilisés pour construire une application web.
+Une stack technologique est un ensemble d'outils, de langages, de frameworks et
+de conventions utilisés pour construire une application web.
 
 Dans l'ordre du code source à la production, elle comprend généralement :
 
@@ -137,21 +146,20 @@ Dans l'ordre du code source à la production, elle comprend généralement :
 - De la documentation (Diátaxis, MkDocs/Material for MkDocs, Docusaurus, Wiki,
   etc.)
 - De la sécurité (authentification, autorisation, chiffrement, etc.)
-- Un langage de programmation (JavaScript, Java, PHP, Ruby, Python, Go, Rust,
-  etc.)
+- Un ou des langages de programmation (JavaScript, Java, PHP, Ruby, Python, Go,
+  Rust, etc.)
 - Des outils de développement (Visual Studio Code, WebStorm, Neovim, etc.)
 - Un ou des frameworks (React/Vue/Svelte, Next.js/Nuxt/SvelteKit, Spring
   Boot/Quarkus, Symfony/Laravel, Ruby on Rails, Django, Gin, Actix, etc.)
-- Un système de gestion de base de données (PostgreSQL, MySQL, MongoDB, etc.)
-- Des tests unitaires, d'intégration et de bout en bout (Jest, Mocha, Chai,
-  Cypress, etc.)
-- Des outils de qualité de code (ESLint, Prettier, SonarQube, etc.)
+- Une ou des bases de données (PostgreSQL, MySQL, MongoDB, etc.)
+- Des tests (Jest, Mocha, Chai, Cypress, etc.)
+- Des outils de review de qualité de code (ESLint, Prettier, SonarQube, etc.)
 - Des outils de CI/CD (GitHub Actions, GitLab CI/CD, Jenkins, CircleCI, Travis
   CI, etc.)
-- Des outils de livraison (Docker/Docker Compose/Docker Swarm, Kubernetes,
-  Rancher, podman, etc.)
 - Des services de déploiement dans le cloud (Google Cloud, AWS, Exoscale, Azure,
   etc.)
+- Des outils de livraison/déploiement (Docker/Docker Compose/Docker Swarm,
+  Kubernetes, Rancher, podman, etc.)
 - Des outils de monitoring (Prometheus, Grafana, Sentry, New Relic, etc.)
 
 ### Avantages et inconvénients d'une stack technologique web
@@ -165,7 +173,9 @@ Un des avantages d'une stack technologique web est l'accessibilité en tout temp
 et en tout lieu des personnes de votre service ou produit à travers un
 navigateur web. Les utilisateurs peuvent accéder à votre application depuis
 n'importe quel appareil connecté à Internet, ayant chacun des caractéristiques
-différentes.
+différentes. Il est aussi très facile à déployer de nouvelles versions de votre
+application, sans avoir à demander à vos utilisateurs de télécharger une mise à
+jour.
 
 Cependant, les inconvénients d'une stack technologique web peuvent être la
 complexité de la gestion des données (en ligne et hors ligne), la sécurité des
@@ -180,26 +190,27 @@ nouvelles technologies apparaissent régulièrement, et il est parfois difficile
 de choisir la meilleure stack technologique pour votre projet. Voici quelques
 questions à se poser pour vous aider à faire le bon choix :
 
-- Quels sont les besoins de votre projet ?
+- Quels sont les besoins ?
 - Quel est votre budget ?
 - Quelles sont vos compétences ?
 - Quelle est la taille de votre équipe ?
-- Quelle est la complexité de votre projet ?
-- Quelle est la durée de vie de votre projet ?
-- Quelle est la popularité de la technologie choisie ?
+- Quelle est la durée de vie du projet ?
 
 Il est important de garder à l'esprit que le choix d'une stack technologique
 dépend de nombreux facteurs et peut varier en fonction de la situation. Lorsque
 le projet est démarré, il est souvent difficile de s'en défaire.
 
-Il nous aura fallu du temps pour s'en rendre compte, mais **il n'y a pas de
-solution miracle : chaque projet est unique et nécessite une approche adaptée.
-Si c'était aussi simple, tout le monde utiliserait la même stack technologique
-de la même manière et il n'y aurait pas de débat.**
-
 Les sections qui suivent sont des exemples de questions que vous pourriez vous
 poser pour choisir votre stack technologique. Nous tentons d'y apporter une
 réponse mais il s'agit bien de réponses subjectives.
+
+Il nous aura fallu du temps pour s'en rendre compte, mais il n'y a pas de
+solution miracle : chaque projet est unique et nécessite une approche adaptée.
+
+**Tout est question de compromis.**
+
+Si c'était aussi simple, tout le monde utiliserait la même stack technologique
+de la même manière et il n'y aurait pas de débat.
 
 #### Quel(s) langage(s) de programmation/framework(s)/outil(s) choisir
 
@@ -216,7 +227,7 @@ langage/framework/outil a été créé pour répondre à un besoin spécifique e
 le choix dépendra de votre projet. Il n'y a pas de langage/framework/outil
 meilleur qu'un autre.
 
-#### Solution _"faite maison"_ vs solution clé en main
+#### Solutions _"faites maison"_ vs solutions clé en main
 
 Il est souvent plus rapide et plus sûr d'utiliser une solution clé en main
 plutôt que de tout développer soi-même.
@@ -248,33 +259,58 @@ est si vous avez le souhait de vous former/de mieux comprendre le fonctionnement
 d'une technologie. Il ne faut pas utiliser cette solution pour un projet
 professionnel.
 
-#### Full-stack vs front-end vs back-end
+#### Full-stack vs frontend/backend
 
-De la même manière, le choix entre full-stack, front-end et back-end dépendra de
-vos compétences et de vos besoins.
+De la même manière, le choix entre full-stack, frontend et backend dépendra de
+vos compétences, de vos besoins et de vos intérêts.
 
-Si vous êtes à l'aise avec le front-end, vous pouvez choisir de vous concentrer
-sur cette partie et de laisser le back-end à une autre personne. Si vous êtes
-plus à l'aise avec le back-end, vous pouvez choisir de vous concentrer sur cette
-partie et de laisser le front-end à une autre personne.
+Si vous êtes à l'aise avec le frontend, vous pouvez choisir de vous concentrer
+sur cette partie et de laisser le backend à une autre personne. A l'inverse,
+vous pouvez choisir de vous concentrer sur cette partie et de laisser le
+frontend à une autre personne.
+
+Une solution full-stack vous met à disposition un ensemble de technologies
+prêtes à l'emploi pour développer une application web complète dont toutes les
+parties sont intégrées.
 
 Les solutions full-stack sont souvent plus rapides à développer et plus faciles
 à maintenir, mais elles peuvent être plus complexes et moins performantes.
+
+Une solution frontend/backend vous permet de développer les parties frontend et
+backend de votre application web de manière indépendante et peut permettre de
+venir greffer de futurs clients sur votre API (application mobile, application
+desktop, etc.).
+
+La difficulté de cette approche est de synchroniser les développements frontend
+et backend pour que les deux parties fonctionnent ensemble et de manière
+cohérente.
+
+Les deux approches se valent et dépendent plus de votre organisation et de vos
+compétences que de la technologie en elle-même.
 
 #### Performances vs maintenabilité
 
 Les performances et la maintenabilité sont deux aspects importants à prendre en
 compte lors du choix d'une stack technologique.
 
-Nous considérons que les performances sont négligeables pour un site web
-aujourd'hui. En effet, les technologies actuelles permettent de créer des sites
-web performants sans trop d'efforts, peu importe la stack technologique choisie.
+Nous considérons que la maintenabilité est plus importante que les performances
+pour un projet web. En effet, un projet web est souvent amené à évoluer et à
+changer au fil du temps, et il est important de pouvoir le faire de manière
+simple et rapide.
+
+De plus, nous considérons que les performances sont négligeables pour un site
+web aujourd'hui (en restant dans des limites raisonnables, bien sûr ). En effet,
+les technologies actuelles permettent de créer des sites web performants sans
+trop d'efforts, peu importe la stack technologique choisie.
 
 Il est plus important d'avoir un site web qui est consulté et utilisé par les
 personnes que d'avoir un site web qui est rapide mais que personne ne visite.
 
 Commencez d'abord à créer un site web qui fonctionne avec des utilisateurs
-fréquents, puis optimisez-le pour qu'il soit plus rapide.
+fréquents, puis optimisez-le pour qu'il soit plus rapide. Gardez à l'esprit que
+les performances sont souvent un problème de design et d'architecture, et non de
+technologie et que la maintenabilité permettra de résoudre ces problèmes plus
+facilement.
 
 #### Monolithique vs microservices
 
@@ -290,6 +326,9 @@ devenir rapidement complexe et difficile à gérer.
 Le choix entre monolithique et microservices dépendra de la complexité de votre
 projet. Nous pensons qu'il est plus simple de commencer avec une architecture
 monolithique et de passer à une architecture microservices si nécessaire.
+
+Une discussion intéressante sur le sujet est disponible sur le site suivant :
+<https://www.reddit.com/r/programming/s/ZOGSFZIqUA>.
 
 #### Polyrepo vs monorepo
 
@@ -374,8 +413,8 @@ Voici quelques exemples de stacks technologiques web populaires :
 - Django pour Python
 - Spring Boot/Quarkus pour Java
 - NestJS/Adonis.js pour Node.js
-- React/Vue/Svelte pour le front-end
-- Next.js/Nuxt/SvelteKit pour le front-end (et le back-end)
+- React/Vue/Svelte pour le frontend
+- Next.js/Nuxt/SvelteKit pour le frontend (et le backend)
 
 <!-- TODO: Est-ce qu'on met ça dans ta partie Guidoux ? -->
 
@@ -424,11 +463,11 @@ spécialisés dans les technologies suivantes :
 
 - Git/GitHub/GitLab pour la gestion du code source et la collaboration
 - Markdown pour la documentation
-- TypeScript pour le langage de programmation, autant pour le front-end que le
-  back-end
-- NestJS pour le back-end avec Prisma pour l'accès à la base de données
+- TypeScript pour le langage de programmation, autant pour le frontend que le
+  backend
+- NestJS pour le backend avec Prisma pour l'accès à la base de données
   PostgreSQL
-- SvelteKit, Next.js et Nuxt.js pour le front-end selon les projets
+- SvelteKit, Next.js et Nuxt.js pour le frontend selon les projets
 - Docker/Docker Compose pour l'isolation des services
 - GitHub Actions ou GitLab CI/CD pour l'intégration continue et la livraison
   continue
@@ -512,17 +551,18 @@ formulaire :
 - **Heroku** : adapté aux applications nécessitant un backend
 - **Vercel** : performant pour les applications modernes
 
+<!-- Il manque les outils pour intégrer l'envoi de mails non ? -->
+
 ### Mettre en ligne une landing page avec formulaire de contact
 
 Voici les étapes principales pour déployer une landing page sur GitHub
 Pages[^github-pages] :
 
 1. Créez un nouveau dépôt sur GitHub
-2. Clonez le dépôt en local
-3. Ajoutez votre code HTML, CSS et JavaScript
-4. Validez les changements et poussez-les sur GitHub
-5. Activez GitHub Pages dans les paramètres du dépôt
-6. Configurez le domaine personnalisé si nécessaire
+2. Ajoutez votre code HTML, CSS et JavaScript
+3. Validez les changements et poussez-les sur GitHub
+4. Activez GitHub Pages dans les paramètres du dépôt
+5. Configurez le domaine personnalisé si nécessaire
 
 ### Bonnes pratiques de référencement pour votre landing page
 
