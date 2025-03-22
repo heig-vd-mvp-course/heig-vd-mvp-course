@@ -83,34 +83,58 @@ consultez le [support de cours][course-material]._
 
 <!-- _class: lead -->
 
-### Objectifs (1/2)
+### Objectifs (1/3)
 
-- TODO
+- Prendre en main un outil de création de site web statique
+- Réaliser un site statique type _"Hello, world!"_
+- Déployer le site statique sur Internet
+- Identifier les mots clés pour le référencement
 
 ![bg right:40%][illustration-objectifs]
 
-### Objectifs (2/2)
+### Objectifs (2/3)
 
-- TODO
+- Mettre en commun les interviews réalisées jusqu'ici
+- Partager les réflexions autour de ces interviews
+- Prendre connaissance de la forme attendue pour la présentation sur la
+  [Prospection](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+
+![bg right:40%][illustration-objectifs]
+
+### Objectifs (3/3)
+
+- Prendre connaissance des critères d'évaluation pour la présentation sur la
+  [Prospection](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+- Compléter le rapport
 
 ![bg right:40%][illustration-objectifs]
 
 ### Déroulement
 
-TODO
+Déployez un site web statique _"Hello world"_ sur un hébergeur de votre choix
+avec la technologie de votre choix. Il s'agira de la fondation pour votre MVP.
+
+Identifiez les mots clés pour le référencement de votre projet afin d'être
+visible sur Internet.
+
+Complétez le rapport avec les nouvelles données que vous avez acquises jusqu'ici
+et prenez connaissance de la présentation sur la prospection et son contenu.
 
 ### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- TODO
+- Finaliser la mise en ligne du site web statique
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
 
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
-  [Unsplash](https://unsplash.com/photos/man-standing-behind-flat-screen-computer-monitor-bzqU01v-G54)
+  [Denys Nevozhai](https://unsplash.com/@dnevozhai) sur
+  [Unsplash](https://unsplash.com/photos/low-angle-photography-of-building-interior-JsdvKIcvAGo)
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
@@ -129,6 +153,6 @@ il est recommandé pour la semaine suivante de :
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1505178041309-ad46d2e4207b?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720

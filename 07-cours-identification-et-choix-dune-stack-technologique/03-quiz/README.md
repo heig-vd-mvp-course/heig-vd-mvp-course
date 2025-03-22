@@ -79,21 +79,54 @@ _paginate: false
 _Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
 cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
-## Question 1
+## Question 1 - Donnée
 
-TODO
+Quelles sont les caractéristiques essentielles d'une landing page efficace ?
 
-## Réponse 1
+## Question 1 - Réponse
 
-TODO
+Une landing page efficace doit contenir :
 
-## Question 2
+- Un message clair et précis
+- Un appel à l'action évident (CTA)
+- Un design simple, engageant et rassurant
 
-TODO
+## Question 2 - Donnée
 
-## Réponse 2
+Pourquoi intégrer une landing page avec formulaire de contact dans votre MVP ?
 
-TODO
+## Question 2 - Réponse
+
+Une landing page avec formulaire permet de :
+
+- Tester rapidement une idée sur le marché sans coûts élevés
+- Recueillir des Données précieuses (emails, feedbacks)
+- Valider l'intérêt réel pour votre produit ou service
+- Établir un premier contact direct avec votre public cible
+
+## Question 3 - Donnée
+
+Citez deux plateformes où vous pouvez trouver des templates pour créer
+facilement une landing page.
+
+## Question 3 - Réponse
+
+Voici deux plateformes pour trouver des templates de landing page :
+
+- [Bootstrap](https://getbootstrap.com/docs/examples/)
+- [One Page Love](https://onepagelove.com/)
+
+## Question 4 - Donnée
+
+Quelles sont les bonnes pratiques SEO à respecter pour optimiser une landing
+page ?
+
+## Question 4 - Réponse
+
+Pour optimiser une landing page en référencement (SEO), il est important de
+respecter ces bonnes pratiques :
+
+<!-- TODO: GUIDOUX -->
 
 ## Questions
 
@@ -104,8 +137,8 @@ Est-ce que vous avez des questions ?
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+  [Viktor Forgacs](https://unsplash.com/@sonance) sur
+  [Unsplash](https://unsplash.com/photos/green-grass-field-with-trees-and-a-black-and-white-cross--0rQ6AbnqeQ)
 
 <!-- URLs -->
 
@@ -121,4 +154,4 @@ Est-ce que vous avez des questions ?
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1613396276557-57ba407006f9?fit=crop&h=720

@@ -30,8 +30,10 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 ## Objectifs
 
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
+Cette séance a pour objectif de vous donner les clés pour préparer et réaliser
+un pitch efficace pour promouvoir votre idée ou projet.
+
+De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
 - Décrire ce qu'est un pitch
 - Identifier les éléments clés d'un pitch
