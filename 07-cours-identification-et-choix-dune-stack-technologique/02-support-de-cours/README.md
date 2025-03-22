@@ -28,6 +28,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Hébergement d'une landing page avec formulaire de contact](#hébergement-dune-landing-page-avec-formulaire-de-contact)
   - [Mettre en ligne une landing page avec formulaire de contact](#mettre-en-ligne-une-landing-page-avec-formulaire-de-contact)
   - [Bonnes pratiques de référencement pour votre landing page](#bonnes-pratiques-de-référencement-pour-votre-landing-page)
+  - [Faire indexer votre landing page par les moteurs de recherche](#faire-indexer-votre-landing-page-par-les-moteurs-de-recherche)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
@@ -35,8 +36,11 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 ## Objectifs
 
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
+Cette séance a pour objectif de vous aider à choisir la stack technologique
+adaptée à votre projet et de vous donner les clés pour créer une landing page
+efficace pour valider votre MVP.
+
+De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
 - Décrire ce qu'est une stack technologique web
 - Identifier les avantages et les inconvénients d'une stack technologique web
@@ -144,9 +148,10 @@ Dans l'ordre du code source à la production, elle comprend généralement :
 - Des outils de qualité de code (ESLint, Prettier, SonarQube, etc.)
 - Des outils de CI/CD (GitHub Actions, GitLab CI/CD, Jenkins, CircleCI, Travis
   CI, etc.)
-- Des outils de déploiement (Docker/Docker Compose/Docker Swarm, Kubernetes,
+- Des outils de livraison (Docker/Docker Compose/Docker Swarm, Kubernetes,
   Rancher, podman, etc.)
-- Des services cloud (Google Cloud, AWS, Exoscale, Azure, etc.)
+- Des services de déploiement dans le cloud (Google Cloud, AWS, Exoscale, Azure,
+  etc.)
 - Des outils de monitoring (Prometheus, Grafana, Sentry, New Relic, etc.)
 
 ### Avantages et inconvénients d'une stack technologique web
@@ -163,10 +168,10 @@ n'importe quel appareil connecté à Internet, ayant chacun des caractéristique
 différentes.
 
 Cependant, les inconvénients d'une stack technologique web peuvent être la
-complexité de la gestion des données (online/offline), la sécurité des données
-(accès et rôles), la performance de l'application, la compatibilité entre les
-navigateurs, etc., souvent issus de la diversité des navigateurs et des
-appareils qui en font sa richesse.
+complexité de la gestion des données (en ligne et hors ligne), la sécurité des
+données (accès et rôles), la performance de l'application, la compatibilité
+entre les navigateurs, etc., souvent issus de la diversité des navigateurs et
+des appareils qui en font sa richesse.
 
 ### Choisir la stack technologique adaptée à votre projet
 
@@ -211,7 +216,7 @@ langage/framework/outil a été créé pour répondre à un besoin spécifique e
 le choix dépendra de votre projet. Il n'y a pas de langage/framework/outil
 meilleur qu'un autre.
 
-#### Solution _"fait maison"_ vs solution clé en main
+#### Solution _"faite maison"_ vs solution clé en main
 
 Il est souvent plus rapide et plus sûr d'utiliser une solution clé en main
 plutôt que de tout développer soi-même.
@@ -235,7 +240,8 @@ sécurité.
 
 Même si le temps de formation paraît plus long et/ou contraignant, il est
 important de se rappeler que le temps de développement est souvent plus court
-avec une solution clé en main et propose une documentation plus complète.
+avec une solution clé en main et propose une documentation et un support bien
+plus complets.
 
 La seule raison pour laquelle vous devriez développer une solution faite maison
 est si vous avez le souhait de vous former/de mieux comprendre le fonctionnement
@@ -343,16 +349,16 @@ de base de données relationnelles. Si vos données sont structurées, il vous s
 toujours plus facile de les comprendre et les manipuler. L'inverse n'est pas
 vrai.
 
-#### _"boring technology"_ vs _"new shiny thing"_
+#### _"boring technologies"_ vs _"new shiny things"_
 
-Les _"boring technology"_ sont des technologies qui sont bien connues, bien
+Les _"boring technologies"_ sont des technologies qui sont bien connues, bien
 documentées et qui ont fait leurs preuves. Elles sont souvent plus stables et
-plus fiables que les _"new shiny thing"_.
+plus fiables que les _"new shiny things"_.
 
 En tant que développeur.euse, il est souvent tentant de choisir les _"new shiny
-thing"_ pour se former et découvrir de nouvelles technologies. Cependant, il est
-important de garder à l'esprit que les _"new shiny thing"_ peuvent être moins
-stables et moins fiables que les _"boring technology"_.
+things"_ pour se former et découvrir de nouvelles technologies. Cependant, il
+est important de garder à l'esprit que les _"new shiny things"_ peuvent être
+moins stables et moins fiables que les _"boring technologies"_.
 
 Gardez toujours à l'esprit que vos projets vont sans doute être repris et
 maintenus par d'autres personnes. Il est donc important de choisir des
@@ -380,7 +386,8 @@ avec des frameworks tels que Bootstrap, Tailwind CSS ou encore Bulma.
 Voici différents générateurs de sites statiques que vous pouvez utiliser pour
 créer votre landing page :
 
-- [Hugo](https://gohugo.io/)
+- [Hugo](https://gohugo.io/) (nous avons une bonne expérience avec ce générateur
+  de sites statiques)
 - [Jekyll](https://jekyllrb.com/)
 - [Gatsby](https://www.gatsbyjs.com/)
 - [VuePress](https://vuepress.vuejs.org/)
@@ -412,6 +419,33 @@ simple selon vos compétences et vos besoins et adaptez ensuite si besoin.
 Une ressource humoristique que vous pouvez consulter est le site suivant :
 <https://grugbrain.dev/>.
 
+De façon complètement subjective et propre à notre expérience, nous nous sommes
+spécialisés dans les technologies suivantes :
+
+- Git/GitHub/GitLab pour la gestion du code source et la collaboration
+- Markdown pour la documentation
+- TypeScript pour le langage de programmation, autant pour le front-end que le
+  back-end
+- NestJS pour le back-end avec Prisma pour l'accès à la base de données
+  PostgreSQL
+- SvelteKit, Next.js et Nuxt.js pour le front-end selon les projets
+- Docker/Docker Compose pour l'isolation des services
+- GitHub Actions ou GitLab CI/CD pour l'intégration continue et la livraison
+  continue
+- Exoscale/Informaniak pour le déploiement et l'hébergement de nos applications
+- Terraform et Ansible pour l'infrastructure et la configuration
+- Plausible pour les statistiques d'utilisation de nos applications
+
+Nous avons choisi ces technologies pour leur simplicité et leur maintenabilité.
+Elles nous permettent de développer des applications web modernes et
+performantes de façon relativement simple et rapide.
+
+Vous remarquerez peut-être que nous n'avons pas de solution de monitoring ou de
+tests. Cela ne respecte pas les bonnes pratiques de développement, mais nous
+avons fait le choix de ne pas les intégrer pour des raisons de temps, de coûts
+et de complexité. Nous sommes conscients que cela peut poser des problèmes à
+l'avenir et nous travaillons à les intégrer dans nos projets.
+
 ## Créer une landing page efficace pour votre MVP
 
 Après avoir choisi la stack technologique adaptée à votre projet, il est
@@ -432,12 +466,12 @@ web "vitrine".
 Une bonne landing page se caractérise par :
 
 - Un message clair et précis
-- Un appel à l'action évident (CTA - Call To Action)
+- Un appel à l'action évident (Call To Action (CTA))
 - Un design simple, engageant et rassurant
 
 ### Intérêt d'une landing page pour votre MVP
 
-Dans le cadre d'un Minimum Viable Product (MVP), une landing page permet de :
+Dans le cadre d'un MVP, une landing page permet de :
 
 - Tester rapidement une idée sur le marché sans engager de coûts élevés
 - Recueillir des données précieuses (emails, retours utilisateurs)
@@ -449,20 +483,22 @@ Dans le cadre d'un Minimum Viable Product (MVP), une landing page permet de :
 Des plateformes proposent des modèles (templates) prêts à l'emploi et faciles à
 personnaliser :
 
+- [Hugo Themes](https://themes.gohugo.io/)
+- [HTML5 UP](https://html5up.net/)
 - [Bootstrap](https://getbootstrap.com/docs/examples/)
 - [One Page Love](https://onepagelove.com/)
-- [HUGO templates](https://master--hugothemes.netlify.app/tags/onepage/)
 
 Ces templates permettent de créer rapidement une landing page optimisée pour la
 conversion, adaptée aux appareils mobiles et visuellement attrayante.
 
 > [!TIP]
 >
-> Parlons des CMS (Content Management System) comme WordPress, Wix, Squarespace,
-> Shopify, etc. Beaucoup utilisent ces outils pour créer des landing pages
+> Parlons des Content Management System (CMS) comme WordPress, Wix, Squarespace,
+> Shopify, etc. : beaucoup utilisent ces outils pour créer des landing pages
 > rapidement. Cependant, ces solutions peuvent être moins flexibles et moins
 > performantes que des pages statiques. L'entretien et la maintenance peuvent
-> également être plus complexes.
+> également être plus complexes et entraîner des problèmes de sécurité si elles
+> ne sont pas maintenues à jour.
 
 ### Hébergement d'une landing page avec formulaire de contact
 
@@ -493,7 +529,7 @@ Pages[^github-pages] :
 Avant de commencer à créer votre landing page, il est essentiel de penser au
 référencement (Search Engine Optimization (SEO)) dès la conception. Le SEO ne se
 limite pas à l'insertion de mots-clés, il englobe de nombreux aspects techniques
-et éditoriaux qui, ensemble, permettent aux moteurs de recherche de comprendre
+et éditoriaux qui, ensembles, permettent aux moteurs de recherche de comprendre
 et de classer efficacement votre contenu.
 
 **Structure HTML optimisée**
@@ -501,16 +537,18 @@ et de classer efficacement votre contenu.
 Une structure HTML bien organisée aide les moteurs de recherche à analyser votre
 page. Voici quelques points clés :
 
-- **Balise `<title>`** : Utilisez un titre concis (moins de 60 caractères)
-  incluant le mot-clé principal.
-- **Meta description** : Rédigez une description engageante en moins de 160
+- **Balise `<title>`** : utilisez un titre concis (moins de 60 caractères)
+  incluant le mot-clé principal de la page.
+- **Meta description** : rédigez une description engageante en moins de 160
   caractères qui résume le contenu de la page et inclut des mots-clés
   pertinents.
-- **Hiérarchisation avec les balises de titres (`<h1>`, `<h2>`, `<h3>`)**:
-  Utilisez une seule balise`<h1>`pour le titre principal et des
-  balises`<h2>`et`<h3>` pour structurer les sous-sections.
-- **Utilisation des balises sémantiques** (`<article>`, `<section>`, `<aside>`,
-  `<nav>`) pour améliorer la lisibilité et l’indexation.
+- **Hiérarchisation avec les balises de titres (`<h1>`, `<h2>`, `<h3>`)** :
+  utilisez une seule balise `<h1>` pour le titre principal et des balises `<h2>`
+  et `<h3>` pour structurer les sous-sections.
+- **Utilisation des balises sémantiques** : les balises `<article>`,
+  `<section>`, `<aside>`, `<nav>`, etc. améliorent la lisibilité et
+  l’indexation. De plus, elles aident les personnes en situation de handicap à
+  naviguer sur votre site.
 
 Avant de lister les différents points, il est important de rappeler que le
 référencement est un domaine complexe et en constante évolution. Il est donc
@@ -521,21 +559,23 @@ informé des dernières tendances.
 
 Si nous vous conseillons de penser au référencement avant de créer votre landing
 page, c'est parce que le contenu textuel est un élément clé pour le
-référencement. Effectivement, les moteurs de recherche utilisent des robots
+référencement. En effet, les moteurs de recherche utilisent des robots
 d'indexation pour analyser le contenu des pages web et déterminer leur
-pertinence par rapport aux requêtes des utilisateurs.
+pertinence par rapport aux requêtes des utilisateurs :
 
-- **Pertinence du contenu** : Assurez-vous que le texte est pertinent par
+- **Pertinence du contenu** : assurez-vous que le texte est pertinent par
   rapport aux mots-clés ciblés. Ne vous contentez pas d'insérer des mots-clés de
   manière artificielle : le contenu doit être informatif et répondre aux
   questions de vos visiteurs.
-
-- **Mots-clés stratégiques** : Intégrez des mots-clés dans les titres,
+- **Mots-clés stratégiques** : intégrez des mots-clés dans les titres,
   sous-titres et le corps du texte. Par exemple, si vous ciblez "landing page
   SEO", intégrez ce terme de manière naturelle dans vos paragraphes et titres.
 
-Aussi, simplement mettre les mots-clés de la concurrence ne suffit pas. Nous
-voyons de plus en plus de sections dans les site web qui sont dédiées à la
+Aussi, simplement mettre les mots-clés de la concurrence ne suffit pas.
+
+<!-- TODO: Est-ce que cette tournure de phrase est correcte ? Vu la suite, j'ai l'impression que ça se contredit ? -->
+
+Nous voyons de plus en plus de sections dans les site web qui sont dédiées à la
 concurrence. Cela permet de montrer que vous êtes au courant de ce qui se fait
 dans votre domaine et que vous avez une proposition de valeur différente, mais
 surtout, d'améliorer votre référencement. Lorsque les personnes cherchent un
@@ -559,26 +599,44 @@ rapidement. Il est donc important d'optimiser la vitesse de chargement de votre
 landing page en compressant les images, en optimisant le code, etc.
 
 Un outil très utile pour vérifier la qualité de votre landing page est
-[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/).
-Il vous permet de mesurer les performances de votre page et de recevoir des
-recommandations pour l'optimiser.
+[PageSpeed Insights](https://pagespeed.web.dev). Il vous permet de mesurer les
+performances de votre page et de recevoir des recommandations pour l'optimiser.
+
+### Faire indexer votre landing page par les moteurs de recherche
+
+Une fois votre landing page en ligne, il est important de la faire indexer par
+les moteurs de recherche pour qu'elle apparaisse dans les résultats de
+recherche.
+
+Pour cela, vous pouvez soumettre votre page à Google en utilisant l'outil
+[Google Search Console](https://search.google.com/search-console/about).
+
+Vous pouvez également ajouter un fichier `robots.txt` à la racine de votre site
+pour indiquer aux moteurs de recherche les pages à indexer et celles à ignorer.
+
+Enfin, vous pouvez ajouter un sitemap XML à votre site pour indiquer aux moteurs
+de recherche la structure de votre site et les pages à indexer.
+
+Pour plus d'informations sur le référencement, vous pouvez consulter le guide
+[Search Engine Optimization (SEO) Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
+de Google.
 
 ## Conclusion
 
-La création d'une landing page efficace est une étape cruciale pour valider
-votre MVP et établir un premier contact avec votre public cible.
-
-En suivant les bonnes pratiques SEO et en utilisant des outils adaptés, vous
-pourrez rapidement mettre en ligne une landing page optimisée pour la
-conversion.
-
-Le choix de la stack technologique pour votre MVP est également une étape
-importante qui déterminera en partie le succès de votre projet.
+Le choix de la stack technologique pour votre MVP est une étape importante qui
+déterminera en partie le succès de votre projet.
 
 Le plus important a retenir est que la technologie n'est qu'un outil pour
 réaliser votre projet. Ce qui compte vraiment, c'est l'impact que vous aurez sur
 vos utilisateurs et la valeur que vous apporterez à votre marché. Allez donc au
 plus simple selon vos compétences et vos besoins et adaptez ensuite si besoin.
+
+La création d'une landing page efficace est également une étape cruciale pour
+valider votre MVP et établir un premier contact avec votre public cible.
+
+En suivant les bonnes pratiques SEO et en utilisant des outils adaptés, vous
+pourrez rapidement mettre en ligne une landing page optimisée pour la
+conversion.
 
 ## À faire pour la semaine suivante
 

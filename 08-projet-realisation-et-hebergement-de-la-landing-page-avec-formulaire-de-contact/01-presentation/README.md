@@ -83,21 +83,26 @@ consultez le [support de cours][course-material]._
 
 <!-- _class: lead -->
 
-### Objectifs (1/2)
+### Objectifs (1/3)
 
 - Prendre en main un outil de création de site web statique
 - Réaliser un site statique type _"Hello, world!"_
 - Déployer le site statique sur Internet
 - Identifier les mots clés pour le référencement
-- Mettre en commun les interviews réalisées jusqu'ici
 
 ![bg right:40%][illustration-objectifs]
 
-### Objectifs (2/2)
+### Objectifs (2/3)
 
+- Mettre en commun les interviews réalisées jusqu'ici
 - Partager les réflexions autour de ces interviews
 - Prendre connaissance de la forme attendue pour la présentation sur la
   [Prospection](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+
+![bg right:40%][illustration-objectifs]
+
+### Objectifs (3/3)
+
 - Prendre connaissance des critères d'évaluation pour la présentation sur la
   [Prospection](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
 - Compléter le rapport
