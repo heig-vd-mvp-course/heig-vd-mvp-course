@@ -388,15 +388,15 @@ de base de données relationnelles. Si vos données sont structurées, il vous s
 toujours plus facile de les comprendre et les manipuler. L'inverse n'est pas
 vrai.
 
-#### _"boring technologies"_ vs _"new shiny things"_
+#### _"boring technologies"_ vs _"shiny new things"_
 
 Les _"boring technologies"_ sont des technologies qui sont bien connues, bien
 documentées et qui ont fait leurs preuves. Elles sont souvent plus stables et
-plus fiables que les _"new shiny things"_.
+plus fiables que les _"shiny new things"_.
 
-En tant que développeur.euse, il est souvent tentant de choisir les _"new shiny
+En tant que développeur.euse, il est souvent tentant de choisir les _"shiny new
 things"_ pour se former et découvrir de nouvelles technologies. Cependant, il
-est important de garder à l'esprit que les _"new shiny things"_ peuvent être
+est important de garder à l'esprit que les _"shiny new things"_ peuvent être
 moins stables et moins fiables que les _"boring technologies"_.
 
 Gardez toujours à l'esprit que vos projets vont sans doute être repris et

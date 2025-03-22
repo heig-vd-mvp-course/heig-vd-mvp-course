@@ -104,7 +104,7 @@ consultez le [support de cours][course-material]._
 - Détermine les technologies à utiliser pour le développement
 - Dépendant de chaque projet
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-choisir-la-stack-technologique-adaptee-a-votre-projet]
 
 ### Un petit retour dans le passé
 
@@ -115,7 +115,7 @@ consultez le [support de cours][course-material]._
   - La révolution des smartphones
   - Indexation et référencement
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-un-petit-retour-dans-le-passe]
 
 #### Les débuts du web
 
@@ -125,7 +125,7 @@ consultez le [support de cours][course-material]._
 - De simples pages HTML avec du CSS et du JavaScript
 - Un nombre très variés de site web différents (peu de standards)
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-les-debuts-du-web]
 
 #### L'explosion du web
 
@@ -136,7 +136,7 @@ consultez le [support de cours][course-material]._
 - Majoritairement des sites web rendus côté serveur (Server-side rendering
   (SSR)) - PHP, Ruby, Python, etc.
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-lexplosion-du-web]
 
 #### La révolution des smartphones
 
@@ -145,7 +145,7 @@ consultez le [support de cours][course-material]._
 - Le client est responsable de la génération du contenu (Client-side rendering
   (CSR)) - JavaScript, Angular, React, Vue.js, etc.
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-la-revolution-des-smartphones]
 
 #### Indexation et référencement
 
@@ -153,7 +153,7 @@ consultez le [support de cours][course-material]._
 - On revient à un rendu côté serveur avec des solutions hybrides (Server-side
   rendering (SSR) + Client-side rendering (CSR))
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-indexation-et-referencement]
 
 ### Comprendre ce qu'est une stack technologique web (1/2)
 
@@ -255,9 +255,7 @@ Une fois un projet démarré, il est difficile de changer de stack technologique
 Les sections qui suivent vous aideront à choisir la stack technologique la plus
 adaptée à votre projet. Il s'agit bien de réponses subjectives.
 
----
-
-<!-- _class: lead -->
+### Choisir la stack technologique adaptée à votre projet (3/3)
 
 > Il n'y a pas de solution miracle : chaque projet est unique et nécessite une
 > approche adaptée.
@@ -274,7 +272,7 @@ adaptée à votre projet. Il s'agit bien de réponses subjectives.
   plus populaire
 - Il n'y a pas de "meilleur" choix
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-quels-langages-de-programmation-frameworks-outils-choisir]
 
 #### Solutions _"faites maison"_ vs solutions clé en main
 
@@ -284,7 +282,7 @@ adaptée à votre projet. Il s'agit bien de réponses subjectives.
 - Les solutions _"faites maison"_ ne devraient être utilisées que pour se former
   et apprendre
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-solutions-faites-maison-vs-solutions-cle-en-main]
 
 #### Full-stack vs frontend/backend
 
@@ -293,7 +291,7 @@ adaptée à votre projet. Il s'agit bien de réponses subjectives.
 - La séparation frontend/backend permet une meilleure séparation
 - Les deux approches se valent
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-full-stack-vs-frontend-backend]
 
 #### Performances vs maintenabilité
 
@@ -303,7 +301,7 @@ adaptée à votre projet. Il s'agit bien de réponses subjectives.
 - Commencez par avoir un produit qui fonctionne et ensuite améliorez les
   performances
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-performances-vs-maintenabilite]
 
 #### Monolithique vs microservices
 
@@ -313,7 +311,7 @@ adaptée à votre projet. Il s'agit bien de réponses subjectives.
 - Les microservices sont plus complexes et nécessitent plus de ressources
   (surtout humaine)
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-monolithique-vs-microservice]
 
 #### Polyrepo vs monorepo
 
@@ -323,7 +321,7 @@ adaptée à votre projet. Il s'agit bien de réponses subjectives.
 - Les polyrepos sont plus simples à mettre en place
 - Les monorepos sont plus simples à maintenir
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-polyrepo-vs-monorepo]
 
 #### SQL vs NoSQL
 
@@ -333,16 +331,16 @@ adaptée à votre projet. Il s'agit bien de réponses subjectives.
 - NoSQL est plus complexe à maintenir et finissent souvent par être des
   "poubelles à données"
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-sql-vs-nosql]
 
-#### _"boring technologies"_ vs _"new shiny things"_
+#### _"boring technologies"_ vs _"shiny new things"_
 
 - Il est tentant de vouloir utiliser les dernières technologies
 - Ce n'est pas toujours la meilleure solution
 - Optez pour des solutions stables et maintenues
 - D'autres personnes vont reprendre votre code
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-boring-technologies-vs-shiny-new-things]
 
 ### Exemples populaires de stacks technologiques web
 
@@ -366,13 +364,13 @@ adaptée à votre projet. Il s'agit bien de réponses subjectives.
 
 ### Conclusion
 
-- Facebook a commencé avec PHP, GitHub et GitLab avec Ruby on Rails
-- Il n'y a pas de solution miracle
+- Facebook a commencé avec PHP
+- GitHub et GitLab avec Ruby on Rails
+- Il n'y a pas de solution miracle, tout est une question de compromis
 - Les buzzwords répondent souvent à des besoins ultra spécifiques
-- Commencez simple et évoluez au fur et à mesure
 - La technologie n'est qu'un outil
-
-![bg right:40%][illustration-objectifs]
+- Commencez simple et évoluez au fur et à mesure que votre produit et votre
+  équipe grandit
 
 ## Créer une landing page efficace pour votre MVP
 
@@ -454,9 +452,57 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
-- [Illustration][illustration-a-vous-de-jouer] par
-  [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
-  [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
+- [Illustration][illustration-choisir-la-stack-technologique-adaptee-a-votre-projet]
+  par [Nathan Dumlao](https://unsplash.com/@nate_dumlao) sur
+  [Unsplash](https://unsplash.com/photos/person-holding-gray-stainless-steel-pitcher-bside-window-3kZpELkaxHc)
+- [Illustration][illustration-un-petit-retour-dans-le-passe] par
+  [Aron Visuals](https://unsplash.com/@aronvisuals) sur
+  [Unsplash](https://unsplash.com/photos/selective-focus-photo-of-brown-and-blue-hourglass-on-stones-BXOXnQ26B7o)
+- [Illustration][illustration-les-debuts-du-web] par
+  [Coolcaesar](https://en.wikipedia.org/wiki/User:Coolcaesar) sur
+  [Wikipedia](https://commons.wikimedia.org/wiki/File:First_Web_Server.jpg)
+- [Illustration][illustration-lexplosion-du-web] par
+  [Taylor Vick](https://unsplash.com/@tvick) sur
+  [Unsplash](https://unsplash.com/photos/cable-network-M5tzZtFCOfs)
+- [Illustration][illustration-la-revolution-des-smartphones] par
+  [Jonas Leupe](https://unsplash.com/@jonasleupe) sur
+  [Unsplash](https://unsplash.com/photos/person-holding-black-android-smartphone-wK-elt11pF0)
+- [Illustration][illustration-indexation-et-referencement] par
+  [Maksym Kaharlytskyi](https://unsplash.com/@qwitka) sur
+  [Unsplash](https://unsplash.com/photos/file-cabinet-Q9y3LRuuxmg)
+
+## Sources (2/3)
+
+- [Illustration][illustration-quels-langages-de-programmation-frameworks-outils-choisir]
+  par [Ashkan Forouzani](https://unsplash.com/@ashkfor121) sur
+  [Unsplash](https://unsplash.com/photos/white-wooden-rack-v31lgBn5114)
+- [Illustration][illustration-solutions-faites-maison-vs-solutions-cle-en-main]
+  par [Nadya Spetnitskaya](https://unsplash.com/@kiboka) sur
+  [Unsplash](https://unsplash.com/photos/person-making-dough-beside-brown-wooden-rolling-pin-tOYiQxF9-Ys)
+- [Illustration][illustration-full-stack-vs-frontend-backend] par
+  [Fotis Fotopoulos](https://unsplash.com/@ffstop) sur
+  [Unsplash](https://unsplash.com/photos/two-black-flat-screen-computer-monitors-LJ9KY8pIH3E)
+- [Illustration][illustration-performances-vs-maintenabilite] par
+  [Jonathan Chng](https://unsplash.com/@jon_chng) sur
+  [Unsplash](https://unsplash.com/photos/group-of-men-running-in-track-field-HgoKvtKpyHA)
+- [Illustration][illustration-performances-vs-maintenabilite] par
+  [Jonathan Chng](https://unsplash.com/@jon_chng) sur
+  [Unsplash](https://unsplash.com/photos/group-of-men-running-in-track-field-HgoKvtKpyHA)
+- [Illustration][illustration-monolithique-vs-microservice] par
+  [Emile Guillemot](https://unsplash.com/@emilegt) sur
+  [Unsplash](https://unsplash.com/photos/gray-stone-tablet-on-shore-tfFWBhEACcQ)
+- [Illustration][illustration-polyrepo-vs-monorepo] par
+  [Eric Prouzet](https://unsplash.com/@eprouzet) sur
+  [Unsplash](https://unsplash.com/photos/assorted-color-mugs-on-rack-5lUMTeo7-bE)
+- [Illustration][illustration-sql-vs-nosql] par
+  [Sunder Muthukumaran](https://unsplash.com/@sunder_2k25) sur
+  [Unsplash](https://unsplash.com/photos/a-stack-of-stacked-blue-and-white-plates-n7eJHQwefeI)
+
+## Sources (3/3)
+
+- [Illustration][illustration-boring-technologies-vs-shiny-new-things] par
+  [Nechama Lock](https://unsplash.com/@nechamalock) sur
+  [Unsplash](https://unsplash.com/photos/blue-and-white-bokeh-lights-I72f-H4R0DA)
 - [Illustration][illustration-definition-landing-page] par
   [Rob Laughter](https://unsplash.com/@roblaughter) sur
   [Unsplash](https://unsplash.com/photos/red-theater-curtain-WW1jsInXgwM)
@@ -466,6 +512,9 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-templates-landing-page] par
   [Steven Wright](https://unsplash.com/@stevenwright) sur
   [Unsplash](https://unsplash.com/photos/magnifying-glass-mq8QogEBy00)
+- [Illustration][illustration-a-vous-de-jouer] par
+  [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
+  [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
 
 <!-- URLs -->
 
@@ -484,6 +533,37 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1613396276557-57ba407006f9?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
+[illustration-choisir-la-stack-technologique-adaptee-a-votre-projet]:
+	https://images.unsplash.com/photo-1509490927285-34bd4d057c88?fit=crop&h=720
+[illustration-un-petit-retour-dans-le-passe]:
+	https://images.unsplash.com/photo-1501139083538-0139583c060f?fit=crop&h=720
+[illustration-les-debuts-du-web]:
+	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/First_Web_Server.jpg/1920px-First_Web_Server.jpg
+[illustration-lexplosion-du-web]:
+	https://images.unsplash.com/photo-1558494949-ef010cbdcc31?fit=crop&h=720
+[illustration-la-revolution-des-smartphones]:
+	https://images.unsplash.com/photo-1592890288564-76628a30a657?fit=crop&h=720
+[illustration-indexation-et-referencement]:
+	https://images.unsplash.com/photo-1569235186275-626cb53b83ce?fit=crop&h=720
+[illustration-quels-langages-de-programmation-frameworks-outils-choisir]:
+	https://images.unsplash.com/photo-1562957982-b1f25317aebd?fit=crop&h=720
+[illustration-solutions-faites-maison-vs-solutions-cle-en-main]:
+	https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?fit=crop&h=720
+[illustration-full-stack-vs-frontend-backend]:
+	https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?fit=crop&h=720
+[illustration-performances-vs-maintenabilite]:
+	https://images.unsplash.com/photo-1532444458054-01a7dd3e9fca?fit=crop&h=720
+[illustration-monolithique-vs-microservice]:
+	https://images.unsplash.com/photo-1544098281-073ae35c98b0?fit=crop&h=720
+[illustration-polyrepo-vs-monorepo]:
+	https://images.unsplash.com/photo-1563696629964-8c3ce077cf3e?fit=crop&h=720
+[illustration-sql-vs-nosql]:
+	https://images.unsplash.com/photo-1633412802994-5c058f151b66?fit=crop&h=720
+[illustration-boring-technologies-vs-shiny-new-things]:
+	https://images.unsplash.com/photo-1616000315674-eefb77c56e58?fit=crop&h=720
+
+---
+
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
 [illustration-definition-landing-page]:

@@ -111,7 +111,14 @@ consultez le [support de cours][course-material]._
 
 ### Déroulement
 
-TODO
+Déployez un site web statique _"Hello world"_ sur un hébergeur de votre choix et
+la technologie de votre choix. Il s'agira de la fondation pour votre MVP.
+
+Identifiez les mots clés pour le référencement de votre projet afin d'être
+visible sur Internet.
+
+Complétez le rapport avec les nouvelles données que vous avez acquises jusqu'ici
+et prenez connaissance de la présentation sur la prospection et son contenu.
 
 ### À faire pour la semaine suivante
 

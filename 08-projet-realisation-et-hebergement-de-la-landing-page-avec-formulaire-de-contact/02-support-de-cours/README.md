@@ -13,12 +13,16 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
-- [Objectifs](#objectifs)
+- [Séance 1/2](#séance-12)
+  - [Objectifs](#objectifs)
+  - [Déroulement](#déroulement)
+  - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Conclusion](#conclusion)
-	- [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Sources](#sources)
 
-## Objectifs
+## Séance 1/2
+
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -35,9 +39,16 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   [Prospection](./../../11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
 - Compléter le rapport
 
-## Conclusion
+### Déroulement
 
-TODO
+Déployez un site web statique _"Hello world"_ sur un hébergeur de votre choix et
+la technologie de votre choix. Il s'agira de la fondation pour votre MVP.
+
+Identifiez les mots clés pour le référencement de votre projet afin d'être
+visible sur Internet.
+
+Complétez le rapport avec les nouvelles données que vous avez acquises jusqu'ici
+et prenez connaissance de la présentation sur la prospection et son contenu.
 
 ### À faire pour la semaine suivante
 
@@ -48,6 +59,10 @@ il est recommandé pour la semaine suivante de :
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
 - Interviewer ces personnes pour récolter des retours
+
+## Conclusion
+
+TODO
 
 ## Sources
 
