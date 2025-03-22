@@ -41,8 +41,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 ### Déroulement
 
-Déployez un site web statique _"Hello world"_ sur un hébergeur de votre choix et
-la technologie de votre choix. Il s'agira de la fondation pour votre MVP.
+Déployez un site web statique _"Hello world"_ sur un hébergeur de votre choix
+avec la technologie de votre choix. Il s'agira de la fondation pour votre MVP.
 
 Identifiez les mots clés pour le référencement de votre projet afin d'être
 visible sur Internet.
