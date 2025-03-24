@@ -55,8 +55,8 @@ l'avancement de la préparation du cours.
 
 ## Quiz
 
-- [ ] 4-5 questions Vincent
-- [ ] 4-5 questions Ludovic
+- [ ] 3-4 questions Vincent
+- [ ] 3-4 questions Ludovic
 ```
 
 ## Durant le cours
