@@ -62,7 +62,10 @@ il est recommandé pour la semaine suivante de :
 
 ## Conclusion
 
-TODO
+À l'issue de cette séance, vous avez pris en main un outil de création de site
+web statique, réalisé un site statique _"Hello, world!"_, déployé le site sur
+Internet, identifié les mots clés pour le référencement, mis en commun les
+interviews réalisées jusqu'ici, partagé les réflexions autour de ces interviews,
 
 ## Sources
 
