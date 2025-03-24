@@ -126,7 +126,7 @@ page ?
 Pour optimiser une landing page en référencement (SEO), il est important de
 respecter ces bonnes pratiques :
 
-<!-- TODO: GUIDOUX -->
+<!-- TODO: LUDO -->
 
 ## Questions
 

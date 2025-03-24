@@ -425,11 +425,17 @@ Exemple avec GitHub Pages :
 
 ### Bonnes pratiques de référencement pour votre landing page
 
-<!-- TODO : GUIDOUX -->
+- Utiliser des mots-clés pertinents
+- Optimiser les balises `<title>` et `<meta>`
+- Créer des URL propres et des balises `<h1>` pertinentes
+- Performance et accessibilité
+- Utiliser <https://pagespeed.web.dev/>
 
 ### Faire indexer votre landing page par les moteurs de recherche
 
-<!-- TODO : GUIDOUX -->
+- Utilisez Google Search Console pour soumettre votre page
+- Créez un fichier `robots.txt` pour indiquer les pages à indexer
+- C'est un processus continu : surveillez
 
 ## Questions
 

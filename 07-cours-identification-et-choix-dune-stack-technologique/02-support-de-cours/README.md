@@ -416,28 +416,6 @@ Voici quelques exemples de stacks technologiques web populaires :
 - React/Vue/Svelte pour le frontend
 - Next.js/Nuxt/SvelteKit pour le frontend (et le backend)
 
-<!-- TODO: Est-ce qu'on met ça dans ta partie Guidoux ? -->
-
-En ce qui concerne la réalisation de la landing page de votre MVP, vous pouvez
-utiliser des technologies simples et populaires comme HTML, CSS et JavaScript
-avec des frameworks tels que Bootstrap, Tailwind CSS ou encore Bulma.
-
-Voici différents générateurs de sites statiques que vous pouvez utiliser pour
-créer votre landing page :
-
-- [Hugo](https://gohugo.io/) (nous avons une bonne expérience avec ce générateur
-  de sites statiques)
-- [Jekyll](https://jekyllrb.com/)
-- [Gatsby](https://www.gatsbyjs.com/)
-- [VuePress](https://vuepress.vuejs.org/)
-- [Astro](https://astro.build/)
-
-Pour des listes bien plus exhaustives, vous pouvez consulter les sites suivants
-:
-
-- <https://jamstack.org/generators/>
-- <https://github.com/myles/awesome-static-generators>
-
 ### Conclusions
 
 Rappelons que Facebook a commencé avec un simple site web en PHP avant de
@@ -519,13 +497,25 @@ Dans le cadre d'un MVP, une landing page permet de :
 
 ### Trouver des templates pour votre landing page
 
-Des plateformes proposent des modèles (templates) prêts à l'emploi et faciles à
-personnaliser :
+En ce qui concerne la réalisation de la landing page de votre MVP, vous pouvez
+utiliser des technologies simples et populaires comme HTML, CSS et JavaScript
+avec des frameworks tels que Bootstrap, Tailwind CSS ou encore Bulma.
 
-- [Hugo Themes](https://themes.gohugo.io/)
-- [HTML5 UP](https://html5up.net/)
-- [Bootstrap](https://getbootstrap.com/docs/examples/)
-- [One Page Love](https://onepagelove.com/)
+Voici différents générateurs de sites statiques que vous pouvez utiliser pour
+créer votre landing page :
+
+- [Hugo](https://gohugo.io/) (nous avons une bonne expérience avec ce générateur
+  de sites statiques)
+- [Jekyll](https://jekyllrb.com/)
+- [Gatsby](https://www.gatsbyjs.com/)
+- [VuePress](https://vuepress.vuejs.org/)
+- [Astro](https://astro.build/)
+
+Pour des listes bien plus exhaustives, vous pouvez consulter les sites suivants
+:
+
+- <https://jamstack.org/generators/>
+- <https://github.com/myles/awesome-static-generators>
 
 Ces templates permettent de créer rapidement une landing page optimisée pour la
 conversion, adaptée aux appareils mobiles et visuellement attrayante.
@@ -613,14 +603,13 @@ pertinence par rapport aux requêtes des utilisateurs :
 
 Aussi, simplement mettre les mots-clés de la concurrence ne suffit pas.
 
-<!-- TODO: Est-ce que cette tournure de phrase est correcte ? Vu la suite, j'ai l'impression que ça se contredit ? -->
-
 Nous voyons de plus en plus de sections dans les site web qui sont dédiées à la
 concurrence. Cela permet de montrer que vous êtes au courant de ce qui se fait
 dans votre domaine et que vous avez une proposition de valeur différente, mais
 surtout, d'améliorer votre référencement. Lorsque les personnes cherchent un
 concurrent, ils vont tomber sur votre site web et découvrir votre proposition de
-valeur.
+valeur. Donc, n'hésitez pas à parler de vos concurrents de manière cohérente
+avec le reste de votre landing page.
 
 **Performance et aspects techniques**
 
@@ -695,6 +684,7 @@ et du début des choix de votre stack technologique pour votre MVP.
 - [Illustration principale][illustration-principale] par
   [Viktor Forgacs](https://unsplash.com/@sonance) sur
   [Unsplash](https://unsplash.com/photos/green-grass-field-with-trees-and-a-black-and-white-cross--0rQ6AbnqeQ)
+- [GitHub Pages](https://docs.github.com/en/pages/quickstart)
 
 <!-- URLs -->
 
