@@ -74,11 +74,11 @@ Le web a été inventé par Tim Berners-Lee en 1989. Il a été conçu pour perm
 aux personnes dans le domaine de la recherche de partager des informations entre
 elles. Le premier site web a été mis en ligne en 1991.
 
-A l'époque, le nombre d'utilisateurs était très faible et les sites web étaient
+À l'époque, le nombre d'utilisateurs était très faible et les sites web étaient
 très simples. Ils étaient composés de simples fichiers HTML, CSS et JavaScript
 et étaient hébergés sur des serveurs web. Chaque site web était unique et
-indépendant et, si vous avez vécu cette époque, vous vous souvenez peut-être du
-nombre varié de sites web différents (peu de standards).
+indépendant des autres et, si vous avez vécu cette époque, vous vous souvenez
+peut-être du nombre varié de sites web différents (peu de standards).
 
 #### L'explosion du web
 
@@ -89,11 +89,10 @@ Des standards se mettent en place et des solutions full-stack ont été
 développées pour répondre à ces besoins, notamment Laravel/Symfony pour PHP,
 Ruby on Rails pour Ruby, Django pour Python, etc.
 
-Ces solutions permettent de créer des applications web plus interactives de
-façon plus rapide grâce à leur structure et les différentes fonctionnalités qui
-les composent. Le serveur est responsable de la génération des pages web et le
-client de leur affichage. C'est ce qu'il s'appelle le rendu côté serveur
-(_Server-side rendering (SSR)_).
+Ces solutions permettent de créer rapidement des applications web interactives
+grâce à leur structure et aux nombreuses fonctionnalités intégrées. Le serveur
+est responsable de la génération des pages web et le client de leur affichage.
+C'est ce qu'il s'appelle le rendu côté serveur (_Server-side rendering (SSR)_).
 
 Ces solutions, très efficaces pour les applications web classiques, ont été
 remises en question avec l'explosion de l'accès à Internet, notamment grâce aux
@@ -112,8 +111,8 @@ demande les données au serveur (souvent au format JSON) et les affiche lui-mêm
 Cela permet de réduire le temps de chargement des pages web et d'améliorer
 l'expérience utilisateur.
 
-Indirectement, cela a permis de réduire la charge sur les serveurs et de réduire
-les coûts d'hébergement.
+Indirectement, cela a permis de réduire la charge des serveurs et de réduire les
+coûts d'hébergement.
 
 #### Indexation et référencement
 
@@ -306,6 +305,7 @@ Il est plus important d'avoir un site web qui est consulté et utilisé par les
 personnes que d'avoir un site web qui est rapide mais que personne ne visite.
 
 Commencez d'abord à créer un site web qui fonctionne avec des utilisateurs
+Commencez d'abord à créer un site web qui fonctionne avec des utilisateurs
 fréquents, puis optimisez-le pour qu'il soit plus rapide. Gardez à l'esprit que
 les performances sont souvent un problème de design et d'architecture, et non de
 technologie et que la maintenabilité permettra de résoudre ces problèmes plus
@@ -359,8 +359,8 @@ monorepo
 └── README.md
 ```
 
-Si votre applications plus de services, il peut devenir intéressant de passer à
-un polyrepo en microservices pour faciliter la gestion des services.
+Si votre application comporte plusieurs services, il peut devenir intéressant de
+passer à un polyrepo en microservices pour faciliter la gestion des services.
 
 #### SQL vs NoSQL
 
@@ -371,7 +371,7 @@ Elles sont souvent plus structurées que les bases de données NoSQL.
 
 Les bases de données NoSQL sont des bases de données non relationnelles qui
 stockent les données sous forme de documents, de graphes ou de clés-valeurs,
-souvent sous formes de collections.
+souvent sous forme de collections.
 
 Elles sont souvent plus flexibles que les bases de données SQL mais peuvent être
 plus complexes à gérer et finissent généralement comme "poubelles à données" où
@@ -393,10 +393,10 @@ Les _"boring technologies"_ sont des technologies qui sont bien connues, bien
 documentées et qui ont fait leurs preuves. Elles sont souvent plus stables et
 plus fiables que les _"shiny new things"_.
 
-En tant que développeur.euse, il est souvent tentant de choisir les _"shiny new
-things"_ pour se former et découvrir de nouvelles technologies. Cependant, il
-est important de garder à l'esprit que les _"shiny new things"_ peuvent être
-moins stables et moins fiables que les _"boring technologies"_.
+En tant que personne qui développe, il est souvent tentant de choisir les
+_"shiny new things"_ pour se former et découvrir de nouvelles technologies.
+Cependant, il est important de garder à l'esprit que les _"shiny new things"_
+peuvent être moins stables et moins fiables que les _"boring technologies"_.
 
 > [!NOTE]
 >
