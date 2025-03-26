@@ -381,10 +381,10 @@ sa nature, a besoin de gérer, traiter et stocker des données. Trop souvent,
 cette étape est négligée et amène à des problèmes de performance, d'intégrité et
 de maintenance.
 
-Notre conseil est de toujours structurer des données pour modéliser votre
-business à l'aide de base de données relationnelles. Si vos données sont
-structurées, il vous sera toujours plus facile de les comprendre et les
-manipuler. L'inverse n'est pas vrai.
+Notre conseil est de toujours partir des données pour modéliser votre business à
+l'aide de base de données relationnelles. Si vos données sont structurées, il
+vous sera toujours plus facile de les comprendre et les manipuler. L'inverse
+n'est pas vrai.
 
 #### _"boring technologies"_ vs _"shiny new things"_
 
