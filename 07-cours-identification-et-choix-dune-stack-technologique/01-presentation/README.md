@@ -639,9 +639,6 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1633412802994-5c058f151b66?fit=crop&h=720
 [illustration-boring-technologies-vs-shiny-new-things]:
 	https://images.unsplash.com/photo-1616000315674-eefb77c56e58?fit=crop&h=720
-
----
-
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
 [illustration-definition-landing-page]:
