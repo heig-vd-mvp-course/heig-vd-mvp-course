@@ -469,6 +469,8 @@ formulaires. Des services existent pour gérer les formulaires :
 
 Cela permet de collecter des retours et des données utilisateurs.
 
+<!-- Parler de l'exemple du Patator -->
+
 #### Hébergement d'une landing page
 
 Solutions pratiques d'hébergement rapide :
