@@ -305,7 +305,6 @@ Il est plus important d'avoir un site web qui est consulté et utilisé par les
 personnes que d'avoir un site web qui est rapide mais que personne ne visite.
 
 Commencez d'abord à créer un site web qui fonctionne avec des utilisateurs
-Commencez d'abord à créer un site web qui fonctionne avec des utilisateurs
 fréquents, puis optimisez-le pour qu'il soit plus rapide. Gardez à l'esprit que
 les performances sont souvent un problème de design et d'architecture, et non de
 technologie et que la maintenabilité permettra de résoudre ces problèmes plus
@@ -543,7 +542,8 @@ faciliter cette tâche, vous pouvez utiliser des générateurs de sites statique
 
 Ceux-ci permettent de générer des sites web à partir de fichiers Markdown, JSON
 ou YAML, et sont souvent plus rapides et plus simples à utiliser que des CMS
-comme WordPress, Wix ou Squarespace (du point de vue d'un.e développeur.euse).
+comme WordPress, Wix ou Squarespace (du point de vue d'une personne qui
+développe).
 
 Voici différents générateurs de sites statiques que vous pouvez utiliser pour
 créer votre landing page :
@@ -726,7 +726,7 @@ de Google.
 Le choix de la stack technologique pour votre MVP est une étape importante qui
 déterminera en partie le succès de votre projet.
 
-Le plus important a retenir est que la technologie n'est qu'un outil pour
+Le plus important à retenir est que la technologie n'est qu'un outil pour
 réaliser votre projet. Ce qui compte vraiment, c'est l'impact que vous aurez sur
 vos utilisateurs et la valeur que vous apporterez à votre marché. Allez donc au
 plus simple selon vos compétences et vos besoins et adaptez ensuite si besoin.
