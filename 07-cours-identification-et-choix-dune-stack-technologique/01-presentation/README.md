@@ -79,21 +79,31 @@ _paginate: false
 _Cette présentation est un résumé du support de cours. Pour plus de détails,
 consultez le [support de cours][course-material]._
 
-## Objectifs (1/2)
+## Objectifs (1/3)
 
 - Décrire ce qu'est une stack technologique web
-- Identifier les avantages et les inconvénients d'une stack web
-- Évaluer le choix d'une stack web par rapport à un projet donné
-- Énumérer des stacks web populaires
+- Identifier les avantages et les inconvénients d'une stack technologique web
+- Évaluer le choix d'une stack technologique web par rapport à une situation
+  donnée
 
 ![bg right:40%][illustration-objectifs]
 
-## Objectifs (2/2)
+## Objectifs (2/3)
 
+- Énumérer des stacks technologiques web populaires
 - Décrire ce qu'est une landing page
-- Expliquer l'intérêt d'une landing page pour un MVP
-- Décrire comment créer et héberger une landing page
-- Identifier les bonnes pratiques SEO pour une landing page
+- Expliquer l'intérêt d'une landing page avec formulaire de contact pour un MVP
+- Décrire comment créer une landing page
+
+![bg right:40%][illustration-objectifs]
+
+## Objectifs (3/3)
+
+- Décrire où trouver des templates de landing page
+- Décrire où héberger une landing page avec formulaire de contact
+- Décrire comment héberger une landing page avec formulaire de contact
+- Lister les éléments clés du référencement en lien avec les moteurs de
+  recherche
 
 ![bg right:40%][illustration-objectifs]
 
@@ -362,7 +372,7 @@ adaptée à votre projet. Il s'agit bien de réponses subjectives.
 </div>
 </div>
 
-### Conclusion
+### Conclusions
 
 - Facebook a commencé avec PHP
 - GitHub et GitLab avec Ruby on Rails
@@ -393,9 +403,41 @@ adaptée à votre projet. Il s'agit bien de réponses subjectives.
 
 ![bg right:40%][illustration-interet-landing-page]
 
-### Trouver des templates pour votre landing page
+### Créer, déployer et maintenir une landing page efficacement
 
-Quelques ressources utiles :
+- De simples fichiers HTML, CSS, JavaScript, etc. peuvent suffire
+- Parfois chronophage et besoin de compétences techniques (visuel)
+- Il existe des outils et des services pour ça
+
+![bg right:40%][illustration-templates-landing-page]
+
+#### Générateurs de sites statiques pour créer une landing page
+
+Un générateur de sites statiques permet de créer des sites web à l'aide de
+fichiers Markdown. Cela permet d'avoir un site web léger, rapide et facile à
+maintenir. Les outils suivants sont populaires :
+
+<div class="two-columns">
+<div>
+
+- [Hugo](https://gohugo.io/) (+1)
+- [Jekyll](https://jekyllrb.com/)
+- [Gatsby](https://www.gatsbyjs.com/)
+- [VuePress](https://vuepress.vuejs.org/)
+
+</div>
+<div>
+
+- [Astro](https://astro.build/)
+- <https://jamstack.org/generators/>
+- <https://github.com/myles/awesome-static-generators>
+
+</div>
+</div>
+
+#### Trouver des templates pour votre landing page
+
+Des templates pré-faits peuvent aider pour un résultat esthétique :
 
 - [Hugo Themes](https://themes.gohugo.io/)
 - [HTML5 UP](https://html5up.net/)
@@ -404,32 +446,60 @@ Quelques ressources utiles :
 
 ![bg right:40%][illustration-templates-landing-page]
 
-### Hébergement d'une landing page avec formulaire de contact
+#### Ajouter un formulaire de contact à votre landing page
+
+Comme un site statique n'a pas de backend, il est difficile de gérer des
+formulaires. Des services existent pour gérer les formulaires :
+
+<div class="two-columns">
+<div>
+
+- [web3forms](https://web3forms.com/)
+- [Google Forms](https://www.google.com/forms/about/)
+- [Formspree](https://formspree.io/)
+
+</div>
+<div>
+
+- [FormBackend](https://www.formbackend.com/)
+- [Netlify Forms](https://docs.netlify.com/forms/setup/)
+
+</div>
+</div>
+
+Cela permet de collecter des retours et des données utilisateurs.
+
+#### Hébergement d'une landing page
 
 Solutions pratiques d'hébergement rapide :
 
-- **GitHub Pages / GitLab Pages** (pages statiques gratuites)
-- **Netlify** (intégration facile des formulaires)
-- **Firebase Hosting** (orienté développeur, facile à configurer)
-- **Vercel** (performant et moderne)
+- **GitHub Pages** : gratuit, adapté aux pages statiques
+- **GitLab Pages** : similaire à GitHub Pages
+- **Netlify** : simple, rapide, gratuit, idéal pour pages avec formulaires
+- **Firebase Hosting** : facile à configurer si vous utilisez Firebase
+- **Heroku** : adapté aux applications nécessitant un backend
+- **Vercel** : performant pour les applications modernes
 
-#### Mettre en ligne une landing page avec formulaire de contact
+##### Déployer un site statique sur GitHub Pages
 
-Exemple avec GitHub Pages :
+Étapes principales pour déployer un site statique sur GitHub :
 
 1. Créez un nouveau dépôt sur GitHub
-2. Ajoutez votre code HTML, CSS et JavaScript
+2. Ajoutez votre code HTML, CSS et JavaScript ou utilisez un générateur de site
+   statique
 3. Validez les changements et poussez-les sur GitHub
-4. Activez GitHub Pages dans les paramètres du dépôt
+4. Activez GitHub Pages dans les paramètres du dépôt (GitHub Actions ou fichier
+   CNAME)
 5. Configurez le domaine personnalisé si nécessaire
 
 ### Bonnes pratiques de référencement pour votre landing page
 
-- Utiliser des mots-clés pertinents
-- Optimiser les balises `<title>` et `<meta>`
-- Créer des URL propres et des balises `<h1>` pertinentes
-- Performance et accessibilité
-- Utiliser <https://pagespeed.web.dev/>
+- Utilisez des mots-clés pertinents
+- Optimisez les balises `<title>` et `<meta>`
+- Créez des URL propres et des balises `<h*>` pertinentes et hiérarchisées
+- Faites attention aux performances et à l'accessibilité (balises sémantiques,
+  images, etc.)
+- Utilisez <https://pagespeed.web.dev/> pour valider
 
 ### Faire indexer votre landing page par les moteurs de recherche
 
@@ -443,7 +513,7 @@ Exemple avec GitHub Pages :
 
 Est-ce que vous avez des questions ?
 
-## À vous de jouer !
+## À vous de jouer
 
 - Prendre connaissance du [support de cours][course-material]
 - Poser des questions si nécessaire

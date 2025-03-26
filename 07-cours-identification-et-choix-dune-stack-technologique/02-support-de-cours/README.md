@@ -24,9 +24,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Créer une landing page efficace pour votre MVP](#créer-une-landing-page-efficace-pour-votre-mvp)
   - [Définition d'une landing page](#définition-dune-landing-page)
   - [Intérêt d'une landing page pour votre MVP](#intérêt-dune-landing-page-pour-votre-mvp)
-  - [Trouver des templates pour votre landing page](#trouver-des-templates-pour-votre-landing-page)
-  - [Hébergement d'une landing page avec formulaire de contact](#hébergement-dune-landing-page-avec-formulaire-de-contact)
-  - [Mettre en ligne une landing page avec formulaire de contact](#mettre-en-ligne-une-landing-page-avec-formulaire-de-contact)
+  - [Créer, déployer et maintenir une landing page efficacement](#créer-déployer-et-maintenir-une-landing-page-efficacement)
   - [Bonnes pratiques de référencement pour votre landing page](#bonnes-pratiques-de-référencement-pour-votre-landing-page)
   - [Faire indexer votre landing page par les moteurs de recherche](#faire-indexer-votre-landing-page-par-les-moteurs-de-recherche)
 - [Conclusion](#conclusion)
@@ -49,6 +47,7 @@ De façon plus concise, à la fin de cette séance, vous devriez être capable d
 - Énumérer des stacks technologiques web populaires
 - Décrire ce qu'est une landing page
 - Expliquer l'intérêt d'une landing page avec formulaire de contact pour un MVP
+- Décrire comment créer une landing page
 - Décrire où trouver des templates de landing page
 - Décrire où héberger une landing page avec formulaire de contact
 - Décrire comment héberger une landing page avec formulaire de contact
@@ -399,6 +398,20 @@ things"_ pour se former et découvrir de nouvelles technologies. Cependant, il
 est important de garder à l'esprit que les _"shiny new things"_ peuvent être
 moins stables et moins fiables que les _"boring technologies"_.
 
+> [!NOTE]
+>
+> Lorsque nous parlons de _moins stable_ et _moins fiable_, nous parlons de
+> technologies qui peuvent changer rapidement, qui peuvent être moins bien
+> documentées et qui peuvent être moins bien supportées par la communauté.
+>
+> Il ne s'agit pas de la stabilité et de la fiabilité de votre application, qui
+> dépendent de la qualité de votre code et de votre architecture et si votre
+> application va crasher ou non.
+>
+> Une technologie stable est une technologie qui, une fois mise en place, ne
+> change pas et qui est bien documentée et bien supportée par la communauté,
+> même lorsque de nouvelles versions sortent.
+
 Gardez toujours à l'esprit que vos projets vont sans doute être repris et
 maintenus par d'autres personnes. Il est donc important de choisir des
 technologies qui sont bien connues et bien documentées pour faciliter la reprise
@@ -495,11 +508,42 @@ Dans le cadre d'un MVP, une landing page permet de :
 - Valider l'intérêt réel pour votre produit ou service
 - Établir un premier contact direct avec votre public cible
 
-### Trouver des templates pour votre landing page
+### Créer, déployer et maintenir une landing page efficacement
 
 En ce qui concerne la réalisation de la landing page de votre MVP, vous pouvez
 utiliser des technologies simples et populaires comme HTML, CSS et JavaScript
-avec des frameworks tels que Bootstrap, Tailwind CSS ou encore Bulma.
+pour créer une landing page simple.
+
+Néanmoins, développer une landing page peut être chronophage et nécessiter des
+compétences techniques (surtout pour le visuel). Pour gagner du temps et de
+l'argent, vous pouvez utiliser des outils et des services en ligne pour créer et
+héberger votre landing page.
+
+#### Générateurs de sites statiques pour créer une landing page
+
+Un site statique est un site web dont le contenu est fixe et ne change pas en
+fonction des actions des utilisateurs. Il est généralement composé de fichiers
+HTML, CSS et JavaScript et est hébergé sur un serveur web.
+
+Les sites statiques sont souvent plus rapides et plus sécurisés que les sites
+dynamiques, mais ils sont moins flexibles et moins interactifs.
+
+> [!TIP]
+>
+> Parlons des Content Management System (CMS) comme WordPress, Wix, Squarespace,
+> Shopify, etc. : beaucoup utilisent ces outils pour créer des landing pages
+> rapidement. Cependant, ces solutions peuvent être moins flexibles et moins
+> performantes que des pages statiques. L'entretien et la maintenance peuvent
+> également être plus complexes et entraîner des problèmes de sécurité si elles
+> ne sont pas maintenues à jour.
+
+Maintenir et mettre à jour un site statique composé uniquement de fichiers HTML,
+CSS et JavaScript à maintenir manuellement peut s'avérer fastidieux. Pour
+faciliter cette tâche, vous pouvez utiliser des générateurs de sites statiques.
+
+Ceux-ci permettent de générer des sites web à partir de fichiers Markdown, JSON
+ou YAML, et sont souvent plus rapides et plus simples à utiliser que des CMS
+comme WordPress, Wix ou Squarespace (du point de vue d'un.e développeur.euse).
 
 Voici différents générateurs de sites statiques que vous pouvez utiliser pour
 créer votre landing page :
@@ -517,22 +561,46 @@ Pour des listes bien plus exhaustives, vous pouvez consulter les sites suivants
 - <https://jamstack.org/generators/>
 - <https://github.com/myles/awesome-static-generators>
 
+#### Trouver des templates pour votre landing page
+
+Il est important de garder à l'esprit que la landing page est souvent le premier
+contact que les personnes auront avec votre produit ou service. Il est donc
+essentiel de soigner son design, son contenu et son ergonomie pour optimiser la
+conversion.
+
+Vous pouvez utiliser des librairies CSS tels que Bootstrap, Tailwind CSS ou
+encore Bulma pour faciliter la création de votre landing page.
+
+Des plateformes proposent des modèles (templates) prêts à l'emploi et faciles à
+personnaliser :
+
+- [Hugo Themes](https://themes.gohugo.io/)
+- [HTML5 UP](https://html5up.net/)
+- [Bootstrap](https://getbootstrap.com/docs/examples/)
+- [One Page Love](https://onepagelove.com/)
+
 Ces templates permettent de créer rapidement une landing page optimisée pour la
 conversion, adaptée aux appareils mobiles et visuellement attrayante.
 
-> [!TIP]
->
-> Parlons des Content Management System (CMS) comme WordPress, Wix, Squarespace,
-> Shopify, etc. : beaucoup utilisent ces outils pour créer des landing pages
-> rapidement. Cependant, ces solutions peuvent être moins flexibles et moins
-> performantes que des pages statiques. L'entretien et la maintenance peuvent
-> également être plus complexes et entraîner des problèmes de sécurité si elles
-> ne sont pas maintenues à jour.
+#### Ajouter un formulaire de contact à votre landing page
 
-### Hébergement d'une landing page avec formulaire de contact
+Comme une landing page statique ne propose pas de backend, il n'est pas possible
+d'enregistrer les données des formulaires directement (que ce soit un formulaire
+de contact ou pour des actions bien précises). Pour cela, vous pouvez utiliser
+des services tiers comme :
 
-Plusieurs options existent pour héberger facilement une landing page avec
-formulaire :
+- [web3forms](https://web3forms.com/)
+- [Google Forms](https://www.google.com/forms/about/)
+- [Formspree](https://formspree.io/)
+- [FormBackend](https://www.formbackend.com/)
+- [Netlify Forms](https://docs.netlify.com/forms/setup/)
+
+Ces services permettent de recevoir les données des formulaires par email ou de
+les stocker dans une base de données externe.
+
+#### Hébergement d'une landing page
+
+Plusieurs options existent pour héberger facilement une landing page statique :
 
 - **GitHub Pages** : gratuit, adapté aux pages statiques
 - **GitLab Pages** : similaire à GitHub Pages
@@ -541,17 +609,20 @@ formulaire :
 - **Heroku** : adapté aux applications nécessitant un backend
 - **Vercel** : performant pour les applications modernes
 
-<!-- Il manque les outils pour intégrer l'envoi de mails non ? -->
+Ces services permettent de déployer rapidement une landing page statique et de
+la rendre accessible sur Internet.
 
-### Mettre en ligne une landing page avec formulaire de contact
+##### Déployer un site statique sur GitHub Pages
 
-Voici les étapes principales pour déployer une landing page sur GitHub
+Voici les étapes principales pour déployer un site statique sur GitHub
 Pages[^github-pages] :
 
 1. Créez un nouveau dépôt sur GitHub
-2. Ajoutez votre code HTML, CSS et JavaScript
+2. Ajoutez votre code HTML, CSS et JavaScript ou utilisez un générateur de site
+   statique
 3. Validez les changements et poussez-les sur GitHub
-4. Activez GitHub Pages dans les paramètres du dépôt
+4. Activez GitHub Pages dans les paramètres du dépôt (GitHub Actions ou fichier
+   CNAME)
 5. Configurez le domaine personnalisé si nécessaire
 
 ### Bonnes pratiques de référencement pour votre landing page
