@@ -640,8 +640,8 @@ _Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
   donnée
 - Énumérer des stacks technologiques web populaires
 - Décrire ce qu'est une landing page
-- Décrire ce qu'est une newsletter
 - Expliquer l'intérêt d'une landing page avec formulaire de contact pour un MVP
+- Décrire comment créer une landing page
 - Décrire où trouver des templates de landing page
 - Décrire où héberger une landing page avec formulaire de contact
 - Décrire comment héberger une landing page avec formulaire de contact

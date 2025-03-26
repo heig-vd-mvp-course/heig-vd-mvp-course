@@ -14,7 +14,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
-  - [Grille d'évaluation de la présentation](#grille-dévaluation-de-la-présentation)
 - [Déroulement](#déroulement)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
@@ -31,8 +30,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - Recevoir des feedbacks constructifs
 - Évaluer les pitches des autres groupes
 - Donner des feedbacks constructifs
-
-## Déroulement
 
 ## Déroulement
 
