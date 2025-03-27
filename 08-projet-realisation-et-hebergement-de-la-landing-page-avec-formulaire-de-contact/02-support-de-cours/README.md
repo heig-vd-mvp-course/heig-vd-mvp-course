@@ -18,6 +18,11 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Déroulement](#déroulement)
   - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Conclusion](#conclusion)
+- [Séance 2/2](#séance-22)
+  - [Objectifs](#objectifs-1)
+  - [Déroulement](#déroulement-1)
+  - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante-1)
+- [Conclusion](#conclusion-1)
 - [Sources](#sources)
 
 ## Séance 1/2
@@ -65,7 +70,43 @@ il est recommandé pour la semaine suivante de :
 À l'issue de cette séance, vous avez pris en main un outil de création de site
 web statique, réalisé un site statique _"Hello, world!"_, déployé le site sur
 Internet, identifié les mots clés pour le référencement, mis en commun les
-interviews réalisées jusqu'ici, partagé les réflexions autour de ces interviews,
+interviews réalisées jusqu'ici, partagé les réflexions autour de ces interviews.
+
+## Séance 2/2
+
+### Objectifs
+
+À l'issue de cette séance, les personnes qui étudient devraient être capables de
+:
+
+- Réaliser un mockup de la landing page
+- Commencer à réaliser la landing page
+- Implémenter un formulaire de contact
+- Identifier les canaux de communication pour promouvoir le projet
+- Commencer à promouvoir la landing page
+- Commencer à réaliser la présentation sur la
+  [Prospection](./../../11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+- Compléter le rapport
+
+### Déroulement
+
+### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser la landing page
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
+- Partager votre projet autour de vous selon les canaux de communication
+  identifiés
+- Finaliser la présentation sur la
+  [Prospection](./../../11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+- Répéter la présentation sur la
+  [Prospection](./../../11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+
+## Conclusion
 
 ## Sources
 

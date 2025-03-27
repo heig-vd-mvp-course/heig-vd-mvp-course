@@ -837,7 +837,7 @@ il est recommandé pour la semaine suivante de :
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
 - Réaliser un mockup de la landing page
-- Comment à réaliser la landing page
+- Commencer à réaliser la landing page
 - Implémenter un formulaire de contact
 - Identifier les canaux de communication pour promouvoir le projet
 - Commencer à promouvoir la landing page
