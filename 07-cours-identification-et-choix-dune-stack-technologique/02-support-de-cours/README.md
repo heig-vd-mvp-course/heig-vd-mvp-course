@@ -123,10 +123,10 @@ plus les lire efficacement et en comprendre leur contenu et leur sémantique.
 
 Afin de résoudre ces problèmes, des solutions hybrides ont été développées,
 permettant de combiner les avantages du rendu côté serveur et du rendu côté
-client, donnant naissance à des frameworks tels que Next.js, Nuxt.js ou encore
-SvelteKit, revenant à un rendu côté serveur pour les moteurs de recherche et le
-premier rendu côté client puis côté client pour les futures interactions avec la
-page.
+client. Ceci a donné naissance à des frameworks tels que Next.js, Nuxt.js ou
+encore SvelteKit, revenant à un rendu côté serveur pour les moteurs de recherche
+et le premier rendu côté client puis côté client pour les futures interactions
+avec la page.
 
 Le monde du web n'a jamais été aussi riche et complexe, et il est important de
 choisir la bonne stack technologique pour votre projet.

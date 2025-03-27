@@ -14,13 +14,31 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
+- [Avertissement](#avertissement)
 - [Conclusion](#conclusion)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
 
 ## Objectifs
 
+Réaliser des interfaces ergonomiques et réfléchies est une tâche complexe qui
+nécessite de prendre en compte de nombreux aspects.
+
+Elles permettent à l'utilisateur de comprendre rapidement comment interagir avec
+l'application, de minimiser les erreurs et de maximiser la satisfaction et
+l'engagement.
+
+Dans cette séance, nous allons voir comment réaliser des interfaces ergonomiques
+et réfléchies.
+
+De façon plus concise, à la fin de cette séance, vous devriez être capable de :
+
 - TODO
+
+## Avertissement
+
+Développer des interfaces ergonomiques et réfléchies est un métier à part
+entière.
 
 ## Conclusion
 
