@@ -90,6 +90,10 @@ interviews réalisées jusqu'ici, partagé les réflexions autour de ces intervi
 
 ### Déroulement
 
+Profitant des retours des interviews, réalisez un mockup de la landing page de
+votre projet. Commencez à réaliser la landing page et implémentez un formulaire
+de contact.
+
 ### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
