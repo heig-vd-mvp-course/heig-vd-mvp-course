@@ -20,7 +20,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Avantages et inconvénients d'une stack technologique web](#avantages-et-inconvénients-dune-stack-technologique-web)
   - [Choisir la stack technologique adaptée à votre projet](#choisir-la-stack-technologique-adaptée-à-votre-projet-1)
   - [Exemples populaires de stacks technologiques web](#exemples-populaires-de-stacks-technologiques-web)
-  - [Conclusions](#conclusions)
+  - [Éléments à retenir sur la stack technologique](#éléments-à-retenir-sur-la-stack-technologique)
 - [Créer une landing page efficace pour votre MVP](#créer-une-landing-page-efficace-pour-votre-mvp)
   - [Définition d'une landing page](#définition-dune-landing-page)
   - [Intérêt d'une landing page pour votre MVP](#intérêt-dune-landing-page-pour-votre-mvp)
@@ -428,7 +428,7 @@ Voici quelques exemples de stacks technologiques web populaires :
 - React/Vue/Svelte pour le frontend
 - Next.js/Nuxt/SvelteKit pour le frontend (et le backend)
 
-### Conclusions
+### Éléments à retenir sur la stack technologique
 
 Rappelons que Facebook a commencé avec un simple site web en PHP avant de
 devenir le géant que nous connaissons aujourd'hui. GitHub et GitLab, quant à

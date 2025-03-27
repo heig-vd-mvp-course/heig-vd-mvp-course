@@ -783,7 +783,8 @@ il est recommandé pour la semaine suivante de :
   réfléchies ou non
 - Lister les outils qui permettent de concevoir une interface ergonomique et
   réfléchie
-- Lister les outils qui permettent de valider qu'une interface est accessible
+- Lister les outils qui permettent de valider qu'une interface est accessible et
+  ergonomique
 
 **Méthodes d'enseignement et d'apprentissage**
 
