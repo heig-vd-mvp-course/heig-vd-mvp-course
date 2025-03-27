@@ -40,6 +40,12 @@ De façon plus concise, à la fin de cette séance, vous devriez être capable d
 Développer des interfaces ergonomiques et réfléchies est un métier à part
 entière.
 
+<!-- ## Guidoux
+
+- Lister les outils qui permettent de concevoir une interface ergonomique et
+  réfléchie
+- Lister les outils qui permettent de valider qu'une interface est accessible -->
+
 ## Conclusion
 
 TODO

@@ -17,12 +17,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Objectifs](#objectifs)
   - [Déroulement](#déroulement)
   - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Conclusion](#conclusion)
+  - [Conclusion](#conclusion)
 - [Séance 2/2](#séance-22)
   - [Objectifs](#objectifs-1)
   - [Déroulement](#déroulement-1)
   - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante-1)
-- [Conclusion](#conclusion-1)
+  - [Conclusion](#conclusion-1)
 - [Sources](#sources)
 
 ## Séance 1/2
@@ -65,7 +65,7 @@ il est recommandé pour la semaine suivante de :
   votre public cible
 - Interviewer ces personnes pour récolter des retours
 
-## Conclusion
+### Conclusion
 
 À l'issue de cette séance, vous avez pris en main un outil de création de site
 web statique, réalisé un site statique _"Hello, world!"_, déployé le site sur
@@ -84,8 +84,7 @@ interviews réalisées jusqu'ici, partagé les réflexions autour de ces intervi
 - Implémenter un formulaire de contact
 - Identifier les canaux de communication pour promouvoir le projet
 - Commencer à promouvoir la landing page
-- Commencer à réaliser la présentation sur la
-  [Prospection](./../../11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+- Commencer à réaliser la présentation sur la [Prospection][prospection]
 - Compléter le rapport
 
 ### Déroulement
@@ -93,6 +92,13 @@ interviews réalisées jusqu'ici, partagé les réflexions autour de ces intervi
 Profitant des retours des interviews, réalisez un mockup de la landing page de
 votre projet. Commencez à réaliser la landing page et implémentez un formulaire
 de contact.
+
+Utilisez les outils et conseils vus en cours pour promouvoir votre projet et
+améliorer votre visibilité.
+
+Ayez toujours un regard critique sur votre projet et soyez prêt.es à recevoir
+des feedbacks constructifs. Et aussi, gardez en tête le fil rouge du cours et
+les prochaines étapes.
 
 ### À faire pour la semaine suivante
 
@@ -105,12 +111,16 @@ il est recommandé pour la semaine suivante de :
 - Interviewer ces personnes pour récolter des retours
 - Partager votre projet autour de vous selon les canaux de communication
   identifiés
-- Finaliser la présentation sur la
-  [Prospection](./../../11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
-- Répéter la présentation sur la
-  [Prospection](./../../11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+- Finaliser la présentation sur la [Prospection][prospection]
+- Répéter la présentation sur la [Prospection][prospection]
 
-## Conclusion
+### Conclusion
+
+À l'issue de cette séance, vous avez réalisé un mockup de la landing page de
+votre projet, commencé à réaliser la landing page et implémenté un formulaire de
+contact.
+
+Votre projet est sur l'avant-scène et vous allez pouvoir le promouvoir.
 
 ## Sources
 
@@ -126,3 +136,5 @@ il est recommandé pour la semaine suivante de :
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration-principale]:
 	https://images.unsplash.com/photo-1505178041309-ad46d2e4207b?fit=crop&h=720
+[prospection]:
+	./../../11-projet-presentations-de-la-prospection/02-support-de-cours/README.md
