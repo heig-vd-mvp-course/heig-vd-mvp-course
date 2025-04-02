@@ -89,7 +89,7 @@ principes :
 - **Simplicité** : l'application doit être simple à utiliser
 - **Clarté** : l'application doit être claire
 - **Consistance** : l'application doit être consistante
-- **Accessibilité** : l'application doit être accessible à tous
+- **Accessibilité** : l'application doit être accessible à tout le monde
 - **Esthétique** : l'application doit être esthétique
 - **Efficacité** : l'application doit être efficace
 
