@@ -27,6 +27,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Loading Artist](#loading-artist)
 - [Outils pour concevoir une interface ergonomique et réfléchie](#outils-pour-concevoir-une-interface-ergonomique-et-réfléchie)
 - [Outils pour valider qu'une interface est accessible et ergonomique](#outils-pour-valider-quune-interface-est-accessible-et-ergonomique)
+  - [Validation des contrastes et palettes de couleurs](#validation-des-contrastes-et-palettes-de-couleurs)
+  - [Outils généraux d'accessibilité web](#outils-généraux-daccessibilité-web)
 - [Conclusion](#conclusion)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
@@ -274,11 +276,39 @@ Les points négatifs :
 
 ## Outils pour valider qu'une interface est accessible et ergonomique
 
-<!-- ## Guidoux
+Concevoir une interface utilisateur efficace implique non seulement un design
+esthétique, mais également une attention particulière à l'accessibilité et à
+l'ergonomie. Pour garantir ces aspects, plusieurs outils gratuits sont à votre
+disposition. En voici une sélection :
 
-- Lister les outils qui permettent de concevoir une interface ergonomique et
-  réfléchie
-- Lister les outils qui permettent de valider qu'une interface est accessible -->
+### Validation des contrastes et palettes de couleurs
+
+- **Poline** ([meodai.github.io/poline](https://meodai.github.io/poline/))
+  Poline est un outil simple mais efficace pour générer des palettes de couleurs
+  respectant les critères d’accessibilité. Il vous permet de créer
+  automatiquement des combinaisons harmonieuses tout en vérifiant leur
+  lisibilité pour des personnes présentant des déficiences visuelles.
+- **Geenes Accessibility Editor**
+  ([geenes.app/editor/accessibility](https://geenes.app/editor/accessibility))  
+  Geenes est une plateforme interactive permettant de tester facilement les
+  contrastes et la lisibilité d’un design. Elle vous propose des ajustements
+  précis des couleurs et valide la conformité des choix effectués par rapport
+  aux standards WCAG (Web Content Accessibility Guidelines).
+
+### Outils généraux d'accessibilité web
+
+- **WAVE Evaluation Tool** ([wave.webaim.org](https://wave.webaim.org/))  
+  WAVE est une solution complète pour détecter rapidement les erreurs
+  d'accessibilité d’une page web. L’outil fournit des suggestions détaillées et
+  un aperçu visuel clair des améliorations nécessaires pour répondre aux
+  critères WCAG.
+
+- **Lighthouse**
+  ([developers.google.com/web/tools/lighthouse](https://developers.google.com/web/tools/lighthouse))  
+  Intégré directement dans Google Chrome, Lighthouse est un outil performant
+  capable d’évaluer plusieurs dimensions essentielles d'une page web :
+  performance, SEO, accessibilité, etc. Il génère un rapport détaillé avec des
+  recommandations précises pour optimiser l'accessibilité et l’ergonomie.
 
 ## Conclusion
 
@@ -293,6 +323,12 @@ Différents exemples ont été présentés pour illustrer les principes de base.
 
 Grâce à différents outils, nous pouvons valider que ces principes de base sont
 respectés.
+
+La combinaison judicieuse de ces outils vous permettra de valider efficacement
+que votre interface est non seulement attrayante visuellement, mais aussi
+accessible et ergonomique. Rappelez-vous qu'un bon design doit toujours prendre
+en compte les besoins spécifiques des utilisateurs, notamment en termes
+d’accessibilité.
 
 ## Ce que vous ferez ensuite
 

@@ -256,6 +256,25 @@ Nous allons les analyser ensemble.
 
 ## Outils pour valider qu'une interface est accessible et ergonomique
 
+- Contrastes
+- Palettes de couleurs / Charte graphique
+- Accessibilité
+
+### Validation des contrastes et palettes de couleurs
+
+- **Poline** : palette de couleurs et validation des contrastes
+- **Geenes Accessibility Editor** : éditeur de couleurs et validation des
+  contrastes
+
+![bg right:40%][illustration-contrastes]
+
+### Outils généraux d'accessibilité web
+
+- **WAVE Evaluation Tool**: analyseur d'accessibilité web
+- **Lighthouse**: outil d'audit de performance et d'accessibilité
+
+![bg right:40%][illustration-accessibilite]
+
 ## Questions
 
 <!-- _class: lead -->
@@ -283,6 +302,12 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
+- [Illustration][illustration-accessibilite] par
+  [Elena Mozhvilo](https://unsplash.com/@miracleday) sur
+  [Unsplash](https://unsplash.com/photos/gold-and-silver-round-frame-magnifying-glass-j06gLuKK0GM)
+- [Illustration][illustration-contrastes] par
+  [Elena Mozhvilo](https://unsplash.com/@miracleday) sur
+  [Unsplash](https://unsplash.com/photos/yellow-flower-in-tilt-shift-lens-FCdi9-5EG_c)
 
 <!-- URLs -->
 
@@ -308,3 +333,7 @@ Est-ce que vous avez des questions ?
 
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
+[illustration-accessibilite]:
+	https://images.unsplash.com/photo-1587740896339-96a76170508d?fit=crop&h=720
+[illustration-contrastes]:
+	https://images.unsplash.com/photo-1588939240288-854695a834d1?fit=crop&h=720
