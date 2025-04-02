@@ -124,6 +124,21 @@ Pourquoi réaliser une interface ergonomique et réfléchie est difficile ?
 - Parce que cela nécessite une formation et une expérience spécifiques
 - Parce que c'est subjectif et que chacun a ses propres goûts
 
+## Question 5 - Ergonomie d'une landing page
+
+Comment pouvons-nous valider qu'une interface (par exemple, une landing page)
+est ergonomique ?
+
+## Réponse 5 - Ergonomie d'une landing page
+
+- Effectuer des tests utilisateurs en observant comment les personnes
+  interagissent avec la page.
+- Analyser les retours des utilisateurs via des formulaires ou des interviews
+  qualitatives.
+- Utiliser des outils d'analyse
+- Valider la compatibilité mobile et la rapidité de chargement (performance
+  technique et responsive design).
+
 ## Questions
 
 <!-- _class: lead -->
