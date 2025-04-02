@@ -148,7 +148,7 @@ navigation efficace.
 
 Les points positifs :
 
-- Beaucoup de statistiques à disposition
+- Beaucoup de statistiques
 - Interface simple pour créer des entraînements
 
 Les points négatifs :
@@ -168,13 +168,11 @@ est vrai que l'interface de Discord est très chargée et qu'il n'est pas toujou
 Les points positifs :
 
 - Application complète et riche en fonctionnalités
-- Application multiplateforme (web, mobile, desktop)
 
 Les points négatifs :
 
 - Interface très chargée
 - Difficulté à trouver ce que l'on cherche
-- Difficulté à comprendre comment interagir avec l'application
 
 Depuis le 25 mars 2025, l'application a été mise à jour et l'interface a été
 révisée. Nous verrons à l'utilisation si cette mise à jour a été bénéfique ou
@@ -193,7 +191,6 @@ quasi impossible d'accéder au contenu de l'application.
 Les points positifs :
 
 - Application simple et efficace
-- Application multiplateforme (web, mobile, desktop)
 
 Les points négatifs :
 
@@ -217,7 +214,6 @@ Les points positifs :
 
 - Application très simple et très efficace : réalise une seule tâche à la
   perfection
-- Application multiplateforme (web, mobile, desktop)
 
 Les points négatifs :
 
@@ -236,7 +232,6 @@ trains et d'acheter des billets.
 
 Les points positifs :
 
-- Application simple et efficace
 - Application très sobre et bien structurée
 
 Les points négatifs :
@@ -310,8 +305,8 @@ réfléchies.
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+  [Samule Sun](https://unsplash.com/@samule) sur
+  [Unsplash](https://unsplash.com/photos/grey-desk-lamp-on-top-of-office-desk-U6EXlQCZ938)
 
 [^nagging-wikipedia]:
     Nagging, [en.wikipedia.org](https://en.wikipedia.org/wiki/Nagging), 02 avril
@@ -324,4 +319,4 @@ réfléchies.
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1524820801657-fd59673fbb05?fit=crop&h=720
