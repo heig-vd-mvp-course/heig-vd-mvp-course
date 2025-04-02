@@ -39,9 +39,9 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - Mettre en commun les interviews réalisées jusqu'ici
 - Partager les réflexions autour de ces interviews
 - Prendre connaissance de la forme attendue pour la présentation sur la
-  [Prospection](./../../11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+  [Prospection][prospection]
 - Prendre connaissance des critères d'évaluation pour la présentation sur la
-  [Prospection](./../../11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+  [Prospection][prospection]
 - Compléter le rapport
 
 ### Déroulement

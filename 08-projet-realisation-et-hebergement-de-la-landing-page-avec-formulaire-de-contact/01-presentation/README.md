@@ -96,8 +96,14 @@ consultez le [support de cours][course-material]._
 
 - Mettre en commun les interviews réalisées jusqu'ici
 - Partager les réflexions autour de ces interviews
-- Prendre connaissance de la forme attendue pour la présentation sur la
+
+![bg right:40%][illustration-objectifs]
+
+### Objectifs (3/3)
+
+- Prendre connaissance des critères d'évaluation pour la présentation sur la
   [Prospection](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+- Compléter le rapport
 
 ![bg right:40%][illustration-objectifs]
 
@@ -146,16 +152,14 @@ il est recommandé pour la semaine suivante de :
 
 ### Déroulement
 
-Profitant des retours des interviews, réalisez un mockup de la landing page de
-votre projet. Commencez à réaliser la landing page et implémentez un formulaire
-de contact.
+Déployez un site web statique _"Hello world"_ sur un hébergeur de votre choix
+avec la technologie de votre choix. Il s'agira de la fondation pour votre MVP.
 
-Utilisez les outils et conseils vus en cours pour promouvoir votre projet et
-améliorer votre visibilité.
+Identifiez les mots clés pour le référencement de votre projet afin d'être
+visible sur Internet.
 
-Ayez toujours un regard critique sur votre projet et soyez prêt.es à recevoir
-des feedbacks constructifs. Et aussi, gardez en tête le fil rouge du cours et
-les prochaines étapes.
+Complétez le rapport avec les nouvelles données que vous avez acquises jusqu'ici
+et prenez connaissance de la présentation sur la prospection et son contenu.
 
 ### À faire pour la semaine suivante
 
