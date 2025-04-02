@@ -283,13 +283,12 @@ disposition. En voici une sélection :
 
 ### Validation des contrastes et palettes de couleurs
 
-- **Poline** ([meodai.github.io/poline](https://meodai.github.io/poline/))
-  Poline est un outil simple mais efficace pour générer des palettes de couleurs
-  respectant les critères d’accessibilité. Il vous permet de créer
-  automatiquement des combinaisons harmonieuses tout en vérifiant leur
-  lisibilité pour des personnes présentant des déficiences visuelles.
-- **Geenes Accessibility Editor**
-  ([geenes.app/editor/accessibility](https://geenes.app/editor/accessibility))  
+- [**Poline**](https://meodai.github.io/poline/) : Poline est un outil simple
+  mais efficace pour générer des palettes de couleurs respectant les critères
+  d’accessibilité. Il vous permet de créer automatiquement des combinaisons
+  harmonieuses tout en vérifiant leur lisibilité pour des personnes présentant
+  des déficiences visuelles.
+- [**Geenes Accessibility Editor**](https://geenes.app/editor/accessibility) :
   Geenes est une plateforme interactive permettant de tester facilement les
   contrastes et la lisibilité d’un design. Elle vous propose des ajustements
   précis des couleurs et valide la conformité des choix effectués par rapport
@@ -297,18 +296,16 @@ disposition. En voici une sélection :
 
 ### Outils généraux d'accessibilité web
 
-- **WAVE Evaluation Tool** ([wave.webaim.org](https://wave.webaim.org/))  
-  WAVE est une solution complète pour détecter rapidement les erreurs
-  d'accessibilité d’une page web. L’outil fournit des suggestions détaillées et
-  un aperçu visuel clair des améliorations nécessaires pour répondre aux
-  critères WCAG.
+- [**WAVE Evaluation Tool**](https://wave.webaim.org/) : WAVE est une solution
+  complète pour détecter rapidement les erreurs d'accessibilité d’une page web.
+  L’outil fournit des suggestions détaillées et un aperçu visuel clair des
+  améliorations nécessaires pour répondre aux critères WCAG.
 
-- **Lighthouse**
-  ([developers.google.com/web/tools/lighthouse](https://developers.google.com/web/tools/lighthouse))  
-  Intégré directement dans Google Chrome, Lighthouse est un outil performant
-  capable d’évaluer plusieurs dimensions essentielles d'une page web :
-  performance, SEO, accessibilité, etc. Il génère un rapport détaillé avec des
-  recommandations précises pour optimiser l'accessibilité et l’ergonomie.
+- [**PageSpeed Insights**](https://pagespeed.web.dev/) : PageSpeed Insights est
+  un outil de Google qui analyse la performance d’une page web. En plus de
+  fournir des recommandations pour améliorer la vitesse de chargement, il évalue
+  également l’accessibilité et propose des conseils pour optimiser l’expérience
+  utilisateur.
 
 ## Conclusion
 

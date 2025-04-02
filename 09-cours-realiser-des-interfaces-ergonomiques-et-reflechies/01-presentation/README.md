@@ -270,16 +270,19 @@ Nous allons les analyser ensemble.
 
 ### Validation des contrastes et palettes de couleurs
 
-- **Poline** : palette de couleurs et validation des contrastes
-- **Geenes Accessibility Editor** : éditeur de couleurs et validation des
-  contrastes
+- [**Poline**](https://meodai.github.io/poline/) : palette de couleurs et
+  validation des contrastes
+- [**Geenes Accessibility Editor**](https://geenes.app/editor/accessibility) :
+  éditeur de couleurs et validation des contrastes
 
 ![bg right:40%][illustration-contrastes]
 
 ### Outils généraux d'accessibilité web
 
-- **WAVE Evaluation Tool**: analyseur d'accessibilité web
-- **Lighthouse**: outil d'audit de performance et d'accessibilité
+- [**WAVE Evaluation Tool**](https://wave.webaim.org/) : analyseur
+  d'accessibilité web
+- [**PageSpeed Insights**](https://pagespeed.web.dev/) : analyseur de
+  performance et d'accessibilité web
 
 ![bg right:40%][illustration-accessibilite]
 
@@ -336,9 +339,6 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-avertissement]:
 	https://images.unsplash.com/photo-1520414283774-cd4cb599a987?fit=crop&h=720
-
----
-
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
 [illustration-accessibilite]:
