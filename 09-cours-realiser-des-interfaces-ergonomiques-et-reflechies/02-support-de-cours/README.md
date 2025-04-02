@@ -21,9 +21,10 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Garmin Connect](#garmin-connect)
   - [Discord](#discord)
   - [X/Twitter](#xtwitter)
-  - [TODO: Trouver d'autres exemples](#todo-trouver-dautres-exemples)
 - [Exemples d'interfaces que nous trouvons ergonomiques et réfléchies](#exemples-dinterfaces-que-nous-trouvons-ergonomiques-et-réfléchies)
-  - [TODO: Trouver d'autres exemples](#todo-trouver-dautres-exemples-1)
+  - [WhatsApp](#whatsapp)
+  - [CFF](#cff)
+  - [Loading Artist](#loading-artist)
 - [Outils pour concevoir une interface ergonomique et réfléchie](#outils-pour-concevoir-une-interface-ergonomique-et-réfléchie)
 - [Outils pour valider qu'une interface est accessible et ergonomique](#outils-pour-valider-quune-interface-est-accessible-et-ergonomique)
 - [Conclusion](#conclusion)
@@ -138,15 +139,133 @@ Pour réaliser ces étapes, il est possible d'utiliser plusieurs outils :
 
 ### Garmin Connect
 
+Garmin Connect est l'application de suivi d'activité de Garmin. Elle permet de
+suivre ses activités sportives et d'obtenir des statistiques sur ses
+performances.
+
+L'application est riche en fonctionnalités, mais l'interface ne permet pas une
+navigation efficace.
+
+Les points positifs :
+
+- Beaucoup de statistiques à disposition
+- Interface simple pour créer des entraînements
+
+Les points négatifs :
+
+- Interface peu intuitive
+- Navigation peu efficace
+
+![Garmin Connect](./images/garmin-connect.png)
+
 ### Discord
+
+Qui n'a jamais raccroché un appel vidéo sur [Discord](https://discord.com/)
+plutôt que d'arrêter de regarder un stream ou arrêter de partager l'écran ? Il
+est vrai que l'interface de Discord est très chargée et qu'il n'est pas toujours
+évident de trouver ce que l'on cherche.
+
+Les points positifs :
+
+- Application complète et riche en fonctionnalités
+- Application multiplateforme (web, mobile, desktop)
+
+Les points négatifs :
+
+- Interface très chargée
+- Difficulté à trouver ce que l'on cherche
+- Difficulté à comprendre comment interagir avec l'application
+
+Depuis le 25 mars 2025, l'application a été mise à jour et l'interface a été
+révisée. Nous verrons à l'utilisation si cette mise à jour a été bénéfique ou
+non.
+
+![Discord](./images/discord.png)
 
 ### X/Twitter
 
-### TODO: Trouver d'autres exemples
+L'application [X/Twitter](https://x.com/) est un réseau social qui permet de
+partager des messages courts (tweets) et de suivre des personnes.
+
+L'application se veut simple et efficace, mais si l'on est pas connecté, il est
+quasi impossible d'accéder au contenu de l'application.
+
+Les points positifs :
+
+- Application simple et efficace
+- Application multiplateforme (web, mobile, desktop)
+
+Les points négatifs :
+
+- Sans compte, l'application est quasi inutilisable
+- "Nagging"[^nagging-wikipedia] pour créer un compte
+
+![X/Twitter](./images/x-twitter.png)
 
 ## Exemples d'interfaces que nous trouvons ergonomiques et réfléchies
 
-### TODO: Trouver d'autres exemples
+### WhatsApp
+
+L'application [WhatsApp](https://www.whatsapp.com/) est une application de
+messagerie instantanée qui permet d'envoyer des messages, des photos, des
+vidéos, des fichiers audio et des fichiers.
+
+L'application est simple et efficace, et permet de discuter avec ses amis et sa
+famille.
+
+Les points positifs :
+
+- Application très simple et très efficace : réalise une seule tâche à la
+  perfection
+- Application multiplateforme (web, mobile, desktop)
+
+Les points négatifs :
+
+- Peu de possibilité de personnaliser l'interface
+
+![WhatsApp](./images/whatsapp.png)
+
+### CFF
+
+L'application [CFF](https://www.cff.ch/) est l'application des Chemins de fer
+fédéraux suisses. Elle permet de consulter les horaires des trains, d'acheter
+des billets et de consulter les informations sur les trains.
+
+L'application est simple et efficace, et permet de consulter les horaires des
+trains et d'acheter des billets.
+
+Les points positifs :
+
+- Application simple et efficace
+- Application très sobre et bien structurée
+
+Les points négatifs :
+
+- Pour acheter des billets internationaux, il faut se rendre sur le site
+  internet (qui lui, n'est pas très ergonomique pour cet aspect)
+- Type de billet à acheter pas toujours évident à comprendre (ex. billet de
+  parcours, billet Mobilis, etc.)
+
+![CFF](./images/cff.png)
+
+### Loading Artist
+
+L'application [Loading Artist](https://loadingartist.com/) est un site internet
+qui permet de consulter des bandes dessinées humoristiques.
+
+L'application est simple et efficace, et permet de consulter des bandes
+dessinées humoristiques.
+
+Les points positifs :
+
+- Interface simple et efficace pour consulter des bandes dessinées (voir le
+  premier, le précédant, le suivant, un aléatoire, etc.)
+
+Les points négatifs :
+
+- Interface très simple, mais peut-être trop chargée ?
+
+![Loading Artist](./images/loading-artist.png)
 
 ## Outils pour concevoir une interface ergonomique et réfléchie
 
@@ -194,7 +313,9 @@ réfléchies.
   [Annie Spratt](https://unsplash.com/@anniespratt) sur
   [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
 
-[^example]: Example, [example.com](https://example.com/), 20 février 2025
+[^nagging-wikipedia]:
+    Nagging, [en.wikipedia.org](https://en.wikipedia.org/wiki/Nagging), 02 avril
+    2025
 
 <!-- URLs -->
 

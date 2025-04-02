@@ -119,7 +119,7 @@ Pourquoi réaliser une interface ergonomique et réfléchie est difficile ?
 
 ## Question 4 - Réponse
 
-- Parce que cela nécessite de prendre en compte de nombreux aspects ( ergonomie,
+- Parce que cela nécessite de prendre en compte de nombreux aspects (ergonomie,
   accessibilité, esthétique, etc.)
 - Parce que cela nécessite une formation et une expérience spécifiques
 - Parce que c'est subjectif et que chacun a ses propres goûts

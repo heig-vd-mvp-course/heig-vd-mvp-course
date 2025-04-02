@@ -81,15 +81,44 @@ consultez le [support de cours][course-material]._
 
 ## Objectifs (1/2)
 
-- TODO
+- Décrire les éléments clés qui composent une interface ergonomique et réfléchie
+- Identifier dans une interface quels sont les éléments ergonomiques et
+  réfléchies ou non
+- Lister les outils qui permettent de concevoir une interface ergonomique et
+  réfléchie
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
-- TODO
+- Lister les outils qui permettent de valider qu'une interface est accessible et
+  ergonomique
 
 ![bg right:40%][illustration-objectifs]
+
+## Qu'est-ce qu'une interface ergonomique et réfléchie ?
+
+## Comment réaliser une interface ergonomique et réfléchie ?
+
+## Exemples d'interfaces que nous ne trouvons pas ergonomiques et réfléchies
+
+### Garmin Connect
+
+### Discord
+
+### X/Twitter
+
+## Exemples d'interfaces que nous trouvons ergonomiques et réfléchies
+
+### WhatsApp
+
+### CFF
+
+### Loading Artist
+
+## Outils pour concevoir une interface ergonomique et réfléchie
+
+## Outils pour valider qu'une interface est accessible et ergonomique
 
 ## Questions
 
