@@ -107,14 +107,6 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-objectifs]
 
-### Objectifs (3/3)
-
-- Prendre connaissance des critères d'évaluation pour la présentation sur la
-  [Prospection](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
-- Compléter le rapport
-
-![bg right:40%][illustration-objectifs]
-
 ### Déroulement
 
 Déployez un site web statique _"Hello world"_ sur un hébergeur de votre choix
@@ -140,26 +132,35 @@ il est recommandé pour la semaine suivante de :
 
 <!-- _class: lead -->
 
-### Objectifs
+### Objectifs (1/2)
 
 - Réaliser un mockup de la landing page
 - Commencer à réaliser la landing page
 - Implémenter un formulaire de contact
 - Identifier les canaux de communication pour promouvoir le projet
+
+![bg right:40%][illustration-objectifs]
+
+### Objectifs (2/2)
+
 - Commencer à promouvoir la landing page
 - Commencer à réaliser la présentation sur la [Prospection][prospection]
 - Compléter le rapport
 
+![bg right:40%][illustration-objectifs]
+
 ### Déroulement
 
-Déployez un site web statique _"Hello world"_ sur un hébergeur de votre choix
-avec la technologie de votre choix. Il s'agira de la fondation pour votre MVP.
+Profitant des retours des interviews, réalisez un mockup de la landing page de
+votre projet. Continuez à réaliser la landing page et implémentez un formulaire
+de contact.
 
-Identifiez les mots clés pour le référencement de votre projet afin d'être
-visible sur Internet.
+Utilisez les outils et conseils vus en cours pour promouvoir votre projet et
+améliorer votre visibilité.
 
-Complétez le rapport avec les nouvelles données que vous avez acquises jusqu'ici
-et prenez connaissance de la présentation sur la prospection et son contenu.
+Ayez toujours un regard critique sur votre projet et soyez prêt.es à recevoir
+des feedbacks constructifs. Et aussi, gardez en tête le fil rouge du cours et
+les prochaines étapes.
 
 ### À faire pour la semaine suivante
 
