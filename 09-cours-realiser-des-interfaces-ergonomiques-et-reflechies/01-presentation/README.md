@@ -254,6 +254,14 @@ Nous allons les analyser ensemble.
 
 ## Outils pour concevoir une interface ergonomique et réfléchie
 
+- Papier et crayon (old-school mais souvent le plus efficace)
+- [Figma](https://www.figma.com/)
+- [Penpot](https://penpot.app/) (une alternative open-source à Figma)
+- [Balsamiq](https://balsamiq.com/)
+- [Wireframe.cc](https://wireframe.cc/)
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+
 ## Outils pour valider qu'une interface est accessible et ergonomique
 
 - Contrastes
