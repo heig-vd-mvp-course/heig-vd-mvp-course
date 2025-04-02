@@ -18,7 +18,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Qu'est-ce qu'une interface ergonomique et réfléchie ?](#quest-ce-quune-interface-ergonomique-et-réfléchie-)
 - [Comment réaliser une interface ergonomique et réfléchie ?](#comment-réaliser-une-interface-ergonomique-et-réfléchie-)
 - [Exemples d'interfaces que nous ne trouvons pas ergonomiques et réfléchies](#exemples-dinterfaces-que-nous-ne-trouvons-pas-ergonomiques-et-réfléchies)
+  - [Garmin Connect](#garmin-connect)
+  - [Discord](#discord)
+  - [X/Twitter](#xtwitter)
+  - [TODO: Trouver d'autres exemples](#todo-trouver-dautres-exemples)
 - [Exemples d'interfaces que nous trouvons ergonomiques et réfléchies](#exemples-dinterfaces-que-nous-trouvons-ergonomiques-et-réfléchies)
+  - [TODO: Trouver d'autres exemples](#todo-trouver-dautres-exemples-1)
 - [Outils pour concevoir une interface ergonomique et réfléchie](#outils-pour-concevoir-une-interface-ergonomique-et-réfléchie)
 - [Outils pour valider qu'une interface est accessible et ergonomique](#outils-pour-valider-quune-interface-est-accessible-et-ergonomique)
 - [Conclusion](#conclusion)
@@ -87,7 +92,11 @@ principes :
 
 Beaucoup de ces principes sont issus de la psychologie cognitive et de
 l'ergonomie et sont, pour la plupart, des principes de bon sens et/ou
-subjectifs.
+subjectifs, ce qui rend leur application difficile.
+
+Il est donc important de garder à l'esprit que ces principes ne sont pas des
+règles absolues, mais des recommandations qui doivent être adaptées à chaque
+situation.
 
 ## Comment réaliser une interface ergonomique et réfléchie ?
 
@@ -127,7 +136,17 @@ Pour réaliser ces étapes, il est possible d'utiliser plusieurs outils :
 
 ## Exemples d'interfaces que nous ne trouvons pas ergonomiques et réfléchies
 
+### Garmin Connect
+
+### Discord
+
+### X/Twitter
+
+### TODO: Trouver d'autres exemples
+
 ## Exemples d'interfaces que nous trouvons ergonomiques et réfléchies
+
+### TODO: Trouver d'autres exemples
 
 ## Outils pour concevoir une interface ergonomique et réfléchie
 
@@ -149,11 +168,25 @@ Pour réaliser ces étapes, il est possible d'utiliser plusieurs outils :
 
 ## Conclusion
 
-TODO
+Réaliser des interfaces ergonomiques et réfléchies est un métier à part entière.
+Dans cette brève introduction, nous avons vu les principes de base qui
+permettent de réaliser des interfaces ergonomiques et réfléchies.
+
+Nous avons également vu les étapes pour les créer et les outils qui permettent
+de les réaliser.
+
+Différents exemples ont été présentés pour illustrer les principes de base.
+
+Grâce à différents outils, nous pouvons valider que ces principes de base sont
+respectés.
 
 ## Ce que vous ferez ensuite
 
-TODO
+Dans le projet, vous pourrez prendre le temps de réfléchir à l'ergonomie de
+votre application.
+
+Ceci vous permettra de vous entraîner à réaliser des interfaces ergonomiques et
+réfléchies.
 
 ## Sources
 

@@ -79,21 +79,50 @@ _paginate: false
 _Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
 cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
-## Question 1
+## Question 1 - Donnée
 
-TODO
+Pourquoi faisons-nous des interfaces ergonomiques et réfléchies ?
 
-## Réponse 1
+## Question 1 - Réponse
 
-TODO
+- Pour que l'utilisateur puisse comprendre rapidement comment interagir avec
+  l'application
+- Pour minimiser les erreurs
+- Pour maximiser la satisfaction et l'engagement
+- Pour que l'utilisateur puisse comprendre rapidement comment interagir avec
+  l'application
 
-## Question 2
+## Question 2 - Donnée
 
-TODO
+Qu'est-ce qu'une interface ergonomique et réfléchie ?
 
-## Réponse 2
+## Question 2 - Réponse
 
-TODO
+- Une interface qui est facile à utiliser et à comprendre
+- Une interface qui est agréable à utiliser
+- Une interface qui est accessible à tous
+
+## Question 3 - Donnée
+
+Quelles sont les étapes pour réaliser une interface ergonomique et réfléchie ?
+
+## Question 3 - Réponse
+
+- Comprendre les besoins de l'utilisateur
+- Concevoir l'interface
+- Tester l'interface
+- Améliorer l'interface
+
+## Question 4 - Donnée
+
+Pourquoi réaliser une interface ergonomique et réfléchie est difficile ?
+
+## Question 4 - Réponse
+
+- Parce que cela nécessite de prendre en compte de nombreux aspects ( ergonomie,
+  accessibilité, esthétique, etc.)
+- Parce que cela nécessite une formation et une expérience spécifiques
+- Parce que c'est subjectif et que chacun a ses propres goûts
 
 ## Questions
 
