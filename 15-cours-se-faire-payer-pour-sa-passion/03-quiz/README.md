@@ -79,21 +79,9 @@ _paginate: false
 _Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
 cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
-## Question 1
+## Question 1 - Donnée
 
-TODO
-
-## Réponse 1
-
-TODO
-
-## Question 2
-
-TODO
-
-## Réponse 2
-
-TODO
+## Question 1 - Réponse
 
 ## Questions
 

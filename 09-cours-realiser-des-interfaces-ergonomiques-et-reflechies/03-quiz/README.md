@@ -79,21 +79,66 @@ _paginate: false
 _Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
 cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
-## Question 1
+## Question 1 - Donnée
 
-TODO
+Pourquoi faisons-nous des interfaces ergonomiques et réfléchies ?
 
-## Réponse 1
+## Question 1 - Réponse
 
-TODO
+- Pour que l'utilisateur puisse comprendre rapidement comment interagir avec
+  l'application
+- Pour minimiser les erreurs
+- Pour maximiser la satisfaction et l'engagement
+- Pour que l'utilisateur puisse comprendre rapidement comment interagir avec
+  l'application
 
-## Question 2
+## Question 2 - Donnée
 
-TODO
+Qu'est-ce qu'une interface ergonomique et réfléchie ?
 
-## Réponse 2
+## Question 2 - Réponse
 
-TODO
+- Une interface qui est facile à utiliser et à comprendre
+- Une interface qui est agréable à utiliser
+- Une interface qui est accessible à tous
+
+## Question 3 - Donnée
+
+Quelles sont les étapes pour réaliser une interface ergonomique et réfléchie ?
+
+## Question 3 - Réponse
+
+- Comprendre les besoins de l'utilisateur
+- Concevoir l'interface
+- Tester l'interface
+- Améliorer l'interface
+
+## Question 4 - Donnée
+
+Pourquoi réaliser une interface ergonomique et réfléchie est difficile ?
+
+## Question 4 - Réponse
+
+- Parce que cela nécessite de prendre en compte de nombreux aspects (ergonomie,
+  accessibilité, esthétique, etc.)
+- Parce que cela nécessite une formation et une expérience spécifiques
+- Parce que c'est subjectif et que chacun a ses propres goûts
+
+## Question 5 - Donnée
+
+Comment pouvons-nous valider qu'une interface (par exemple, une landing page)
+est ergonomique ?
+
+## Réponse 5 - Réponse
+
+- Effectuer des tests utilisateurs en observant comment les personnes
+  interagissent avec la page.
+- Analyser les retours des utilisateurs via des formulaires ou des interviews
+  qualitatives.
+- Utiliser des outils d'analyse comme **WAVE Evaluation Tool** et **PageSpeed
+  Insights** pour évaluer l'accessibilité et la performance de la page.
+- Valider la compatibilité mobile et la rapidité de chargement (performance
+  technique et responsive design).
 
 ## Questions
 
@@ -104,8 +149,8 @@ Est-ce que vous avez des questions ?
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+  [Samule Sun](https://unsplash.com/@samule) sur
+  [Unsplash](https://unsplash.com/photos/grey-desk-lamp-on-top-of-office-desk-U6EXlQCZ938)
 
 <!-- URLs -->
 
@@ -121,4 +166,4 @@ Est-ce que vous avez des questions ?
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1524820801657-fd59673fbb05?fit=crop&h=720

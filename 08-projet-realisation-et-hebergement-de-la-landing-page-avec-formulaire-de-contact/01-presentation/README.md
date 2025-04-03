@@ -96,8 +96,6 @@ consultez le [support de cours][course-material]._
 
 - Mettre en commun les interviews réalisées jusqu'ici
 - Partager les réflexions autour de ces interviews
-- Prendre connaissance de la forme attendue pour la présentation sur la
-  [Prospection](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
 
 ![bg right:40%][illustration-objectifs]
 
@@ -130,6 +128,52 @@ il est recommandé pour la semaine suivante de :
   votre public cible
 - Interviewer ces personnes pour récolter des retours
 
+## Séance 2/2
+
+<!-- _class: lead -->
+
+### Objectifs (1/2)
+
+- Réaliser un mockup de la landing page
+- Commencer à réaliser la landing page
+- Implémenter un formulaire de contact
+- Identifier les canaux de communication pour promouvoir le projet
+
+![bg right:40%][illustration-objectifs]
+
+### Objectifs (2/2)
+
+- Commencer à promouvoir la landing page
+- Commencer à réaliser la présentation sur la [Prospection][prospection]
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
+### Déroulement
+
+Profitant des retours des interviews, réalisez un mockup de la landing page de
+votre projet. Continuez à réaliser la landing page et implémentez un formulaire
+de contact.
+
+Utilisez les outils et conseils vus en cours pour promouvoir votre projet et
+améliorer votre visibilité.
+
+Ayez toujours un regard critique sur votre projet et soyez prêt.es à recevoir
+des feedbacks constructifs. Et aussi, gardez en tête le fil rouge du cours et
+les prochaines étapes.
+
+### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser la landing page
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible et les interviewer
+- Partager votre projet autour de vous selon les canaux de communication
+  identifiés
+- Finaliser et répéter la présentation sur la [Prospection][prospection]
+
 ## Sources
 
 - [Illustration principale][illustration-principale] par
@@ -156,3 +200,5 @@ il est recommandé pour la semaine suivante de :
 	https://images.unsplash.com/photo-1505178041309-ad46d2e4207b?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
+[prospection]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/02-support-de-cours/README.md
