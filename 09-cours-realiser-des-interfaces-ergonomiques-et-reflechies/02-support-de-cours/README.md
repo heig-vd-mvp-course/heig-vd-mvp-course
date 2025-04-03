@@ -266,13 +266,61 @@ Les points négatifs :
 
 ## Outils pour concevoir une interface ergonomique et réfléchie
 
-- Papier et crayon (old-school mais souvent le plus efficace)
-- [Figma](https://www.figma.com/)
-- [Penpot](https://penpot.app/) (une alternative open-source à Figma)
-- [Balsamiq](https://balsamiq.com/)
+Une interface ergonomique est pensée en amont afin d'offrir une expérience
+fluide et intuitive aux utilisateurs. Pour y parvenir, voici une sélection
+d'outils efficaces et largement reconnus :
+
+- **Papier et crayon** : old-school mais souvent le plus efficace
+
+**Création de Wireframes**
+
+Le wireframe est essentiel pour structurer clairement les écrans et les parcours
+utilisateurs dès les premières étapes du projet.
+
+- [**Balsamiq Wireframes**](https://balsamiq.com) Un outil rapide et simple pour
+  esquisser des wireframes basse fidélité. Balsamiq est idéal pour poser
+  rapidement les bases ergonomiques de votre interface et valider vos idées
+  initiales.
+
+**Création de Mockups et Prototypes interactifs**
+
+Les mockups et prototypes permettent de concrétiser les choix graphiques et
+ergonomiques de manière avancée.
+
+- [**Figma**](https://figma.com) Plateforme collaborative incontournable pour
+  réaliser des maquettes visuelles interactives, Figma facilite la collaboration
+  au sein des équipes de design et de développement.
+- [**Penpot**](https://penpot.app) Alternative open-source à Figma, Penpot
+  permet de concevoir des interfaces ergonomiques avec des fonctionnalités de
+  collaboration étendues, tout en intégrant directement les principes
+  d’accessibilité dès la conception.
+- [**Adobe XD**](https://adobe.com/products/xd) : Adobe XD permet de concevoir
+  des prototypes interactifs détaillés avec une prise en main intuitive, idéale
+  pour tester et valider des interactions complexes.
+
+**Outils complémentaires pour guider la conception**
+
+Quelques outils additionnels pour enrichir votre réflexion ergonomique :
+
+- [**Checklist Design**](https://www.checklist.design) : Liste exhaustive et
+  interactive de bonnes pratiques pour chaque élément clé d'une interface
+  utilisateur : formulaires, boutons, pages de connexion, navigation, etc. Une
+  ressource précieuse pour vérifier que vous n'oubliez rien d'important.
+- [**Laws of UX**](https://lawsofux.com) : Présentation simple et accessible des
+  principes fondamentaux d’ergonomie et de psychologie cognitive à prendre en
+  compte dans vos interfaces. Idéal pour comprendre les raisons derrière
+  certains choix ergonomiques et améliorer votre UX de manière argumentée.
+
+**Autres outils de design graphique**
+
 - [Wireframe.cc](https://wireframe.cc/)
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+
+> [!TIP] Une interface réfléchie est toujours le résultat d'une démarche
+> itérative. Ne négligez pas les tests et les retours utilisateurs à chaque
+> étape du processus pour garantir la pertinence et l’efficacité de vos choix
+> ergonomiques.
 
 ## Outils pour valider qu'une interface est accessible et ergonomique
 
