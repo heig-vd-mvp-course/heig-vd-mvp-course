@@ -172,47 +172,129 @@ Il existe plusieurs façons d'obtenir un hébergement :
 
 ## Outils communs pour héberger et déployer une application web
 
-<!-- TODO: Guidoux -->
+<!-- _class: lead -->
 
 ### Services d'hébergement
 
-<!-- TODO: Guidoux -->
+- [Infomaniak](https://www.infomaniak.com/)
+- [Exoscale](https://www.exoscale.com/)
+- [OVH](https://www.ovh.com/)
+- [AWS](https://aws.amazon.com/)
+- [Google Cloud](https://cloud.google.com/)
+- [Microsoft Azure](https://azure.microsoft.com/)
+- ....
+
+![bg right:40%][illustration-obtenir-un-hebergement]
 
 ### Sites statiques
 
-<!-- TODO: Guidoux -->
+- [GitHub Pages](https://pages.github.com/)
+- [GitLab Pages](https://pages.gitlab.io/)
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
+- [Cloudflare Pages](https://pages.cloudflare.com/)
+- [Firebase Hosting](https://firebase.google.com/docs/hosting)
+
+![bg right:40%][illustration-deployer-des-sites-statiques]
 
 ### Sites dynamiques
 
-<!-- TODO: Guidoux -->
+- [Heroku](https://www.heroku.com/)
+- [Render](https://render.com/)
+- [Railway](https://railway.app/)
+- [Vercel](https://vercel.com/)
+
+![bg right:40%][illustration-deployer-des-sites-dynamiques]
 
 ## Mettre en place un pipeline de CI/CD pour la livraison/le déploiement continu d'applications
 
-<!-- TODO: Guidoux -->
+<!-- _class: lead -->
 
 ### Que devons-nous faire manuellement (avant même d'utiliser un pipeline) ?
 
-<!-- TODO: Guidoux -->
+- Review
+- Build
+- Test
+- Containerisation
+- Release
+- Deploy
+- Test E2E
+
+![bg right:40%][illustration-ci-cd-manuel]
 
 ### Pourquoi automatisons-nous ?
 
-<!-- TODO: Guidoux -->
+- Minimiser les erreurs humaines
+- Gagner du temps
+- Standardiser le processus de déploiement
+- Documentation du processus de déploiement
+
+![bg right:40%][illustration-ci-cd-why]
 
 ### Que pouvons-nous automatiser (ou non) ?
 
-<!-- TODO: Guidoux -->
+**TOUT**
+
+En fonction du temps et de l'effort que vous êtes prêt à investir.
+
+![bg right:40%][illustration-ci-cd-what]
 
 ### Formes d'automatisation
 
-<!-- TODO: Guidoux -->
+Posez-vous la question, quelles ressources avez-vous à disposition ? Quelle
+connaissances avez-vous ?
+
+Suivant la réponse, vous allez choisir une forme d'automatisation différente.
+
+![bg right:40%][illustration-ci-cd-forms]
 
 #### Forme _"Push"_
 
-<!-- TODO: Guidoux -->
+<div class="two-columns">
+<div>
+  
+**Avantages:**
+
+- Simple
+- Rapide
+- Peu de configuration
+
+</div>
+<div>
+
+**Inconvénients:**
+
+- Peu flexible
+- Pas de contrôle sur le processus de déploiement
+
+</div>
+</div>
+
+Exemples : Heroku, Render, Railway, Vercel
 
 #### Forme _"Pull"_
 
-<!-- TODO: Guidoux -->
+<div class="two-columns">
+<div>
+
+**Avantages:**
+
+- Flexible
+- Contrôle total sur le processus de déploiement
+
+</div>
+<div>
+
+**Inconvénients:**
+
+- Plus complexe
+- Plus long à mettre en place
+
+</div>
+</div>
+
+Exemples : GitHub Actions, GitLab CI/CD, Jenkins, Travis CI, Exoscale, AWS,
+Google Cloud, Azure
 
 ## Questions
 
@@ -253,6 +335,9 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-deployer-des-sites-dynamiques] par
   [Jan Huber](https://unsplash.com/@jan_huber) sur
   [Unsplash](https://unsplash.com/photos/yellow-and-red-light-streaks-NjV34SrbM_g)
+
+## Sources (2/3)
+
 - [Illustration][illustration-installation-et-configuration-manuelle-des-outils]
   par [Todd Quackenbush](https://unsplash.com/@toddquackenbush) sur
   [Unsplash](https://unsplash.com/photos/clothes-iron-hammer-axe-flashlight-and-pitcher-on-brown-wooden-table-IClZBVw5W5A)
@@ -262,6 +347,27 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
+- [Illustration][illustration-ci-cd-manuel] par
+  [Stephanie LeBlanc](https://unsplash.com/@sleblanc01) sur
+  [Unsplash](https://unsplash.com/photos/green-fruit-on-brown-tree-trunk-sGzCGGc_aaA)
+- [Illustration][illustration-ci-cd-why] par
+  [Ronnie Schmutz](https://unsplash.com/@ronnie_schmutz) sur
+  [Unsplash](https://unsplash.com/photos/a-picture-of-a-man-on-a-building-KLODcn913KQ)
+- [Illustration][illustration-ci-cd-what] par
+  [Elena Mozhvilo](https://unsplash.com/@miracleday) sur
+  [Unsplash](https://unsplash.com/photos/gold-and-silver-round-frame-magnifying-glass-j06gLuKK0GM)
+- [Illustration][illustration-ci-cd-forms] par
+  [Tom Swinnen](https://unsplash.com/@shottrotter) sur
+  [Unsplash](https://unsplash.com/photos/a-building-with-glass-windows-I0oXW6yB-Tg)
+- [Illustration][illustration-ci-cd-push] par
+  [Nik](https://unsplash.com/@helloimnik) sur
+  [Unsplash](https://unsplash.com/photos/a-door-handle-with-a-push-sign-on-it-uEe-bkOMOfE)
+
+## Sources (3/3)
+
+- [Illustration][illustration-ci-cd-pull] par
+  [Jumpei Mokudai](https://unsplash.com/@smoothjazz) sur
+  [Unsplash](https://unsplash.com/photos/a-door-handle-on-a-green-door-with-a-push-button-CSyueXlnPDk)
 
 <!-- URLs -->
 
@@ -298,3 +404,15 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1649880333541-1d4cc41f5000?fit=crop&h=720
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
+[illustration-ci-cd-manuel]:
+	https://images.unsplash.com/photo-1579380150666-fd4ba86e6a5f?fit=crop&h=720
+[illustration-ci-cd-why]:
+	https://images.unsplash.com/photo-1705500573612-a2bd75e3f566?fit=crop&h=720
+[illustration-ci-cd-what]:
+	https://images.unsplash.com/photo-1587740896339-96a76170508d?fit=crop&h=720
+[illustration-ci-cd-forms]:
+	https://images.unsplash.com/photo-1663701073466-b2e0d8c78ee0?fit=crop&h=720
+[illustration-ci-cd-push]:
+	https://images.unsplash.com/photo-1650387243805-d8251a9a0850?fit=crop&h=720
+[illustration-ci-cd-pull]:
+	https://images.unsplash.com/photo-1646037019947-b484cc05389b?fit=crop&h=720
