@@ -26,7 +26,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - Présenter le travail effectué sur la prospection
 - Répondre aux questions
 - Recevoir des feedbacks constructifs
-- Évaluer les présentation des autres groupes
+- Évaluer les présentations des autres groupes
 - Donner des feedbacks constructifs
 
 ## Déroulement

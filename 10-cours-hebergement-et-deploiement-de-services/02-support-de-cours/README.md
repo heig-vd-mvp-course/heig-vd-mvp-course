@@ -14,29 +14,298 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
+- [Héberger une application web](#héberger-une-application-web)
+  - [Obtenir un hébergement](#obtenir-un-hébergement)
+  - [Obtenir un nom de domaine](#obtenir-un-nom-de-domaine)
+- [Déployer une application web](#déployer-une-application-web)
+  - [Déployer des sites statiques](#déployer-des-sites-statiques)
+  - [Déployer des sites dynamiques](#déployer-des-sites-dynamiques)
+- [Outils communs pour héberger et déployer une application web](#outils-communs-pour-héberger-et-déployer-une-application-web)
+  - [Services d'hébergement](#services-dhébergement)
+  - [Sites statiques](#sites-statiques)
+  - [Sites dynamiques](#sites-dynamiques)
+- [Mettre en place un pipeline de CI/CD pour la livraison/le déploiement continu d'applications](#mettre-en-place-un-pipeline-de-cicd-pour-la-livraisonle-déploiement-continu-dapplications)
+  - [Que devons-nous faire manuellement (avant même d'utiliser un pipeline) ?](#que-devons-nous-faire-manuellement-avant-même-dutiliser-un-pipeline-)
+  - [Pourquoi automatisons-nous ?](#pourquoi-automatisons-nous-)
+  - [Que pouvons-nous automatiser (ou non) ?](#que-pouvons-nous-automatiser-ou-non-)
+  - [Formes d'automatisation](#formes-dautomatisation)
 - [Conclusion](#conclusion)
-- [Ce que vous ferez ensuite](#quest-ce-que-vous-ferez-ensuite-)
+- [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
+- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
 
 ## Objectifs
 
-- TODO
+Cette séance a pour but de vous présenter les différentes formes de déploiement
+et d'hébergement d'applications web. Nous allons aborder les différentes
+possibilités d'hébergement selon le type de stack technologique que vous
+utilisez. Nous allons également voir comment mettre en place un pipeline de
+CI/CD pour le développement et le déploiement continu d'applications.
+
+De façon plus concise, à la fin de cette séance, vous devriez être capable de :
+
+- Décrire comment héberger une application web selon le type de stack
+  technologique
+- Décrire où héberger une application web selon le type de stack technologique
+- Décrire comment mettre en place un pipeline de CI/CD pour le
+  développement/déploiement continu d'applications
+
+## Héberger une application web
+
+Héberger une application web consiste à la rendre accessible sur Internet. Cela
+peut se faire de différentes manières selon le type d'application et les
+ressources nécessaires. Il existe plusieurs types d'hébergement :
+
+- Hébergement partagé : plusieurs sites web partagent le même serveur
+- Hébergement VPS : un serveur virtuel dédié à un seul site web
+- Hébergement dédié : un serveur physique dédié à un seul site web
+- Hébergement cloud : un serveur virtuel dans le cloud, avec des ressources
+  évolutives
+- Hébergement PaaS/SaaS : une plateforme de services/un service en ligne qui
+  gère l'hébergement et le déploiement de l'application
+
+### Obtenir un hébergement
+
+Il existe plusieurs façons d'obtenir un hébergement pour votre application web.
+Vous pouvez :
+
+- Louer un serveur chez un fournisseur d'hébergement
+- Utiliser un service d'hébergement cloud
+- Utiliser un service d'hébergement PaaS/SaaS
+- Votre propre serveur
+
+### Obtenir un nom de domaine
+
+Un nom de domaine est l'adresse de votre site web sur Internet. Il est essentiel
+pour que les utilisateurs puissent accéder à votre application sans devoir se
+souvenir de l'adresse IP du serveur. Un nom de domaine est généralement
+représenté par une chaîne de caractères, comme <https://example.com>.
+
+Un nom de domaine est généralement acheté auprès d'un registraire de noms de
+domaine. Il est important de choisir un nom de domaine qui soit facile à retenir
+et à écrire.
+
+Le nom de domaine doit être configuré pour pointer vers votre infrastructure
+d'hébergement. Cela peut se faire en configurant les enregistrements DNS du nom
+de domaine pour qu'ils pointent vers l'adresse IP de votre serveur ou vers le
+service d'hébergement que vous utilisez.
+
+## Déployer une application web
+
+Une fois un hébergement obtenu, il faut déployer l'application web. Le
+déploiement consiste à transférer les fichiers de l'application sur le serveur
+d'hébergement et à configurer le serveur pour qu'il puisse exécuter
+l'application. Cela peut se faire de différentes manières selon le type
+d'application et les ressources nécessaires.
+
+### Déployer des sites statiques
+
+Nous avons déjà exploré les sites statiques avec GitHub/GitLab Pages lors de
+précédents cours.
+
+Ces solutions hébergent simplement des fichiers statiques sur un serveur web qui
+les met à disposition des utilisateurs. Il n'y a pas de traitement côté serveur,
+tout est géré côté client. Les fichiers sont généralement au format HTML, CSS et
+JavaScript.
+
+Ces solutions sont extrêmement simples à mettre en place, à utiliser et peu
+coûteuses : il suffit de pousser les fichiers sur le dépôt Git et de configurer
+le service d'hébergement pour qu'il serve les fichiers. Il n'y a pas de
+configuration complexe à faire, tout est géré par le service d'hébergement.
+
+### Déployer des sites dynamiques
+
+Un site statique est un site web dont le contenu est fixe et ne change pas
+dynamiquement/ne demande pas de manipuler/persister des données.
+
+Un site dynamique est un site web dont le contenu est généré dynamiquement et
+peut changer en fonction des interactions de l'utilisateur. Il nécessite un
+traitement côté serveur pour générer le contenu et peut nécessiter une base de
+données pour stocker les données.
+
+#### Installation et configuration manuelle des outils
+
+Pour déployer un site dynamique, il faut installer et configurer les outils
+nécessaires sur le serveur d'hébergement. Cela peut inclure :
+
+- Un serveur web (Apache, Nginx, etc.)
+- Un serveur d'application (Node.js, Ruby on Rails, etc.)
+- Un serveur de base de données (MySQL, PostgreSQL, etc.)
+- etc.
+
+Dans un cas d'hébergement VPS ou dédié, il faut installer et configurer tous ces
+outils de façon manuelle. Cela peut être complexe et nécessite des compétences
+techniques avancées. Il faut également s'assurer que le serveur est sécurisé et
+que les données sont sauvegardées régulièrement.
+
+Pendant très longtemps, c'était la seule façon de déployer un site dynamique. Il
+y a encore des cas où cela est nécessaire, par exemple pour des applications
+très spécifiques ou pour des applications qui nécessitent un contrôle total sur
+le serveur.
+
+#### Containerisation des services
+
+Avec l’avènement de la containerisation, il est devenu possible de déployer des
+applications de manière plus simple et plus rapide. La containerisation consiste
+à emballer une application et toutes ses dépendances dans un conteneur
+(_"container"_), qui peut être exécuté sur n'importe quel serveur supportant la
+technologie de containerisation.
+
+Cela permet de simplifier le déploiement et de réduire les problèmes de
+compatibilité entre les différents environnements.
+
+La containerisation est devenue très populaire ces dernières années. Elle permet
+de gérer facilement des conteneurs et de les déployer sur des serveurs. Ils
+permettent également de gérer des clusters de serveurs et de répartir la charge
+entre les différents serveurs.
+
+Cela permet de déployer des applications dynamiques de manière plus simple et
+plus rapide car les conteneurs peuvent être exécutés sur n'importe quel serveur
+sans avoir à se soucier de la configuration du serveur. Il suffit de déployer le
+conteneur sur le serveur et de le configurer pour qu'il puisse communiquer avec
+la base de données et les autres services nécessaires.
+
+Cela permet également de simplifier la gestion des dépendances et de réduire les
+problèmes de compatibilité entre les différents environnements.
+
+#### Solutions PaaS et SaaS
+
+Les solutions _Platform as a Service_ (PaaS) et _Software as a Service_ (SaaS)
+sont des services d'hébergement qui gèrent l'hébergement et le déploiement de
+l'application. Elles permettent de déployer des applications dynamiques sans
+avoir à se soucier de la configuration du serveur et des outils nécessaires.
+
+Ces solutions sont généralement très simples à utiliser et à configurer ; tout
+est géré pour vous.
+
+Il suffit de configurer le service d'hébergement et il peut se et de le
+configurer pour qu'il puisse communiquer avec la base de données et les autres
+services.
+
+En revanche, ces solutions peuvent être plus coûteuses que l'hébergement VPS ou
+dédié, car elles facturent généralement en fonction de l'utilisation des
+ressources. Elles peuvent également être moins flexibles que l'hébergement VPS
+ou dédié, car elles peuvent imposer des limitations sur les ressources
+disponibles et sur la configuration du serveur.
+
+Si la technologie de votre application est supportée par le service
+d'hébergement, cela peut être une bonne solution pour déployer votre application
+car vous n'avez pas à vous soucier de la configuration du serveur et des outils
+nécessaires.
+
+## Outils communs pour héberger et déployer une application web
+
+<!-- TODO: Guidoux -->
+
+### Services d'hébergement
+
+<!-- TODO: Guidoux -->
+
+- Infomaniak
+- Exoscale
+- OVH
+- AWS
+- Google Cloud
+- Microsoft Azure
+- Digital Ocean
+- Linode
+- Vultr
+- Scaleway
+- Hetzner
+
+### Sites statiques
+
+<!-- TODO: Guidoux -->
+
+- GitHub Pages
+- GitLab Pages
+- Netlify
+- Vercel
+- Cloudflare Pages
+- Firebase Hosting
+
+### Sites dynamiques
+
+<!-- TODO: Guidoux -->
+
+- Heroku
+- Render
+- Railway
+- Docker / Docker Compose
+- Kubernetes
+- OpenShift
+- podman
+
+## Mettre en place un pipeline de CI/CD pour la livraison/le déploiement continu d'applications
+
+<!-- TODO: Guidoux -->
+
+### Que devons-nous faire manuellement (avant même d'utiliser un pipeline) ?
+
+<!-- TODO: Guidoux -->
+
+### Pourquoi automatisons-nous ?
+
+<!-- TODO: Guidoux -->
+
+### Que pouvons-nous automatiser (ou non) ?
+
+<!-- TODO: Guidoux -->
+
+### Formes d'automatisation
+
+<!-- TODO: Guidoux -->
+
+#### Forme _"Push"_
+
+<!-- TODO: Guidoux -->
+
+#### Forme _"Pull"_
+
+<!-- TODO: Guidoux -->
 
 ## Conclusion
 
-TODO
+Dans cette séance, nous avons vu comment héberger et déployer une application
+web.
+
+Nous avons vu les différentes formes d'hébergement et de déploiement
+d'applications web.
+
+Nous avons également vu comment mettre en place un pipeline de CI/CD pour le
+développement et le déploiement continu d'applications.
+
+Nous avons vu que l'hébergement et le déploiement d'applications web peuvent se
+faire de différentes manières selon le type d'application et les ressources
+nécessaires.
+
+Nous avons également vu que la containerisation et les solutions PaaS/SaaS
+permettent de simplifier le déploiement et de réduire les problèmes de
+compatibilité entre les différents environnements.
+
+Enfin, nous avons vu que mettre en place un pipeline de CI/CD permet
+d'automatiser le développement et le déploiement continu d'applications, ce qui
+permet de gagner du temps et de réduire les erreurs humaines.
+
+## À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
 
 ## Ce que vous ferez ensuite
 
-TODO
+La séance de projet sera consacrée à la présentation de l'avancée de votre
+projet et les éléments de prospection que vous avez réalisés. Vous devrez
+présenter les résultats de votre travail et les choix que vous avez faits pour
+votre projet.
 
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
-
-[^example]: Example, [example.com](https://example.com/), 20 février 2025
+  [Fejuz](https://unsplash.com/@fejuz) sur
+  [Unsplash](https://unsplash.com/photos/a-large-amount-of-containers-are-stacked-on-top-of-each-other-q6j5mSRpi50)
 
 <!-- URLs -->
 
@@ -45,4 +314,4 @@ TODO
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1634646809203-f3b4adff9127?fit=crop&h=720
