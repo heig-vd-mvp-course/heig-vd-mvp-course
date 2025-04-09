@@ -288,31 +288,114 @@ serveurs et de répartir la charge entre les différents serveurs.
 
 ## Mettre en place un pipeline de CI/CD pour la livraison/le déploiement continu d'applications
 
-<!-- TODO: Guidoux -->
+Un pipeline de CI/CD (Intégration Continue / Déploiement Continu) est un
+ensemble d'outils et de processus qui permettent d'automatiser le développement,
+le test et le déploiement d'applications. Il permet de réduire le temps de
+développement et de déploiement des applications en automatisant les tâches
+répétitives et en réduisant les erreurs humaines.
 
 ### Que devons-nous faire manuellement (avant même d'utiliser un pipeline) ?
 
-<!-- TODO: Guidoux -->
+Avant de mettre en place un pipeline de CI/CD, il est important d'identifier les
+différentes étapes qui doivent être effectuées avant de mettre en service en
+ligne.
+
+Toutes les étapes listées ci-dessous ne sont pas forcément nécessaires pour
+chaque application, mais elle représentent les étapes de base que vous devriez
+suivre avant de mettre en service une application quelque soit votre stack
+technologique, votre service d'hébergement ou votre environnement de
+développement.
+
+**Review** : Une revue de code avant de mettre en service une nouvelle
+fonctionnalité ou une nouvelle version de l'application est recommandé pour
+garantir la cohérence de la code base. Par ça nous entendons vérifier que le
+code est correct, qu'il respecte les standards de codage et qu'il ne contient
+pas de bugs. Cela peut être fait en faisant relire le code par un autre
+développeur ou en utilisant des outils d'analyse de code statique.
+
+**Build** : L'application a besoin d'être **buildée** avant de la mettre en
+ligne. Cela peut inclure la compilation du code, la création des fichiers
+binaire et la création des fichiers de configuration.
+
+**Test** : Pour garantir l'intégralité de votre application, il est important de
+la tester avant de la mettre en service. Cela peut inclure des tests unitaires,
+des tests d'intégration et des tests fonctionnels.
+
+**Containerisation** : Suivant la technologie de votre application, il peut être
+nécessaire de la containeriser avant de la mettre en service.
+
+**Release** : Votre application buildée, testée et containerisée doit être
+préparée pour être mise en service. Cela inclut en général un package de
+l'application prêt à être déployé.
+
+**Deploy** : Une fois l'application prête, il faut la déployer pour la mettre à
+disposition des utilisateurs. Cela peut inclure le transfert des fichiers de
+l'application sur le serveur d'hébergement, la configuration du serveur pour
+qu'il puisse exécuter l'application et la configuration de la base de données
+pour qu'elle puisse communiquer avec l'application.
+
+**Tests E2E** : Une fois l'application déployée, nous pouvons effectuer des
+tests End-to-End (E2E) pour vérifier que l'application fonctionne correctement
+et qu'elle est accessible aux utilisateurs. Cela peut inclure des tests de
+performance, des tests de sécurité et des tests de compatibilité.
 
 ### Pourquoi automatisons-nous ?
 
-<!-- TODO: Guidoux -->
+Si toutes les étapes précédentes sont faisables manuellement, il est recommandé
+de les automatiser pour plusieurs raisons :
+
+- **Minimiser les erreurs humaines** : L'automatisation permet de réduire le
+  risque d'erreurs humaines en automatisant les tâches répétitives et en
+  réduisant le nombre d'interactions manuelles.
+- **Gagner du temps** : L'automatisation permet de réduire le temps de
+  développement et de déploiement des applications en automatisant les tâches
+  répétitives et en réduisant le temps d'attente entre les différentes étapes.
+- **Standardisation/documentation du processus** : L'automatisation permet de
+  standardiser le processus de développement et de déploiement des applications
+  en définissant des étapes claires et en documentant le processus. Cela permet
+  de garantir la cohérence du processus et de faciliter la compréhension du
+  processus par les développeurs.
 
 ### Que pouvons-nous automatiser (ou non) ?
 
-<!-- TODO: Guidoux -->
+Il n'est pas nécessaire de tout automatiser. Certaines étapes peuvent être
+effectuées manuellement, tandis que d'autres peuvent être automatisées. Il est
+important de choisir les étapes à automatiser en fonction des besoins de
+l'application et surtout des ressources disponibles.
+
+Mais si vous avez le temps et les ressources, il est recommandé d'automatiser
+toutes les étapes du processus de développement et de déploiement des
+applications.
 
 ### Formes d'automatisation
 
-<!-- TODO: Guidoux -->
+Nous avons fait la différence entre deux formes d'automatisation, une forme
+_"Push"_ où c'est nous qui devons mettre sur l'infrastructure notre application
+et la déployer et une forme _"Pull"_ où c'est l'infrastructure qui va récupérer
+notre application et la déploie.
 
 #### Forme _"Push"_
 
-<!-- TODO: Guidoux -->
+Mise en place par Heroku, Render, Railway et Vercel, cette forme
+d'automatisation permet de déployer une application en poussant le code sur le
+service d'hébergement. Cela peut se faire en utilisant un dépôt Git ou en
+utilisant une interface de ligne de commande (CLI) pour pousser le code sur le
+service d'hébergement.
+
+Cette forme d'automatisation est très simple à mettre en place et à utiliser. Il
+suffit de pousser le code sur le service d'hébergement et il se charge de
+déployer l'application. Cela permet de réduire le temps de déploiement et de
+simplifier le processus de déploiement.
+
+Cependant, cette forme d'automatisation peut être limitée par les
+fonctionnalités du service d'hébergement et peut ne pas être adaptée à toutes
+les applications.
 
 #### Forme _"Pull"_
 
-<!-- TODO: Guidoux -->
+Infrastructure plus complexe à mettre en place, cette forme d'automatisation
+permet de déployer une application en contrôlant toutes les étapes du
+déploiement.
 
 ## Conclusion
 
