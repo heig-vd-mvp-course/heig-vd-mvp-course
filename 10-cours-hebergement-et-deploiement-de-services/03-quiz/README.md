@@ -124,6 +124,45 @@ Quelles sont les différentes manières d'héberger un service ?
 - Utilisation de services d'hébergement spécialisés (par exemple, Heroku,
   Netlify, Vercel)
 
+## Question 5 - Donnée
+
+Quelle est la différence principale entre un site web statique et un site web
+dynamique ?
+
+## Question 5 - Réponse
+
+- Un **site statique** est constitué uniquement de fichiers HTML, CSS et JS,
+  dont le contenu ne change pas sans intervention manuelle.
+- Un **site dynamique** génère du contenu à la volée en fonction des
+  interactions de l’utilisateur (connexion, base de données, etc.), avec du code
+  exécuté côté serveur (ex: PHP, Node.js, etc.).
+
+## Question 6 - Donnée
+
+Quelle est la différence entre une approche d’automatisation _push_ et une
+approche _pull_ dans un pipeline de déploiement ?
+
+## Question 6 - Réponse
+
+l’infrastructure (ex: Git push déclenche un déploiement).
+
+- **Approche _push_** : ça peut être vous ou le dépôt qui poussez le code vers
+- **Approche _pull_** : c’est l’infrastructure qui vient chercher (puller) le
+  code ou le conteneur à déployer (ex: Kubernetes qui récupère une image Docker
+  depuis un registre).
+
+## Question 7 - Donnée
+
+Quels types d’hébergement sont généralement considérés comme les plus faciles à
+mettre en œuvre pour un MVP ?
+
+## Question 7 - Réponse
+
+Les **services PaaS (Platform as a Service)** comme Render, Railway, Heroku ou
+Vercel sont les plus simples à utiliser.  
+Ils permettent de déployer rapidement une application sans devoir configurer
+manuellement un serveur ou une infrastructure complexe.
+
 ## Questions
 
 <!-- _class: lead -->

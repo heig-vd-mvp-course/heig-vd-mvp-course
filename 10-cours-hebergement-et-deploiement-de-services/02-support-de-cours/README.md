@@ -178,9 +178,8 @@ avoir à se soucier de la configuration du serveur et des outils nécessaires.
 Ces solutions sont généralement très simples à utiliser et à configurer ; tout
 est géré pour vous.
 
-Il suffit de configurer le service d'hébergement et il peut se et de le
-configurer pour qu'il puisse communiquer avec la base de données et les autres
-services.
+Il suffit de configurer le service d'hébergement et de le configurer pour qu'il
+puisse communiquer avec la base de données et les autres services.
 
 En revanche, ces solutions peuvent être plus coûteuses que l'hébergement VPS ou
 dédié, car elles facturent généralement en fonction de l'utilisation des
@@ -264,10 +263,10 @@ technologies de containerisation. Voici quelques exemples :
 **Docker / Docker Compose** est une technologie de containerisation qui permet
 de créer et de gérer des conteneurs. Elle est très populaire et est utilisée par
 de nombreux développeurs pour déployer des applications. Elle permet de créer
-des conteneurs à partir d'images Docker et de de les exécuter sur n'importe quel
+des conteneurs à partir d'images Docker et de les exécuter sur n'importe quel
 serveur supportant Docker. Docker Compose est une fonctionnalité de Docker qui
-permet de gérer plusieurs conteneurs à la fois et de de les configurer pour
-qu'ils puissent communiquer entre eux.
+permet de gérer plusieurs conteneurs à la fois et de les configurer pour qu'ils
+puissent communiquer entre eux.
 
 **Kubernetes** est une technologie de gestion de conteneurs qui permet de
 déployer et de gérer des applications conteneurisées sur un cluster de serveurs.
@@ -315,7 +314,13 @@ développeur ou en utilisant des outils d'analyse de code statique.
 
 **Build** : L'application a besoin d'être **buildée** avant de la mettre en
 ligne. Cela peut inclure la compilation du code, la création des fichiers
-binaire et la création des fichiers de configuration.
+binaire et la création des fichiers de configuration. Que vous ayez un
+environnement de test, un de staging ou de production, il est important de ne
+_builder_ l'application qu'une seule fois, la seule chose qui doit changer c'est
+la configuration de l'application. Cela permet de garantir que l'application est
+la même dans tous les environnements et de réduire le risque d'erreurs humaines.
+Pour plus de détails sur ce dernier point, nous vous recommandons de lire :
+<https://12factor.net/build-release-run>
 
 **Test** : Pour garantir l'intégralité de votre application, il est important de
 la tester avant de la mettre en service. Cela peut inclure des tests unitaires,
@@ -391,11 +396,21 @@ Cependant, cette forme d'automatisation peut être limitée par les
 fonctionnalités du service d'hébergement et peut ne pas être adaptée à toutes
 les applications.
 
+Cette forme d'automatisation comprends les étapes : build, release et deploy.
+
 #### Forme _"Pull"_
 
 Infrastructure plus complexe à mettre en place, cette forme d'automatisation
 permet de déployer une application en contrôlant toutes les étapes du
 déploiement.
+
+En souvenir du chapitre sur les
+[stacks technologiques](../../07-cours-identification-et-choix-dune-stack-technologique/02-support-de-cours/README.md),
+nous pouvons voir que vous avez contrôle total sur l'infrastructure et les
+ressources et qui y sont listées.
+
+Cela peut se faire en utilisant des outils d'automatisation comme Ansible,
+Terraform ou Kubernetes pour gérer le déploiement de l'application.
 
 ## Conclusion
 
@@ -439,6 +454,7 @@ votre projet.
 - [Illustration principale][illustration-principale] par
   [Fejuz](https://unsplash.com/@fejuz) sur
   [Unsplash](https://unsplash.com/photos/a-large-amount-of-containers-are-stacked-on-top-of-each-other-q6j5mSRpi50)
+- [12 Factor App](https://12factor.net)
 
 <!-- URLs -->
 
