@@ -195,14 +195,30 @@ nécessaires.
 
 ## Outils communs pour héberger et déployer une application web
 
-<!-- TODO: Guidoux -->
+Nous allons maintenant voir les différents outils et services qui existent pour
+héberger et déployer une application web. Il existe de nombreux services
+d'hébergement et de déploiement, chacun ayant ses propres avantages et
+inconvénients. Il est important de choisir le service qui convient le mieux à
+votre application et à vos besoins.
 
 ### Services d'hébergement
 
-<!-- TODO: Guidoux -->
+**Infomaniak** est un fournisseur d'hébergement basé en Suisse qui propose des
+services d'hébergement web, de cloud et de messagerie. Il est connu pour son
+excellent support client et sa fiabilité. Il propose également des solutions
+d'hébergement écologiques et durables. Moins cher que la concurrence il est
+moins modulable et une personnalisation plus limitée. Le service d’hébergement
+de base de données n'est pas encore disponible. Son service d'hébergement cloud
+est encore jeune et n'est pas encore au niveau de la concurrence
 
-- Infomaniak
-- Exoscale
+**Exoscale** est un fournisseur d'hébergement cloud basé en Suisse qui propose
+des services d'hébergement cloud, de stockage et de mise en réseau. Il est très
+complet et propose différentes optons de personnalisation. Nous pouvons utiliser
+Terraform pour gérer l'infrastructure et les ressources cloud.
+
+**Autres** : il existe de nombreux autres fournisseurs d'hébergement, voici
+quelques exemples :
+
 - OVH
 - AWS
 - Google Cloud
@@ -215,7 +231,12 @@ nécessaires.
 
 ### Sites statiques
 
-<!-- TODO: Guidoux -->
+Dans les cours précédents, nous avons déjà vu comment héberger des sites
+statiques avec GitHub Pages. Ces solutions sont très simples à mettre en place
+et à utiliser. Il suffit de pousser les fichiers sur le dépôt Git et de
+configurer le service d'hébergement pour qu'il serve les fichiers. Un site
+statique est simple et pour la majorité des cas, une solution gratuite convient.
+Voici quelques exemples de services d'hébergement de sites statiques :
 
 - GitHub Pages
 - GitLab Pages
@@ -226,15 +247,44 @@ nécessaires.
 
 ### Sites dynamiques
 
-<!-- TODO: Guidoux -->
+Pour les sites dynamiques, nous avons très certainement besoin d'un serveur et
+d'une base de données.
+
+Différents services d'hébergement existent pour déployer des sites dynamiques.
+Voici quelques exemples :
 
 - Heroku
 - Render
 - Railway
-- Docker / Docker Compose
-- Kubernetes
+- Vercel
+
+Si vous voulez containériser votre application, vous pouvez utiliser différentes
+technologies de containerisation. Voici quelques exemples :
+
+**Docker / Docker Compose** est une technologie de containerisation qui permet
+de créer et de gérer des conteneurs. Elle est très populaire et est utilisée par
+de nombreux développeurs pour déployer des applications. Elle permet de créer
+des conteneurs à partir d'images Docker et de de les exécuter sur n'importe quel
+serveur supportant Docker. Docker Compose est une fonctionnalité de Docker qui
+permet de gérer plusieurs conteneurs à la fois et de de les configurer pour
+qu'ils puissent communiquer entre eux.
+
+**Kubernetes** est une technologie de gestion de conteneurs qui permet de
+déployer et de gérer des applications conteneurisées sur un cluster de serveurs.
+Elle est très populaire et est utilisée par de nombreuses entreprises pour
+déployer des applications à grande échelle. Kubernetes permet de gérer
+automatiquement le déploiement, la mise à l'échelle et la gestion des ressources
+des conteneurs.
+
+**Autres** : il existe de nombreuses autres technologies de containerisation et
+de gestion de conteneurs, voici quelques exemples :
+
 - OpenShift
 - podman
+
+Ces technologies permettent de gérer facilement des conteneurs et de les
+déployer sur des serveurs. Elles permettent également de gérer des clusters de
+serveurs et de répartir la charge entre les différents serveurs.
 
 ## Mettre en place un pipeline de CI/CD pour la livraison/le déploiement continu d'applications
 
