@@ -280,7 +280,7 @@ des conteneurs.
 de gestion de conteneurs, voici quelques exemples :
 
 - OpenShift
-- podman
+- Podman
 
 Ces technologies permettent de gérer facilement des conteneurs et de les
 déployer sur des serveurs. Elles permettent également de gérer des clusters de
