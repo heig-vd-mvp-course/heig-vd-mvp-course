@@ -84,7 +84,7 @@ consultez le [support de cours][course-material]._
 - Présenter le travail effectué sur la prospection
 - Répondre aux questions
 - Recevoir des feedbacks constructifs
-- Évaluer les présentation des autres groupes
+- Évaluer les présentations des autres groupes
 - Donner des feedbacks constructifs
 
 ![bg right:40%][illustration-objectifs]

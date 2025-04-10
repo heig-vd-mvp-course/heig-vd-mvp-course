@@ -26,7 +26,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - Présenter le travail effectué sur la prospection
 - Répondre aux questions
 - Recevoir des feedbacks constructifs
-- Évaluer les présentation des autres groupes
+- Évaluer les présentations des autres groupes
 - Donner des feedbacks constructifs
 
 ## Déroulement
@@ -41,7 +41,7 @@ Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
 feedbacks constructifs.
 
 Vous pouvez retrouver la grille d'évaluation de la présentation ici :
-[Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-des-présentations)
+[Grille d'évaluation des présentations](../../01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-des-présentations)
 
 ## Conclusion
 

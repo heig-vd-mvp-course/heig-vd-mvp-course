@@ -980,7 +980,7 @@ il est recommandé pour la semaine suivante de :
 - Présenter le travail effectué sur la prospection
 - Répondre aux questions
 - Recevoir des feedbacks constructifs
-- Évaluer les présentation des autres groupes
+- Évaluer les présentations des autres groupes
 - Donner des feedbacks constructifs
 
 **Méthodes d'enseignement et d'apprentissage**
