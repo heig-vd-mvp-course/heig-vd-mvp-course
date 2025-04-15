@@ -14,6 +14,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
+- [Déroulement (1/6)](#déroulement-16)
 - [Conclusion](#conclusion)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
@@ -21,6 +22,14 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 ## Objectifs
 
 - TODO
+
+## Déroulement (1/6)
+
+- Lister clairement les informations collectées jusqu'ici qui indiquent une
+  nécessité de pivoter.
+- Réaliser une analyse SWOT simplifiée de votre situation actuelle.
+- Organiser un brainstorming en équipe pour identifier des pistes alternatives
+  concrètes.
 
 ## Conclusion
 
