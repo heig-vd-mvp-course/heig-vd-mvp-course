@@ -1536,9 +1536,6 @@ L'évaluation ne donne pas lieu à une note.
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
 - Effectuer des tests utilisateurs
 
 </details>
