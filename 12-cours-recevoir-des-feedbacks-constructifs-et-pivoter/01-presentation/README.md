@@ -94,6 +94,110 @@ consultez le [support de cours][course-material]._
 
 ![bg right:40%][illustration-objectifs]
 
+## Recevoir des feedbacks constructifs
+
+- [Donner des feedbacks constructifs](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/05-cours-promouvoir-et-pitcher-son-idee/02-support-de-cours#donner-des-feedbacks-constructifs)
+- [Recevoir des feedbacks constructifs](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/05-cours-promouvoir-et-pitcher-son-idee/02-support-de-cours#recevoir-des-feedbacks-constructifs)
+
+![bg right:40%][illustration-feedbacks]
+
+## Qu'est-ce qu'un pivot ?
+
+- Réorienter le projet
+- Conserver les acquis déjà réalisés (public cible, interviews, etc.)
+
+Exemples :
+
+- Instagram
+- Slack
+- Airbnb
+
+![bg right:40%][illustration-pivot]
+
+<!--
+
+https://images.unsplash.com/photo-1672669612505-0e9f2939d351?
+
+https://unsplash.com/photos/a-path-through-a-forest-with-lots-of-trees-2mq6Oxhx5cg
+
+https://unsplash.com/@grundsteins
+
+Kristaps Grundsteins
+
+-->
+
+## Accepter et gérer le pivot
+
+- Prenez du recul
+- Valorisez ce vous avez appris
+- Discutez ouvertement en équipe
+
+![bg right:40%][illustration-objectifs]
+
+<!--
+
+
+https://images.unsplash.com/photo-1619734352079-8ee04a56fd3c?
+
+https://unsplash.com/photos/woman-in-gray-long-sleeve-shirt-sitting-on-brown-wooden-chair-9USYbfMD250
+
+https://unsplash.com/@sample_in_photography
+
+Lucia Macedo
+
+-->
+
+## Identifier les informations pour pivoter
+
+- Relire les retours obtenus
+- Ressortir les informations récurrentes
+- Analyser en utilisant les outils vu en début de cours
+
+![bg right:40%][illustration-objectifs]
+
+<!--
+
+https://images.unsplash.com/photo-1719346660583-e8dd5db680ea?
+
+https://unsplash.com/photos/a-blue-and-white-sign-on-the-side-of-a-building-HPLdui4C_ps
+
+https://unsplash.com/@lifescapturedsparks
+
+Life's Captured Sparks
+
+-->
+
+## Identifier les forces et faiblesses des éléments pour pivoter
+
+- Forces
+- Faiblesses
+- Opportunités
+- Menaces
+
+![bg right:40%][illustration-balance]
+
+## Explorer d'autres pistes pour pivoter
+
+Ne reprenez pas tout de zéro, mais avec de nouvelles lunettes, une nouvelle
+vision
+
+- Brainstorming guidé
+- Expérimentation rapide
+- Recherche comparative
+
+![bg right:40%][illustration-objectifs]
+
+<!--
+
+https://images.unsplash.com/photo-1628123268032-3e990f250cd5?
+
+https://unsplash.com/photos/brown-rocky-mountain-under-blue-sky-during-daytime-fYf-y2KuoJ4
+
+https://unsplash.com/@sakiii999
+
+Saketh
+-->
+
 ## Questions
 
 <!-- _class: lead -->
@@ -109,16 +213,23 @@ Est-ce que vous avez des questions ?
 
 ## Sources (1/3)
 
-- [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+- [Illustration principale][illustration-principale] extraite de la série
+  _Friends_, épisode 16 saison 5, produite par
+  [Warner Bros.](https://www.warnerbros.com/). Image issue de
+  [Première](https://www.premiere.fr/Series/News-Series/David-Schwimmer-en-a-marre-que-les-fans-de-Friends-lui-crient-Pivot-)
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
-- TODO
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
+
+- [Illustration][illustration-feedbacks] par
+  [Mahad Aamir ](https://unsplash.com/@mahadaamir) sur
+  [Unsplash](https://unsplash.com/photos/interior-of-building-Y-GnrESsjr0)
+- [Illustration][illustration-balance] par
+  [Elena Mozhvilo](https://unsplash.com/@miracleday) sur
+  [Unsplash](https://unsplash.com/photos/gold-and-silver-round-frame-magnifying-glass-j06gLuKK0GM)
 
 [web]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/
@@ -131,9 +242,12 @@ Est-ce que vous avez des questions ?
 
 <!-- Illustrations -->
 
-[illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+[illustration-principale]: ../02-support-de-cours/images/pivot.jpg
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
+[illustration-feedbacks]:
+	https://images.unsplash.com/photo-1566096650255-98ba2641071e?fit=crop&h=720
+[illustration-balance]:
+	https://images.unsplash.com/photo-1587740896339-96a76170508d?fit=crop&h=720
