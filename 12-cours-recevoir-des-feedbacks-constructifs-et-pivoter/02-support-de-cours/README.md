@@ -102,15 +102,25 @@ outil efficace pour évaluer les pistes envisagées.
 
 ## Explorer d'autres pistes pour pivoter
 
+Vous avez pris la décision de pivoter, mais cela ne signifie pas repartir de
+zéro. Il est essentiel de conserver les acquis déjà réalisés et d'explorer de
+nouvelles pistes. Imaginer que vous changez de lunettes pour voir votre projet
+sous un autre angle.
+
 Explorer de nouvelles pistes implique une démarche créative :
 
-- **Brainstorming guidé :** Créez une session d'idéation où chaque personne de
+- **Brainstorming :** Créez une session d'idéation où chaque personne de
   l’équipe peut proposer librement des idées alternatives.
 - **Expérimentation rapide :** Prototypage rapide, tests utilisateurs simplifiés
   ou landing pages temporaires permettent de valider rapidement une nouvelle
   hypothèse.
 - **Recherche comparative :** Regardez ce que font des projets similaires sur le
   marché pour identifier des opportunités non encore exploitées.
+
+Et surtout, repassez par toutes les étapes de la démarche MVP :
+
+- [Trouver des idées originales qui répondent à un besoin](../../03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/02-support-de-cours/README.md)
+- [Comprendre et atteindre son public cible](../../04-cours-comprendre-et-atteindre-son-public-cible/02-support-de-cours/README.md)
 
 ## Conclusion
 

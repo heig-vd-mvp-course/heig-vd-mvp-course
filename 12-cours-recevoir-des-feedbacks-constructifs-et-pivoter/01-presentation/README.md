@@ -165,9 +165,8 @@ Exemples :
 Ne reprenez pas tout de zéro, mais avec de nouvelles lunettes, une nouvelle
 vision
 
-- Brainstorming guidé
-- Expérimentation rapide
-- Recherche comparative
+- [Trouver des idées originales qui répondent à un besoin](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/02-support-de-cours/README.md)
+- [Comprendre et atteindre son public cible](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/04-cours-comprendre-et-atteindre-son-public-cible/02-support-de-cours/README.md)
 
 ![bg right:40%][illustration-explorer-pistes]
 

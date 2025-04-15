@@ -141,7 +141,7 @@ Deux exemples célèbres sont :
 
 Parmi les outils et techniques pour explorer de nouvelles pistes, on trouve :
 
-- Le **brainstorming guidé** pour générer des idées alternatives en équipe.
+- Le **Brainstorming** pour générer des idées alternatives en équipe.
 - L'**expérimentation rapide** via le prototypage rapide ou des landing pages
   temporaires.
 - La **recherche comparative** pour identifier des opportunités encore
