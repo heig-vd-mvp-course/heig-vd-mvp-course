@@ -89,7 +89,7 @@ De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
 - Déployer une application de type _"Hello, world!"_ sur Internet
 - Mettre en place un pipeline de CI/CD pour déployer une application sur
   Internet
-- Commencer à les mockups des fonctionnalités de base du service envisagé
+- Commencer à faire les mockups des fonctionnalités de base du service envisagé
 - Mettre en place les bonnes pratiques pour le développement du service envisagé
 - Compléter le rapport
 

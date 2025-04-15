@@ -136,7 +136,7 @@ il est recommandé pour la semaine suivante de :
 - Déployer une application de type _"Hello, world!"_ sur Internet
 - Mettre en place un pipeline de CI/CD pour déployer une application sur
   Internet
-- Commencer à les mockups des fonctionnalités de base du service envisagé
+- Commencer à faire les mockups des fonctionnalités de base du service envisagé
 
 ![bg right:40%][illustration-objectifs]
 
