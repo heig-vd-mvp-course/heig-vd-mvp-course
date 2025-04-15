@@ -139,6 +139,7 @@ cible, interviews, etc.)
 Exemples :
 
 - PimpMyWall, BeeScreens, BeeDocs, Lamasticot FM, Artios
+- Canal d'Entreroches
 
 -->
 
