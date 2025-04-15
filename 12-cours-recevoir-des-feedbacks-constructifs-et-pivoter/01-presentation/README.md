@@ -103,16 +103,27 @@ consultez le [support de cours][course-material]._
 
 ## Qu'est-ce qu'un pivot ?
 
-- Réorienter le projet
-- Conserver les acquis déjà réalisés (public cible, interviews, etc.)
+**Réorienter** le projet et **conserver** les acquis déjà réalisés (public
+cible, interviews, etc.)
 
-Exemples :
+**Exemples :**
 
-- Instagram
-- Slack
-- Airbnb
+- Burbn -> Instagram
+- Jeu vidéo multijoueur -> Slack
+- Location temporaire de matelas pneumatiques -> Airbnb
 
 ![bg right:40%][illustration-pivot]
+
+<!--
+
+- **Instagram :** Application initialement dédiée à la géolocalisation (Burbn)
+  ayant pivoté vers une plateforme centrée sur le partage de photos.
+- **Slack :** Plateforme créée à l'origine pour un jeu vidéo multijoueur en
+  ligne et réorientée en outil de communication professionnelle.
+- **Airbnb :** Parti de la location temporaire de matelas pneumatiques vers la
+  location d'espaces d’hébergement de courte durée.
+
+-->
 
 ## Accepter et gérer le pivot
 
