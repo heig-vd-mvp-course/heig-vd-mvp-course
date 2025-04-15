@@ -130,8 +130,17 @@ cible, interviews, etc.)
 - Prenez du recul
 - Valorisez ce vous avez appris
 - Discutez ouvertement en équipe
+- Avoir conscience des biais d'invertissement
 
 ![bg right:40%][illustration-accepter-pivot]
+
+<!--
+
+Exemples :
+
+- PimpMyWall, BeeScreens, BeeDocs, Lamasticot FM, Artios
+
+-->
 
 ## Identifier les informations pour pivoter
 
