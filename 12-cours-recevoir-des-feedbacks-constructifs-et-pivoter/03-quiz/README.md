@@ -161,6 +161,17 @@ Pour gérer émotionnellement le pivot, il est recommandé de :
 - **Discuter ouvertement en équipe** afin d'obtenir un consensus collectif qui
   facilite l'acceptation du changement.
 
+## Question 7 - Donnée
+
+> Quel serait un exemple de pivot envisageable pour votre projet actuel ?
+> Pourquoi ?
+
+## Question 7 - Réponse
+
+Alors ?
+
+![bg right:40%][illustration-mind-blown]
+
 ## Questions
 
 <!-- _class: lead -->
@@ -172,6 +183,8 @@ Est-ce que vous avez des questions ?
 - [Illustration principale][illustration-principale] par
   [Annie Spratt](https://unsplash.com/@anniespratt) sur
   [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+- [Illustration mind-blown][illustration-mind-blown] sur
+  [Giphy](https://giphy.com/gifs/75ZaxapnyMp2w)
 
 <!-- URLs -->
 
@@ -188,3 +201,5 @@ Est-ce que vous avez des questions ?
 
 [illustration-principale]:
 	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+[illustration-mind-blown]:
+	https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx0NTJldGx1aGJzdXo5NTg5aXR5dHZoejY2c3J2b2xvbjFvYzlnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/75ZaxapnyMp2w/giphy.gif
