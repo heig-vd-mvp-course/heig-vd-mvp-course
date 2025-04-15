@@ -130,7 +130,7 @@ cible, interviews, etc.)
 - Prenez du recul
 - Valorisez que ce vous avez appris
 - Discutez ouvertement en équipe
-- Avoir conscience des biais d'invertissement
+- Avoir conscience des biais d'investissement (sunk cost fallacy)
 
 ![bg right:40%][illustration-accepter-pivot]
 
