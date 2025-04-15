@@ -1048,8 +1048,6 @@ il est recommandé pour la semaine suivante de :
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- Recevoir des feedbacks constructifs
-- Donner des feedbacks constructifs
 - Définir ce qu'est un pivot
 - Accepter/faire le deuil de devoir pivoter
 - Identifier les informations obtenues jusqu'ici pour pivoter

@@ -81,13 +81,16 @@ consultez le [support de cours][course-material]._
 
 ## Objectifs (1/2)
 
-- TODO
+- Définir ce qu'est un pivot
+- Accepter/faire le deuil de devoir pivoter
+- Identifier les informations obtenues jusqu'ici pour pivoter
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
-- TODO
+- Identifier les forces et les faiblesses des éléments identifiés pour pivoter
+- Explorer d'autres pistes pour pivoter
 
 ![bg right:40%][illustration-objectifs]
 
