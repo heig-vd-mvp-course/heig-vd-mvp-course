@@ -180,9 +180,10 @@ Est-ce que vous avez des questions ?
 
 ## Sources
 
-- [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+- [Illustration principale][illustration-principale] extraite de la série
+  _Friends_, épisode 16 saison 5, produite par
+  [Warner Bros.](https://www.warnerbros.com/). Image issue de
+  [Première](https://www.premiere.fr/Series/News-Series/David-Schwimmer-en-a-marre-que-les-fans-de-Friends-lui-crient-Pivot-)
 - [Illustration mind-blown][illustration-mind-blown] sur
   [Giphy](https://giphy.com/gifs/75ZaxapnyMp2w)
 
@@ -199,7 +200,6 @@ Est-ce que vous avez des questions ?
 
 <!-- Illustrations -->
 
-[illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+[illustration-principale]: ../02-support-de-cours/images/pivot.jpg
 [illustration-mind-blown]:
 	https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx0NTJldGx1aGJzdXo5NTg5aXR5dHZoejY2c3J2b2xvbjFvYzlnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/75ZaxapnyMp2w/giphy.gif

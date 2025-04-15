@@ -128,7 +128,7 @@ cible, interviews, etc.)
 ## Accepter et gérer le pivot
 
 - Prenez du recul
-- Valorisez ce vous avez appris
+- Valorisez que ce vous avez appris
 - Discutez ouvertement en équipe
 - Avoir conscience des biais d'invertissement
 
