@@ -128,7 +128,7 @@ cible, interviews, etc.)
 ## Accepter et gérer le pivot
 
 - Prenez du recul
-- Valorisez que ce vous avez appris
+- Valorisez ce que vous avez appris
 - Discutez ouvertement en équipe
 - Avoir conscience des biais d'investissement (sunk cost fallacy)
 
