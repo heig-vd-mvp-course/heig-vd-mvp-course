@@ -118,6 +118,8 @@ Prenez ce moment pour faire le point sur votre projet. Vous pouvez :
 - Réaliser une analyse SWOT simplifiée de votre situation actuelle.
 - Organiser un brainstorming en équipe pour identifier des pistes alternatives
   concrètes (si nécessaire).
+- Planifier le développement des fonctionnalités minimales pour le service
+  envisagé.
 
 ### À faire pour la semaine suivante
 
