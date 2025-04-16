@@ -1048,8 +1048,6 @@ il est recommandé pour la semaine suivante de :
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- Recevoir des feedbacks constructifs
-- Donner des feedbacks constructifs
 - Définir ce qu'est un pivot
 - Accepter/faire le deuil de devoir pivoter
 - Identifier les informations obtenues jusqu'ici pour pivoter
@@ -1244,7 +1242,7 @@ il est recommandé pour la semaine suivante de :
 - Déployer une application de type _"Hello, world!"_ sur Internet
 - Mettre en place un pipeline de CI/CD pour déployer une application sur
   Internet
-- Commencer à les mockups des fonctionnalités de base du service envisagé
+- Commencer à faire les mockups des fonctionnalités de base du service envisagé
 - Mettre en place les bonnes pratiques pour le développement du service envisagé
 - Compléter le rapport
 
@@ -1534,9 +1532,6 @@ Les retours se font de la manière suivante :
 L'évaluation ne donne pas lieu à une note.
 
 **À faire pour la semaine suivante**
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :

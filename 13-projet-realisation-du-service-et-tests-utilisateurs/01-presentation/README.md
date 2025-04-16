@@ -83,34 +83,189 @@ consultez le [support de cours][course-material]._
 
 <!-- _class: lead -->
 
-### Objectifs (1/2)
+### Objectifs (1/3)
 
-- TODO
+- Identifier s'il faut pivoter ou non
+- Identifier quels éléments manquent pour déterminer s'il faut pivoter ou non
+- Identifier les forces et les faiblesses des données récoltées jusqu'ici
 
 ![bg right:40%][illustration-objectifs]
 
-### Objectifs (2/2)
+### Objectifs (2/3)
 
-- TODO
+- Pivoter si nécessaire avec une nouvelle idée (proche de l'existant ou non)
+- Identifier les fonctionnalités minimales à implémenter pour le service
+  envisagé
+- Identifier les hypothèses à tester sur la base des fonctionnalités minimales
+
+![bg right:40%][illustration-objectifs]
+
+### Objectifs (3/3)
+
+- Planifier le développement des fonctionnalités de base pour le service
+  envisagé pour les semaines restantes
+- Identifier des personnes qui pourraient tester le service envisagé
+- Compléter le rapport
 
 ![bg right:40%][illustration-objectifs]
 
 ### Déroulement
 
-TODO
+Prenez ce moment pour faire le point sur votre projet. Vous pouvez :
+
+- Lister clairement les informations collectées jusqu'ici et si elles indiquent
+  qu'un pivot est nécessaire ou non.
+- Réaliser une analyse SWOT simplifiée de votre situation actuelle.
+- Organiser un brainstorming en équipe pour identifier des pistes alternatives
+  concrètes (si nécessaire).
+- Planifier le développement des fonctionnalités minimales pour le service
+  envisagé.
 
 ### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- TODO
+- Trouver une nouvelle idée (si nécessaire)
+- Effectuer des tests utilisateurs
+
+## Séance 2/6
+
+<!-- _class: lead -->
+
+### Objectifs (1/2)
+
+- Déployer une application de type _"Hello, world!"_ sur Internet
+- Mettre en place un pipeline de CI/CD pour déployer une application sur
+  Internet
+- Commencer à faire les mockups des fonctionnalités de base du service envisagé
+
+![bg right:40%][illustration-objectifs]
+
+### Objectifs (2/2)
+
+- Mettre en place les bonnes pratiques pour le développement du service envisagé
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
+### Déroulement
+
+### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Réaliser des tests utilisateurs
+
+## Séance 3/6
+
+<!-- _class: lead -->
+
+### Objectifs (1/2)
+
+- Réaliser une ébauche de business model pour leur service
+- Intégrer une solution de paiement à leur service
+- Continuer les mockups du service envisagé
+- Continuer le développement du service envisagé
+
+![bg right:40%][illustration-objectifs]
+
+### Objectifs (2/2)
+
+- Effectuer des tests utilisateurs
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
+### Déroulement
+
+### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
+- Commencer à réviser pour l'évaluation de la semaine 13
+
+## Séance 4/6
+
+<!-- _class: lead -->
+
+### Objectifs (1/2)
+
+- Lister les formes juridiques possibles pour une entreprise en Suisse
+- Lister les avantages et inconvénients des différentes formes juridiques pour
+  une entreprise en Suisse
+- Lister les aides et soutiens possible à l'innovation en Suisse romande
+
+![bg right:40%][illustration-objectifs]
+
+### Objectifs (2/2)
+
+- Lister les différents éléments administratifs qu'une entreprise en Suisse doit
+  avoir et respecter
+
+![bg right:40%][illustration-objectifs]
+
+### Déroulement
+
+### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Effectuer des tests utilisateurs
+- Réviser pour l'évaluation de la semaine 13
+
+## Séance 5/6
+
+<!-- _class: lead -->
+
+### Objectifs
+
+- Continuer le développement du service
+- Planifier les dernières étapes du développement du service
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
+### Déroulement
+
+### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser le développement du service
+- Effectuer des tests utilisateurs
+
+## Séance 6/6
+
+<!-- _class: lead -->
+
+### Objectifs
+
+- Finaliser le développement du service
+- Finaliser le rapport
+- Commencer la présentation du projet de la semaine 16
+
+![bg right:40%][illustration-objectifs]
+
+### Déroulement
+
+### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser et rendre le rapport selon les attentes spécifiées à la semaine 15
 
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
-  [Unsplash](https://unsplash.com/photos/man-standing-behind-flat-screen-computer-monitor-bzqU01v-G54)
+  [Alvaro Reyes](https://unsplash.com/@alvarordesign) sur
+  [Unsplash](https://unsplash.com/photos/person-working-on-blue-and-white-paper-on-board-qWwpHwip31M)
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
@@ -129,6 +284,6 @@ il est recommandé pour la semaine suivante de :
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1531403009284-440f080d1e12?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720

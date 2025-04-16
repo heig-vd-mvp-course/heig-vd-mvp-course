@@ -81,7 +81,96 @@ cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
 ## Question 1 - Donnée
 
+> Qu'est-ce qu'un pivot dans le cadre d'un projet entrepreneurial ?
+
 ## Question 1 - Réponse
+
+Un pivot consiste à **réorienter** un projet tout en **conservant** les acquis
+déjà réalisés (public cible, interviews, compétences techniques validées, etc.).
+C'est une démarche stratégique pour répondre efficacement aux besoins réels du
+marché.
+
+## Question 2 - Donnée
+
+> Quel biais cognitif peut empêcher une équipe de pivoter même lorsque cela
+> semble nécessaire ?
+
+## Question 2 - Réponse
+
+Le biais d'investissement (ou _sunk cost fallacy_) peut empêcher une équipe de
+pivoter, car elle s'accroche à une idée dans laquelle elle a déjà investi du
+temps, de l'énergie ou des ressources financières, même si celle-ci ne répond
+plus aux besoins identifiés.
+
+## Question 3 - Donnée
+
+> Quelles étapes permettent d'identifier clairement s'il est nécessaire de
+> pivoter ?
+
+## Question 3 - Réponse
+
+Pour identifier la nécessité de pivoter, il faut :
+
+- Relire et analyser les retours utilisateurs recueillis.
+- Identifier les informations récurrentes montrant des besoins non satisfaits.
+- Utiliser des outils tels que l'analyse SWOT simplifiée pour évaluer
+  objectivement la pertinence d'un pivot.
+
+## Question 4 - Donnée
+
+> Donnez deux exemples célèbres d'entreprises ayant effectué un pivot réussi.
+
+## Question 4 - Réponse
+
+Deux exemples célèbres sont :
+
+- **Instagram**, qui est passée d'une application de géolocalisation nommée
+  Burbn à une plateforme dédiée au partage de photos.
+- **Slack**, qui est passée d'un jeu vidéo multijoueur en ligne à une plateforme
+  de communication professionnelle très populaire.
+- **Artios**, qui a pivoté d'une application de dessin interactive, à un service
+  d'accompagnement pour documenter les associations, à une radio suisse, pour
+  finalement se concentrer sur la création d'une entreprise de services.
+
+## Question 5 - Donnée
+
+> Quels outils ou techniques peuvent aider à explorer de nouvelles pistes lors
+> d'un pivot ?
+
+## Question 5 - Réponse
+
+Parmi les outils et techniques pour explorer de nouvelles pistes, on trouve :
+
+- Le **Brainstorming** pour générer des idées alternatives en équipe.
+- L'**expérimentation rapide** via le prototypage rapide ou des landing pages
+  temporaires.
+- La **recherche comparative** pour identifier des opportunités encore
+  inexploitées par des projets similaires sur le marché.
+
+## Question 6 - Donnée
+
+> Comment gérer émotionnellement la décision de pivoter ?
+
+## Question 6 - Réponse
+
+Pour gérer émotionnellement le pivot, il est recommandé de :
+
+- **Prendre du recul**, en considérant le pivot comme une évolution naturelle du
+  projet plutôt qu'un échec personnel.
+- **Valoriser les apprentissages** acquis tout au long du projet initial.
+- **Discuter ouvertement en équipe** afin d'obtenir un consensus collectif qui
+  facilite l'acceptation du changement.
+
+## Question 7 - Donnée
+
+> Quel serait un exemple de pivot envisageable pour votre projet actuel ?
+> Pourquoi ?
+
+## Question 7 - Réponse
+
+Alors ?
+
+![bg right:40%][illustration-mind-blown]
 
 ## Questions
 
@@ -91,9 +180,12 @@ Est-ce que vous avez des questions ?
 
 ## Sources
 
-- [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+- [Illustration principale][illustration-principale] extraite de la série
+  _Friends_, épisode 16 saison 5, produite par
+  [Warner Bros.](https://www.warnerbros.com/). Image issue de
+  [Première](https://www.premiere.fr/Series/News-Series/David-Schwimmer-en-a-marre-que-les-fans-de-Friends-lui-crient-Pivot-)
+- [Illustration mind-blown][illustration-mind-blown] sur
+  [Giphy](https://giphy.com/gifs/75ZaxapnyMp2w)
 
 <!-- URLs -->
 
@@ -108,5 +200,6 @@ Est-ce que vous avez des questions ?
 
 <!-- Illustrations -->
 
-[illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+[illustration-principale]: ../02-support-de-cours/images/pivot.jpg
+[illustration-mind-blown]:
+	https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx0NTJldGx1aGJzdXo5NTg5aXR5dHZoejY2c3J2b2xvbjFvYzlnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/75ZaxapnyMp2w/giphy.gif
