@@ -81,13 +81,16 @@ consultez le [support de cours][course-material]._
 
 ## Objectifs (1/2)
 
-- TODO
+- Lister les éléments principaux qui détériorent la qualité d'une application
+- Lister les éléments principaux qui améliorent la qualité d'une application
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
-- TODO
+- Identifier les freins d'une application de qualité dans une situation donnée
+- Appliquer les bonnes pratiques qui permettent d'améliorer la qualité d'une
+  application
 
 ![bg right:40%][illustration-objectifs]
 
