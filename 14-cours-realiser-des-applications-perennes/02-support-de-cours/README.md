@@ -227,6 +227,22 @@ souligner que ces situations sont fictives et ne reflètent pas la réalité. Il
 s'agit simplement d'exemples pour illustrer les différents points abordés dans
 ce cours.
 
+Si vous êtes en classe, nous allons faire cet exercice ensemble sur des
+situations que vous avez pu rencontrer dans le cadre de vos projets. Si vous
+êtes en distanciel, vous pouvez le faire de manière autonome à l'aide des
+situations fictives ci-dessous.
+
+Si vous êtes en classe, formez des groupes de 2 à 4 personnes puis réfléchissez
+ensemble à des situations que vous avez pu vivre dans le cadre de vos projets.
+
+Notez les points positifs et négatifs que vous avez pu observer dans ces
+situations liés à la pérennité de vos projets.
+
+Identifiez ce qui aurait pu être fait différemment pour améliorer la pérennité
+de vos projets.
+
+Partagez vos situations et vos réflexions avec le reste de la classe.
+
 ### Situation 1
 
 TODO

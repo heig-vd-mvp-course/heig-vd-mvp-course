@@ -98,25 +98,31 @@ consultez le [support de cours][course-material]._
 
 Nous vous proposons un format un peu différent pour ce cours :
 
-1. Lisez le [support de cours][course-material] de façon autonome jusqu'à la
-   section _"Analyse de situations"_. Nous y reviendrons plus tard.
-2. Formez des groupes de 2 à 4 personnes puis réfléchissez ensemble à des
-   situations que vous pu vivre dans le cadre de vos projets.
-3. Notez les points positifs et négatifs que vous avez pu observer dans ces
-   situations liés à la pérennité de vos projets.
-4. Partagez vos réflexions avec le reste de la classe.
+1. Lisez le [support de cours][course-material] de façon autonome.
+2. Une fois terminé, annoncez-le. Vous pouvez commencer le travail en groupe
+   pendant que les autres finissent de lire.
+3. Une fois que tout le monde a terminé la lecture, nous répondons aux
+   questions/discussions sur le support de cours.
+4. Ensuite, nous passerons à l'analyse de situations personnelles avec
+   discussions collectives. **Durée totale : ~30-40 minutes**
 
-## Analyse de situations
+### Discussions collectives sur vos situations
 
-<!-- _class: lead -->
+Nous allons maintenant discuter ensemble des situations que vous avez
+rencontrées dans le cadre de vos projets :
 
-### Situation 1
+- Quelles sont les situations que vous avez rencontrées ?
+- Quels sont les points positifs et négatifs que vous avez pu observer ?
+- Qu'est-ce qui aurait pu être fait différemment pour améliorer la pérennité de
+  vos projets ?
+- Quelles sont les bonnes pratiques que vous avez pu observer ?
 
-### Situation 2
+### Situations fictives
 
-### Situation 3
+Le [support de cours][course-material] contient des situations fictives que vous
+pouvez analyser si vous le souhaitez.
 
-### Situation 4
+![bg right:40%][illustration-principale]
 
 ## Questions
 
@@ -131,14 +137,13 @@ Est-ce que vous avez des questions ?
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 
-## Sources (1/3)
+## Sources
 
 - [Illustration principale][illustration-principale] extraite du film "Astérix
   et Obélix : Mission Cléopâtre" dirigé par Alain Chabat
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
-- TODO
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
