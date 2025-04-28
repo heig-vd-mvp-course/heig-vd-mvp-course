@@ -83,16 +83,40 @@ consultez le [support de cours][course-material]._
 
 - Lister les éléments principaux qui détériorent la qualité d'une application
 - Lister les éléments principaux qui améliorent la qualité d'une application
+- Identifier les freins d'une application de qualité dans une situation donnée
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
-- Identifier les freins d'une application de qualité dans une situation donnée
 - Appliquer les bonnes pratiques qui permettent d'améliorer la qualité d'une
   application
 
 ![bg right:40%][illustration-objectifs]
+
+## Déroulement du cours
+
+Nous vous proposons un format un peu différent pour ce cours :
+
+1. Lisez le [support de cours][course-material] de façon autonome jusqu'à la
+   section _"Analyse de situations"_. Nous y reviendrons plus tard.
+2. Formez des groupes de 2 à 4 personnes puis réfléchissez ensemble à des
+   situations que vous pu vivre dans le cadre de vos projets.
+3. Notez les points positifs et négatifs que vous avez pu observer dans ces
+   situations liés à la pérennité de vos projets.
+4. Partagez vos réflexions avec le reste de la classe.
+
+## Analyse de situations
+
+<!-- _class: lead -->
+
+### Situation 1
+
+### Situation 2
+
+### Situation 3
+
+### Situation 4
 
 ## Questions
 
@@ -109,9 +133,8 @@ Est-ce que vous avez des questions ?
 
 ## Sources (1/3)
 
-- [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+- [Illustration principale][illustration-principale] extraite du film "Astérix
+  et Obélix : Mission Cléopâtre" dirigé par Alain Chabat
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
@@ -131,8 +154,7 @@ Est-ce que vous avez des questions ?
 
 <!-- Illustrations -->
 
-[illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+[illustration-principale]: ./images/illustration-principale.png
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:

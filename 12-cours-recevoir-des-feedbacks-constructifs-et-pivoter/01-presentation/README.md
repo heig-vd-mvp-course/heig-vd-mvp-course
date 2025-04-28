@@ -228,7 +228,7 @@ Est-ce que vous avez des questions ?
 
 <!-- Illustrations -->
 
-[illustration-principale]: ../02-support-de-cours/images/pivot.jpg
+[illustration-principale]: ./images/illustration-principale.jpg
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:

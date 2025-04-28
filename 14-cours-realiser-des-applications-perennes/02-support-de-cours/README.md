@@ -50,6 +50,10 @@ Il est important de garder à l'esprit que la qualité d'une application est un
 sujet complexe et qu'il n'existe pas de solution unique. Il est donc essentiel
 de rester ouvert d'esprit et de s'adapter aux besoins de chaque situation.
 
+Ce recueil est amené à évoluer au fil du temps et vous êtes invités à contribuer
+à son amélioration au travers des discussions que nous aurons en classe en
+apportant vos propres expériences et réflexions.
+
 De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
 - Lister les éléments principaux qui détériorent la qualité d'une application
@@ -145,6 +149,10 @@ est claire et que tout le monde est au courant de cette vision.
 - Suppression des branches obsolètes
 - Désactivation des fonctionnalités non utilisées (Wiki, GitHub Pages, etc.)
 - Utilisation de _GitHub Actions_ pour automatiser les tâches
+- Utilisation du même environnement de développement entre toutes les personnes
+  de l'équipe (IDE, plugins, etc.)
+- Utilisation du même environnement de développement que celui de production
+  (même versions de la stack technologique, même OS, etc.)
 
 ### Documentation
 
@@ -179,6 +187,8 @@ de s'assurer que la documentation est à jour et pertinente.
   d'applications modernes :
   - [The Twelve-Factor App](https://12factor.net/)
   - [Which Version of JDK Should I Use?](https://whichjdk.com/)
+- Utiliser les mêmes versions de la stack technologique entre toutes les
+  personnes de l'équipe (même versions de la stack technologique, même OS, etc.)
 
 ### Intégration continue et livraison/déploiement continu
 
@@ -210,6 +220,12 @@ conçue de manière à être facile à comprendre et à utiliser.
 - Limiter au maximum le nombre de dépendances
 
 ## Analyse de situations
+
+Dans cette section, nous allons analyser différentes situations et essayer de
+identifier les freins à la pérennité d'une application. Il est important de
+souligner que ces situations sont fictives et ne reflètent pas la réalité. Il
+s'agit simplement d'exemples pour illustrer les différents points abordés dans
+ce cours.
 
 ### Situation 1
 
@@ -246,12 +262,37 @@ TODO
 
 ### Situation 4
 
-TODO
+Une équipe de développement a décidé de créer une application web pour gérer la
+logistique de l'entreprise qui a différents entrepots à travers le monde
+(gestion des fournisseurs, gestion des stocks, gestion des commandes, etc.).
+L'application est développée par une équipe de 5 personnes, composée de
+développeurs, d'un designer et d'un chef de projet.
+
+L'équipe travaille sur plusieurs fuseaux horaires différents. Tout se discute et
+se fait sur GitHub en anglais de façon asynchrone. L'équipe utilise GitHub pour
+gérer le code source et la documentation. L'application est développée en Python
+et utilise Flask comme framework web.
+
+L'application est déployée sur un serveur dédié dans le cloud. L'équipe utilise
+GitHub Actions pour automatiser les tests et le déploiement de l'application.
+Elle a également a mis en place un processus de revue de code pour valider les
+modifications avant de les fusionner dans la branche principale.
+
+Les fonctionnalités de l'application sont développées de semaine en semaine et
+sont livrées en production à chaque milieu de semaine.
+
+Qu'est-ce qui est un frein à la pérennité de l'application ?
 
 <details>
 <summary>Afficher la solution</summary>
 
-TODO
+Il n'y a, à première vue, pas de frein à la pérennité de l'application. L'équipe
+semble bien organisée et utilise des outils modernes pour gérer le code source
+et la documentation.
+
+Sauf freins inconnus de cette situation, il ne semble pas avoir problèmes liés à
+la pérennité de l'application. Si cette situation convient à toute l'équipe, il
+n'y a pas de raison de changer quoi que ce soit.
 
 <details>
 
@@ -275,9 +316,8 @@ il est recommandé pour la semaine suivante de :
 
 ## Sources
 
-- [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+- [Illustration principale][illustration-principale] extraite du film "Astérix
+  et Obélix : Mission Cléopâtre" dirigé par Alain Chabat
 
 <!-- URLs -->
 
@@ -285,5 +325,4 @@ il est recommandé pour la semaine suivante de :
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/14-cours-realiser-des-applications-perennes/02-support-de-cours/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+[illustration-principale]: ./images/illustration-principale.png

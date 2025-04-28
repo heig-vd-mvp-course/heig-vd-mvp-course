@@ -154,4 +154,4 @@ il est recommandé pour la semaine suivante de :
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/02-support-de-cours/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration-principale]: ./images/pivot.jpg
+[illustration-principale]: ./images/illustration-principale.jpg
