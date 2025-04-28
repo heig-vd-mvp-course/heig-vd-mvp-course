@@ -222,18 +222,17 @@ conçue de manière à être facile à comprendre et à utiliser.
 ## Analyse de situations
 
 Dans cette section, nous allons analyser différentes situations et essayer de
-identifier les freins à la pérennité d'une application. Il est important de
-souligner que ces situations sont fictives et ne reflètent pas la réalité. Il
-s'agit simplement d'exemples pour illustrer les différents points abordés dans
-ce cours.
+identifier les freins à la pérennité d'une application.
 
 Si vous êtes en classe, nous allons faire cet exercice ensemble sur des
 situations que vous avez pu rencontrer dans le cadre de vos projets. Si vous
 êtes en distanciel, vous pouvez le faire de manière autonome à l'aide des
-situations fictives ci-dessous.
+situations fictives ci-dessous. Il est important de souligner que ces situations
+sont fictives et ne reflètent pas la réalité. Il s'agit simplement d'exemples
+pour illustrer les différents points abordés dans ce cours.
 
-Si vous êtes en classe, formez des groupes de 2 à 4 personnes puis réfléchissez
-ensemble à des situations que vous avez pu vivre dans le cadre de vos projets.
+Formez des groupes de 2 à 4 personnes puis réfléchissez ensemble à des
+situations que vous avez pu vivre dans le cadre de vos projets.
 
 Notez les points positifs et négatifs que vous avez pu observer dans ces
 situations liés à la pérennité de vos projets.
