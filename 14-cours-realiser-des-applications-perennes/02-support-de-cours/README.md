@@ -20,6 +20,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Communication](#communication)
   - [Gestion du code source](#gestion-du-code-source)
   - [Documentation](#documentation)
+  - [Environnement de développement](#environnement-de-développement)
   - [Languages et frameworks](#languages-et-frameworks)
   - [Intégration continue et livraison/déploiement continu](#intégration-continue-et-livraisondéploiement-continu)
   - [Compétences et simplicité](#compétences-et-simplicité)
@@ -149,10 +150,6 @@ est claire et que tout le monde est au courant de cette vision.
 - Suppression des branches obsolètes
 - Désactivation des fonctionnalités non utilisées (Wiki, GitHub Pages, etc.)
 - Utilisation de _GitHub Actions_ pour automatiser les tâches
-- Utilisation du même environnement de développement entre toutes les personnes
-  de l'équipe (IDE, plugins, etc.)
-- Utilisation du même environnement de développement que celui de production
-  (même versions de la stack technologique, même OS, etc.)
 
 ### Documentation
 
@@ -176,6 +173,19 @@ de s'assurer que la documentation est à jour et pertinente.
   <https://docs.github.com/en/communities>.
 - S'assurer en tout temps que les instructions pour prendre en main le(s)
   projet(s) sont à jour et fonctionnelles
+- Mise à disposition d'une documentation technique et fonctionnelle
+  ([OpenAPI Specification](https://www.openapis.org/) pour les API, etc.)
+
+### Environnement de développement
+
+- Utilisation du même environnement de développement entre toutes les personnes
+  de l'équipe (IDE, plugins, etc.)
+- Utilisation du même environnement de développement que celui de production
+  (même versions de la stack technologique, même OS, etc.)
+- Utilisation des [Development Containers](https://containers.dev/) pour le
+  développement
+- Utilisation de conteneurs (Docker, Podman, etc.) pour le développement et la
+  production
 
 ### Languages et frameworks
 
@@ -188,7 +198,7 @@ de s'assurer que la documentation est à jour et pertinente.
   - [The Twelve-Factor App](https://12factor.net/)
   - [Which Version of JDK Should I Use?](https://whichjdk.com/)
 - Utiliser les mêmes versions de la stack technologique entre toutes les
-  personnes de l'équipe (même versions de la stack technologique, même OS, etc.)
+  personnes de l'équipe
 
 ### Intégration continue et livraison/déploiement continu
 
