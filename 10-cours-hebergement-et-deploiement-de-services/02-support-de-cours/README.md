@@ -145,7 +145,7 @@ le serveur.
 
 #### Containerisation des services
 
-Avec l’avènement de la containerisation, il est devenu possible de déployer des
+Avec l'avènement de la containerisation, il est devenu possible de déployer des
 applications de manière plus simple et plus rapide. La containerisation consiste
 à emballer une application et toutes ses dépendances dans un conteneur
 (_"container"_), qui peut être exécuté sur n'importe quel serveur supportant la
@@ -206,7 +206,7 @@ votre application et à vos besoins.
 services d'hébergement web, de cloud et de messagerie. Il est connu pour son
 excellent support client et sa fiabilité. Il propose également des solutions
 d'hébergement écologiques et durables. Moins cher que la concurrence il est
-moins modulable et une personnalisation plus limitée. Le service d’hébergement
+moins modulable et une personnalisation plus limitée. Le service d'hébergement
 de base de données n'est pas encore disponible. Son service d'hébergement cloud
 est encore jeune et n'est pas encore au niveau de la concurrence
 
