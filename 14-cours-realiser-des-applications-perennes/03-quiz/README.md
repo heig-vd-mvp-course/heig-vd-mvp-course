@@ -81,7 +81,69 @@ cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
 ## Question 1 - Donnée
 
+> Qu'est-ce qu'une application pérenne ?
+
 ## Question 1 - Réponse
+
+Une application pérenne est une application qui est conçue pour durer dans le
+temps, en tenant compte des évolutions technologiques et des besoins des
+utilisateurs, autant sur le plan technique qu'économique.
+
+## Question 2 - Donnée
+
+> Lister quelques éléments principaux qui détériorent la pérennité d'une
+> application.
+
+## Question 2 - Réponse
+
+Les éléments principaux qui détériorent la pérennité d'une application sont :
+
+- Le manque de communication
+- Le manque de documentation
+- Le manque de tests
+- Le manque de rigueur
+- Le manque de temps/ressources/compétences
+- Le manque de vision/motivation
+
+## Question 3 - Donnée
+
+> Lister quelques éléments principaux qui améliorent la pérennité d'une
+> application.
+
+## Question 3 - Réponse
+
+_Voir les éléments du cours liés aux points suivants :_
+
+- _Communication_
+- _Gestion du code source_
+- _Documentation_
+- _Languages et frameworks_
+- _Intégration continue et livraison/déploiement continu_
+- _Compétences et simplicité_
+
+## Question 4 - Donnée
+
+> Vous êtes en charge d'un projet de développement d'une application web pour un
+> client.
+>
+> Le client a des exigences très précises et souhaite que l'application soit
+> développée dans un langage de programmation spécifique.
+>
+> Vous avez une équipe de développeurs qui maîtrisent ce langage, mais vous
+> savez que ce langage n'est pas le plus adapté pour ce type de projet. Que
+> faites-vous ?
+
+## Question 4 - Réponse
+
+Discuter avec le client pour lui expliquer les raisons pour lesquelles un autre
+langage pourrait être plus adapté.
+
+Proposer des alternatives et de lui montrer les avantages de ces alternatives.
+
+Si le client insiste pour utiliser le langage spécifique, il est nécessaire de
+s'assurer que l'équipe de développement dispose des mesures pour assurer la
+qualité du code et la pérennité de l'application (temps nécessaire pour la
+formation, tests, documentation, etc.).
 
 ## Questions
 

@@ -55,7 +55,7 @@ cible, compétences techniques, éléments validés par les retours utilisateurs
 - **Slack :** Plateforme créée à l'origine pour un jeu vidéo multijoueur en
   ligne et réorientée en outil de communication professionnelle.
 - **Airbnb :** Parti de la location temporaire de matelas pneumatiques vers la
-  location d'espaces d’hébergement de courte durée.
+  location d'espaces d'hébergement de courte durée.
 
 Pivoter, c'est donc rester sur une base solide tout en changeant d'angle
 d'approche.
@@ -63,7 +63,7 @@ d'approche.
 ## Accepter et gérer le pivot
 
 Pivoter implique une remise en question de son projet initial. Cela peut générer
-de la frustration et activer le biais d’investissement, également appelé **sunk
+de la frustration et activer le biais d'investissement, également appelé **sunk
 cost fallacy**, qui consiste à s'accrocher à une idée parce que l'on y a déjà
 investi du temps, de l'argent ou des efforts.
 
@@ -71,7 +71,7 @@ Pour gérer ce biais :
 
 - Prenez du recul : Ce n'est pas un échec personnel, mais une étape naturelle du
   processus entrepreneurial.
-- Valorisez ce que vous avez appris : Tout ce que vous avez investi jusqu’ici
+- Valorisez ce que vous avez appris : Tout ce que vous avez investi jusqu'ici
   est un apprentissage précieux.
 - Discutez ouvertement en équipe : Le pivot doit être une décision collective
   pour être accepté plus facilement.
@@ -110,7 +110,7 @@ sous un autre angle.
 Explorer de nouvelles pistes implique une démarche créative :
 
 - **Brainstorming :** Créez une session d'idéation où chaque personne de
-  l’équipe peut proposer librement des idées alternatives.
+  l'équipe peut proposer librement des idées alternatives.
 - **Expérimentation rapide :** Prototypage rapide, tests utilisateurs simplifiés
   ou landing pages temporaires permettent de valider rapidement une nouvelle
   hypothèse.
@@ -154,4 +154,4 @@ il est recommandé pour la semaine suivante de :
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/02-support-de-cours/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration-principale]: ./images/pivot.jpg
+[illustration-principale]: ./images/illustration-principale.jpg

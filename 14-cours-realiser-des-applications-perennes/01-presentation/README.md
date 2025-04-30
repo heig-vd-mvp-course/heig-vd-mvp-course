@@ -81,15 +81,48 @@ consultez le [support de cours][course-material]._
 
 ## Objectifs (1/2)
 
-- TODO
+- Lister les éléments principaux qui détériorent la qualité d'une application
+- Lister les éléments principaux qui améliorent la qualité d'une application
+- Identifier les freins d'une application de qualité dans une situation donnée
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
-- TODO
+- Appliquer les bonnes pratiques qui permettent d'améliorer la qualité d'une
+  application
 
 ![bg right:40%][illustration-objectifs]
+
+## Déroulement du cours
+
+Nous vous proposons un format un peu différent pour ce cours :
+
+1. Lisez le [support de cours][course-material] de façon autonome.
+2. Une fois terminé, annoncez-le. Vous pouvez commencer le travail en groupe
+   pendant que les autres finissent de lire.
+3. Une fois que tout le monde a terminé la lecture, nous répondons aux
+   questions/discussions sur le support de cours.
+4. Ensuite, nous passerons à l'analyse de situations personnelles avec
+   discussions collectives. **Durée totale : ~30-40 minutes**
+
+### Discussions collectives sur vos situations
+
+Nous allons maintenant discuter ensemble des situations que vous avez
+rencontrées dans le cadre de vos projets :
+
+- Quelles sont les situations que vous avez rencontrées ?
+- Quels sont les points positifs et négatifs que vous avez pu observer ?
+- Qu'est-ce qui aurait pu être fait différemment pour améliorer la pérennité de
+  vos projets ?
+- Quelles sont les bonnes pratiques que vous avez pu observer ?
+
+### Situations fictives
+
+Le [support de cours][course-material] contient des situations fictives que vous
+pouvez analyser si vous le souhaitez.
+
+![bg right:40%][illustration-principale]
 
 ## Questions
 
@@ -104,15 +137,13 @@ Est-ce que vous avez des questions ?
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 
-## Sources (1/3)
+## Sources
 
-- [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+- [Illustration principale][illustration-principale] extraite du film "Astérix
+  et Obélix : Mission Cléopâtre" dirigé par Alain Chabat
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
-- TODO
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
@@ -128,8 +159,7 @@ Est-ce que vous avez des questions ?
 
 <!-- Illustrations -->
 
-[illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+[illustration-principale]: ./images/illustration-principale.png
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:

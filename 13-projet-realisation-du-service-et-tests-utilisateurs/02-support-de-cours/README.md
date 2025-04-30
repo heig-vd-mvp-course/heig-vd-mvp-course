@@ -95,6 +95,12 @@ De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
 
 ### Déroulement
 
+Suivez les objectifs de la séance en cours et commencez à développer le service
+envisagé.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
+
 ### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -116,6 +122,12 @@ De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
 - Compléter le rapport
 
 ### Déroulement
+
+Suivez les objectifs de la séance en cours et commencez à développer le service
+envisagé.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
 
 ### À faire pour la semaine suivante
 
@@ -140,6 +152,12 @@ De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
 
 ### Déroulement
 
+Suivez les objectifs de la séance en cours et commencez à développer le service
+envisagé.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
+
 ### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -160,6 +178,12 @@ De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
 
 ### Déroulement
 
+Suivez les objectifs de la séance en cours et commencez à développer le service
+envisagé.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
+
 ### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -179,6 +203,12 @@ De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
 - Commencer la présentation du projet de la semaine 16
 
 ### Déroulement
+
+Suivez les objectifs de la séance en cours et commencez à développer le service
+envisagé.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
 
 ### À faire pour la semaine suivante
 

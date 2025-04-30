@@ -121,7 +121,7 @@ cible, interviews, etc.)
 - **Slack :** Plateforme créée à l'origine pour un jeu vidéo multijoueur en
   ligne et réorientée en outil de communication professionnelle.
 - **Airbnb :** Parti de la location temporaire de matelas pneumatiques vers la
-  location d'espaces d’hébergement de courte durée.
+  location d'espaces d'hébergement de courte durée.
 
 -->
 
@@ -228,7 +228,7 @@ Est-ce que vous avez des questions ?
 
 <!-- Illustrations -->
 
-[illustration-principale]: ../02-support-de-cours/images/pivot.jpg
+[illustration-principale]: ./images/illustration-principale.jpg
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:

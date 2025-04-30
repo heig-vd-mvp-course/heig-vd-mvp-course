@@ -179,10 +179,10 @@ concurrents, etc.
 > Vous pourriez simplement dire :  
 > **_"Notre solution est écologique."_**
 >
-> Mais cela aurait moins d’impact que si vous utilisiez la règle de trois :  
+> Mais cela aurait moins d'impact que si vous utilisiez la règle de trois :  
 > **_"Notre solution est rapide, efficace et écologique."_**
 >
-> Cette structure renforce l’effet rythmique et facilite la rétention du
+> Cette structure renforce l'effet rythmique et facilite la rétention du
 > message.
 
 ## Éléments à éviter lors d'un pitch

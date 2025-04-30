@@ -180,6 +180,12 @@ il est recommandé pour la semaine suivante de :
 
 ### Déroulement
 
+Suivez les objectifs de la séance en cours et commencez à développer le service
+envisagé.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
+
 ### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -210,6 +216,12 @@ il est recommandé pour la semaine suivante de :
 
 ### Déroulement
 
+Suivez les objectifs de la séance en cours et commencez à développer le service
+envisagé.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
+
 ### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -232,6 +244,12 @@ il est recommandé pour la semaine suivante de :
 
 ### Déroulement
 
+Suivez les objectifs de la séance en cours et commencez à développer le service
+envisagé.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
+
 ### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -253,6 +271,12 @@ il est recommandé pour la semaine suivante de :
 ![bg right:40%][illustration-objectifs]
 
 ### Déroulement
+
+Suivez les objectifs de la séance en cours et commencez à développer le service
+envisagé.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
 
 ### À faire pour la semaine suivante
 

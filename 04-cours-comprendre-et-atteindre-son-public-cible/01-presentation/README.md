@@ -191,7 +191,7 @@ Un autre potentiel public se cache derrière Léa : les collègues de Léa.
 ### Limiter les biais de confirmation
 
 - Poser des questions ouvertes sans orienter les réponses
-- Favoriser l’écoute active et la reformulation
+- Favoriser l'écoute active et la reformulation
 - Recourir à des experts ou des regards extérieurs pour challenger les
   conclusions
 - **Éviter les tests en premier lieu**

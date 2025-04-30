@@ -293,7 +293,7 @@ ergonomiques de manière avancée.
 - [**Penpot**](https://penpot.app) Alternative open-source à Figma, Penpot
   permet de concevoir des interfaces ergonomiques avec des fonctionnalités de
   collaboration étendues, tout en intégrant directement les principes
-  d’accessibilité dès la conception.
+  d'accessibilité dès la conception.
 - [**Adobe XD**](https://adobe.com/products/xd) : Adobe XD permet de concevoir
   des prototypes interactifs détaillés avec une prise en main intuitive, idéale
   pour tester et valider des interactions complexes.
@@ -307,7 +307,7 @@ Quelques outils additionnels pour enrichir votre réflexion ergonomique :
   utilisateur : formulaires, boutons, pages de connexion, navigation, etc. Une
   ressource précieuse pour vérifier que vous n'oubliez rien d'important.
 - [**Laws of UX**](https://lawsofux.com) : Présentation simple et accessible des
-  principes fondamentaux d’ergonomie et de psychologie cognitive à prendre en
+  principes fondamentaux d'ergonomie et de psychologie cognitive à prendre en
   compte dans vos interfaces. Idéal pour comprendre les raisons derrière
   certains choix ergonomiques et améliorer votre UX de manière argumentée.
 
@@ -319,7 +319,7 @@ Quelques outils additionnels pour enrichir votre réflexion ergonomique :
 
 > [!TIP] Une interface réfléchie est toujours le résultat d'une démarche
 > itérative. Ne négligez pas les tests et les retours utilisateurs à chaque
-> étape du processus pour garantir la pertinence et l’efficacité de vos choix
+> étape du processus pour garantir la pertinence et l'efficacité de vos choix
 > ergonomiques.
 
 ## Outils pour valider qu'une interface est accessible et ergonomique
@@ -333,26 +333,26 @@ disposition. En voici une sélection :
 
 - [**Poline**](https://meodai.github.io/poline/) : Poline est un outil simple
   mais efficace pour générer des palettes de couleurs respectant les critères
-  d’accessibilité. Il vous permet de créer automatiquement des combinaisons
+  d'accessibilité. Il vous permet de créer automatiquement des combinaisons
   harmonieuses tout en vérifiant leur lisibilité pour des personnes présentant
   des déficiences visuelles.
 - [**Geenes Accessibility Editor**](https://geenes.app/editor/accessibility) :
   Geenes est une plateforme interactive permettant de tester facilement les
-  contrastes et la lisibilité d’un design. Elle vous propose des ajustements
+  contrastes et la lisibilité d'un design. Elle vous propose des ajustements
   précis des couleurs et valide la conformité des choix effectués par rapport
   aux standards WCAG (Web Content Accessibility Guidelines).
 
 ### Outils généraux d'accessibilité web
 
 - [**WAVE Evaluation Tool**](https://wave.webaim.org/) : WAVE est une solution
-  complète pour détecter rapidement les erreurs d'accessibilité d’une page web.
-  L’outil fournit des suggestions détaillées et un aperçu visuel clair des
+  complète pour détecter rapidement les erreurs d'accessibilité d'une page web.
+  L'outil fournit des suggestions détaillées et un aperçu visuel clair des
   améliorations nécessaires pour répondre aux critères WCAG.
 
 - [**PageSpeed Insights**](https://pagespeed.web.dev/) : PageSpeed Insights est
-  un outil de Google qui analyse la performance d’une page web. En plus de
+  un outil de Google qui analyse la performance d'une page web. En plus de
   fournir des recommandations pour améliorer la vitesse de chargement, il évalue
-  également l’accessibilité et propose des conseils pour optimiser l’expérience
+  également l'accessibilité et propose des conseils pour optimiser l'expérience
   utilisateur.
 
 ## Conclusion
@@ -373,7 +373,7 @@ La combinaison judicieuse de ces outils vous permettra de valider efficacement
 que votre interface est non seulement attrayante visuellement, mais aussi
 accessible et ergonomique. Rappelez-vous qu'un bon design doit toujours prendre
 en compte les besoins spécifiques des utilisateurs, notamment en termes
-d’accessibilité.
+d'accessibilité.
 
 ## Ce que vous ferez ensuite
 

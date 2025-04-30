@@ -648,7 +648,7 @@ page. Voici quelques points clés :
   et `<h3>` pour structurer les sous-sections.
 - **Utilisation des balises sémantiques** : les balises `<article>`,
   `<section>`, `<aside>`, `<nav>`, etc. améliorent la lisibilité et
-  l’indexation. De plus, elles aident les personnes en situation de handicap à
+  l'indexation. De plus, elles aident les personnes en situation de handicap à
   naviguer sur votre site.
 
 Avant de lister les différents points, il est important de rappeler que le

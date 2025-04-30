@@ -88,7 +88,7 @@ cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
 - Multiplier les sources d'information
 - Poser des questions ouvertes
-- Favoriser l’écoute active et la reformulation
+- Favoriser l'écoute active et la reformulation
 - Recourir à des experts ou des regards extérieurs
 
 ## Question 2 - Donnée

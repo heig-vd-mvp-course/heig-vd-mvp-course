@@ -33,15 +33,15 @@ notions suivantes :
 - gestion et documentation de projets de grande envergure en équipe ;
 - acquérir de manière indépendante des connaissances sur des sujets nouveaux.
 
-Les unités WEB, DTS et PDG permettent d’acquérir ces connaissances.
+Les unités WEB, DTS et PDG permettent d'acquérir ces connaissances.
 
 ## Objectifs
 
 La HEIG-VD encourage les personnes diplômées sortantes à lancer des projets
-entrepreneuriaux durant leurs études ou à la fin de celles-ci. Pour l’instant,
+entrepreneuriaux durant leurs études ou à la fin de celles-ci. Pour l'instant,
 très peu de projets sont portés par les personnes en fin de formation en TIC.
 Cette unité est proposée pour mettre à disposition tous les outils pour se
-lancer dans l’aventure entrepreneuriale, avec un accent particulier sur les
+lancer dans l'aventure entrepreneuriale, avec un accent particulier sur les
 technologies informatiques et de communication.
 
 Au travers du cours, différentes thématiques seront abordées pour donner une
@@ -57,15 +57,15 @@ se joindre à un groupe existant ou imaginer un projet en début de cours.
 Différents moments de présentations, de discussions et de partages sont prévus
 pour orienter et améliorer les idées de manière collective.
 
-À l’issue de cette unité d’enseignement, la personne qui étudie sera capable de
+À l'issue de cette unité d'enseignement, la personne qui étudie sera capable de
 :
 
 - identifier des secteurs de marché prometteurs pour y fournir un nouveau
   service ;
 - être capable de promouvoir et pitcher son idée en public ;
 - appliquer des méthodologies de validation de marché (Mom test) ;
-- énumérer les avantages et les inconvénients d’une stack technologique web ;
-- évaluer le choix d’une stack technologique web par rapport à une situation
+- énumérer les avantages et les inconvénients d'une stack technologique web ;
+- évaluer le choix d'une stack technologique web par rapport à une situation
   donnée ;
 - utiliser les bonnes pratiques de programmation pour rendre une application
   viable et pérenne dans le temps ;
@@ -73,7 +73,7 @@ pour orienter et améliorer les idées de manière collective.
   Product) attractive proposant un service à son public cible ;
 - inclure un moyen de paiement sur un site web (TWINT, Stripe) et se faire
   rémunérer pour ses services ;
-- mettre en place des applications durables (autant au niveau technique qu’au
+- mettre en place des applications durables (autant au niveau technique qu'au
   niveau financier) ;
 - énumérer les différentes formes juridiques pour la création d'une entreprise
   avec leurs avantages et inconvénients.
