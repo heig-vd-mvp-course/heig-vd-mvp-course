@@ -254,41 +254,149 @@ Partagez vos situations et vos réflexions avec le reste de la classe.
 
 ### Situation 1
 
-TODO
+Une équipe de développement lance une application mobile de gestion d'événements
+sportifs pour une association régionale. L’équipe est composée d’une seule
+personne qui gère le développement, le design et l’administration des serveurs
+en parallèle de son emploi à plein temps. L’application est développée en React
+Native, une technologie avec laquelle la personne développeuse a peu
+d’expérience.
+
+Le code source est hébergé localement sur le poste personnel du développeur et
+sauvegardé occasionnellement sur une clé USB, sans utiliser de système de
+versioning centralisé. Aucune documentation n’est disponible, le développeur
+jugeant que tout est suffisamment simple à comprendre directement depuis le code
+source.
+
+L'application est hébergée sur un serveur bas de gamme loué chez un fournisseur
+peu connu, choisi uniquement pour ses faibles coûts. Aucun processus de test
+automatisé n'est mis en place et toutes les modifications sont directement
+poussées en production sans validation préalable.
+
+Les nouvelles fonctionnalités sont ajoutées irrégulièrement, en fonction des
+demandes ponctuelles de l’association. Le développeur commence à ressentir une
+fatigue importante et envisage de quitter le projet.
+
+Qu'est-ce qui est un frein à la pérennité de l'application ?
 
 <details>
 <summary>Afficher la solution</summary>
 
-TODO
+Cette situation présente plusieurs freins importants à la pérennité :
 
-<details>
+- **Le manque de documentation et de gestion centralisée du code source** rend
+  extrêmement difficile toute reprise du projet par une autre personne.
+- **L’absence de processus de tests automatisés et de revue de code** expose
+  l’application à un haut risque d’erreurs et de régressions.
+- **La dépendance à une seule personne** augmente fortement le risque
+  d’interruption du projet en cas de départ du développeur.
+- **Un hébergement bas de gamme** menace la stabilité technique de l'application
+  à moyen terme.
+
+Pour améliorer la pérennité, l’association devrait impérativement recruter ou au
+moins intégrer d’autres personnes au projet, mettre en place un système de
+gestion du code centralisé (par exemple GitHub), introduire une documentation
+minimale, et mettre en place des tests et processus d'intégration continue.
+
+</details>
 
 ### Situation 2
 
-TODO
+Une startup crée une plateforme web de réservation pour des salons de coiffure
+indépendants. L'équipe initiale est composée de deux personnes autodidactes en
+développement web utilisant un framework JavaScript récent mais peu documenté et
+encore instable.
+
+Les membres de l’équipe utilisent des services gratuits pour la gestion du
+projet (Trello, Slack), du code source (dépôt privé sur Bitbucket gratuit), et
+des serveurs (crédits gratuits sur AWS qui vont bientôt expirer). Le choix
+initial du framework a été motivé par son aspect innovant mais l’équipe
+rencontre fréquemment des bugs liés à cette instabilité. Aucun test n'est
+réalisé avant les mises en production et aucune politique de sauvegarde n’est
+clairement définie.
+
+L’équipe se concentre essentiellement sur le développement de nouvelles
+fonctionnalités, négligeant les bugs signalés par les personnes utilisatrices.
+Le nombre de demandes de support augmente progressivement et les deux personnes
+fondatrices commencent à avoir des difficultés à gérer l’afflux de problèmes
+tout en continuant à développer.
+
+Qu'est-ce qui est un frein à la pérennité de l'application ?
 
 <details>
 <summary>Afficher la solution</summary>
 
-TODO
+Les principaux freins à la pérennité dans cette situation sont :
 
-<details>
+- **Le choix d'une technologie immature** : un framework instable et peu
+  documenté entraîne une forte difficulté à maintenir l’application et à
+  résoudre les bugs.
+- **La dépendance à des services gratuits** : ces services ont des limites en
+  termes de ressources et d’usage qui pourraient entraîner un coût non anticipé
+  ou un changement forcé de fournisseur.
+- **L’absence de tests et de procédures de gestion des incidents** augmente le
+  temps passé à traiter les erreurs et réduit la capacité à se concentrer sur
+  les améliorations.
+- **Le manque de politique de sauvegarde claire** menace la continuité des
+  données et la sécurité.
+
+L'équipe devrait envisager une transition vers des technologies plus matures et
+stables, prévoir un budget dédié pour le support technique, adopter des bonnes
+pratiques de développement, de tests, et assurer une stratégie claire pour la
+gestion des sauvegardes.
+
+</details>
 
 ### Situation 3
 
-TODO
+Une petite entreprise développe une application de gestion des ventes internes
+en PHP sans utiliser de framework. L'équipe de développement comprend 3
+développeuses et 1 designer qui communiquent uniquement par e-mails et rarement
+en réunion. Chaque personne travaille individuellement sur sa partie sans
+coordination formelle avec les autres, ce qui entraîne des doublons et des
+conflits de code fréquents.
+
+L'entreprise utilise un serveur physique interne qui date de plusieurs années
+pour héberger l'application. Ce serveur n’est pas régulièrement maintenu, et les
+mises à jour de sécurité ne sont jamais appliquées. Aucun processus de revue de
+code, d'intégration continue ou de livraison continue n’existe. Le code source
+est stocké sur un serveur de fichiers interne avec de simples sauvegardes
+hebdomadaires sur un disque dur externe.
+
+La personne chargée de l’infrastructure quitte prochainement l’entreprise et
+aucun remplacement n’est prévu à court terme. L’équipe accumule un retard
+technique considérable et commence à voir son efficacité diminuer
+significativement.
+
+Qu'est-ce qui est un frein à la pérennité de l'application ?
 
 <details>
 <summary>Afficher la solution</summary>
 
-TODO
+Les principaux freins à la pérennité dans cette situation incluent :
 
-<details>
+- **Le manque de coordination et de communication entre les personnes** crée des
+  conflits et des redondances, rendant le code complexe et difficilement
+  maintenable.
+- **La gestion obsolète et non sécurisée du serveur physique interne** expose
+  l’application à des risques critiques en termes de sécurité et de
+  disponibilité.
+- **L’absence de revue de code, d’intégration continue et de processus
+  structurés** favorise l’accumulation d’une dette technique considérable.
+- **La dépendance à un seul responsable de l’infrastructure sans plan de
+  succession** augmente le risque d’interruption soudaine de service.
+
+Pour assurer la pérennité, l’entreprise devrait immédiatement mettre en place
+une coordination régulière entre les personnes, passer à une gestion de code
+source moderne (Git), envisager une migration vers une infrastructure cloud
+sécurisée, et mettre en place un processus formel de revue de code et
+d’intégration continue.
+
+</details>
 
 ### Situation 4
 
 Une équipe de développement a décidé de créer une application web pour gérer la
-logistique de l'entreprise qui a différents entrepots à travers le monde
+logistique de l'entreprise qui a différents entrepôts à travers le monde
 (gestion des fournisseurs, gestion des stocks, gestion des commandes, etc.).
 L'application est développée par une équipe de 5 personnes, composée de
 développeurs, d'un designer et d'un chef de projet.
