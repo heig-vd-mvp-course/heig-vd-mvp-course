@@ -111,17 +111,20 @@ consultez le [support de cours][course-material]._
 <div>
 
 1. Proposition de valeur
-1. Segments de clients
-1. Canaux de distribution
-1. Relations avec les clients
-1. Sources de revenus
-1. Ressources clés
-1. Partenaires clés
-1. Activités principales
-1. Structure des coûts
+2. Segments de clients
+3. Canaux de distribution
+4. Relations avec les clients
+5. Sources de revenus
+6. Ressources clés
+7. Partenaires clés
 
 </div>
 <div>
+
+8. Activités principales
+9. Structure des coûts
+
+**Sustainable Business Model Canvas**
 
 - Coûts écosociaux
 - Revenus écosociaux
