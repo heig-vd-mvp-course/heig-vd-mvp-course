@@ -79,17 +79,42 @@ _paginate: false
 _Cette présentation est un résumé du support de cours. Pour plus de détails,
 consultez le [support de cours][course-material]._
 
-## Objectifs (1/2)
+## Objectifs
 
-- TODO
-
-![bg right:40%][illustration-objectifs]
-
-## Objectifs (2/2)
-
-- TODO
+- Évaluer les compétences acquises durant le semestre
 
 ![bg right:40%][illustration-objectifs]
+
+## Méthodes d'évaluation
+
+L'évaluation prend la forme d'une évaluation écrite sur
+[Eval](https://eval.iict-heig-vd.in).
+
+L'évaluation se fait en utilisant les critères suivants :
+
+- Capacité à répondre avec justesse
+- Capacité à argumenter
+- Capacité à synthétiser
+
+Les retours se font de la manière suivante :
+
+- Corrigé de l'évaluation
+
+## Modalités d'évaluation
+
+- Forme : Évaluation écrite
+- Durée : 45 minutes
+- Contenu : test de connaissances sur tout le contenu de l'unité d'enseignement
+- Ressources autorisées : une feuille A4 recto-verso de notes personnelles
+
+![bg right:40%][illustration-principale]
+
+## Comment se préparer
+
+- Relire les supports de cours
+- Relire les exercices et les quiz
+
+![bg right:40%][illustration-principale]
 
 ## Questions
 
@@ -104,15 +129,14 @@ Est-ce que vous avez des questions ?
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 
-## Sources (1/3)
+## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+  [MChe Lee](https://unsplash.com/@mclee) sur
+  [Unsplash](https://unsplash.com/photos/white-table-with-black-chairs-PC91Jm1DlWA)
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
-- TODO
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
@@ -129,7 +153,7 @@ Est-ce que vous avez des questions ?
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:

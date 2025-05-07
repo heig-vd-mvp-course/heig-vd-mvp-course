@@ -141,6 +141,14 @@ il est recommandé pour la semaine suivante de :
 - Organiser un brainstorming en équipe pour identifier des pistes alternatives
   concrètes.
 
+## Ce que vous ferez ensuite
+
+La séance de projet sera consacrée à la réalisation de votre projet et des tests
+utilisateurs associés.
+
+Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
+évoluer.
+
 ## Sources
 
 - [Illustration principale][illustration-principale] extraite de la série

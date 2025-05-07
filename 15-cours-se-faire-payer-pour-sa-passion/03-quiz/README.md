@@ -81,7 +81,96 @@ cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
 ## Question 1 - Donnée
 
+> Qu'est-ce qu'un business model ?
+
 ## Question 1 - Réponse
+
+- Un **business model** décrit comment une activité crée, délivre et capture de
+  la valeur.
+
+## Question 2 - Donnée
+
+> Quels sont les neuf blocs essentiels du Business Model Canvas ?
+
+_**Bonus** : Quels sont les deux blocs ajoutés par le Sustainable Business Model
+Canvas ?_
+
+## Question 2 - Réponse
+
+<div class="two-columns">
+
+<div>
+
+1. Proposition de valeur
+2. Segments de clients
+3. Canaux de distribution
+4. Relations clients
+5. Sources de revenus
+6. Ressources clés
+7. Partenaires clés
+8. Activités principales
+
+</div>
+<div>
+
+9. Structure des coûts
+10. Coûts écosociaux
+11. Revenus écosociaux
+
+</div>
+</div>
+
+## Question 3 - Donnée
+
+> Donnez trois exemples de sources de revenus possibles pour se faire payer pour
+> sa passion.
+
+## Question 3 - Réponse
+
+1. Business-to-business (B2B)
+2. Business-to-consumer (B2C)
+3. Inscription ou abonnement
+
+## Question 4 - Donnée
+
+> Citez trois moyens de paiement populaires en Suisse.
+
+## Question 4 - Réponse
+
+1. Paiement mobile (TWINT)
+2. Cartes de débit et crédit
+3. Paiement en espèces
+
+## Question 5 - Donnée
+
+> Citez au moins trois prestataires de paiement sur Internet (en ligne) ?
+
+## Question 5 - Réponse
+
+1. Stripe
+2. PayPal
+3. TWINT
+
+## Question 6 - Donnée
+
+> Vous souhaitez vous lancer en tant qu'indépendant.e. Est-il nécessaire de
+> faire quoi que ce soit avant de commencer à travailler ?
+
+## Question 6 - Réponse
+
+- Oui, il y a des démarches administratives à effectuer avant de commencer à
+  travailler.
+
+## Question 7 - Donnée
+
+> En tant qu'indépendant.e, à quels éléments légaux faut-il faire attention ?
+
+## Question 7 - Réponse
+
+- **Assurances** : AVS, responsabilité civile, accidents, etc.
+- **Fiscalité** : déclaration d'impôts, TVA, etc.
+- **Droit à la concurrence** : respect des règles de la concurrence, etc.
+- **Contrats** : conditions générales de vente, contrats de prestation, etc.
 
 ## Questions
 
@@ -92,8 +181,8 @@ Est-ce que vous avez des questions ?
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+  [Fabian Blank](https://unsplash.com/@blankerwahnsinn) sur
+  [Unsplash](https://unsplash.com/photos/pink-pig-figurine-on-white-surface-pElSkGRA2NU)
 
 <!-- URLs -->
 
@@ -109,4 +198,4 @@ Est-ce que vous avez des questions ?
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1459257831348-f0cdd359235f?fit=crop&h=720

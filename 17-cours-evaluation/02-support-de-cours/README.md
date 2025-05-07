@@ -14,29 +14,62 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
-- [Conclusion](#conclusion)
+- [Méthodes d'évaluation](#méthodes-dévaluation)
+- [Modalités d'évaluation](#modalités-dévaluation)
+- [Comment se préparer](#comment-se-préparer)
+- [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
 
 ## Objectifs
 
-- TODO
+- Évaluer les compétences acquises durant le semestre
 
-## Conclusion
+## Méthodes d'évaluation
 
-TODO
+L'évaluation prend la forme d'une évaluation écrite sur
+[Eval](https://eval.iict-heig-vd.in).
+
+L'évaluation se fait en utilisant les critères suivants :
+
+- Capacité à répondre avec justesse
+- Capacité à argumenter
+- Capacité à synthétiser
+
+Les retours se font de la manière suivante :
+
+- Corrigé de l'évaluation
+
+## Modalités d'évaluation
+
+- Forme : Évaluation écrite
+- Durée : 45 minutes
+- Contenu : test de connaissances sur tout le contenu de l'unité d'enseignement
+- Ressources autorisées : une feuille A4 recto-verso de notes personnelles
+
+## Comment se préparer
+
+- Relire les supports de cours
+- Relire les exercices et les quiz
+
+## À faire pour la semaine suivante
+
+_Il n'y a pas de cours la semaine suivante, il n'y a donc rien à faire pour la
+semaine suivante vis-à-vis du cours._
 
 ## Ce que vous ferez ensuite
 
-TODO
+La séance de projet sera consacrée à la réalisation de votre projet et des tests
+utilisateurs associés.
+
+Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
+évoluer.
 
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
-
-[^example]: Example, [example.com](https://example.com/), 20 février 2025
+  [MChe Lee](https://unsplash.com/@mclee) sur
+  [Unsplash](https://unsplash.com/photos/white-table-with-black-chairs-PC91Jm1DlWA)
 
 <!-- URLs -->
 
@@ -45,4 +78,4 @@ TODO
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?fit=crop&h=720
