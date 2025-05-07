@@ -79,15 +79,69 @@ _paginate: false
 _Cette présentation est un résumé du support de cours. Pour plus de détails,
 consultez le [support de cours][course-material]._
 
-## Objectifs (1/2)
+## Objectifs
 
-- TODO
+- Établir un business model pour son projet
+- Lister les différents moyens de paiement populaires en Suisse
+- Lister les différents prestataires de paiement populaires sur Internet
+- Lister les éléments légaux nécessaires pour pouvoir se faire payer pour sa
+  passion
 
 ![bg right:40%][illustration-objectifs]
 
-## Objectifs (2/2)
+## Pourquoi se faire payer pour sa passion ?
 
-- TODO
+![bg right:40%][illustration-objectifs]
+
+## Établir un business model
+
+![bg right:40%][illustration-objectifs]
+
+### Business model canvas
+
+![bg right:40%][illustration-objectifs]
+
+### Sources de revenus
+
+![bg right:40%][illustration-objectifs]
+
+## Les moyens de paiement populaires en Suisse
+
+![bg right:40%][illustration-objectifs]
+
+## Prestataires de paiement sur Internet
+
+![bg right:40%][illustration-objectifs]
+
+### Stripe
+
+![bg right:40%][illustration-objectifs]
+
+### PayPal
+
+![bg right:40%][illustration-objectifs]
+
+### TWINT
+
+![bg right:40%][illustration-objectifs]
+
+### Autres prestataires
+
+![bg right:40%][illustration-objectifs]
+
+#### Payrexx
+
+![bg right:40%][illustration-objectifs]
+
+#### Mollie
+
+![bg right:40%][illustration-objectifs]
+
+#### PayPlug
+
+![bg right:40%][illustration-objectifs]
+
+## Aspects légaux à respecter en Suisse
 
 ![bg right:40%][illustration-objectifs]
 
