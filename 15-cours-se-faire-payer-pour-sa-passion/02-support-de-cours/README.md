@@ -14,6 +14,16 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
+- [Pourquoi se faire payer pour sa passion ?](#pourquoi-se-faire-payer-pour-sa-passion-)
+- [Établir un business model](#établir-un-business-model)
+  - [Modèle Canvas](#modèle-canvas)
+  - [Modèle freemium](#modèle-freemium)
+  - [Abonnement et services](#abonnement-et-services)
+- [Les moyens de paiement populaires en Suisse](#les-moyens-de-paiement-populaires-en-suisse)
+  - [Twint](#twint)
+  - [Cartes bancaires et de crédit](#cartes-bancaires-et-de-crédit)
+  - [Virements bancaires](#virements-bancaires)
+  - [Paypal](#paypal)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
@@ -43,9 +53,60 @@ De façon plus concise, à la fin de cette séance, vous devriez être capable d
 - Lister les éléments légaux nécessaires pour pouvoir se faire payer pour sa
   passion
 
+## Pourquoi se faire payer pour sa passion ?
+
+<!-- Transformer sa passion en source de revenu permet de financer durablement votre
+activité tout en vous épanouissant personnellement et professionnellement. -->
+
+## Établir un business model
+
+<!-- Un modèle économique, ou business model, décrit comment une activité crée,
+délivre et capture de la valeur. -->
+
+### Modèle Canvas
+
+<!-- Le modèle Canvas permet une vision globale et structurée de votre projet en 9
+blocs essentiels : proposition de valeur, segments de clients, relations
+clients, canaux, ressources clés, activités clés, partenariats clés, structure
+des coûts, et flux de revenus. -->
+
+### Modèle freemium
+
+<!-- Offrir une version gratuite limitée de votre produit ou service tout en
+proposant des options payantes plus riches. -->
+
+### Abonnement et services
+
+<!-- Proposer un accès régulier à votre contenu ou vos services en échange d’un
+abonnement périodique. -->
+
+## Les moyens de paiement populaires en Suisse
+
+### Twint
+
+<!--
+Une application mobile largement utilisée, idéale pour des transactions simples
+et rapides entre particuliers ou commerces. -->
+
+### Cartes bancaires et de crédit
+
+<!-- Visa, Mastercard, PostFinance : indispensables pour toucher une large audience. -->
+
+### Virements bancaires
+
+<!-- Pratique pour des paiements sécurisés réguliers ou ponctuels. -->
+
+### Paypal
+
+<!-- Très utilisé à l'international, pratique pour recevoir des paiements depuis
+l’étranger. -->
+
 ## Conclusion
 
-TODO
+Se faire payer pour sa passion nécessite une bonne compréhension des modèles
+économiques, des solutions de paiement et des aspects légaux essentiels. Adaptez
+ces connaissances à votre projet spécifique pour garantir sa pérennité
+financière.
 
 ## À faire pour la semaine suivante
 

@@ -61,8 +61,8 @@ Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+  [MChe Lee](https://unsplash.com/@mclee) sur
+  [Unsplash](https://unsplash.com/photos/white-table-with-black-chairs-PC91Jm1DlWA)
 
 <!-- URLs -->
 
@@ -71,4 +71,4 @@ Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?fit=crop&h=720
