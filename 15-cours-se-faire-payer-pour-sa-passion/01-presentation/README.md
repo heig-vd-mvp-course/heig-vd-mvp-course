@@ -241,7 +241,7 @@ Est-ce que vous avez des questions ?
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 
-## Sources (1/3)
+## Sources (1/2)
 
 - [Illustration principale][illustration-principale] par
   [Fabian Blank](https://unsplash.com/@blankerwahnsinn) sur
@@ -261,9 +261,6 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-moyens] par
   [Daniel Lim](https://unsplash.com/@daniellim) sur
   [Unsplash](https://unsplash.com/photos/black-and-silver-telephone-on-white-painted-wall-oHBwDxpSAwQ)
-
----
-
 - [Illustration][illustration-prestataires-de-paiement-sur-internet] par
   [Avery Evans](https://unsplash.com/@averye457) sur
   [Unsplash](https://unsplash.com/photos/white-and-blue-magnetic-card-RJQE64NmC_o)
@@ -271,7 +268,7 @@ Est-ce que vous avez des questions ?
   [Tingey Injury Law Firm](https://unsplash.com/@tingeyinjurylawfirm) sur
   [Unsplash](https://unsplash.com/photos/woman-holding-sword-statue-during-daytime-DZpc4UY8ZtY)
 
----
+## Sources (2/2)
 
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
@@ -292,8 +289,6 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1459257831348-f0cdd359235f?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
-[illustration-a-vous-de-jouer]:
-	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
 [illustration-passion]:
 	https://images.unsplash.com/photo-1618859437290-dc3cda39ea58?fit=crop&h=720
 [illustration-business-model]:
@@ -306,3 +301,5 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1589758438368-0ad531db3366?fit=crop&h=720
 [illustration-aspects-legaux-a-respecter-en-suisse]:
 	https://images.unsplash.com/photo-1589829545856-d10d557cf95f?fit=crop&h=720
+[illustration-a-vous-de-jouer]:
+	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
