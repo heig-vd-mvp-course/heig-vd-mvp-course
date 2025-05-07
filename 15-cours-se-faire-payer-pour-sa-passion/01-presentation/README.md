@@ -145,7 +145,7 @@ consultez le [support de cours][course-material]._
 
 - Paiement mobile
 - Carte de débit
-- Paiement en expèces
+- Paiement en espèces
 - Carte de crédit
 - Facture
 
