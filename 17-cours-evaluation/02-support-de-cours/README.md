@@ -14,29 +14,55 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
-- [Conclusion](#conclusion)
+- [Méthodes d'évaluation](#méthodes-dévaluation)
+- [Modalités d'évaluation](#modalités-dévaluation)
+- [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
 
 ## Objectifs
 
-- TODO
+- Évaluer les compétences acquises durant le semestre
 
-## Conclusion
+## Méthodes d'évaluation
 
-TODO
+L'évaluation prend la forme d'une évaluation écrite sur
+[Eval](https://eval.iict-heig-vd.in).
+
+L'évaluation se fait en utilisant les critères suivants :
+
+- Capacité à répondre avec justesse
+- Capacité à argumenter
+- Capacité à synthétiser
+
+Les retours se font de la manière suivante :
+
+- Corrigé de l'évaluation
+
+## Modalités d'évaluation
+
+- Évaluation écrite
+- Durée : 45 minutes
+- Ressources autorisées : une feuille A4 recto-verso
+
+## À faire pour la semaine suivante
+
+_Il n'y a pas de cours la semaine suivante, il n'y a donc rien à faire pour la
+semaine suivante vis-à-vis du cours._
 
 ## Ce que vous ferez ensuite
 
-TODO
+La séance de projet sera consacrée à la réalisation de votre projet et des tests
+utilisateurs associés.
+
+Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
+évoluer.
 
 ## Sources
 
 - [Illustration principale][illustration-principale] par
   [Annie Spratt](https://unsplash.com/@anniespratt) sur
   [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
-
-[^example]: Example, [example.com](https://example.com/), 20 février 2025
 
 <!-- URLs -->
 

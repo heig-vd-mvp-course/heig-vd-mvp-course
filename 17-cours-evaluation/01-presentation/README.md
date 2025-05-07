@@ -79,17 +79,32 @@ _paginate: false
 _Cette présentation est un résumé du support de cours. Pour plus de détails,
 consultez le [support de cours][course-material]._
 
-## Objectifs (1/2)
+## Objectifs
 
-- TODO
-
-![bg right:40%][illustration-objectifs]
-
-## Objectifs (2/2)
-
-- TODO
+- Évaluer les compétences acquises durant le semestre
 
 ![bg right:40%][illustration-objectifs]
+
+## Méthodes d'évaluation
+
+L'évaluation prend la forme d'une évaluation écrite sur
+[Eval](https://eval.iict-heig-vd.in).
+
+L'évaluation se fait en utilisant les critères suivants :
+
+- Capacité à répondre avec justesse
+- Capacité à argumenter
+- Capacité à synthétiser
+
+Les retours se font de la manière suivante :
+
+- Corrigé de l'évaluation
+
+## Modalités d'évaluation
+
+- Évaluation écrite
+- Durée : 45 minutes
+- Ressources autorisées : une feuille A4 recto-verso
 
 ## Questions
 

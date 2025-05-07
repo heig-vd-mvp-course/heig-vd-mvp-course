@@ -26,9 +26,21 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 TODO
 
+## À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
+- Réviser pour l'évaluation de la [semaine 13](../../17-cours-evaluation/)
+
 ## Ce que vous ferez ensuite
 
-TODO
+La séance de projet sera consacrée à la réalisation de votre projet et des tests
+utilisateurs associés.
+
+Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
+évoluer.
 
 ## Sources
 
