@@ -161,9 +161,9 @@ intégrations possibles :
 ### PayPal
 
 Très utilisé à l'international, [PayPal](https://www.paypal.com) est une
-solution pratique pour recevoir des paiements depuis l’étranger. La
+solution pratique pour recevoir des paiements depuis l'étranger. La
 documentation décrit comment intégrer PayPal à votre projet :
-<https://developer.paypal.com/studio/checkout/standard/integrate>.
+<https://developer.paypal.com/docs/checkout/>.
 
 ### TWINT
 
@@ -180,29 +180,21 @@ Stripe. La page suivante décrit toutes les intégrations possibles :
 Voici quelques autres prestataires de paiement sur Internet sur lesquels nous
 sommes tombés.
 
-#### Payrexx
-
-Un prestataire suisse qui se concentre sur les petites et moyennes entreprises,
-[Payrexx](https://payrexx.com/) propose des solutions de paiement adaptées aux
-besoins spécifiques de ce segment.
-
-#### Mollie
-
-Un prestataire néerlandais qui se concentre sur l'Europe
-[Mollie](https://www.mollie.com) propose des solutions de paiement adaptées aux
-besoins des entreprises européennes.
-
-#### PayPlug
-
-Un prestataire français qui se concentre sur les petites et moyennes
-entreprises, [PayPlug](https://www.payplug.com) propose des solutions adaptées
-aux besoins spécifiques de ce segment.
+- **Payrexx** : un prestataire suisse qui se concentre sur les petites et
+  moyennes entreprises, [Payrexx](https://payrexx.com/) propose des solutions de
+  paiement adaptées aux besoins spécifiques de ce segment.
+- **Mollie**: un prestataire néerlandais qui se concentre sur l'Europe
+  [Mollie](https://www.mollie.com) propose des solutions de paiement adaptées
+  aux besoins des entreprises européennes.
+- **PayPlug** : un prestataire français qui se concentre sur les petites et
+  moyennes entreprises, [PayPlug](https://www.payplug.com) propose des solutions
+  adaptées aux besoins spécifiques de ce segment.
 
 ## Aspects légaux à respecter en Suisse
 
 > [!CAUTION]
 >
-> **Attention :** Les aspects légaux sont très importants et doivent être
+> **Attention :** les aspects légaux sont très importants et doivent être
 > respectés.
 >
 > Nous ne sommes pas des experts en droit. Nous vous recommandons de consulter
@@ -241,9 +233,9 @@ certains aspects légaux en Suisse. Voici quelques points clés à considérer :
 D'excellentes ressources sont disponibles sur le site de l'Administration
 fédérale pour vous aider à comprendre vos obligations :
 
-- <https://www.bsv.admin.ch/bsv/fr/home/informations-aux/independants.html>
-- <https://www.bsv.admin.ch/bsv/fr/home/informations-aux/kmu/fall-zu-fall/selbststaendigkeit.html>
-- <https://www.kmu.admin.ch/kmu/fr/home/savoir-pratique/creation-pme/creation-entreprise/premiers-pas/devenir-independant-en-suisse-mode-d-emploi.html>
+- [admin.ch - Indépendants](https://www.bsv.admin.ch/bsv/fr/home/informations-aux/independants.html)
+- [admin.ch - Les premiers pas vers l'indépendance](https://www.bsv.admin.ch/bsv/fr/home/informations-aux/kmu/fall-zu-fall/selbststaendigkeit.html)
+- [admin.ch - Indépendance: mode d’emploi](https://www.kmu.admin.ch/kmu/fr/home/savoir-pratique/creation-pme/creation-entreprise/premiers-pas/devenir-independant-en-suisse-mode-d-emploi.html)
 
 ## Conclusion
 

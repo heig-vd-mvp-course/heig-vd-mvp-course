@@ -153,39 +153,80 @@ consultez le [support de cours][course-material]._
 
 ## Prestataires de paiement sur Internet
 
-![bg right:40%][illustration-objectifs]
+- Il existe de nombreux prestataires de paiement sur Internet.
+- Ils permettent de faire des paiements en ligne de manière sécurisée et une
+  intégration facile dans les applications.
+- Les plus reconnus sont Stripe, PayPal, TWINT (entre autres)
+
+![bg right:40%][illustration-prestataires-de-paiement-sur-internet]
 
 ### Stripe
 
-![bg right:40%][illustration-objectifs]
+- Un des leaders du marché
+- S'intègre facilement dans les applications
+- Excellente documentation
+- Supporte de nombreux moyens de paiement et de multiples prestataires (dont
+  TWINT)
+- [Documentation Stripe](https://stripe.com/docs)
+
+![bg right w:80%](https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg)
 
 ### PayPal
 
-![bg right:40%][illustration-objectifs]
+- Très utilisé à l'international
+- Permet de recevoir des paiements depuis l'étranger
+- S'intègre facilement dans les applications
+- [Documentation PayPal](https://developer.paypal.com/docs/checkout/)
+
+![bg right w:80%](https://upload.wikimedia.org/wikipedia/commons/c/c6/PayPal_2024.svg)
 
 ### TWINT
 
-![bg right:40%][illustration-objectifs]
+- Très utilisé en Suisse
+- Omniprésent dans notre vie quotidienne
+- Peut être intégré dans les applications (par Stripe par exemple)
+- [Documentation TWINT](https://www.twint.ch/fr/clients-commerciaux/nos-solutions/boutique-en-ligne/?lang=fr#section-integration)
+
+![bg right h:80%](https://upload.wikimedia.org/wikipedia/commons/8/87/Twint.png)
 
 ### Autres prestataires
 
-![bg right:40%][illustration-objectifs]
+- [Payrexx](https://payrexx.com/) - prestataire suisse qui se concentre sur les
+  petites et moyennes entreprises
+- [Mollie](https://www.mollie.com/) - prestataire néerlandais qui se concentre
+  sur l'Europe
+- [PayPlug](https://payplug.com/) - prestataire français qui se concentre sur
+  les petites et moyennes entreprises
 
-#### Payrexx
+![bg right:40%][illustration-prestataires-de-paiement-sur-internet]
 
-![bg right:40%][illustration-objectifs]
+## Aspects légaux à respecter en Suisse (1/3)
 
-#### Mollie
+- Ces aspects légaux sont à considérer si vous travaillez en indépendant.e
+- Pour les autres formes juridiques, nous les aborderons dans un prochain cours
 
-![bg right:40%][illustration-objectifs]
+**Nous ne sommes pas experts en droit !**
 
-#### PayPlug
+![bg right:40%][illustration-aspects-legaux-a-respecter-en-suisse]
 
-![bg right:40%][illustration-objectifs]
+## Aspects légaux à respecter en Suisse (2/3)
 
-## Aspects légaux à respecter en Suisse
+- **Assurances** : AVS, responsabilité civile, accidents, etc.
+- **Fiscalité** : déclaration d'impôts, TVA, etc.
+- **Droit à la concurrence** : respect des règles de la concurrence, etc.
+- **Contrats** : conditions générales de vente, contrats de prestation, etc.
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-aspects-legaux-a-respecter-en-suisse]
+
+## Aspects légaux à respecter en Suisse (3/3)
+
+Ressources pour vous aider à comprendre vos obligations :
+
+- [admin.ch - Indépendants](https://www.bsv.admin.ch/bsv/fr/home/informations-aux/independants.html)
+- [admin.ch - Les premiers pas vers l'indépendance](https://www.bsv.admin.ch/bsv/fr/home/informations-aux/kmu/fall-zu-fall/selbststaendigkeit.html)
+- [admin.ch - Indépendance: mode d’emploi](https://www.kmu.admin.ch/kmu/fr/home/savoir-pratique/creation-pme/creation-entreprise/premiers-pas/devenir-independant-en-suisse-mode-d-emploi.html)
+
+![bg right:40%][illustration-aspects-legaux-a-respecter-en-suisse]
 
 ## Questions
 
@@ -220,6 +261,18 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-moyens] par
   [Daniel Lim](https://unsplash.com/@daniellim) sur
   [Unsplash](https://unsplash.com/photos/black-and-silver-telephone-on-white-painted-wall-oHBwDxpSAwQ)
+
+---
+
+- [Illustration][illustration-prestataires-de-paiement-sur-internet] par
+  [Avery Evans](https://unsplash.com/@averye457) sur
+  [Unsplash](https://unsplash.com/photos/white-and-blue-magnetic-card-RJQE64NmC_o)
+- [Illustration][illustration-aspects-legaux-a-respecter-en-suisse] par
+  [Tingey Injury Law Firm](https://unsplash.com/@tingeyinjurylawfirm) sur
+  [Unsplash](https://unsplash.com/photos/woman-holding-sword-statue-during-daytime-DZpc4UY8ZtY)
+
+---
+
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
@@ -249,3 +302,7 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1482189349482-3defd547e0e9?fit=crop&h=720
 [illustration-moyens]:
 	https://images.unsplash.com/photo-1584012123175-57cb844ff01a?fit=crop&h=720
+[illustration-prestataires-de-paiement-sur-internet]:
+	https://images.unsplash.com/photo-1589758438368-0ad531db3366?fit=crop&h=720
+[illustration-aspects-legaux-a-respecter-en-suisse]:
+	https://images.unsplash.com/photo-1589829545856-d10d557cf95f?fit=crop&h=720
