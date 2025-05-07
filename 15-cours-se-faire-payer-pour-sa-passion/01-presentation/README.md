@@ -91,23 +91,62 @@ consultez le [support de cours][course-material]._
 
 ## Pourquoi se faire payer pour sa passion ?
 
-![bg right:40%][illustration-objectifs]
+- Augmenter ses chances de succès
+- Avoir plus de temps pour se consacrer à son projet
+- Avoir un retour sur investissement
+
+![bg right:40%][illustration-passion]
 
 ## Établir un business model
 
-![bg right:40%][illustration-objectifs]
+- Business model Canvas
+- Sustainable Business Model Canvas
+- Source de revenus
+
+![bg right:40%][illustration-business-model]
 
 ### Business model canvas
 
-![bg right:40%][illustration-objectifs]
+<div class="two-columns center">
+<div>
+
+1. Proposition de valeur
+1. Segments de clients
+1. Canaux de distribution
+1. Relations avec les clients
+1. Sources de revenus
+1. Ressources clés
+1. Partenaires clés
+1. Activités principales
+1. Structure des coûts
+
+</div>
+<div>
+
+- Coûts écosociaux
+- Revenus écosociaux
+
+</div>
+<div>
 
 ### Sources de revenus
 
-![bg right:40%][illustration-objectifs]
+- Business to Business (B2B)
+- Business to Consumer (B2C)
+- Inscription
+- À la demande
+
+![bg right:40%][illustration-revenus]
 
 ## Les moyens de paiement populaires en Suisse
 
-![bg right:40%][illustration-objectifs]
+- Paiement mobile
+- Carte de débit
+- Paiement en expèces
+- Carte de crédit
+- Facture
+
+![bg right:40%][illustration-moyens]
 
 ## Prestataires de paiement sur Internet
 
@@ -166,7 +205,18 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
-- TODO
+- [Illustration][illustration-passion] par
+  [Marek Piwnicki](https://unsplash.com/@marekpiwnicki) sur
+  [Unsplash](https://unsplash.com/photos/orange-and-yellow-fire-illustration-ZmSsO0lpjZI)
+- [Illustration][illustration-business-model] par
+  [Kadarius Seegars](https://unsplash.com/@kseegars) sur
+  [Unsplash](https://unsplash.com/photos/white-cardboard-box-on-brown-wooden-table-DevJkLB3hWE)
+- [Illustration][illustration-revenus] par
+  [Jessica Furtney](https://unsplash.com/@jessicamaephotographyga) sur
+  [Unsplash](https://unsplash.com/photos/aerial-photography-of-body-of-water-with-trees-around-zhqD0tw1peA)
+- [Illustration][illustration-moyens] par
+  [Daniel Lim](https://unsplash.com/@daniellim) sur
+  [Unsplash](https://unsplash.com/photos/black-and-silver-telephone-on-white-painted-wall-oHBwDxpSAwQ)
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
@@ -188,3 +238,11 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
+[illustration-passion]:
+	https://images.unsplash.com/photo-1618859437290-dc3cda39ea58?fit=crop&h=720
+[illustration-business-model]:
+	https://images.unsplash.com/photo-1624137527136-66e631bdaa0e?fit=crop&h=720
+[illustration-revenus]:
+	https://images.unsplash.com/photo-1482189349482-3defd547e0e9?fit=crop&h=720
+[illustration-moyens]:
+	https://images.unsplash.com/photo-1584012123175-57cb844ff01a?fit=crop&h=720
