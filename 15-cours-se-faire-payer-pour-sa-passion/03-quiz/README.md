@@ -79,9 +79,36 @@ _paginate: false
 _Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
 cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
-## Question 1 - Donnée
+## Question 5 - Donnée
 
-## Question 1 - Réponse
+> Citez au moins trois prestataires de paiement sur Internet (en ligne) ?
+
+## Question 5 - Réponse
+
+1. Stripe
+2. PayPal
+3. TWINT
+
+## Question 6 - Donnée
+
+> Vous souhaitez vous lancer en tant qu'indépendant.e. Est-il nécessaire de
+> faire quoi que ce soit avant de commencer à travailler ?
+
+## Question 6 - Réponse
+
+- Oui, il y a des démarches administratives à effectuer avant de commencer à
+  travailler.
+
+## Question 7 - Donnée
+
+> En tant qu'indépendant.e, à quels éléments légaux faut-il faire attention ?
+
+## Question 7 - Réponse
+
+- **Assurances** : AVS, responsabilité civile, accidents, etc.
+- **Fiscalité** : déclaration d'impôts, TVA, etc.
+- **Droit à la concurrence** : respect des règles de la concurrence, etc.
+- **Contrats** : conditions générales de vente, contrats de prestation, etc.
 
 ## Questions
 

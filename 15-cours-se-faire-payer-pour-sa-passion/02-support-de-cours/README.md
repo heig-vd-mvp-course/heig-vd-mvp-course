@@ -221,19 +221,22 @@ certains aspects légaux en Suisse. Voici quelques points clés à considérer :
 >
 > Nous étudierons ces aspects légaux dans le cours suivant.
 
-- **Contrats :** Si vous travaillez avec des partenaires ou des client.es, il
-  est conseillé de rédiger des contrats clairs pour définir les droits et
-  obligations de chaque partie.
+- **Assurances :** Il est obligatoire en Suisse de s'affilier à l'AVS (Assurance
+  Vieillesse et Survivants) et de cotiser à l'AI (Assurance Invalidité) si vous
+  êtes indépendant.e. Vous devez également vous assurer contre les accidents
+  professionnels et non professionnels. En outre, il est recommandé de souscrire
+  une assurance responsabilité civile professionnelle pour vous protéger en cas
+  de dommages causés à des tiers dans le cadre de votre activité selon votre
+  secteur. professionnelle.
 - **Fiscalité :** Renseignez-vous sur les obligations fiscales liées à votre
-  activité, notamment en matière d'impôts sur le revenu et de cotisations
-  sociales. En tant qu'indépendant.e, vous devez vous déclarer auprès des
-  autorités compétentes.
-- **Assurances :** Selon votre activité, il peut être nécessaire de souscrire
-  certaines assurances, comme une assurance responsabilité civile
-  professionnelle.
+  activité, notamment en matière d'impôts sur le revenu. En tant
+  qu'indépendant.e, vous devez vous déclarer auprès des autorités compétentes.
 - **Droit de la concurrence :** Évitez les pratiques commerciales déloyales et
   respectez les règles de la concurrence pour ne pas nuire à d'autres
   entreprises.
+- **Contrats :** Si vous travaillez avec des partenaires ou des client.es, il
+  est conseillé de rédiger des contrats clairs pour définir les droits et
+  obligations de chaque partie.
 
 D'excellentes ressources sont disponibles sur le site de l'Administration
 fédérale pour vous aider à comprendre vos obligations :
