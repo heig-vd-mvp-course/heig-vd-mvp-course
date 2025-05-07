@@ -16,6 +16,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Objectifs](#objectifs)
 - [Méthodes d'évaluation](#méthodes-dévaluation)
 - [Modalités d'évaluation](#modalités-dévaluation)
+- [Comment se préparer](#comment-se-préparer)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
@@ -41,9 +42,15 @@ Les retours se font de la manière suivante :
 
 ## Modalités d'évaluation
 
-- Évaluation écrite
+- Forme : Évaluation écrite
 - Durée : 45 minutes
-- Ressources autorisées : une feuille A4 recto-verso
+- Contenu : test de connaissances sur tout le contenu de l'unité d'enseignement
+- Ressources autorisées : une feuille A4 recto-verso de notes personnelles
+
+## Comment se préparer
+
+- Relire les supports de cours
+- Relire les exercices et les quiz
 
 ## À faire pour la semaine suivante
 

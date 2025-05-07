@@ -102,9 +102,19 @@ Les retours se font de la manière suivante :
 
 ## Modalités d'évaluation
 
-- Évaluation écrite
+- Forme : Évaluation écrite
 - Durée : 45 minutes
-- Ressources autorisées : une feuille A4 recto-verso
+- Contenu : test de connaissances sur tout le contenu de l'unité d'enseignement
+- Ressources autorisées : une feuille A4 recto-verso de notes personnelles
+
+![bg right:40%][illustration-principale]
+
+## Comment se préparer
+
+- Relire les supports de cours
+- Relire les exercices et les quiz
+
+![bg right:40%][illustration-principale]
 
 ## Questions
 
@@ -119,7 +129,7 @@ Est-ce que vous avez des questions ?
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 
-## Sources (1/3)
+## Sources
 
 - [Illustration principale][illustration-principale] par
   [MChe Lee](https://unsplash.com/@mclee) sur
@@ -127,7 +137,6 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
-- TODO
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
