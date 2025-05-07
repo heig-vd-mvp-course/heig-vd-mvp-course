@@ -200,6 +200,6 @@ Est-ce que vous avez des questions ?
 
 <!-- Illustrations -->
 
-[illustration-principale]: ../02-support-de-cours/images/pivot.jpg
+[illustration-principale]: ./images/illustration-principale.jpg
 [illustration-mind-blown]:
 	https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx0NTJldGx1aGJzdXo5NTg5aXR5dHZoejY2c3J2b2xvbjFvYzlnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/75ZaxapnyMp2w/giphy.gif
