@@ -17,7 +17,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Pourquoi se faire payer pour sa passion ?](#pourquoi-se-faire-payer-pour-sa-passion-)
 - [Établir un business model](#établir-un-business-model)
   - [Business model canvas](#business-model-canvas)
-- [Sources de revenus](#sources-de-revenus)
+  - [Sources de revenus](#sources-de-revenus)
 - [Les moyens de paiement populaires en Suisse](#les-moyens-de-paiement-populaires-en-suisse)
 - [Prestataires de paiement sur Internet](#prestataires-de-paiement-sur-internet)
   - [Stripe](#stripe)
@@ -57,7 +57,7 @@ De façon plus concise, à la fin de cette séance, vous devriez être capable d
 ## Pourquoi se faire payer pour sa passion ?
 
 Comme vous avez pu le voir dans les cours précédents, le succès de votre
-application dépends de beaucoup de facteurs : Bien identifier le besoin, le
+application dépends de beaucoup de facteurs : bien identifier le besoin, le
 public cible, votre marché, etc. Il faut malheureusement aussi penser à la
 chance. Avoir la bonne idée au bon moment avec les bonnes personnes.
 
@@ -80,42 +80,50 @@ Un modèle économique, modèle d'entreprise ou business model, décrit comment 
 activité crée, délivre et capture de la valeur.
 
 Avant de se lancer dans la création d'un modèle économique, il est essentiel de
-comprendre tout les élèments qui le composent. Et c'est là que la matrice
+comprendre tout les éléments qui le composent. Et c'est là que la matrice
 d'affaires (ou business model canvas) entre en jeu.
 
 ### Business model canvas
 
-Le modèle Canvas permet une vision globale et structurée de votre projet en 9
-blocs essentiels :
+Le Business Model Canvas permet une vision globale et structurée de votre projet
+en neuf blocs essentiels :
 
-- **Proposition de valeur** : Qu'est-ce qui rend votre produit ou service unique
+- **Proposition de valeur** : qu'est-ce qui rend votre produit ou service unique
   ?
-- **Segments de clients** : Qui sont vos clients cibles ?
-- **Canaux de distribution** : Comment atteignez-vous vos clients ?
-- **Relations clients** : Comment interagissez-vous avec vos clients ?
-- **Sources de revenus** : Comment générez-vous des revenus ?
-- **Ressources clés** : Quelles ressources sont nécessaires pour votre projet ?
-- **Partenaires clés** : Qui sont vos partenaires stratégiques ?
-- **Activités principales** : Quelles sont les activités essentielles à votre
+- **Segments de clients** : qui sont vos clients cibles ?
+- **Canaux de distribution** : comment atteignez-vous vos clients ?
+- **Relations clients** : comment interagissez-vous avec vos clients ?
+- **Sources de revenus** : comment générez-vous des revenus ?
+- **Ressources clés** : quelles ressources sont nécessaires pour votre projet ?
+- **Partenaires clés** : qui sont vos partenaires stratégiques ?
+- **Activités principales** : quelles sont les activités essentielles à votre
   projet ?
-- **Structure des coûts** : Quels sont les coûts associés à votre projet ?
+- **Structure des coûts** : quels sont les coûts associés à votre projet ?
+
+Ce modèle peut être représenté selon le canvas suivant, tiré du site
+Strategyzer[^strategyzer] :
 
 ![Business Model Canvas](./images/business-model-canvas.png)
 
-Vous trouverez ci-dessus un exemple de matrice d'affaires du site
-strategyzer[^strategyzer].
+De nombreux autres modèles existent mais un intéressant que nous souhaitons vous
+présenter est le Sustainable Business Model
+Canvas[^sustainable-business-model-canvas]. Il est très similaire au Business
+Model Canvas mais intègre aussi des aspects de durabilité de votre projet. Nous
+vous conseillons de l'utiliser pour votre projet.
 
-## Sources de revenus
+![Sustainable Business Model Canvas](./images/sustainable-business-model-canvas.jpg)
 
-Arrêtons-nous un instant sur la partie "Sources de revenus" du modèle
+### Sources de revenus
+
+Arrêtons-nous un instant sur la partie _"Sources de revenus"_ du modèle
 d'affaires. Il existe plusieurs façons de se faire payer pour sa passion.
 
-- **Business-to-business (B2B)** : Vendre des produits ou services à d'autres
+- **Business-to-business (B2B)** : vendre des produits ou services à d'autres
   entreprises.
-- **Business-to-consumer (B2C)** : Vendre des produits ou services directement
+- **Business-to-consumer (B2C)** : vendre des produits ou services directement
   aux consommateurs.
-- **Inscription** : Proposer un service d'abonnement ou d'adhésion.
-- **À la demande** : Offrir des services ou produits à la demande.
+- **Inscription** : proposer un service d'abonnement ou d'adhésion.
+- **À la demande** : offrir des services ou produits à la demande.
 
 ## Les moyens de paiement populaires en Suisse
 
@@ -266,6 +274,11 @@ Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
 - [wikipedia.org](https://www.wikipedia.org/) sur
   <https://fr.wikipedia.org/wiki/Mod%C3%A8le_d%27entreprise> consulté le 7 mai
   2025
+
+[^sustainable-business-model-canvas]:
+    Sustainable Business Model Canvas,
+    [www.sustainablebusinesscanvas.com](https://www.case-ka.eu/index.html%3Fp=2174.html),
+    6 mai 2025
 
 [^strategyzer]:
     Strategyzer,
