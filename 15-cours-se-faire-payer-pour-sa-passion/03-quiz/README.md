@@ -79,6 +79,68 @@ _paginate: false
 _Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
 cours. Pour plus de détails, consultez le [support de cours][course-material]._
 
+## Question 1 - Donnée
+
+> Qu'est-ce qu'un business model ?
+
+## Question 1 - Réponse
+
+- Un **business model** décrit comment une activité crée, délivre et capture de
+  la valeur.
+
+## Question 2 - Donnée
+
+> Quels sont les neuf blocs essentiels du Business Model Canvas ?
+
+_**Bonus** : Quels sont les deux blocs ajoutés par le Sustainable Business Model
+Canvas ?_
+
+## Question 2 - Réponse
+
+<div class="two-columns">
+
+<div>
+
+1. Proposition de valeur
+2. Segments de clients
+3. Canaux de distribution
+4. Relations clients
+5. Sources de revenus
+6. Ressources clés
+7. Partenaires clés
+8. Activités principales
+
+</div>
+<div>
+
+9. Structure des coûts
+10. Coûts écosociaux
+11. Revenus écosociaux
+
+</div>
+</div>
+
+## Question 3 - Donnée
+
+> Donnez trois exemples de sources de revenus possibles pour se faire payer pour
+> sa passion.
+
+## Question 3 - Réponse
+
+1. Business-to-business (B2B)
+2. Business-to-consumer (B2C)
+3. Inscription ou abonnement
+
+## Question 4 - Donnée
+
+> Citez trois moyens de paiement populaires en Suisse.
+
+## Question 4 - Réponse
+
+1. Paiement mobile (TWINT)
+2. Cartes de débit et crédit
+3. Paiement en espèces
+
 ## Question 5 - Donnée
 
 > Citez au moins trois prestataires de paiement sur Internet (en ligne) ?
