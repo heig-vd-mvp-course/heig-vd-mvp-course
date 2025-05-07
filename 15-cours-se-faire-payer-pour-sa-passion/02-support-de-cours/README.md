@@ -19,6 +19,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Business model canvas](#business-model-canvas)
 - [Sources de revenus](#sources-de-revenus)
 - [Les moyens de paiement populaires en Suisse](#les-moyens-de-paiement-populaires-en-suisse)
+- [Prestataires de paiement sur Internet](#prestataires-de-paiement-sur-internet)
+  - [Stripe](#stripe)
+  - [PayPal](#paypal)
+  - [TWINT](#twint)
+  - [Autres prestataires](#autres-prestataires)
+- [Aspects légaux à respecter en Suisse](#aspects-légaux-à-respecter-en-suisse)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
@@ -126,6 +132,107 @@ un article de la Migros[^migros] :
 - **Paiement en espèces** : toujours utilisé
 - **Cartes de crédit** : physiques, non déposées pour le paiement mobile
 - **Facture** : paiement après réception de la facture
+
+## Prestataires de paiement sur Internet
+
+Dans le monde numérique, plusieurs prestataires de paiement se distinguent par
+leur fiabilité et leurs fonctionnalités. Voici quelques-uns des plus reconnus.
+
+### Stripe
+
+Un des leaders du marché, [Stripe](https://stripe.com) est idéal pour les
+startups et les entreprises en croissance. Il propose une API simple à intégrer
+et de nombreuses fonctionnalités.
+
+Nous recommandons Stripe pour vos projets, car il est très simple à mettre en
+place, est très bien documenté et s'intègre facilement avec de nombreux
+prestataires de services, dont TWINT. La page suivante décrit toutes les
+intégrations possibles :
+<https://docs.stripe.com/payments/payment-methods/overview>.
+
+### PayPal
+
+Très utilisé à l'international, [PayPal](https://www.paypal.com) est une
+solution pratique pour recevoir des paiements depuis l’étranger. La
+documentation décrit comment intégrer PayPal à votre projet :
+<https://developer.paypal.com/studio/checkout/standard/integrate>.
+
+### TWINT
+
+Une application suisse de paiement mobile, [TWINT](https://www.twint.ch) est
+très populaire pour les transactions locales. Elle permet de payer facilement
+dans les magasins, en ligne et entre personnes proches.
+
+TWINT peut être intégré à de nombreux prestataires de paiement, y compris
+Stripe. La page suivante décrit toutes les intégrations possibles :
+<https://www.twint.ch/fr/clients-commerciaux/nos-solutions/boutique-en-ligne/?lang=fr#section-integration>.
+
+### Autres prestataires
+
+Voici quelques autres prestataires de paiement sur Internet sur lesquels nous
+sommes tombés.
+
+#### Payrexx
+
+Un prestataire suisse qui se concentre sur les petites et moyennes entreprises,
+[Payrexx](https://payrexx.com/) propose des solutions de paiement adaptées aux
+besoins spécifiques de ce segment.
+
+#### Mollie
+
+Un prestataire néerlandais qui se concentre sur l'Europe
+[Mollie](https://www.mollie.com) propose des solutions de paiement adaptées aux
+besoins des entreprises européennes.
+
+#### PayPlug
+
+Un prestataire français qui se concentre sur les petites et moyennes
+entreprises, [PayPlug](https://www.payplug.com) propose des solutions adaptées
+aux besoins spécifiques de ce segment.
+
+## Aspects légaux à respecter en Suisse
+
+> [!CAUTION]
+>
+> **Attention :** Les aspects légaux sont très importants et doivent être
+> respectés.
+>
+> Nous ne sommes pas des experts en droit. Nous vous recommandons de consulter
+> une personne compétente pour vous aider à respecter les aspects légaux de
+> votre projet lorsque vous atteindrez ce stade dans votre projet.
+
+Afin de vous faire payer pour votre passion, il est essentiel de respecter
+certains aspects légaux en Suisse. Voici quelques points clés à considérer :
+
+> [!NOTE]
+>
+> Nous nous présentons ici quelques aspects légaux à prendre en compte lorsque
+> vous travaillez en indépendant.e sur vos projets.
+>
+> Les aspects légaux changent lorsque vous travaillez en tant qu'entreprise.
+>
+> Nous étudierons ces aspects légaux dans le cours suivant.
+
+- **Contrats :** Si vous travaillez avec des partenaires ou des client.es, il
+  est conseillé de rédiger des contrats clairs pour définir les droits et
+  obligations de chaque partie.
+- **Fiscalité :** Renseignez-vous sur les obligations fiscales liées à votre
+  activité, notamment en matière d'impôts sur le revenu et de cotisations
+  sociales. En tant qu'indépendant.e, vous devez vous déclarer auprès des
+  autorités compétentes.
+- **Assurances :** Selon votre activité, il peut être nécessaire de souscrire
+  certaines assurances, comme une assurance responsabilité civile
+  professionnelle.
+- **Droit de la concurrence :** Évitez les pratiques commerciales déloyales et
+  respectez les règles de la concurrence pour ne pas nuire à d'autres
+  entreprises.
+
+D'excellentes ressources sont disponibles sur le site de l'Administration
+fédérale pour vous aider à comprendre vos obligations :
+
+- <https://www.bsv.admin.ch/bsv/fr/home/informations-aux/independants.html>
+- <https://www.bsv.admin.ch/bsv/fr/home/informations-aux/kmu/fall-zu-fall/selbststaendigkeit.html>
+- <https://www.kmu.admin.ch/kmu/fr/home/savoir-pratique/creation-pme/creation-entreprise/premiers-pas/devenir-independant-en-suisse-mode-d-emploi.html>
 
 ## Conclusion
 
