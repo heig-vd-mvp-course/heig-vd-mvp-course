@@ -81,13 +81,17 @@ consultez le [support de cours][course-material]._
 
 ## Objectifs (1/2)
 
-- TODO
+- Lister les formes juridiques possibles pour une entreprise en Suisse
+- Lister les avantages et inconvénients des différentes formes juridiques pour
+  une entreprise en Suisse
+- Lister les aides et soutiens possible à l'innovation en Suisse romande
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
-- TODO
+- Lister les différents éléments administratifs qu'une entreprise en Suisse doit
+  avoir et respecter
 
 ![bg right:40%][illustration-objectifs]
 
