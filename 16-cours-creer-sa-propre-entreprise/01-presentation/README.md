@@ -84,7 +84,7 @@ consultez le [support de cours][course-material]._
 - Lister les formes juridiques possibles pour une entreprise en Suisse
 - Lister les avantages et inconvénients des différentes formes juridiques pour
   une entreprise en Suisse
-- Lister les aides et soutiens possible à l'innovation en Suisse romande
+- Lister les aides et soutiens possibles à l'innovation en Suisse romande
 
 ![bg right:40%][illustration-objectifs]
 

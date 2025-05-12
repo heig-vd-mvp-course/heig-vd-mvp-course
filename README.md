@@ -1443,7 +1443,7 @@ il est recommandé pour la semaine suivante de :
 - Lister les formes juridiques possibles pour une entreprise en Suisse
 - Lister les avantages et inconvénients des différentes formes juridiques pour
   une entreprise en Suisse
-- Lister les aides et soutiens possible à l'innovation en Suisse romande
+- Lister les aides et soutiens possibles à l'innovation en Suisse romande
 - Lister les différents éléments administratifs qu'une entreprise en Suisse doit
   avoir et respecter
 
