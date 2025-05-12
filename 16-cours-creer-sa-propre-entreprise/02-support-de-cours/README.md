@@ -14,13 +14,41 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
-- [TODO](#todo)
+- [Pourquoi créer une entreprise ?](#pourquoi-créer-une-entreprise-)
+- [Quand créer une entreprise ?](#quand-créer-une-entreprise-)
+- [Différences entre le statut d'indépendant.e et le statut d'entreprise](#différences-entre-le-statut-dindépendante-et-le-statut-dentreprise)
+- [Formes juridiques](#formes-juridiques)
+  - [Association](#association)
+  - [Fondation](#fondation)
+  - [Entreprise individuelle](#entreprise-individuelle)
+  - [Société simple](#société-simple)
+  - [Société en commandite](#société-en-commandite)
+  - [Société à responsabilité limitée (Sàrl)](#société-à-responsabilité-limitée-sàrl)
+  - [Société anonyme (SA)](#société-anonyme-sa)
+  - [Société coopérative](#société-coopérative)
+  - [Coopérative](#coopérative)
+- [Éléments administratifs à respecter](#éléments-administratifs-à-respecter)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
 
 ## Objectifs
+
+Au terme de cette unité d'enseignement, vous avez appris à concevoir et créer
+votre propre solution digitale (application, site web, etc.) et à la rendre
+pérenne (techniquement et financièrement).
+
+Vous avez également appris à vous faire payer pour votre passion en tant
+qu'indépendant.e. Peut-être maintenant que vous avez le souhait de créer votre
+propre entreprise afin de vous professionnaliser dans votre domaine d'activité
+et engager du personnel pour vous aider à réaliser vos projets.
+
+Dans ce dernier cours, nous allons aborder les différentes éléments juridiques
+pour la création une entreprise en Suisse, les aides et soutiens à votre
+disposition et les éléments administratifs à respecter.
+
+De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
 - Lister les formes juridiques possibles pour une entreprise en Suisse
 - Lister les avantages et inconvénients des différentes formes juridiques pour
@@ -29,7 +57,79 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - Lister les différents éléments administratifs qu'une entreprise en Suisse doit
   avoir et respecter
 
-## TODO
+## Pourquoi créer une entreprise ?
+
+## Quand créer une entreprise ?
+
+## Différences entre le statut d'indépendant.e et le statut d'entreprise
+
+## Formes juridiques
+
+En Suisse, il existe plusieurs formes juridiques pour créer une entreprise.
+Toutes ces formes juridiques ont des avantages et des inconvénients.
+
+La liste complète et les détails des différentes formes juridiques sont
+disponibles sur le site de la confédération suisse
+[admin.ch - Choisir une forme juridique: adapter la structure juridique à ses besoins](https://www.kmu.admin.ch/kmu/fr/home/savoir-pratique/creation-pme/creation-entreprise/choisir-une-forme-juridique.html).
+
+### Association
+
+#### Avantages
+
+#### Inconvénients
+
+### Fondation
+
+#### Avantages
+
+#### Inconvénients
+
+### Entreprise individuelle
+
+#### Avantages
+
+#### Inconvénients
+
+### Société simple
+
+#### Avantages
+
+#### Inconvénients
+
+### Société en commandite
+
+#### Avantages
+
+#### Inconvénients
+
+### Société à responsabilité limitée (Sàrl)
+
+#### Avantages
+
+#### Inconvénients
+
+### Société anonyme (SA)
+
+#### Avantages
+
+#### Inconvénients
+
+### Société coopérative
+
+#### Avantages
+
+#### Inconvénients
+
+### Coopérative
+
+#### Avantages
+
+#### Inconvénients
+
+## Éléments administratifs à respecter
+
+(GitHub Copilot m'avait généré ça pour le cours précédent que j'avais préféré
+gardé pour celui-ci. Peut-être qu'il y a des éléments à modifier ou à ajouter.)
 
 - **Enregistrement de l'entreprise :** Selon la forme juridique choisie, vous
   devrez peut-être enregistrer votre entreprise auprès des autorités
