@@ -126,6 +126,30 @@ Ou autre chose ? 🙂
 - Vous pouvez également bénéficier de la protection juridique et de la
   responsabilité limitée.
 
+## Question 5 - Donnée
+
+> Citez les éléments administratifs nécessaires pour créer une entreprise.
+
+## Question 5 - Réponse
+
+- Inscription au registre du commerce
+- Assurances :
+  - 1er pilier (AVS)
+  - 2e pilier (LPP)
+  - accident (LAA)
+- Tenir une comptabilité
+
+## Question 6 - Donnée
+
+> Citez les aides et soutiens à l'innovation qui existent en Suisse.
+
+## Question 6 - Réponse
+
+- [Innosuisse](https://www.innosuisse.ch/inno/fr/home.html)
+- [Fondation pour l'innovation technologique (FIT)](https://www.fondation-fit.ch/)
+- [Genilem](https://www.genilem.ch/)
+- [La Fabrik - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)
+
 ## Questions
 
 <!-- _class: lead -->

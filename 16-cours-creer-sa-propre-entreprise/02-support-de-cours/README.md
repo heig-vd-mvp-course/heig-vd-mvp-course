@@ -24,6 +24,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Société à responsabilité limitée (Sàrl)](#société-à-responsabilité-limitée-sàrl)
   - [Société anonyme (SA)](#société-anonyme-sa)
 - [Éléments administratifs à respecter](#éléments-administratifs-à-respecter)
+- [Éléments administratifs à penser](#éléments-administratifs-à-penser)
 - [Aide et soutien à l'innovation](#aide-et-soutien-à-linnovation)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
@@ -334,6 +335,9 @@ leur identité.
 - **Fiscalité :** Vous devez tenir une comptabilité précise et respecter les
   obligations fiscales de votre entreprise. Cela inclut la déclaration de vos
   revenus, le paiement des impôts sur les bénéfices et la TVA si applicable.
+
+## Éléments administratifs à penser
+
 - **Protection des données :** Si vous collectez des données personnelles, vous
   devez respecter la législation sur la protection des données, notamment le
   Règlement général sur la protection des données (RGPD) si vous traitez des
@@ -384,7 +388,16 @@ entrepreneurs et les start-ups. Voici quelques exemples :
 - **GENILEM** : un réseau d'accompagnement pour les entrepreneurs et les
   start-ups en Suisse romande. Ils proposent des programmes de mentorat, de
   formation et de financement.
-- <https://www.wecount.swiss/>
+- **Comptabilité** : Vous êtes obligé de tenir une compta, des entreprises
+  existent pour vous aider à faire ça, comme <https://www.wecount.swiss/>.
+- **La Fabriꓘ** : la Fabriꓘ est un incubateur d'entreprises qui accompagne les
+  entrepreneurs affilié à la HEIG-VD dans le développement de leurs projets. Ils
+  proposent des programmes de mentorat, de formation et de financement.
+
+Faites des concours de pitchs, parler à vos proches, amis, famille et collègues
+de votre projet. Ils pourront vous aider à le faire évoluer et à trouver des
+financements. Et surtout, à trouver les bons contacts pour vous aider à réaliser
+votre projet.
 
 ## Conclusion
 
@@ -423,6 +436,10 @@ Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
 - [Illustration principale][illustration-principale] par
   [Abbe Sublett](https://unsplash.com/@abbe_sublett) sur
   [Unsplash](https://unsplash.com/photos/low-angle-view-high-rise-buildings-nxZDMUQhN4o)
+- [Innosuisse](https://www.innosuisse.admin.ch/)
+- [Fondation pour l'innovation technologique (FIT)](https://www.fondation-fit.ch/fr/)
+- [GENILEM](https://www.genilem.ch/)
+- [La Fabrik - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)
 
 [^inscription-au-registre-du-commerce]:
     Inscription au registre du commerce,

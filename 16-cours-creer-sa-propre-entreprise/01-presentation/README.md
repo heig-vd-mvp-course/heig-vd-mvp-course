@@ -357,6 +357,31 @@ vos droits.
 </div>
 </div>
 
+## Éléments administratifs à respecter
+
+- Inscription au registre du commerce
+- Assurances :
+  - 1er pilier (AVS)
+  - 2e pilier (LPP)
+  - accident (LAA)
+- Tenir une comptabilité
+
+## Éléments administratifs à penser
+
+- Protection des données
+- Conditions générales de vente
+- Conditions générales d'utilisation
+- Politique de confidentialité
+- Droit du travail
+- ...
+
+## Aides et soutiens à l'innovation
+
+- [Innosuisse](https://www.innosuisse.ch/inno/fr/home.html)
+- [Fondation pour l'innovation technologique (FIT)](https://www.fondation-fit.ch/)
+- [Genilem](https://www.genilem.ch/)
+- [La Fabrik - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)
+
 ## Questions
 
 <!-- _class: lead -->
