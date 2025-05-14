@@ -24,6 +24,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Société à responsabilité limitée (Sàrl)](#société-à-responsabilité-limitée-sàrl)
   - [Société anonyme (SA)](#société-anonyme-sa)
 - [Éléments administratifs à respecter](#éléments-administratifs-à-respecter)
+- [Aide et soutien à l'innovation](#aide-et-soutien-à-linnovation)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
@@ -316,18 +317,23 @@ leur identité.
 
 ## Éléments administratifs à respecter
 
-@Guidoux : GitHub Copilot m'avait généré ça pour le cours précédent que j'avais
-préféré gardé pour celui-ci. Peut-être qu'il y a des éléments à modifier ou à
-ajouter.
-
 - **Enregistrement de l'entreprise :** Selon la forme juridique choisie, vous
   devrez peut-être enregistrer votre entreprise auprès des autorités
   compétentes.
-- **Numéro de TVA :** Si votre chiffre d'affaires dépasse un certain seuil, vous
-  devrez vous inscrire à la TVA et facturer cette taxe à vos clients.
-- **Conditions générales de vente (CGV) :** Il est recommandé d'établir des CGV
-  claires pour informer vos clients sur les conditions de vente, de livraison et
-  de retour.
+- **Numéro de TVA :** Si votre chiffre d'affaires dépasse 200'000 CHF par année,
+  vous devrez vous inscrire à la TVA et facturer cette taxe à vos clients.
+- **Assurances :** Certaines assurances sont obligatoires :
+
+  - 1er pilier: assurance vieillesse et survivants (AVS)
+  - 2ème pilier: caisse de pension (LPP)
+  - Assurance accidents (LAA)
+
+  Il est conseillé de se renseigner sur les assurances nécessaires pour votre
+  entreprise.
+
+- **Fiscalité :** Vous devez tenir une comptabilité précise et respecter les
+  obligations fiscales de votre entreprise. Cela inclut la déclaration de vos
+  revenus, le paiement des impôts sur les bénéfices et la TVA si applicable.
 - **Protection des données :** Si vous collectez des données personnelles, vous
   devez respecter la législation sur la protection des données, notamment le
   Règlement général sur la protection des données (RGPD) si vous traitez des
@@ -335,9 +341,6 @@ ajouter.
 - **Propriété intellectuelle :** Assurez-vous de respecter les droits d'auteur
   et les marques déposées lorsque vous utilisez des contenus tiers dans votre
   projet.
-- **Assurances :** Selon votre activité, il peut être nécessaire de souscrire
-  certaines assurances, comme une assurance responsabilité civile
-  professionnelle.
 - **Contrats :** Si vous travaillez avec des partenaires ou des clients, il est
   conseillé de rédiger des contrats clairs pour définir les droits et
   obligations de chaque partie.
@@ -347,9 +350,6 @@ ajouter.
 - **Droit du travail :** Si vous employez des personnes, vous devez respecter le
   droit du travail suisse, y compris les contrats de travail, les conditions de
   travail et les cotisations sociales.
-- **Fiscalité :** Renseignez-vous sur les obligations fiscales liées à votre
-  activité, notamment en matière d'impôts sur le revenu et de cotisations
-  sociales.
 - **Réglementations sectorielles :** Certaines activités peuvent être soumises à
   des réglementations spécifiques, comme la vente de produits alimentaires,
   médicaux ou financiers. Assurez-vous de respecter ces réglementations.
@@ -367,6 +367,24 @@ ajouter.
   partenaires, assurez-vous qu'ils sont clairs et conformes à la législation
   suisse. Cela inclut les conditions de paiement, de livraison et de
   responsabilité.
+- **Conditions générales de vente (CGV) :** Il est recommandé d'établir des CGV
+  claires pour informer vos clients sur les conditions de vente, de livraison et
+  de retour.
+
+## Aide et soutien à l'innovation
+
+En Suisse romande, il existe plusieurs aides et soutiens à l'innovation pour les
+entrepreneurs et les start-ups. Voici quelques exemples :
+
+- **Innosuisse** : l'agence suisse pour l'innovation propose des programmes de
+  soutien financier et d'accompagnement pour les projets innovants.
+- **Fondation pour l'innovation technologique (FIT)** : la FIT soutient les
+  projets innovants dans le domaine des technologies de l'information et de la
+  communication.
+- **GENILEM** : un réseau d'accompagnement pour les entrepreneurs et les
+  start-ups en Suisse romande. Ils proposent des programmes de mentorat, de
+  formation et de financement.
+- <https://www.wecount.swiss/>
 
 ## Conclusion
 
