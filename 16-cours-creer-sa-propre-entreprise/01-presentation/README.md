@@ -130,7 +130,7 @@ vos droits.
 ## Formes juridiques
 
 - Il existe plusieurs formes juridiques possibles en Suisse (entre autres - voir
-  [support de cours][course-material]):
+  [support de cours][course-material]) :
   - Association
   - Entreprise individuelle
   - Société en nom collectif
@@ -379,8 +379,8 @@ vos droits.
 
 - [Innosuisse](https://www.innosuisse.ch/inno/fr/home.html)
 - [Fondation pour l'innovation technologique (FIT)](https://www.fondation-fit.ch/)
-- [Genilem](https://www.genilem.ch/)
-- [La Fabrik - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)
+- [GENILEM](https://www.genilem.ch/)
+- [La Fabriꓘ - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)
 
 ## Questions
 

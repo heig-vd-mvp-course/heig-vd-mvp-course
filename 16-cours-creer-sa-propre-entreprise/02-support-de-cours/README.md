@@ -380,19 +380,21 @@ leur identité.
 En Suisse romande, il existe plusieurs aides et soutiens à l'innovation pour les
 entrepreneurs et les start-ups. Voici quelques exemples :
 
-- **Innosuisse** : l'agence suisse pour l'innovation propose des programmes de
-  soutien financier et d'accompagnement pour les projets innovants.
-- **Fondation pour l'innovation technologique (FIT)** : la FIT soutient les
-  projets innovants dans le domaine des technologies de l'information et de la
-  communication.
-- **GENILEM** : un réseau d'accompagnement pour les entrepreneurs et les
-  start-ups en Suisse romande. Ils proposent des programmes de mentorat, de
-  formation et de financement.
+- **[Innosuisse](https://www.innosuisse.ch/inno/fr/home.html)** : l'agence
+  suisse pour l'innovation propose des programmes de soutien financier et
+  d'accompagnement pour les projets innovants.
+- **[Fondation pour l'innovation technologique (FIT)](https://www.fondation-fit.ch/)**
+  : la FIT soutient les projets innovants dans le domaine des technologies de
+  l'information et de la communication.
+- **[GENILEM](https://www.genilem.ch/)** : un réseau d'accompagnement pour les
+  entrepreneurs et les start-ups en Suisse romande. Ils proposent des programmes
+  de mentorat, de formation et de financement.
 - **Comptabilité** : Vous êtes obligé de tenir une compta, des entreprises
   existent pour vous aider à faire ça, comme <https://www.wecount.swiss/>.
-- **La Fabriꓘ** : la Fabriꓘ est un incubateur d'entreprises qui accompagne les
-  entrepreneurs affilié à la HEIG-VD dans le développement de leurs projets. Ils
-  proposent des programmes de mentorat, de formation et de financement.
+- **[La Fabriꓘ - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)**
+  : la Fabriꓘ est un incubateur d'entreprises qui accompagne les entrepreneurs
+  affilié à la HEIG-VD dans le développement de leurs projets. Ils proposent des
+  programmes de mentorat, de formation et de financement.
 
 Faites des concours de pitchs, parler à vos proches, amis, famille et collègues
 de votre projet. Ils pourront vous aider à le faire évoluer et à trouver des
