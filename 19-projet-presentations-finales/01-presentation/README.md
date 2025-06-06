@@ -79,21 +79,39 @@ _paginate: false
 _Cette présentation est un résumé du support de cours. Pour plus de détails,
 consultez le [support de cours][course-material]._
 
-## Objectifs (1/2)
+## Objectifs
 
-- TODO
-
-![bg right:40%][illustration-objectifs]
-
-## Objectifs (2/2)
-
-- TODO
+- Présenter le travail effectué sur tout le semestre
+- Répondre aux questions
+- Recevoir des feedbacks constructifs
+- Évaluer les présentations des autres groupes
+- Donner des feedbacks constructifs
 
 ![bg right:40%][illustration-objectifs]
 
-### Déroulement
+## Déroulement (1/2)
 
-TODO
+Tout le monde est présent pour voir toutes les présentations. 10 minutes de
+présentation et 5 minutes de questions par groupe. Entre les présentations, le
+prochain groupe se prépare.
+
+| Ordre | Groupe                          | Passage       |
+| :---- | :------------------------------ | :------------ |
+| 1     | Zmoos Léo, Oliveira Ramos Dylan | 09:30 - 09:40 |
+| 2     | Demont Kilian                   | 09:45 - 09:55 |
+| 3     | Häffner Edwin                   | 10:00 - 10:10 |
+| 4     | Mühlemann Julien                | 10:15 - 10:25 |
+
+## Déroulement (2/2)
+
+| Ordre | Groupe                                 | Passage       |
+| :---- | :------------------------------------- | :------------ |
+| 5     | Iorio Alexandre, Serzedelo Costa André | 10:30 - 10:40 |
+|       | Pause                                  | 10:45 - 11:00 |
+| 6     | Holzer Julien                          | 11:00 - 11:10 |
+| 7     | Hutzli Boris                           | 11:15 - 11:25 |
+| 8     | Graf Calvin, Sottile Alan              | 11:30 - 11:40 |
+| 9     | Roland Samuel                          | 11:45 - 11:55 |
 
 ## Sources
 

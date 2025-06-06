@@ -72,24 +72,18 @@ _paginate: false
 
 ![bg opacity:0.25][illustration-principale]
 
-## Plus de détails dans le support de cours
+## Objectifs
+
+- Prendre connaissance des évaluations GAPS
+- Discuter des évaluations GAPS
+
+![bg right:40%][illustration-objectifs]
+
+## Évaluations GAPS
 
 <!-- _class: lead -->
 
-_Cette présentation est un résumé du support de cours. Pour plus de détails,
-consultez le [support de cours][course-material]._
-
-## Objectifs (1/2)
-
-- TODO
-
-![bg right:40%][illustration-objectifs]
-
-## Objectifs (2/2)
-
-- TODO
-
-![bg right:40%][illustration-objectifs]
+Analysons ces _beaux_ diagrammes !
 
 ## Questions
 
@@ -97,14 +91,7 @@ consultez le [support de cours][course-material]._
 
 Est-ce que vous avez des questions ?
 
-## À vous de jouer !
-
-- Prendre connaissance du [support de cours][course-material]
-- Poser des questions si nécessaire
-
-![bg right:40%][illustration-a-vous-de-jouer]
-
-## Sources (1/3)
+## Sources
 
 - [Illustration principale][illustration-principale] par
   [Annie Spratt](https://unsplash.com/@anniespratt) sur
@@ -112,17 +99,11 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
-- TODO
-- [Illustration][illustration-a-vous-de-jouer] par
-  [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
-  [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
 
 [web]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/
 [pdf]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/18-cours-revue-du-semestre-presentation.pdf
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/18-cours-revue-du-semestre/02-support-de-cours/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 
@@ -132,5 +113,3 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
-[illustration-a-vous-de-jouer]:
-	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
