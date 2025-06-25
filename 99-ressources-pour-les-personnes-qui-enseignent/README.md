@@ -42,14 +42,12 @@ Voici l'échelle avec laquelle nous évaluons les compétences techniques :
 Voici l'échelle avec laquelle nous évaluons l'importance des compétences
 transversales :
 
-1. Confort
-2. Nécessaire
-3. Indispensable
-4. Luxe
+1. Faible (confort)
+2. Moyen (essentiel)
+3. Élevé (vital)
 
 | Compétences transversales                                                                 | Importance |
 | ----------------------------------------------------------------------------------------- | :--------: |
-| Hadrien                                                                                   |     4      |
 | Autonomie                                                                                 |     3      |
 | Proactivité                                                                               |     3      |
 | À l'aise à prendre la parole en public                                                    |     3      |
