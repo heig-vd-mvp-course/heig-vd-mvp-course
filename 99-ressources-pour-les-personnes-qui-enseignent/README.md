@@ -243,20 +243,21 @@ Voici l'échelle avec laquelle nous évaluons les compétences :
 | Compétences techniques                                                                                                            | Niveau |
 | --------------------------------------------------------------------------------------------------------------------------------- | :----: |
 | Être capable de promouvoir et pitcher une idée en public                                                                          |   2    |
-| Créer, maintenir, déployer une application de taille importante                                                                   |   2    |
 | Utiliser un logiciel de gestion de versions décentralisé comme Git                                                                |   2    |
 | Utiliser les bonnes pratiques de programmation pour rendre une application viable et pérenne dans le temps                        |   2    |
 | Gérer la réalisation d'un projet en équipe ainsi que les outils de collaboration (Git, GitHub, Workflow Issues > PRs/MRs > Merge) |   2    |
 | Créer et maintenir des sites web                                                                                                  |   3    |
 | Méthodologies et pratique de la pensée créative                                                                                   |   3    |
+| Créer, maintenir, déployer une application de taille importante                                                                   |   3    |
 
 Compétences transversales
 
 - Autonome
 - Proactive
 - Créative
-- À l'aide à prendre la parole en public
-- Esprit critique sur son travail et celui des autres
-- Sens de l'analyse et recherche de solutions adaptées à une situation donnée
+- Expérience du terrain
 - Capacité à travailler en équipe
-- Expériences du terrain
+- À l'aise à prendre la parole en public
+- Esprit critique sur son travail et celui des autres
+- Capacité à donner et recevoir des feedbacks constructifs
+- Sens de l'analyse et recherche de solutions adaptées à une situation donnée
