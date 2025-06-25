@@ -4,8 +4,8 @@
 
 - [Table des matières](#table-des-matières)
 - [Liste des compétences pour les personnes qui enseignent et qui assistent](#liste-des-compétences-pour-les-personnes-qui-enseignent-et-qui-assistent)
-  - [Compétences techniques](#compétences-techniques)
-  - [Compétences transversales](#compétences-transversales)
+  - [Compétences techniques (Savoir-faire)](#compétences-techniques-savoir-faire)
+  - [Compétences humaines (Savoir-être)](#compétences-humaines-savoir-être)
 - [À faire avant le début de l'unité d'enseignement](#à-faire-avant-le-début-de-lunité-denseignement)
   - [Créer les issues pour le suivi du maintien du cours](#créer-les-issues-pour-le-suivi-du-maintien-du-cours)
   - [Envoyer un mail aux personnes qui étudient avant le premier cours](#envoyer-un-mail-aux-personnes-qui-étudient-avant-le-premier-cours)
@@ -29,23 +29,23 @@ sur MoSCow[^1]:
 2. Moyenne (essentielle)
 3. Élevée (vitale)
 
-### Compétences techniques
+### Compétences techniques (Savoir-faire)
 
 La personne qui enseigne ou assiste cette unité doit être capable de :
 
-| Compétences techniques                                                                                                                 | Niveau |
-| -------------------------------------------------------------------------------------------------------------------------------------- | :----: |
-| Utiliser les méthodologies et pratiques de la pensée créative                                                                          |   3    |
-| Créer, maintenir et déployer une application web de taille importante                                                                  |   3    |
-| Utiliser les bonnes pratiques d'ingénierie logicielle pour rendre une application viable et pérenne dans le temps                      |   2    |
-| Gérer la réalisation d'un projet en équipe ainsi que les outils de collaboration associés (Git, GitHub, Workflow Issues > PRs > Merge) |   2    |
-| Connaître les principes de base liés au design d’interface                                                                             |   1    |
+| Compétences techniques                                                                                                                 | Importance |
+| -------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
+| Utiliser les méthodologies et pratiques de la pensée créative                                                                          |     3      |
+| Créer, maintenir et déployer une application web de taille importante                                                                  |     3      |
+| Utiliser les bonnes pratiques d'ingénierie logicielle pour rendre une application viable et pérenne dans le temps                      |     2      |
+| Gérer la réalisation d'un projet en équipe ainsi que les outils de collaboration associés (Git, GitHub, Workflow Issues > PRs > Merge) |     2      |
+| Connaître les principes de base liés au design d’interface                                                                             |     1      |
 
-### Compétences transversales
+### Compétences humaines (Savoir-être)
 
 La personne qui enseigne ou assiste cette unité doit être capable de :
 
-| Compétences transversales                                                                   | Importance |
+| Compétences humaines                                                                        | Importance |
 | ------------------------------------------------------------------------------------------- | :--------: |
 | Faire preuve d'autonomie                                                                    |     3      |
 | Être proactive                                                                              |     3      |
