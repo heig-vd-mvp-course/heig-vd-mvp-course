@@ -236,7 +236,7 @@ personnes qui assistent.
 
 #### Compétences techniques
 
-Voici l'échelle avec laquelle nous évaluons les compétences :
+Voici l'échelle avec laquelle nous évaluons les compétences techniques :
 
 1. Notions de base
 2. Bonnes connaissances / niveau intermédiaire
@@ -246,7 +246,6 @@ Voici l'échelle avec laquelle nous évaluons les compétences :
 | ----------------------------------------------------------------------------------------------------------------------------- | :----: |
 | Méthodologies et pratique de la pensée créative                                                                               |   3    |
 | Créer, maintenir, déployer une application web de taille importante                                                           |   3    |
-| Être capable d'accompagner et soutenir les personnes dans la réalisation de leurs projets                                     |   3    |
 | Utiliser les bonnes pratiques de programmation pour rendre une application viable et pérenne dans le temps                    |   2    |
 | Gérer la réalisation d'un projet en équipe ainsi que les outils de collaboration (Git, GitHub, Workflow Issues > PRs > Merge) |   2    |
 | Connaître les principes de base liés au design d’interface                                                                    |   1    |
