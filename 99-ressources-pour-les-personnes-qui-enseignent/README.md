@@ -21,17 +21,20 @@
 
 ## Liste des compétences pour les personnes qui enseignent et qui assistent
 
+Voici l'échelle avec laquelle nous évaluons l'importance des compétences basée
+sur MoSCow (https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW):
+
+1. Faible (confort)
+2. Moyenne (essentielle)
+3. Élevée (vitale)
+
 ### Compétences techniques
 
-Voici l'échelle avec laquelle nous évaluons les compétences techniques :
-
-1. Notions de base
-2. Bonnes connaissances / niveau intermédiaire
-3. Maîtrise du sujet
+La personne qui enseigne ou assiste cette unité doit être capable de :
 
 | Compétences techniques                                                                                                                 | Niveau |
 | -------------------------------------------------------------------------------------------------------------------------------------- | :----: |
-| Méthodologies et pratique de la pensée créative                                                                                        |   3    |
+| Faire preuve de méthodologies et pratique de la pensée créative                                                                        |   3    |
 | Créer, maintenir et déployer une application web de taille importante                                                                  |   3    |
 | Utiliser les bonnes pratiques d'ingénierie logicielle pour rendre une application viable et pérenne dans le temps                      |   2    |
 | Gérer la réalisation d'un projet en équipe ainsi que les outils de collaboration associés (Git, GitHub, Workflow Issues > PRs > Merge) |   2    |
@@ -39,25 +42,20 @@ Voici l'échelle avec laquelle nous évaluons les compétences techniques :
 
 ### Compétences transversales
 
-Voici l'échelle avec laquelle nous évaluons l'importance des compétences
-transversales :
+La personne qui enseigne ou assiste cette unité doit être capable de :
 
-1. Faible (confort)
-2. Moyen (essentiel)
-3. Élevé (vital)
-
-| Compétences transversales                                                                 | Importance |
-| ----------------------------------------------------------------------------------------- | :--------: |
-| Autonomie                                                                                 |     3      |
-| Proactivité                                                                               |     3      |
-| À l'aise à prendre la parole en public                                                    |     3      |
-| Esprit critique sur son travail et celui des autres                                       |     3      |
-| Être capable d'accompagner et soutenir les personnes dans la réalisation de leurs projets |     3      |
-| Créativité                                                                                |     2      |
-| Expérience du terrain                                                                     |     2      |
-| Capacité à travailler en équipe                                                           |     2      |
-| Capacité à donner et recevoir des feedbacks constructifs                                  |     2      |
-| Sens de l'analyse et recherche de solutions adaptées à une situation donnée               |     2      |
+| Compétences transversales                                                                   | Importance |
+| ------------------------------------------------------------------------------------------- | :--------: |
+| Faire preuve d'autonomie                                                                    |     3      |
+| Être proactive                                                                              |     3      |
+| Être à l'aise à prendre la parole en public                                                 |     3      |
+| Faire preuve d'esprit critique sur son travail et celui des autres                          |     3      |
+| Être capable d'accompagner et soutenir les personnes dans la réalisation de leurs projets   |     3      |
+| Créativité                                                                                  |     2      |
+| Partager son expérience du terrain                                                          |     2      |
+| Travailler en équipe                                                                        |     2      |
+| Donner et recevoir des feedbacks constructifs                                               |     2      |
+| Faire preuve de sens de l'analyse et recherche de solutions adaptées à une situation donnée |     2      |
 
 ## À faire avant le début de l'unité d'enseignement
 
