@@ -35,7 +35,7 @@ La personne qui enseigne ou assiste cette unité doit être capable de :
 
 | Compétences techniques                                                                                                                 | Niveau |
 | -------------------------------------------------------------------------------------------------------------------------------------- | :----: |
-| Faire preuve de méthodologies et pratique de la pensée créative                                                                        |   3    |
+| Utiliser les méthodologies et pratiques de la pensée créative                                                                          |   3    |
 | Créer, maintenir et déployer une application web de taille importante                                                                  |   3    |
 | Utiliser les bonnes pratiques d'ingénierie logicielle pour rendre une application viable et pérenne dans le temps                      |   2    |
 | Gérer la réalisation d'un projet en équipe ainsi que les outils de collaboration associés (Git, GitHub, Workflow Issues > PRs > Merge) |   2    |
