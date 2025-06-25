@@ -240,13 +240,22 @@ Voici l'échelle avec laquelle nous évaluons les compétences :
 2. Bonnes connaissances / niveau intermédiaire
 3. Maîtrise du sujet
 
-| Compétences                                                                                                | Niveau |
-| ---------------------------------------------------------------------------------------------------------- | :----: |
-| Créer des pages Web                                                                                        |   1    |
-| Utiliser un logiciel de gestion de versions décentralisé comme Git                                         |   2    |
-| Créer, maintenir, déployer une application de taille importante                                            |   2    |
-| Être capable de promouvoir et pitcher une idée en public                                                   |   2    |
-| Utiliser les bonnes pratiques de programmation pour rendre une application viable et pérenne dans le temps |   2    |
-| Méthodologies et pratique de la pensée créative                                                            |   2    |
-| Gérer la réalisation d'un projet en équipe                                                                 |   3    |
-| Acquérir de manière indépendante des connaissances sur des sujets nouveaux                                 |   3    |
+| Compétences techniques                                                                                                            | Niveau |
+| --------------------------------------------------------------------------------------------------------------------------------- | :----: |
+| Être capable de promouvoir et pitcher une idée en public                                                                          |   2    |
+| Créer, maintenir, déployer une application de taille importante                                                                   |   2    |
+| Utiliser un logiciel de gestion de versions décentralisé comme Git                                                                |   2    |
+| Utiliser les bonnes pratiques de programmation pour rendre une application viable et pérenne dans le temps                        |   2    |
+| Gérer la réalisation d'un projet en équipe ainsi que les outils de collaboration (Git, GitHub, Workflow Issues > PRs/MRs > Merge) |   2    |
+| Créer et maintenir des sites web                                                                                                  |   3    |
+| Méthodologies et pratique de la pensée créative                                                                                   |   3    |
+
+Compétences transversales
+
+- Autonome
+- Proactive
+- Créative
+- À l'aide à prendre la parole en public
+- Esprit critique sur son travail et celui des autres
+- Sens de l'analyse et recherche de solutions adaptées à une situation donnée
+- Capacité à travailler en équipe
