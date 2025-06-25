@@ -15,6 +15,8 @@
   - [Mail envoyé avant la présentation finale](#mail-envoyé-avant-la-présentation-finale)
   - [Mail envoyé après les présentations sur la prospection](#mail-envoyé-après-les-présentations-sur-la-prospection)
   - [Mail envoyé après la présentation finale](#mail-envoyé-après-la-présentation-finale)
+- [À faire à côté](#à-faire-à-côté)
+  - [Liste des compétences pour les personnes qui assistent](#liste-des-compétences-pour-les-personnes-qui-assistent)
 
 ## À faire avant le début de l'unité d'enseignement
 
@@ -224,3 +226,27 @@ Les notes ont été saisies dans GAPS également.
 Une toute bonne journée et un bon début de semaine,
 Ludovic et Vincent
 ```
+
+## À faire à côté
+
+### Liste des compétences pour les personnes qui assistent
+
+Il est possible qu'on nous demande de fournir la liste des compétences pour les
+personnes qui assistent.
+
+Voici l'échelle avec laquelle nous évaluons les compétences :
+
+1. Notions de base
+2. Bonnes connaissances / niveau intermédiaire
+3. Maîtrise du sujet
+
+| Compétences                                                                                                | Niveau |
+| ---------------------------------------------------------------------------------------------------------- | :----: |
+| Créer des pages Web                                                                                        |   1    |
+| Utiliser un logiciel de gestion de versions décentralisé comme Git                                         |   2    |
+| Créer, maintenir, déployer une application de taille importante                                            |   2    |
+| Être capable de promouvoir et pitcher une idée en public                                                   |   2    |
+| Utiliser les bonnes pratiques de programmation pour rendre une application viable et pérenne dans le temps |   2    |
+| Méthodologies et pratique de la pensée créative                                                            |   2    |
+| Gérer la réalisation d'un projet en équipe                                                                 |   3    |
+| Acquérir de manière indépendante des connaissances sur des sujets nouveaux                                 |   3    |
