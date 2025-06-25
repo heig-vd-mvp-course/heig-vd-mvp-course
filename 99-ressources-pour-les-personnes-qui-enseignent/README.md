@@ -259,3 +259,4 @@ Compétences transversales
 - Esprit critique sur son travail et celui des autres
 - Sens de l'analyse et recherche de solutions adaptées à une situation donnée
 - Capacité à travailler en équipe
+- Expériences du terrain
