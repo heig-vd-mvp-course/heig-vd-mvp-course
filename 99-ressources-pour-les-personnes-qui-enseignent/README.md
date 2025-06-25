@@ -242,11 +242,11 @@ Voici l'échelle avec laquelle nous évaluons les compétences :
 
 | Compétences techniques                                                                                                            | Niveau |
 | --------------------------------------------------------------------------------------------------------------------------------- | :----: |
+| Connaître les principes de base liés au design d’interface                                                                        |   1    |
 | Utiliser un logiciel de gestion de versions décentralisé comme Git                                                                |   2    |
 | Utiliser les bonnes pratiques de programmation pour rendre une application viable et pérenne dans le temps                        |   2    |
 | Gérer la réalisation d'un projet en équipe ainsi que les outils de collaboration (Git, GitHub, Workflow Issues > PRs/MRs > Merge) |   2    |
 | Méthodologies et pratique de la pensée créative                                                                                   |   3    |
-| Être capable de promouvoir et pitcher une idée en public                                                                          |   3    |
 | Créer, maintenir, déployer une application web de taille importante                                                               |   3    |
 
 Compétences transversales
@@ -260,3 +260,5 @@ Compétences transversales
 - Esprit critique sur son travail et celui des autres
 - Capacité à donner et recevoir des feedbacks constructifs
 - Sens de l'analyse et recherche de solutions adaptées à une situation donnée
+- Être capable d'accompagner et soutenir les personnes dans la réalisation de
+  leurs projets
