@@ -18,11 +18,12 @@
   - [Mail envoyé avant la présentation finale](#mail-envoyé-avant-la-présentation-finale)
   - [Mail envoyé après les présentations sur la prospection](#mail-envoyé-après-les-présentations-sur-la-prospection)
   - [Mail envoyé après la présentation finale](#mail-envoyé-après-la-présentation-finale)
+- [Sources](#sources)
 
 ## Liste des compétences pour les personnes qui enseignent et qui assistent
 
 Voici l'échelle avec laquelle nous évaluons l'importance des compétences basée
-sur MoSCow (https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW):
+sur MoSCow[^1]:
 
 1. Faible (confort)
 2. Moyenne (essentielle)
@@ -265,3 +266,7 @@ Les notes ont été saisies dans GAPS également.
 Une toute bonne journée et un bon début de semaine,
 Ludovic et Vincent
 ```
+
+## Sources
+
+[^1]: https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW, Wikipédia, 25 juin 2025
