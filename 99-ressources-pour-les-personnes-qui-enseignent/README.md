@@ -256,9 +256,9 @@ Voici l'échelle avec laquelle nous évaluons les compétences :
 Voici l'échelle avec laquelle nous évaluons l'importance des compétences
 transversales :
 
-1. Nice to Have (N)
-2. Bonnes à avoir (B)
-3. Essentielles (E)
+1. Nice to Have
+2. Bonnes à avoir
+3. Essentielles
 
 | Compétences transversales                                                                 | Importance |
 | ----------------------------------------------------------------------------------------- | :--------: |
