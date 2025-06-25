@@ -3,6 +3,9 @@
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
+- [Liste des compétences pour les personnes qui enseignent et qui assistent](#liste-des-compétences-pour-les-personnes-qui-enseignent-et-qui-assistent)
+  - [Compétences techniques](#compétences-techniques)
+  - [Compétences transversales](#compétences-transversales)
 - [À faire avant le début de l'unité d'enseignement](#à-faire-avant-le-début-de-lunité-denseignement)
   - [Créer les issues pour le suivi du maintien du cours](#créer-les-issues-pour-le-suivi-du-maintien-du-cours)
   - [Envoyer un mail aux personnes qui étudient avant le premier cours](#envoyer-un-mail-aux-personnes-qui-étudient-avant-le-premier-cours)
@@ -15,8 +18,48 @@
   - [Mail envoyé avant la présentation finale](#mail-envoyé-avant-la-présentation-finale)
   - [Mail envoyé après les présentations sur la prospection](#mail-envoyé-après-les-présentations-sur-la-prospection)
   - [Mail envoyé après la présentation finale](#mail-envoyé-après-la-présentation-finale)
-- [À faire à côté](#à-faire-à-côté)
-  - [Liste des compétences pour les personnes qui assistent](#liste-des-compétences-pour-les-personnes-qui-assistent)
+
+## Liste des compétences pour les personnes qui enseignent et qui assistent
+
+### Compétences techniques
+
+Voici l'échelle avec laquelle nous évaluons les compétences techniques :
+
+1. Notions de base
+2. Bonnes connaissances / niveau intermédiaire
+3. Maîtrise du sujet
+
+| Compétences techniques                                                                                                                 | Niveau |
+| -------------------------------------------------------------------------------------------------------------------------------------- | :----: |
+| Méthodologies et pratique de la pensée créative                                                                                        |   3    |
+| Créer, maintenir et déployer une application web de taille importante                                                                  |   3    |
+| Utiliser les bonnes pratiques d'ingénierie logicielle pour rendre une application viable et pérenne dans le temps                      |   2    |
+| Gérer la réalisation d'un projet en équipe ainsi que les outils de collaboration associés (Git, GitHub, Workflow Issues > PRs > Merge) |   2    |
+| Connaître les principes de base liés au design d’interface                                                                             |   1    |
+
+### Compétences transversales
+
+Voici l'échelle avec laquelle nous évaluons l'importance des compétences
+transversales :
+
+1. Confort
+2. Nécessaire
+3. Indispensable
+4. Luxe
+
+| Compétences transversales                                                                 | Importance |
+| ----------------------------------------------------------------------------------------- | :--------: |
+| Hadrien                                                                                   |     4      |
+| Autonomie                                                                                 |     3      |
+| Proactivité                                                                               |     3      |
+| À l'aise à prendre la parole en public                                                    |     3      |
+| Esprit critique sur son travail et celui des autres                                       |     3      |
+| Être capable d'accompagner et soutenir les personnes dans la réalisation de leurs projets |     3      |
+| Créativité                                                                                |     2      |
+| Expérience du terrain                                                                     |     2      |
+| Capacité à travailler en équipe                                                           |     2      |
+| Capacité à donner et recevoir des feedbacks constructifs                                  |     2      |
+| Sens de l'analyse et recherche de solutions adaptées à une situation donnée               |     2      |
 
 ## À faire avant le début de l'unité d'enseignement
 
@@ -226,48 +269,3 @@ Les notes ont été saisies dans GAPS également.
 Une toute bonne journée et un bon début de semaine,
 Ludovic et Vincent
 ```
-
-## À faire à côté
-
-### Liste des compétences pour les personnes qui assistent
-
-Il est possible qu'on nous demande de fournir la liste des compétences pour les
-personnes qui assistent.
-
-#### Compétences techniques
-
-Voici l'échelle avec laquelle nous évaluons les compétences techniques :
-
-1. Notions de base
-2. Bonnes connaissances / niveau intermédiaire
-3. Maîtrise du sujet
-
-| Compétences techniques                                                                                                        | Niveau |
-| ----------------------------------------------------------------------------------------------------------------------------- | :----: |
-| Méthodologies et pratique de la pensée créative                                                                               |   3    |
-| Créer, maintenir, déployer une application web de taille importante                                                           |   3    |
-| Utiliser les bonnes pratiques de programmation pour rendre une application viable et pérenne dans le temps                    |   2    |
-| Gérer la réalisation d'un projet en équipe ainsi que les outils de collaboration (Git, GitHub, Workflow Issues > PRs > Merge) |   2    |
-| Connaître les principes de base liés au design d’interface                                                                    |   1    |
-
-#### Compétences transversales
-
-Voici l'échelle avec laquelle nous évaluons l'importance des compétences
-transversales :
-
-1. Nice to Have
-2. Bonnes à avoir
-3. Essentielles
-
-| Compétences transversales                                                                 | Importance |
-| ----------------------------------------------------------------------------------------- | :--------: |
-| Autonomie                                                                                 |     3      |
-| Proactivité                                                                               |     3      |
-| À l'aise à prendre la parole en public                                                    |     3      |
-| Esprit critique sur son travail et celui des autres                                       |     3      |
-| Être capable d'accompagner et soutenir les personnes dans la réalisation de leurs projets |     3      |
-| Créativité                                                                                |     2      |
-| Expérience du terrain                                                                     |     2      |
-| Capacité à travailler en équipe                                                           |     2      |
-| Capacité à donner et recevoir des feedbacks constructifs                                  |     2      |
-| Sens de l'analyse et recherche de solutions adaptées à une situation donnée               |     2      |
