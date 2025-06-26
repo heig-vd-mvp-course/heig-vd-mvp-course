@@ -51,7 +51,7 @@ La personne qui enseigne ou assiste cette unité doit être capable de :
 | Être proactive                                                                              |     3      |
 | Être à l'aise à prendre la parole en public                                                 |     3      |
 | Faire preuve d'esprit critique sur son travail et celui des autres                          |     3      |
-| Être capable d'accompagner et soutenir les personnes dans la réalisation de leurs projets   |     3      |
+| Accompagner et soutenir les personnes dans la réalisation de leurs projets   |     3      |
 | Faire preuve de créativité                                                                                  |     2      |
 | Partager son expérience du terrain                                                          |     2      |
 | Travailler en équipe                                                                        |     2      |
