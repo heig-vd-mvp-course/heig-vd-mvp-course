@@ -3,29 +3,64 @@
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
-- [Avant le cours](#avant-le-cours)
-  - [Issue](#issue)
-- [Durant le cours](#durant-le-cours)
-- [Mails avant les cours](#mails-avant-les-cours)
-  - [Semaine 1](#semaine-1)
-  - [Semaine 2](#semaine-2)
-  - [Semaine 3](#semaine-3)
-  - [Semaine 4](#semaine-4)
-  - [Semaine 6](#semaine-6)
-  - [Semaine 7](#semaine-7)
-  - [Semaine 8](#semaine-8)
-  - [Semaine 9](#semaine-9)
-  - [Semaine 10](#semaine-10)
-  - [Semaine 11](#semaine-11)
-  - [Semaine 12](#semaine-12)
-  - [Semaine 13](#semaine-13)
-  - [Semaine 14](#semaine-14)
-  - [Semaine 15](#semaine-15)
-  - [Semaine 16](#semaine-16)
+- [Liste des compétences pour les personnes qui enseignent et qui assistent](#liste-des-compétences-pour-les-personnes-qui-enseignent-et-qui-assistent)
+  - [Compétences techniques (Savoir-faire)](#compétences-techniques-savoir-faire)
+  - [Compétences humaines (Savoir-être)](#compétences-humaines-savoir-être)
+- [À faire avant le début de l'unité d'enseignement](#à-faire-avant-le-début-de-lunité-denseignement)
+  - [Créer les issues pour le suivi du maintien du cours](#créer-les-issues-pour-le-suivi-du-maintien-du-cours)
+  - [Envoyer un mail aux personnes qui étudient avant le premier cours](#envoyer-un-mail-aux-personnes-qui-étudient-avant-le-premier-cours)
+- [À faire durant l'unité d'enseignement](#à-faire-durant-lunité-denseignement)
+  - [Fil rouge d'un cours](#fil-rouge-dun-cours)
+  - [Mail envoyé avant la présentation sur le pitch](#mail-envoyé-avant-la-présentation-sur-le-pitch)
+  - [Mail envoyé après la présentation sur le pitch](#mail-envoyé-après-la-présentation-sur-le-pitch)
+  - [Mail envoyé avant l'évaluation](#mail-envoyé-avant-lévaluation)
+  - [Mail envoyé après l'évaluation](#mail-envoyé-après-lévaluation)
+  - [Mail envoyé avant la présentation finale](#mail-envoyé-avant-la-présentation-finale)
+  - [Mail envoyé après les présentations sur la prospection](#mail-envoyé-après-les-présentations-sur-la-prospection)
+  - [Mail envoyé après la présentation finale](#mail-envoyé-après-la-présentation-finale)
+- [Sources](#sources)
 
-## Avant le cours
+## Liste des compétences pour les personnes qui enseignent et qui assistent
 
-### Issue
+Voici l'échelle avec laquelle nous évaluons l'importance des compétences basée
+sur MoSCow[^1]:
+
+1. Faible (confort)
+2. Moyenne (essentielle)
+3. Élevée (vitale)
+
+### Compétences techniques (Savoir-faire)
+
+La personne qui enseigne ou assiste cette unité doit être capable de :
+
+| Compétences techniques                                                                                                                 | Importance |
+| -------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
+| Utiliser les méthodologies et pratiques de la pensée créative                                                                          |     3      |
+| Créer, maintenir et déployer une application web de taille importante                                                                  |     3      |
+| Utiliser les bonnes pratiques d'ingénierie logicielle pour rendre une application viable et pérenne dans le temps                      |     2      |
+| Gérer la réalisation d'un projet en équipe ainsi que les outils de collaboration associés (Git, GitHub, Workflow Issues > PRs > Merge) |     2      |
+| Connaître les principes de base liés au design d’interface                                                                             |     1      |
+
+### Compétences humaines (Savoir-être)
+
+La personne qui enseigne ou assiste cette unité doit être capable de :
+
+| Compétences humaines                                                                        | Importance |
+| ------------------------------------------------------------------------------------------- | :--------: |
+| Faire preuve d'autonomie                                                                    |     3      |
+| Être proactive                                                                              |     3      |
+| Être à l'aise à prendre la parole en public                                                 |     3      |
+| Faire preuve d'esprit critique sur son travail et celui des autres                          |     3      |
+| Accompagner et soutenir les personnes dans la réalisation de leurs projets   |     3      |
+| Faire preuve de créativité                                                                                  |     2      |
+| Partager son expérience du terrain                                                          |     2      |
+| Travailler en équipe                                                                        |     2      |
+| Donner et recevoir des feedbacks constructifs                                               |     2      |
+| Faire preuve de sens de l'analyse et recherche de solutions adaptées à une situation donnée |     2      |
+
+## À faire avant le début de l'unité d'enseignement
+
+### Créer les issues pour le suivi du maintien du cours
 
 Créez une issue pour chaque cours, projet et quiz. Cela permet de suivre
 l'avancement de la préparation du cours.
@@ -59,22 +94,9 @@ l'avancement de la préparation du cours.
 - [ ] 3-4 questions Ludovic
 ```
 
-## Durant le cours
+### Envoyer un mail aux personnes qui étudient avant le premier cours
 
-Le fil rouge d'un cours est le suivant :
-
-- Quiz du cours précédent animé par les personnes qui enseignent
-- Prise de parole des groupes sur leur avancement
-- Présentation de la théorie par les personnes qui enseignent
-- Pratique par les personnes qui étudient
-
-## Mails avant les cours
-
-### Semaine 1
-
-**[MVP] Contenu pour le cours de demain**
-
-```txt
+```text
 [MVP 2024-2025] Informations générales sur le cours
 
 Bonjour tout le monde,
@@ -91,333 +113,160 @@ Il n'est pas nécessaire d'avoir une idée définie avant le début du cours. Le
 
 Si vous avez des questions, n'hésitez pas à nous contacter.
 
-Vous trouverez le contenu pour le cours de demain sur le site web du cours :
-
-Cours - Présentation :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/index.html
-
-Cours - Support de cours :
-https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md
-
-Projet - Présentation :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/01-presentation/index.html
-
-Projet - Support de cours :
-https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md
-
 Nous vous souhaitons une bonne journée et à bientôt,
 Ludovic Delafontaine et Vincent Guidoux
 ```
 
-### Semaine 2
+## À faire durant l'unité d'enseignement
 
-```txt
-**[MVP] Contenu pour le cours de demain**
+### Fil rouge d'un cours
 
-Bonjour tout le monde,
+Le fil rouge d'un cours de l'unité d'enseignement est le suivant :
 
-Vous trouverez le contenu pour le cours de demain sur le site web du cours :
+- Quiz du cours précédent animé par les personnes qui enseignent
+- Prise de parole des groupes sur leur avancement
+- Présentation de la théorie par les personnes qui enseignent
+- Pratique par les personnes qui étudient
 
-Cours - Présentation :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/01-presentation/index.html
+### Mail envoyé avant la présentation sur le pitch
 
-Cours - Support de cours :
-https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/02-support-de-cours/README.md
-
-Cours - Quiz :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/03-quiz/index.html
-
-Projet - Présentation :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/01-presentation/index.html
-
-Projet - Support de cours :
-https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md#s%C3%A9ance-23
-
-À demain !
-```
-
-### Semaine 3
-
-```txt
-**[MVP] Contenu pour le cours de demain**
+```text
+[MVP 2024-2025] Présentations sur le pitch de la semaine prochaine (13.03.2025)
 
 Bonjour tout le monde,
 
-Vous trouverez le contenu pour le cours de demain sur le site web du cours :
+Nous espérons que vous allez bien.
 
-Cours - Présentation :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/01-presentation/index.html
+La semaine prochaine aura lieu la première évaluation du cours de MVP avec une présentation de votre part sur le pitch (10% de la note de projet). Il n'y a rien besoin de préparer ; vous aurez du temps jeudi prochain pour cela.
 
-Cours - Support de cours :
-https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/04-cours-comprendre-et-atteindre-son-public-cible/02-support-de-cours/README.md
+De ce fait, nous vous demandons d'être présent et à l'heure pour cette séance.
 
-Cours - Quiz :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/03-quiz/index.html
+Nous vous rappelons que vous pouvez retrouver une proposition de structure de rapport et toutes les grilles d'évaluation dans le support de cours de la semaine 1 à l'adresse suivante : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md.
 
-Projet - Présentation :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/01-presentation/index.html#12
-
-Projet - Support de cours :https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/02-support-de-cours/README.md#partie-33
-
-À demain !
+Merci et toute bonne semaine ! 🙂
+Ludovic et Vincent
 ```
 
-### Semaine 4
+### Mail envoyé après la présentation sur le pitch
 
-```txt
-**[MVP] Contenu pour le cours de demain**
+```text
+[MVP 2024-2025] Retours sur la présentation sur le pitch
+
+Bonjour,
+
+Vous trouverez en pièce jointe les retours que nous vous avons faits pour la présentation sur le pitch.
+
+La note a été saisie dans GAPS également.
+
+Nous tenions encore une fois à vous remercier pour cette matinée et du très bon travail que vous avez fait. C'était très chouette de voir vos présentations, encore bravo !
+
+Une toute bonne après-midi et à dans deux semaines,
+Ludovic et Vincent
+```
+
+### Mail envoyé avant l'évaluation
+
+```text
+[MVP 2024-2025] Évaluation disponible sur la plateforme Eval
 
 Bonjour tout le monde,
 
-Vous trouverez le contenu pour le cours de demain sur le site web du cours :
+Comme annoncé, l'évaluation du cours MVP est désormais disponible sur la
+plateforme Eval à l'adresse suivante :
+https://eval.iict-heig-vd.in/users/evaluations/xxxxxxxxxxxxxxxxxxxxxxxxx
 
-Cours - Présentation :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/01-presentation/index.html
+L'évaluation dure 45 minutes. Une fois que vous avez terminé, n'oubliez pas de
+la marquer comme terminée. Avant de quitter la salle, merci de valider avec le
+corps enseignant que le système a bien enregistré votre soumission. Vous pourrez
+ensuite sortir de façon silencieuse.
 
-Cours - Support de cours :
-https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/05-cours-promouvoir-et-pitcher-son-idee/02-support-de-cours/README.md
+Ressource autorisée :
 
-Cours - Quiz :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/03-quiz/index.html
+- Une feuille A4 recto verso de notes personnelles
 
-Projet - Présentation :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/06-projet-presentations-du-pitch/01-presentation/index.html
+N'oubliez pas : L'évaluation ne mesure ni votre intelligence émotionnelle et
+relationnelle, ni votre capacité à rêver, ni votre sensibilité artistique. Votre
+note ne définit pas la richesse de votre personnalité.
 
-Projet - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/06-projet-presentations-du-pitch/02-support-de-cours/README.md
+Toute tentative de tricherie sera sanctionnée avec la note 1.
 
-À demain !
+Le cours a lieu comme d'habitude après l'évaluation.
+
+À tout de suite,
+Ludovic Delafontaine et Vincent Guidoux
 ```
 
-### Semaine 6
+### Mail envoyé après l'évaluation
 
-```txt
-**[MVP] Contenu pour le cours de demain**
+Mail envoyé en réponse au mail précédent.
+
+```text
+Bonjour tout le monde,
+
+Les notes pour l'évaluation et la présentation ont été saisies sur GAPS.
+
+Vous pouvez retrouver les éventuelles remarques pour votre correction dans le lien de la plateforme Eval du mail précédent.
+
+Une toute bonne journée,
+Ludovic et Vincent
+```
+
+### Mail envoyé avant la présentation finale
+
+```text
+[MVP 2024-2025] Présentations finales et déroulement du dernier cours
 
 Bonjour tout le monde,
 
-Vous trouverez le contenu pour le cours de demain sur le site web du cours :
+Merci pour vos différents rapports, nous allons les lire avant les présentations de la semaine prochaine.
 
-Cours - Présentation :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/01-presentation/index.html
+Vous trouverez l'ordre de passage ainsi que les modalités pour les présentations finales à l'adresse suivante : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/19-projet-presentations-finales
 
-Cours - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/07-cours-identification-et-choix-dune-stack-technologique/02-support-de-cours/README.md
+Ce dernier cours est construit comme suit :
 
-Cours - Quiz : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/03-quiz/index.html
+- 08h30 - 09h30 : Revue du semestre avec les évaluations GAPS (qui sont disponibles sur le repo Git) avec déjeuner/apéro en classe (ne mangez pas trop avant de venir 🙂)
+- Dès 09h30 : Début des présentations. Chaque groupe a droit à 10 minutes de présentation suivi de session de questions/réponses de notre part et du reste de la classe. Lorsqu'un groupe a fini, le prochain se met en place. Une pause de 15 minutes est prévue au milieu des présentations.
 
-Projet - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/01-presentation/index.html
+L'ordre de passage a été généré aléatoirement. Vous pouvez demander un changement d'ordre de passage avec un autre groupe si celui-ci est d'accord.
 
-Projet - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/02-support-de-cours/README.md
+On se réjouit de voir le fruit de votre travail la semaine prochaine !
+
+Bon weekend en avance,
+Ludovic et Vincent
 ```
 
-### Semaine 7
+### Mail envoyé après les présentations sur la prospection
 
-```txt
-**[MVP] Contenu pour le cours de demain**
+```text
+[MVP 2024-2025] Retours sur la présentation sur la prospection
 
-Bonjour tout le monde,
+Bonjour,
 
-Vous trouverez le contenu pour le cours de demain sur le site web du cours :
+Vous trouverez en pièce jointe les retours que nous vous avons faits pour la présentation sur la prospection suite aux retours que nous avons échangés en classe lors d'un cours précédent.
 
-Cours - Présentation :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/01-presentation/index.html
+Comme déjà annoncé hier, la note a été saisie dans GAPS également.
 
-Cours - Support de cours :
-https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/02-support-de-cours/README.md
+Veuillez nous excuser pour le temps que nous avons pris à vous envoyer formellement ces retours. Nous restons à disposition si besoin.
 
-Cours - Quiz :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/03-quiz/index.html
-
-Projet - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/01-presentation/index.html
-
-Projet - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/08-projet-realisation-et-hebergement-de-la-landing-page-avec-formulaire-de-contact/02-support-de-cours/README.md
-
-À demain !
+Une toute bonne journée et bon weekend,
+Ludovic et Vincent
 ```
 
-### Semaine 8
+### Mail envoyé après la présentation finale
 
-```txt
-**[MVP] Contenu pour le cours de demain**
+```text
+[MVP 2024-2025] Retours sur le rapport final, la présentation finale et le produit final
 
-Bonjour tout le monde,
+Bonjour,
 
-Nous vous rappelons qu'une évaluation aura lieu demain.
+Vous trouverez en pièce jointe les retours que nous vous avons faits pour le rapport final, la présentation final et le produit final du cours MVP.
 
-Vous trouverez le contenu pour le cours de demain sur le site web du cours :
+Les notes ont été saisies dans GAPS également.
 
-Cours - Présentation :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/01-presentation/index.html
-
-Cours - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/10-cours-hebergement-et-deploiement-de-services/02-support-de-cours/README.md
-
-Cours - Quiz : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/03-quiz/index.html
-
-Projet - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/11-projet-presentations-de-la-prospection/01-presentation/index.html
-
-Projet - Support de cours :  https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/02-support-de-cours/README.md
+Une toute bonne journée et un bon début de semaine,
+Ludovic et Vincent
 ```
 
-### Semaine 9
+## Sources
 
-```txt
-**[MVP] Contenu pour le cours de demain**
-
-Bonjour tout le monde,
-
-Vous trouverez le contenu pour le cours de demain sur le site web du cours :
-
-Cours - Présentation :
-https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/11-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/index.html
-
-Cours - Support de cours :  https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-cours-recevoir-des-feedbacks-constructifs-et-pivoter/02-support-de-cours/README.md
-
-Cours - Quiz : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/11-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/index.html
-
-Projet - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/index.html
-
-Projet - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md
-
-À demain !
-```
-
-### Semaine 10
-
-```txt
-**[MVP] Contenu pour le cours de demain**
-
-Bonjour tout le monde,
-
-Vous trouverez le contenu pour le cours de demain sur le site web du cours :
-
-Cours - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/01-presentation/index.html
-
-Cours - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/14-cours-realiser-des-applications-perennes/02-support-de-cours/README.md
-
-Cours - Quiz : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/03-quiz/index.html
-
-Projet - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/index.html
-
-Projet - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md
-
-À demain !
-```
-
-### Semaine 11
-
-```txt
-**[MVP] Contenu pour le cours de demain**
-
-Bonjour tout le monde,
-
-Vous trouverez le contenu pour le cours de demain sur le site web du cours :
-
-Cours - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/01-presentation/index.html
-
-Cours - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/15-cours-se-faire-payer-pour-sa-passion/02-support-de-cours/README.md
-
-Cours - Quiz : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/03-quiz/index.html
-
-Projet - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/index.html
-
-Projet - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md
-
-À demain !
-```
-
-### Semaine 12
-
-```txt
-**[MVP] Contenu pour le cours de demain**
-
-Bonjour tout le monde,
-
-Vous trouverez le contenu pour le cours de demain sur le site web du cours :
-
-Cours - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/16-cours-creer-sa-propre-entreprise/01-presentation/index.html
-
-Cours - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/16-cours-creer-sa-propre-entreprise/02-support-de-cours/README.md
-
-Cours - Quiz : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/16-cours-creer-sa-propre-entreprise/03-quiz/index.html
-
-Projet - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/index.html
-
-Projet - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md
-
-À demain !
-```
-
-### Semaine 13
-
-```txt
-**[MVP] Contenu pour le cours de demain**
-
-Bonjour tout le monde,
-
-Nous vous rappelons qu'une évaluation aura lieu demain.
-
-Vous trouverez le contenu pour le cours de demain sur le site web du cours :
-
-Cours - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/index.html
-
-Cours - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/17-cours-evaluation/02-support-de-cours/README.md
-
-Projet - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/index.html
-
-Projet - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md
-
-À demain !
-```
-
-### Semaine 14
-
-```txt
-**[MVP] Contenu pour le cours de demain**
-
-Bonjour tout le monde,
-
-Il n'y a pas de cours cette séance, uniquement le projet.
-
-Vous trouverez le contenu pour le projet de demain sur le site web du cours :
-
-Projet - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/13-projet-realisation-du-service-et-tests-utilisateurs/01-presentation/index.html
-
-Projet - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/13-projet-realisation-du-service-et-tests-utilisateurs/02-support-de-cours/README.md
-
-```
-
-### Semaine 15
-
-```txt
-**[MVP] Contenu pour le cours de demain**
-
-Bonjour tout le monde,
-
-Nous vous rappelons que le rapport du projet doit être rendu au plus tard demain à 23h59.
-
-
-Cours - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/index.html
-
-Cours - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md
-
-À demain !
-```
-
-### Semaine 16
-
-```txt
-**[MVP] Contenu pour le cours de demain**
-
-Bonjour tout le monde,
-
-Vous trouverez le contenu pour le cours de demain sur le site web du cours :
-
-Cours - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/index.html
-
-Cours - Support de cours : _Aucun support_
-
-Projet - Présentation : https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/19-projet-presentations-finales/01-presentation/index.html
-
-Projet - Support de cours : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/19-projet-presentations-finales/02-support-de-cours/README.md
-
-À demain !
-```
+[^1]: https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW, Wikipédia, 25 juin 2025
