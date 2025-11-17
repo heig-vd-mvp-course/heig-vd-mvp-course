@@ -101,15 +101,15 @@ Est-ce que vous avez des questions ?
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
 
 [web]:
-	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/
+    https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/
 [pdf]:
-	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/18-cours-revue-du-semestre-presentation.pdf
+    https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/18-cours-revue-du-semestre-presentation.pdf
 [license]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+    https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+    https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 [illustration-objectifs]:
-	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
+    https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720

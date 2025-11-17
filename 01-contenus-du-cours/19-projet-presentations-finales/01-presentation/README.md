@@ -125,17 +125,17 @@ prochain groupe se prépare.
 <!-- URLs -->
 
 [web]:
-	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/19-projet-presentations-finales/01-presentation/
+    https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/19-projet-presentations-finales/01-presentation/
 [pdf]:
-	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/19-projet-presentations-finales/01-presentation/19-projet-presentations-finales-presentation.pdf
+    https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/19-projet-presentations-finales/01-presentation/19-projet-presentations-finales-presentation.pdf
 [course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/19-projet-presentations-finales/02-support-de-cours/README.md
+    https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/19-projet-presentations-finales/02-support-de-cours/README.md
 [license]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+    https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+    https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 [illustration-objectifs]:
-	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
+    https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
