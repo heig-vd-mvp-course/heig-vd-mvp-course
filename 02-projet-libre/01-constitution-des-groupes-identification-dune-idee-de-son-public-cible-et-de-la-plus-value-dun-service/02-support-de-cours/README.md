@@ -1,14 +1,10 @@
 # Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service - Support de cours
 
-<https://github.com/heig-vd-mvp-course>
-
-[Markdown][course-material]
+![Illustration principale][illustration-principale]
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 
 Ce travail est sous licence [CC BY-SA 4.0][license].
-
-![Illustration principale][illustration-principale]
 
 ## Table des matières
 

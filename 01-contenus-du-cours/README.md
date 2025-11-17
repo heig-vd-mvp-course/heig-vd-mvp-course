@@ -23,45 +23,6 @@ Chaque dossier est structuré de la manière suivante `xx.yy-zzz` où :
   [Markdown](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md)
 - Quiz : _Aucun quiz_
 
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-**Objectifs**
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Lister les objectifs du cours
-- Lister les modalités d'organisation du cours
-- Lister les modalités d'organisation du projet
-- Lister les modalités d'évaluation
-- Décrire comment travailler en équipe de façon efficace
-- Décrire les différences entre un wireframe, un mockup, un prototype et un MVP
-- Décrire ce qu'est un MVP
-
-**Méthodes d'enseignement et d'apprentissage**
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-**Méthodes d'évaluation**
-
-Il n'y a pas d'évaluation pour cette séance.
-
-**À faire pour la semaine suivante**
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
-- Relire le support de cours si nécessaire
-
-</details>
-
 ### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)
 
 - Durée : 2 périodes
@@ -77,7 +38,7 @@ il est recommandé pour la semaine suivante de :
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -92,7 +53,7 @@ il est recommandé pour la semaine suivante de :
 - Prendre connaissance de la structure attendue et des critères d'évaluation du
   rendu final
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
@@ -103,7 +64,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -147,61 +108,6 @@ il est recommandé pour la semaine suivante de :
   ·
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/03-quiz/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin-quiz.pdf)
 
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-**Objectifs**
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Décrire ce qu'est un contexte
-- Décrire ce qu'est un besoin
-- Décrire ce qu'est un secteur de marché
-- Identifier des secteurs de marché prometteurs pour y fournir un nouveau
-  service
-- Décrire ce qu'est une idée originale
-- Lister des sources d'inspiration pour trouver des idées originales
-- Générer des idées originales
-- Identifier les avantages et les inconvénients d'une idée
-- Évaluer la pertinence d'une idée
-- Évaluer la faisabilité d'une idée
-- Lister des sources d'inspiration pour trouver des idées originales
-
-**Méthodes d'enseignement et d'apprentissage**
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-**Méthodes d'évaluation**
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
-
-**À faire pour la semaine suivante**
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
-- Relire le support de cours si nécessaire
-
-</details>
-
 ### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)
 
 - Durée : 2 périodes
@@ -217,7 +123,7 @@ il est recommandé pour la semaine suivante de :
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -230,7 +136,7 @@ il est recommandé pour la semaine suivante de :
 - Identifier les avantages/forces et les inconvénients/faiblesses de l'idée
 - Compléter le rapport
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
@@ -241,7 +147,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -285,56 +191,6 @@ il est recommandé pour la semaine suivante de :
   ·
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/03-quiz/04-cours-comprendre-et-atteindre-son-public-cible-quiz.pdf)
 
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-**Objectifs**
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Décrire ce qu'est un public cible
-- Décrire ce qu'est un persona
-- Identifier un public cible
-- Décrire les étapes pour comprendre un public cible
-- Identifier les (réels) besoins d'un public cible
-- Décrire comment dialoguer avec un public cible
-- Lister les hypothèses à valider pour comprendre un public cible
-
-**Méthodes d'enseignement et d'apprentissage**
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-**Méthodes d'évaluation**
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
-
-**À faire pour la semaine suivante**
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
-- Relire le support de cours si nécessaire
-
-</details>
-
 ### Projet - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)
 
 - Durée : 2 périodes
@@ -350,7 +206,7 @@ il est recommandé pour la semaine suivante de :
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -365,7 +221,7 @@ il est recommandé pour la semaine suivante de :
 - Lister les hypothèses à valider pour comprendre le public cible
 - Compléter le rapport
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
@@ -376,7 +232,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent ainsi qu'un court document décrivant le public cible.
@@ -426,57 +282,6 @@ il est recommandé pour la semaine suivante de :
   ·
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/03-quiz/05-cours-promouvoir-et-pitcher-son-idee-quiz.pdf)
 
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-**Objectifs**
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Décrire ce qu'est un pitch
-- Identifier les éléments clés d'un pitch
-- Décrire les étapes pour préparer un pitch
-- Identifier les erreurs à éviter lors d'un pitch
-- Décrire comment pitcher son idée
-- Citer des techniques pour pitcher en équipe
-- Donner des feedbacks constructifs
-- Recevoir des feedbacks constructifs
-
-**Méthodes d'enseignement et d'apprentissage**
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-**Méthodes d'évaluation**
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
-
-**À faire pour la semaine suivante**
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
-- Relire le support de cours si nécessaire
-
-</details>
-
 ### Projet - Présentations du pitch
 
 - **🚨 Évaluation notée** (10% de la note de projet)
@@ -493,7 +298,7 @@ il est recommandé pour la semaine suivante de :
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -504,7 +309,7 @@ il est recommandé pour la semaine suivante de :
 - Évaluer les pitches des autres groupes
 - Donner des feedbacks constructifs
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
@@ -515,7 +320,7 @@ sont les suivantes :
   - Sessions de questions-réponses
   - Évaluations et feedbacks
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'une présentation du projet aux autres groupes.
 
@@ -562,62 +367,6 @@ _Suite au CRUNCH, il n'y a pas de séances de cours/projet durant la semaine 4._
   ·
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/03-quiz/07-cours-identification-et-choix-dune-stack-technologique-quiz.pdf)
 
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-**Objectifs**
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Décrire ce qu'est une stack technologique web
-- Identifier les avantages et les inconvénients d'une stack technologique web
-- Évaluer le choix d'une stack technologique web par rapport à une situation
-  donnée
-- Énumérer des stacks technologiques web populaires
-- Décrire ce qu'est une landing page
-- Expliquer l'intérêt d'une landing page avec formulaire de contact pour un MVP
-- Décrire comment créer une landing page
-- Décrire où trouver des templates de landing page
-- Décrire où héberger une landing page avec formulaire de contact
-- Décrire comment héberger une landing page avec formulaire de contact
-- Lister les éléments clés du référencement en lien avec les moteurs de
-  recherche
-
-**Méthodes d'enseignement et d'apprentissage**
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-**Méthodes d'évaluation**
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
-
-**À faire pour la semaine suivante**
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
-- Relire le support de cours si nécessaire
-
-</details>
-
 ### Projet - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)
 
 - Durée : 2 périodes
@@ -633,7 +382,7 @@ il est recommandé pour la semaine suivante de :
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -649,7 +398,7 @@ il est recommandé pour la semaine suivante de :
   [Prospection](#projet---présentations-de-la-prospection)
 - Compléter le rapport
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
@@ -660,7 +409,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -706,56 +455,6 @@ il est recommandé pour la semaine suivante de :
   ·
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/03-quiz/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies-quiz.pdf)
 
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-**Objectifs**
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Décrire les éléments clés qui composent une interface ergonomique et réfléchie
-- Identifier dans une interface quels sont les éléments ergonomiques et
-  réfléchies ou non
-- Lister les outils qui permettent de concevoir une interface ergonomique et
-  réfléchie
-- Lister les outils qui permettent de valider qu'une interface est accessible et
-  ergonomique
-
-**Méthodes d'enseignement et d'apprentissage**
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-**Méthodes d'évaluation**
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
-
-**À faire pour la semaine suivante**
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
-- Relire le support de cours si nécessaire
-
-</details>
-
 ### Projet - Réalisation et hébergement de la landing page avec formulaire de contact (2/2)
 
 - Durée : 2 périodes
@@ -771,7 +470,7 @@ il est recommandé pour la semaine suivante de :
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -784,7 +483,7 @@ il est recommandé pour la semaine suivante de :
   [Prospection](#projet---présentations-de-la-prospection)
 - Compléter le rapport
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
@@ -795,7 +494,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -847,54 +546,6 @@ il est recommandé pour la semaine suivante de :
   ·
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/03-quiz/10-cours-hebergement-et-deploiement-de-services-quiz.pdf)
 
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-**Objectifs**
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Décrire comment héberger une application web selon le type de stack
-  technologique
-- Décrire où héberger une application web selon le type de stack technologique
-- Décrire comment mettre en place un pipeline de CI/CD pour le
-  développement/déploiement continu d'applications
-
-**Méthodes d'enseignement et d'apprentissage**
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-**Méthodes d'évaluation**
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
-
-**À faire pour la semaine suivante**
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
-- Relire le support de cours si nécessaire
-
-</details>
-
 ### Projet - Présentations de la prospection
 
 - **🚨 Évaluation notée** (15% de la note de projet)
@@ -911,7 +562,7 @@ il est recommandé pour la semaine suivante de :
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -921,7 +572,7 @@ il est recommandé pour la semaine suivante de :
 - Évaluer les présentations des autres groupes
 - Donner des feedbacks constructifs
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
@@ -931,7 +582,7 @@ sont les suivantes :
   - Sessions de questions-réponses
   - Évaluations et feedbacks
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'une présentation du projet aux autres groupes.
 
@@ -976,54 +627,6 @@ il est recommandé pour la semaine suivante de :
   ·
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-quiz.pdf)
 
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-**Objectifs**
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Définir ce qu'est un pivot
-- Accepter/faire le deuil de devoir pivoter
-- Identifier les informations obtenues jusqu'ici pour pivoter
-- Identifier les forces et les faiblesses des éléments identifiés pour pivoter
-- Explorer d'autres pistes pour pivoter
-
-**Méthodes d'enseignement et d'apprentissage**
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-**Méthodes d'évaluation**
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
-
-**À faire pour la semaine suivante**
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
-- Relire le support de cours si nécessaire
-
-</details>
-
 ### Projet - Réalisation du service et tests utilisateurs (1/6)
 
 - Durée : 2 périodes
@@ -1039,7 +642,7 @@ il est recommandé pour la semaine suivante de :
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -1055,7 +658,7 @@ il est recommandé pour la semaine suivante de :
 - Identifier des personnes qui pourraient tester le service envisagé
 - Compléter le rapport
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
@@ -1066,7 +669,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1110,54 +713,6 @@ il est recommandé pour la semaine suivante de :
   ·
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/03-quiz/14-cours-realiser-des-applications-perennes-quiz.pdf)
 
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-**Objectifs**
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Lister les éléments principaux qui détériorent la qualité d'une application
-- Lister les éléments principaux qui améliorent la qualité d'une application
-- Identifier les freins d'une application de qualité dans une situation donnée
-- Appliquer les bonnes pratiques qui permettent d'améliorer la qualité d'une
-  application
-
-**Méthodes d'enseignement et d'apprentissage**
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-**Méthodes d'évaluation**
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
-
-**À faire pour la semaine suivante**
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
-- Relire le support de cours si nécessaire
-
-</details>
-
 ### Projet - Réalisation du service et tests utilisateurs (2/6)
 
 - Durée : 2 périodes
@@ -1173,7 +728,7 @@ il est recommandé pour la semaine suivante de :
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -1184,7 +739,7 @@ il est recommandé pour la semaine suivante de :
 - Mettre en place les bonnes pratiques pour le développement du service envisagé
 - Compléter le rapport
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
@@ -1195,7 +750,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1238,55 +793,6 @@ il est recommandé pour la semaine suivante de :
   ·
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/03-quiz/15-cours-se-faire-payer-pour-sa-passion-quiz.pdf)
 
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-**Objectifs**
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Établir un business model pour son projet
-- Lister les différents moyens de paiement populaires en Suisse
-- Lister les différents prestataires de paiement populaires sur Internet
-- Lister les éléments légaux nécessaires pour pouvoir se faire payer pour sa
-  passion
-
-**Méthodes d'enseignement et d'apprentissage**
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-**Méthodes d'évaluation**
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
-
-**À faire pour la semaine suivante**
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
-- Relire le support de cours si nécessaire
-- Commencer à réviser pour l'évaluation de la [semaine 13](#-semaine-13)
-
-</details>
-
 ### Projet - Réalisation du service et tests utilisateurs (3/6)
 
 - Durée : 2 périodes
@@ -1302,7 +808,7 @@ il est recommandé pour la semaine suivante de :
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -1313,7 +819,7 @@ il est recommandé pour la semaine suivante de :
 - Effectuer des tests utilisateurs
 - Compléter le rapport
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
@@ -1324,7 +830,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1368,56 +874,6 @@ il est recommandé pour la semaine suivante de :
   ·
   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/16-cours-creer-sa-propre-entreprise/03-quiz/16-cours-creer-sa-propre-entreprise-quiz.pdf)
 
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-**Objectifs**
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Lister les formes juridiques possibles pour une entreprise en Suisse
-- Lister les avantages et inconvénients des différentes formes juridiques pour
-  une entreprise en Suisse
-- Lister les aides et soutiens possibles à l'innovation en Suisse romande
-- Lister les différents éléments administratifs qu'une entreprise en Suisse doit
-  avoir et respecter
-
-**Méthodes d'enseignement et d'apprentissage**
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-**Méthodes d'évaluation**
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
-
-**À faire pour la semaine suivante**
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
-- Relire le support de cours si nécessaire
-- Réviser pour l'évaluation de la [semaine 13](#-semaine-13)
-
-</details>
-
 ### Projet - Réalisation du service et tests utilisateurs (4/6)
 
 - Durée : 2 périodes
@@ -1433,14 +889,14 @@ il est recommandé pour la semaine suivante de :
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
 - Avancer sur le développement du service envisagé
 - Compléter le rapport
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
@@ -1451,7 +907,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1492,42 +948,6 @@ il est recommandé pour la semaine suivante de :
   [Markdown](./17-cours-evaluation/02-support-de-cours/README.md)
 - Quiz : _Aucun quiz_
 
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-**Objectifs**
-
-- Évaluer les compétences acquises durant le semestre
-
-**Méthodes d'enseignement et d'apprentissage**
-
-- Évaluation écrite
-
-**Méthodes d'évaluation**
-
-L'évaluation prend la forme d'une évaluation écrite.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-- Capacité à synthétiser
-
-Les retours se font de la manière suivante :
-
-- Corrigé de l'évaluation
-
-**🚨 L'évaluation donne lieu à une note.** (100% de la note de cours)
-
-**À faire pour la semaine suivante**
-
-_Il n'y a pas de cours la semaine suivante, il n'y a donc rien à faire pour la
-semaine suivante vis-à-vis du cours._
-
-</details>
-
 ### Projet - Réalisation du service et tests utilisateurs (5/6)
 
 - Durée : 2 périodes
@@ -1543,7 +963,7 @@ semaine suivante vis-à-vis du cours._
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -1551,7 +971,7 @@ semaine suivante vis-à-vis du cours._
 - Planifier les dernières étapes du développement du service
 - Compléter le rapport
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
@@ -1562,7 +982,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1611,7 +1031,7 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -1619,7 +1039,7 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 - Finaliser le rapport
 - Commencer la présentation du projet de la [semaine 16](#-semaine-16)
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
@@ -1630,7 +1050,7 @@ sont les suivantes :
 - Feedback
 - Travail autonome en groupe ou individuel
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'une présentation du projet aux personnes qui
 enseignent.
@@ -1686,20 +1106,20 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
 - Rendre le rapport du projet par mail aux personnes qui enseignent
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
 
 - Travail autonome en groupe ou individuel
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'un rapport à rendre par mail aux personnes qui
 enseignent.
@@ -1747,25 +1167,6 @@ il est recommandé pour la semaine suivante de :
 
 <br>
 
-**Objectifs**
-
-À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
-
-- Prendre connaissance des évaluations GAPS
-- Discuter des évaluations GAPS
-
-**Méthodes d'enseignement et d'apprentissage**
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-**Méthodes d'évaluation**
-
-Il n'y a pas d'évaluation pour cette séance.
-
 </details>
 
 ### Projet - Présentations finales et rendu du projet
@@ -1790,7 +1191,7 @@ Il n'y a pas d'évaluation pour cette séance.
 
 <br>
 
-**Objectifs**
+### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -1800,7 +1201,7 @@ Il n'y a pas d'évaluation pour cette séance.
 - Évaluer les présentations des autres groupes
 - Donner des feedbacks constructifs
 
-**Méthodes d'enseignement et d'apprentissage**
+### Méthodes d'enseignement et d'apprentissage
 
 Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 sont les suivantes :
@@ -1810,7 +1211,7 @@ sont les suivantes :
   - Sessions de questions-réponses
   - Évaluations et feedbacks
 
-**Méthodes d'évaluation**
+### Méthodes d'évaluation
 
 L'évaluation prend la forme d'une présentation du projet aux autres groupes
 ainsi que d'un rendu du projet par mail aux personnes qui enseignent.

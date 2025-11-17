@@ -7,10 +7,10 @@ theme: gaia
 size: 16:9
 paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
-title: HEIG-VD MVP Course - Évaluation
-description: Évaluation pour le cours MVP à la HEIG-VD, Suisse
+title: HEIG-VD MVP Course - Évaluation finale
+description: Évaluation finale pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/index.html
-header: "**Évaluation**"
+header: "**Évaluation finale**"
 footer: "**HEIG-VD** - MVP Course 2024-2025 - CC BY-SA 4.0"
 style: |
     :root {
@@ -55,7 +55,7 @@ style: |
 headingDivider: 6
 -->
 
-# Évaluation
+# Évaluation finale
 
 <!--
 _class: lead

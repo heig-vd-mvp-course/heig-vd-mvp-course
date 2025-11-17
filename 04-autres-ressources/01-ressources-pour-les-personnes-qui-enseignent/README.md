@@ -1,4 +1,8 @@
-# Ressources pour les personnes qui enseignent
+# Autres ressources - Ressources pour les personnes qui enseignent
+
+L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
+
+Ce travail est sous licence [CC BY-SA 4.0][license].
 
 ## Table des matières
 
@@ -51,8 +55,8 @@ La personne qui enseigne ou assiste cette unité doit être capable de :
 | Être proactive                                                                              |     3      |
 | Être à l'aise à prendre la parole en public                                                 |     3      |
 | Faire preuve d'esprit critique sur son travail et celui des autres                          |     3      |
-| Accompagner et soutenir les personnes dans la réalisation de leurs projets   |     3      |
-| Faire preuve de créativité                                                                                  |     2      |
+| Accompagner et soutenir les personnes dans la réalisation de leurs projets                  |     3      |
+| Faire preuve de créativité                                                                  |     2      |
 | Partager son expérience du terrain                                                          |     2      |
 | Travailler en équipe                                                                        |     2      |
 | Donner et recevoir des feedbacks constructifs                                               |     2      |
@@ -270,3 +274,6 @@ Ludovic et Vincent
 ## Sources
 
 [^1]: https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW, Wikipédia, 25 juin 2025
+
+[license]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
