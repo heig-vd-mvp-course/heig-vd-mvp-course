@@ -44,9 +44,9 @@ Ce cours est équivalent à 3 crédits ECTS (= ~75-90 heures de travail) :
 - ~27-42 heures en dehors de la classe pour les interviews, la prospection, les
   tests utilisateurs, etc.
 
-Les détails sont disponibles dans le programme ci-dessous. Chaque séance de
-cours est détaillée avec les contenus, les objectifs, les méthodes
-d'enseignement et d'apprentissage, et les méthodes d'évaluation.
+Les détails de chaque séance sont disponibles dans le programme ci-dessous.
+Chaque séance de cours est détaillée avec les contenus, les objectifs, les
+méthodes d'enseignement et d'apprentissage, et les méthodes d'évaluation.
 
 Les numéros des semaines correspondent aux semaines définies dans le
 [Calendrier académique de la HEIG-VD](https://heig-vd.ch/formation/bachelor/calendrier-academique/).

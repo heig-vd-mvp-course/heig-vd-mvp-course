@@ -1,44 +1,10 @@
 # Introduction, motivation et organisation de l'unité - Support de cours
 
-![Illustration principale][illustration-principale]
-
-L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
+L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 
 Ce travail est sous licence [CC BY-SA 4.0][license].
 
-## Table des matières
-
-- [Table des matières](#table-des-matières)
-- [Objectifs](#objectifs)
-- [Objectifs du cours](#objectifs-du-cours)
-- [Modalités d'organisation du cours](#modalités-dorganisation-du-cours)
-- [Modalités d'organisation du projet](#modalités-dorganisation-du-projet)
-- [Modalités d'évaluation](#modalités-dévaluation)
-  - [Évaluation écrite](#évaluation-écrite)
-  - [Présentations](#présentations)
-  - [Rapport final](#rapport-final)
-  - [Produit final](#produit-final)
-- [Grilles d'évaluation](#grilles-dévaluation)
-  - [Critères d'évaluation](#critères-dévaluation)
-  - [Grille d'évaluation des présentations](#grille-dévaluation-des-présentations)
-  - [Grille d'évaluation du rapport final](#grille-dévaluation-du-rapport-final)
-  - [Grille d'évaluation du produit final](#grille-dévaluation-du-produit-final)
-- [Comment travailler en équipe de façon efficace](#comment-travailler-en-équipe-de-façon-efficace)
-  - [Les outils à utiliser](#les-outils-à-utiliser)
-  - [Votre équipe](#votre-équipe)
-  - [Rôles](#rôles)
-  - [Séances](#séances)
-- [Différences entre un wireframe, un mockup, un prototype et un minimum viable product (MVP)](#différences-entre-un-wireframe-un-mockup-un-prototype-et-un-minimum-viable-product-mvp)
-  - [Wireframe](#wireframe)
-  - [Mockup](#mockup)
-  - [Prototype](#prototype)
-  - [Minimum viable product (MVP)](#minimum-viable-product-mvp)
-- [Conclusion](#conclusion)
-- [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
-- [Sources](#sources)
-
-> [!NOTE]
+> [!TIP]
 >
 > Voici quelques informations relatives à la séance et son déroulement.
 >
@@ -74,6 +40,37 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > **Méthodes d'évaluation**
 >
 > Il n'y a pas d'évaluation pour cette séance.
+
+## Table des matières
+
+- [Table des matières](#table-des-matières)
+- [Objectifs](#objectifs)
+- [Objectifs du cours](#objectifs-du-cours)
+- [Modalités d'organisation du cours](#modalités-dorganisation-du-cours)
+- [Modalités d'organisation du projet](#modalités-dorganisation-du-projet)
+- [Modalités d'évaluation](#modalités-dévaluation)
+  - [Évaluation écrite](#évaluation-écrite)
+  - [Présentations](#présentations)
+  - [Rapport final](#rapport-final)
+  - [Produit final](#produit-final)
+- [Grilles d'évaluation](#grilles-dévaluation)
+  - [Critères d'évaluation](#critères-dévaluation)
+  - [Grille d'évaluation des présentations](#grille-dévaluation-des-présentations)
+  - [Grille d'évaluation du rapport final](#grille-dévaluation-du-rapport-final)
+  - [Grille d'évaluation du produit final](#grille-dévaluation-du-produit-final)
+- [Comment travailler en équipe de façon efficace](#comment-travailler-en-équipe-de-façon-efficace)
+  - [Les outils à utiliser](#les-outils-à-utiliser)
+  - [Votre équipe](#votre-équipe)
+  - [Rôles](#rôles)
+  - [Séances](#séances)
+- [Différences entre un wireframe, un mockup, un prototype et un minimum viable product (MVP)](#différences-entre-un-wireframe-un-mockup-un-prototype-et-un-minimum-viable-product-mvp)
+  - [Wireframe](#wireframe)
+  - [Mockup](#mockup)
+  - [Prototype](#prototype)
+  - [Minimum viable product (MVP)](#minimum-viable-product-mvp)
+- [Conclusion](#conclusion)
+- [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
+- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 
 ## Objectifs
 
@@ -638,12 +635,6 @@ il est recommandé pour la semaine suivante de :
 La séance de projet sera consacrée à la présentation des idées que vous avez et
 à la formation des équipes si vous le souhaitez.
 
-## Sources
-
-- [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
-
 [^adobe-xd]:
     Adobe XD, [adobe.com](https://helpx.adobe.com/ch_fr/support/xd.html), 19
     février 2025
@@ -712,8 +703,6 @@ La séance de projet sera consacrée à la présentation des idées que vous ave
 
 <!-- URLs -->
 
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 [illustration-principale]:
