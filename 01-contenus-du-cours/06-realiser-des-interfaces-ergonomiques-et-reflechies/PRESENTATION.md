@@ -3,7 +3,7 @@ marp: true
 ---
 
 <!--
-theme: gaia
+theme: custom-marp-theme
 size: 16:9
 paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
@@ -12,46 +12,6 @@ description: Réaliser des interfaces ergonomiques et réfléchies pour le cours
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/01-presentation/index.html
 header: "**Réaliser des interfaces ergonomiques et réfléchies**"
 footer: "**HEIG-VD** - MVP Course 2024-2025 - CC BY-SA 4.0"
-style: |
-    :root {
-        --color-background: #fff;
-        --color-foreground: #333;
-        --color-highlight: #f96;
-        --color-dimmed: #888;
-        --color-headings: #7d8ca3;
-    }
-    blockquote {
-        font-style: italic;
-    }
-    table {
-        width: 100%;
-    }
-    h1, h2, h3, h4, h5, h6 {
-        color: var(--color-headings);
-    }
-    h2, h3, h4, h5, h6 {
-        font-size: 1.5rem;
-    }
-    h1 a:link, h2 a:link, h3 a:link, h4 a:link, h5 a:link, h6 a:link {
-        text-decoration: none;
-    }
-    section:not(.lead) > p, blockquote {
-        text-align: justify;
-    }
-    section:has(h1) {
-        padding: 50px;
-    }
-    section:has(h1) > header {
-        display: none;
-    }
-    section > header {
-        font-size: 50%;
-    }
-    .two-columns {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 1rem;
-    }
 headingDivider: 6
 -->
 
@@ -160,9 +120,9 @@ réfléchies.
 
 Nous allons les analyser ensemble.
 
-![bg right:40%](./images/garmin-connect.png)
-![bg right:40%](./images/discord.png)
-![bg right:40% vertical](./images/x-twitter.png)
+![bg right:40%](./_images/garmin-connect.png)
+![bg right:40%](./_images/discord.png)
+![bg right:40% vertical](./_images/x-twitter.png)
 
 ### [Garmin Connect](https://connect.garmin.com/)
 
@@ -176,7 +136,7 @@ Nous allons les analyser ensemble.
 - Interface peu intuitive
 - Navigation peu efficace
 
-![bg right:40% w:90%](./images/garmin-connect.png)
+![bg right:40% w:90%](./_images/garmin-connect.png)
 
 ### [Discord](https://discord.com/)
 
@@ -189,7 +149,7 @@ Nous allons les analyser ensemble.
 - Interface très chargée
 - Difficulté à trouver ce que l'on cherche
 
-![bg right:40% w:90%](./images/discord.png)
+![bg right:40% w:90%](./_images/discord.png)
 
 ### [X/Twitter](https://x.com/)
 
@@ -202,7 +162,7 @@ Nous allons les analyser ensemble.
 - Sans compte, l'application est quasi inutilisable
 - "Nagging" pour créer un compte
 
-![bg right:40% w:90%](./images/x-twitter.png)
+![bg right:40% w:90%](./_images/x-twitter.png)
 
 ## Exemples d'interfaces que nous trouvons ergonomiques et réfléchies
 
@@ -211,8 +171,8 @@ réfléchies.
 
 Nous allons les analyser ensemble.
 
-![bg right:40%](./images/whatsapp.png) ![bg right:40%](./images/cff.png)
-![bg right:40% vertical](./images/loading-artist.png)
+![bg right:40%](./_images/whatsapp.png) ![bg right:40%](./_images/cff.png)
+![bg right:40% vertical](./_images/loading-artist.png)
 
 ### [WhatsApp](https://www.whatsapp.com/)
 
@@ -225,7 +185,7 @@ Nous allons les analyser ensemble.
 
 - Peu de possibilité de personnaliser l'interface
 
-![bg right:40% w:90%](./images/whatsapp.png)
+![bg right:40% w:90%](./_images/whatsapp.png)
 
 ### [CFF](https://www.cff.ch/)
 
@@ -238,7 +198,7 @@ Nous allons les analyser ensemble.
 - Difficulté à acheter des billets internationaux
 - Trop de types de billets
 
-![bg right:40% w:90%](./images/cff.png)
+![bg right:40% w:90%](./_images/cff.png)
 
 ### [Loading Artist](https://loadingartist.com/)
 
@@ -250,7 +210,7 @@ Nous allons les analyser ensemble.
 
 - Interface très simple, mais peut-être trop chargée ?
 
-![bg right:40% w:90%](./images/loading-artist.png)
+![bg right:40% w:90%](./_images/loading-artist.png)
 
 ## Outils pour concevoir une interface ergonomique et réfléchie
 

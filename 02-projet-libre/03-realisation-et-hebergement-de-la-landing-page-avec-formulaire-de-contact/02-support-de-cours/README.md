@@ -1,7 +1,5 @@
 # Réalisation et hébergement de la landing page avec formulaire de contact - Support de cours
 
-![Illustration principale][illustration-principale]
-
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 
 Ce travail est sous licence [CC BY-SA 4.0][license].

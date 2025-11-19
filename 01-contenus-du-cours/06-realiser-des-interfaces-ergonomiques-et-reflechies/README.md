@@ -1,20 +1,65 @@
 # Réaliser des interfaces ergonomiques et réfléchies - Support de cours
 
-![Illustration principale][illustration-principale]
-
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 
 Ce travail est sous licence [CC BY-SA 4.0][license].
 
+> [!TIP]
+>
+> Voici quelques informations relatives à la séance et son déroulement.
+>
+> **Ressources annexes**
+>
+> - Autres formats du support de cours :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/01-presentation/index.html)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/01-presentation/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies-presentation.pdf)
+> - Quiz :
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/03-quiz/index.html)
+>   ·
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/03-quiz/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies-quiz.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Décrire les éléments clés qui composent une interface ergonomique et
+>   réfléchie
+> - Identifier dans une interface quels sont les éléments ergonomiques et
+>   réfléchies ou non
+> - Lister les outils qui permettent de concevoir une interface ergonomique et
+>   réfléchie
+> - Lister les outils qui permettent de valider qu'une interface est accessible
+>   et ergonomique
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Présentation magistrale
+> - Discussions collectives
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à répondre avec justesse
+> - Capacité à argumenter
+>
+> Les retours se font de la manière suivante :
+>
+> - Corrigé du quiz
+>
+> L'évaluation ne donne pas lieu à une note.
+
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
-- [Informations générales sur la séance](#informations-générales-sur-la-séance)
-  - [Ressources annexes](#ressources-annexes)
-  - [Objectifs](#objectifs)
-  - [Méthodes d'enseignement et d'apprentissage](#méthodes-denseignement-et-dapprentissage)
-  - [Méthodes d'évaluation](#méthodes-dévaluation)
-- [Objectifs](#objectifs-1)
+- [Objectifs](#objectifs)
 - [Avertissement](#avertissement)
 - [Qu'est-ce qu'une interface ergonomique et réfléchie ?](#quest-ce-quune-interface-ergonomique-et-réfléchie-)
 - [Comment réaliser une interface ergonomique et réfléchie ?](#comment-réaliser-une-interface-ergonomique-et-réfléchie-)
@@ -33,56 +78,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
-- [Sources](#sources)
-
-## Informations générales sur la séance
-
-### Ressources annexes
-
-- Autres formats du support de cours :
-  [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/01-presentation/index.html)
-  ·
-  [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/01-presentation/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies-presentation.pdf)
-- Quiz :
-  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/03-quiz/index.html)
-  ·
-  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/03-quiz/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies-quiz.pdf)
-
-### Objectifs
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Décrire les éléments clés qui composent une interface ergonomique et réfléchie
-- Identifier dans une interface quels sont les éléments ergonomiques et
-  réfléchies ou non
-- Lister les outils qui permettent de concevoir une interface ergonomique et
-  réfléchie
-- Lister les outils qui permettent de valider qu'une interface est accessible et
-  ergonomique
-
-### Méthodes d'enseignement et d'apprentissage
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-### Méthodes d'évaluation
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
 
 ## Objectifs
 
@@ -209,7 +204,7 @@ Les points négatifs :
 - Interface peu intuitive
 - Navigation peu efficace
 
-![Garmin Connect](./images/garmin-connect.png)
+![Garmin Connect](./_images/garmin-connect.png)
 
 ### Discord
 
@@ -231,7 +226,7 @@ Depuis le 25 mars 2025, l'application a été mise à jour et l'interface a ét�
 révisée. Nous verrons à l'utilisation si cette mise à jour a été bénéfique ou
 non.
 
-![Discord](./images/discord.png)
+![Discord](./_images/discord.png)
 
 ### X/Twitter
 
@@ -250,7 +245,7 @@ Les points négatifs :
 - Sans compte, l'application est quasi inutilisable
 - "Nagging"[^nagging-wikipedia] pour créer un compte
 
-![X/Twitter](./images/x-twitter.png)
+![X/Twitter](./_images/x-twitter.png)
 
 ## Exemples d'interfaces que nous trouvons ergonomiques et réfléchies
 
@@ -272,7 +267,7 @@ Les points négatifs :
 
 - Peu de possibilité de personnaliser l'interface
 
-![WhatsApp](./images/whatsapp.png)
+![WhatsApp](./_images/whatsapp.png)
 
 ### CFF
 
@@ -294,7 +289,7 @@ Les points négatifs :
 - Type de billet à acheter pas toujours évident à comprendre (ex. billet de
   parcours, billet Mobilis, etc.)
 
-![CFF](./images/cff.png)
+![CFF](./_images/cff.png)
 
 ### Loading Artist
 
@@ -313,7 +308,7 @@ Les points négatifs :
 
 - Interface très simple, mais peut-être trop chargée ?
 
-![Loading Artist](./images/loading-artist.png)
+![Loading Artist](./_images/loading-artist.png)
 
 ## Outils pour concevoir une interface ergonomique et réfléchie
 
@@ -441,21 +436,11 @@ votre application.
 Ceci vous permettra de vous entraîner à réaliser des interfaces ergonomiques et
 réfléchies.
 
-## Sources
-
-- [Illustration principale][illustration-principale] par
-  [Samule Sun](https://unsplash.com/@samule) sur
-  [Unsplash](https://unsplash.com/photos/grey-desk-lamp-on-top-of-office-desk-U6EXlQCZ938)
-
 [^nagging-wikipedia]:
     Nagging, [en.wikipedia.org](https://en.wikipedia.org/wiki/Nagging), 02 avril
     2025
 
 <!-- URLs -->
 
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/02-support-de-cours/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration-principale]:
-	https://images.unsplash.com/photo-1524820801657-fd59673fbb05?fit=crop&h=720

@@ -1,20 +1,65 @@
 # Promouvoir et pitcher son idée - Support de cours
 
-![Illustration principale][illustration-principale]
-
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 
 Ce travail est sous licence [CC BY-SA 4.0][license].
 
+> [!TIP]
+>
+> Voici quelques informations relatives à la séance et son déroulement.
+>
+> **Ressources annexes**
+>
+> - Autres formats du support de cours :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/01-presentation/index.html)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/01-presentation/05-cours-promouvoir-et-pitcher-son-idee-presentation.pdf)
+> - Quiz :
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/03-quiz/index.html)
+>   ·
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/03-quiz/05-cours-promouvoir-et-pitcher-son-idee-quiz.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Décrire ce qu'est un pitch
+> - Identifier les éléments clés d'un pitch
+> - Décrire les étapes pour préparer un pitch
+> - Identifier les erreurs à éviter lors d'un pitch
+> - Décrire comment pitcher son idée
+> - Citer des techniques pour pitcher en équipe
+> - Donner des feedbacks constructifs
+> - Recevoir des feedbacks constructifs
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Présentation magistrale
+> - Discussions collectives
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à répondre avec justesse
+> - Capacité à argumenter
+>
+> Les retours se font de la manière suivante :
+>
+> - Corrigé du quiz
+>
+> L'évaluation ne donne pas lieu à une note.
+
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
-- [Informations générales sur la séance](#informations-générales-sur-la-séance)
-  - [Ressources annexes](#ressources-annexes)
-  - [Objectifs](#objectifs)
-  - [Méthodes d'enseignement et d'apprentissage](#méthodes-denseignement-et-dapprentissage)
-  - [Méthodes d'évaluation](#méthodes-dévaluation)
-- [Objectifs](#objectifs-1)
+- [Objectifs](#objectifs)
 - [Qu'est-ce qu'un pitch ?](#quest-ce-quun-pitch-)
 - [Préparer son pitch](#préparer-son-pitch)
 - [Présenter son pitch](#présenter-son-pitch)
@@ -27,57 +72,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
-- [Sources](#sources)
-
-## Informations générales sur la séance
-
-### Ressources annexes
-
-- Autres formats du support de cours :
-  [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/01-presentation/index.html)
-  ·
-  [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/01-presentation/05-cours-promouvoir-et-pitcher-son-idee-presentation.pdf)
-- Quiz :
-  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/03-quiz/index.html)
-  ·
-  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/05-cours-promouvoir-et-pitcher-son-idee/03-quiz/05-cours-promouvoir-et-pitcher-son-idee-quiz.pdf)
-
-### Objectifs
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Décrire ce qu'est un pitch
-- Identifier les éléments clés d'un pitch
-- Décrire les étapes pour préparer un pitch
-- Identifier les erreurs à éviter lors d'un pitch
-- Décrire comment pitcher son idée
-- Citer des techniques pour pitcher en équipe
-- Donner des feedbacks constructifs
-- Recevoir des feedbacks constructifs
-
-### Méthodes d'enseignement et d'apprentissage
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-### Méthodes d'évaluation
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
 
 ## Objectifs
 
@@ -381,12 +375,6 @@ La séance de projet sera consacrée à la préparation de votre pitch. Vous aur
 l'occasion de vous entraîner devant vos camarades et de recevoir des feedbacks
 constructifs.
 
-## Sources
-
-- [Illustration principale][illustration-principale] par
-  [Mahad Aamir ](https://unsplash.com/@mahadaamir) sur
-  [Unsplash](https://unsplash.com/photos/interior-of-building-Y-GnrESsjr0)
-
 [^elevator-pitch]:
     Elevator pitch,
     [wikipedia.org](https://en.wikipedia.org/wiki/Elevator_pitch), 12 mars 2025
@@ -403,9 +391,5 @@ constructifs.
 
 <!-- URLs -->
 
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/05-cours-promouvoir-et-pitcher-son-idee/02-support-de-cours/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration-principale]:
-	https://images.unsplash.com/photo-1566096650255-98ba2641071e?fit=crop&h=720

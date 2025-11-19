@@ -1,20 +1,62 @@
 # Recevoir des feedbacks constructifs et pivoter - Support de cours
 
-![Illustration principale][illustration-principale]
-
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 
 Ce travail est sous licence [CC BY-SA 4.0][license].
 
+> [!TIP]
+>
+> Voici quelques informations relatives à la séance et son déroulement.
+>
+> **Ressources annexes**
+>
+> - Autres formats du support de cours :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/index.html)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-presentation.pdf)
+> - Quiz :
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/index.html)
+>   ·
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-quiz.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Définir ce qu'est un pivot
+> - Accepter/faire le deuil de devoir pivoter
+> - Identifier les informations obtenues jusqu'ici pour pivoter
+> - Identifier les forces et les faiblesses des éléments identifiés pour pivoter
+> - Explorer d'autres pistes pour pivoter
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Présentation magistrale
+> - Discussions collectives
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à répondre avec justesse
+> - Capacité à argumenter
+>
+> Les retours se font de la manière suivante :
+>
+> - Corrigé du quiz
+>
+> L'évaluation ne donne pas lieu à une note.
+
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
-- [Informations générales sur la séance](#informations-générales-sur-la-séance)
-  - [Ressources annexes](#ressources-annexes)
-  - [Objectifs](#objectifs)
-  - [Méthodes d'enseignement et d'apprentissage](#méthodes-denseignement-et-dapprentissage)
-  - [Méthodes d'évaluation](#méthodes-dévaluation)
-- [Objectifs](#objectifs-1)
+- [Objectifs](#objectifs)
 - [Recevoir des feedbacks constructifs](#recevoir-des-feedbacks-constructifs)
 - [Qu'est-ce qu'un pivot ?](#quest-ce-quun-pivot-)
 - [Accepter et gérer le pivot](#accepter-et-gérer-le-pivot)
@@ -24,54 +66,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
-- [Sources](#sources)
-
-## Informations générales sur la séance
-
-### Ressources annexes
-
-- Autres formats du support de cours :
-  [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/index.html)
-  ·
-  [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-presentation.pdf)
-- Quiz :
-  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/index.html)
-  ·
-  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-quiz.pdf)
-
-### Objectifs
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Définir ce qu'est un pivot
-- Accepter/faire le deuil de devoir pivoter
-- Identifier les informations obtenues jusqu'ici pour pivoter
-- Identifier les forces et les faiblesses des éléments identifiés pour pivoter
-- Explorer d'autres pistes pour pivoter
-
-### Méthodes d'enseignement et d'apprentissage
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-### Méthodes d'évaluation
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
 
 ## Objectifs
 
@@ -198,17 +192,7 @@ utilisateurs associés.
 Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
 évoluer.
 
-## Sources
-
-- [Illustration principale][illustration-principale] extraite de la série
-  _Friends_, épisode 16 saison 5, produite par
-  [Warner Bros.](https://www.warnerbros.com/). Image issue de
-  [Première](https://www.premiere.fr/Series/News-Series/David-Schwimmer-en-a-marre-que-les-fans-de-Friends-lui-crient-Pivot-)
-
 <!-- URLs -->
 
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/02-support-de-cours/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration-principale]: ./images/illustration-principale.jpg

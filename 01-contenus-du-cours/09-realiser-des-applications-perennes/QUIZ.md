@@ -3,7 +3,7 @@ marp: true
 ---
 
 <!--
-theme: gaia
+theme: custom-marp-theme
 size: 16:9
 paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
@@ -12,46 +12,6 @@ description: Quiz sur le chapitre Réaliser des applications pérennes pour le c
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/03-quiz/index.html
 header: "**Réaliser des applications pérennes - Quiz**"
 footer: "**HEIG-VD** - MVP Course 2024-2025 - CC BY-SA 4.0"
-style: |
-    :root {
-        --color-background: #fff;
-        --color-foreground: #333;
-        --color-highlight: #f96;
-        --color-dimmed: #888;
-        --color-headings: #7d8ca3;
-    }
-    blockquote {
-        font-style: italic;
-    }
-    table {
-        width: 100%;
-    }
-    h1, h2, h3, h4, h5, h6 {
-        color: var(--color-headings);
-    }
-    h2, h3, h4, h5, h6 {
-        font-size: 1.5rem;
-    }
-    h1 a:link, h2 a:link, h3 a:link, h4 a:link, h5 a:link, h6 a:link {
-        text-decoration: none;
-    }
-    section:not(.lead) > p, blockquote {
-        text-align: justify;
-    }
-    section:has(h1) {
-        padding: 50px;
-    }
-    section:has(h1) > header {
-        display: none;
-    }
-    section > header {
-        font-size: 50%;
-    }
-    .two-columns {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 1rem;
-    }
 headingDivider: 6
 -->
 
@@ -153,9 +113,8 @@ Est-ce que vous avez des questions ?
 
 ## Sources
 
-- [Illustration principale][illustration-principale] par
-  [Annie Spratt](https://unsplash.com/@anniespratt) sur
-  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
+- [Illustration principale][illustration-principale] extraite du film "Astérix
+  et Obélix : Mission Cléopâtre" dirigé par Alain Chabat
 
 <!-- URLs -->
 
@@ -170,5 +129,4 @@ Est-ce que vous avez des questions ?
 
 <!-- Illustrations -->
 
-[illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+[illustration-principale]: ./_images/illustration-principale.png

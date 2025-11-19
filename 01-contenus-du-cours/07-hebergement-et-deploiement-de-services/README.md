@@ -1,20 +1,62 @@
 # Hébergement et déploiement de services - Support de cours
 
-![Illustration principale][illustration-principale]
-
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 
 Ce travail est sous licence [CC BY-SA 4.0][license].
 
+> [!TIP]
+>
+> Voici quelques informations relatives à la séance et son déroulement.
+>
+> **Ressources annexes**
+>
+> - Autres formats du support de cours :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/01-presentation/index.html)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/01-presentation/10-cours-hebergement-et-deploiement-de-services-presentation.pdf)
+> - Quiz :
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/03-quiz/index.html)
+>   ·
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/03-quiz/10-cours-hebergement-et-deploiement-de-services-quiz.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Décrire comment héberger une application web selon le type de stack
+>   technologique
+> - Décrire où héberger une application web selon le type de stack technologique
+> - Décrire comment mettre en place un pipeline de CI/CD pour le
+>   développement/déploiement continu d'applications
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Présentation magistrale
+> - Discussions collectives
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à répondre avec justesse
+> - Capacité à argumenter
+>
+> Les retours se font de la manière suivante :
+>
+> - Corrigé du quiz
+>
+> L'évaluation ne donne pas lieu à une note.
+
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
-- [Informations générales sur la séance](#informations-générales-sur-la-séance)
-  - [Ressources annexes](#ressources-annexes)
-  - [Objectifs](#objectifs)
-  - [Méthodes d'enseignement et d'apprentissage](#méthodes-denseignement-et-dapprentissage)
-  - [Méthodes d'évaluation](#méthodes-dévaluation)
-- [Objectifs](#objectifs-1)
+- [Objectifs](#objectifs)
 - [Héberger une application web](#héberger-une-application-web)
   - [Obtenir un hébergement](#obtenir-un-hébergement)
   - [Obtenir un nom de domaine](#obtenir-un-nom-de-domaine)
@@ -34,53 +76,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
-
-## Informations générales sur la séance
-
-### Ressources annexes
-
-- Autres formats du support de cours :
-  [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/01-presentation/index.html)
-  ·
-  [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/01-presentation/10-cours-hebergement-et-deploiement-de-services-presentation.pdf)
-- Quiz :
-  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/03-quiz/index.html)
-  ·
-  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/03-quiz/10-cours-hebergement-et-deploiement-de-services-quiz.pdf)
-
-### Objectifs
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Décrire comment héberger une application web selon le type de stack
-  technologique
-- Décrire où héberger une application web selon le type de stack technologique
-- Décrire comment mettre en place un pipeline de CI/CD pour le
-  développement/déploiement continu d'applications
-
-### Méthodes d'enseignement et d'apprentissage
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-### Méthodes d'évaluation
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
 
 ## Objectifs
 
@@ -499,16 +494,9 @@ votre projet.
 
 ## Sources
 
-- [Illustration principale][illustration-principale] par
-  [Fejuz](https://unsplash.com/@fejuz) sur
-  [Unsplash](https://unsplash.com/photos/a-large-amount-of-containers-are-stacked-on-top-of-each-other-q6j5mSRpi50)
 - [12 Factor App](https://12factor.net)
 
 <!-- URLs -->
 
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/10-cours-hebergement-et-deploiement-de-services/02-support-de-cours/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration-principale]:
-	https://images.unsplash.com/photo-1634646809203-f3b4adff9127?fit=crop&h=720

@@ -705,5 +705,3 @@ La séance de projet sera consacrée à la présentation des idées que vous ave
 
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration-principale]:
-	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720

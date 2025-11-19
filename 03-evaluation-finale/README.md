@@ -1,61 +1,61 @@
 # Évaluation finale - Support de cours
 
-![Illustration principale][illustration-principale]
-
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 
 Ce travail est sous licence [CC BY-SA 4.0][license].
 
+> [!TIP]
+>
+> Voici quelques informations relatives à la séance et son déroulement.
+>
+> **Ressources annexes**
+>
+> - Autres formats du support de cours :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/index.html)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/17-cours-evaluation-presentation.pdf)
+> - Archives des évaluations précédentes :
+>   [Accéder au contenu](./01-archives/README.md)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Évaluer les compétences acquises durant le semestre
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Évaluation écrite
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'une évaluation écrite.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à répondre avec justesse
+> - Capacité à argumenter
+> - Capacité à synthétiser
+>
+> Les retours se font de la manière suivante :
+>
+> - Corrigé de l'évaluation
+>
+> **🚨 L'évaluation donne lieu à une note.** (100% de la note de cours)
+
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
-- [Informations générales sur la séance](#informations-générales-sur-la-séance)
-  - [Ressources annexes](#ressources-annexes)
-  - [Objectifs](#objectifs)
-  - [Méthodes d'enseignement et d'apprentissage](#méthodes-denseignement-et-dapprentissage)
-  - [Méthodes d'évaluation](#méthodes-dévaluation)
-- [Objectifs](#objectifs-1)
-- [Méthodes d'évaluation](#méthodes-dévaluation-1)
+- [Objectifs](#objectifs)
+- [Méthodes d'évaluation](#méthodes-dévaluation)
 - [Modalités d'évaluation](#modalités-dévaluation)
 - [Comment se préparer](#comment-se-préparer)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
-- [Sources](#sources)
-
-## Informations générales sur la séance
-
-### Ressources annexes
-
-- Autres formats du support de cours :
-  [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/index.html)
-  ·
-  [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/17-cours-evaluation-presentation.pdf)
-- Archives des évaluations précédentes :
-  [Accéder au contenu](./01-archives/README.md)
-
-### Objectifs
-
-- Évaluer les compétences acquises durant le semestre
-
-### Méthodes d'enseignement et d'apprentissage
-
-- Évaluation écrite
-
-### Méthodes d'évaluation
-
-L'évaluation prend la forme d'une évaluation écrite.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-- Capacité à synthétiser
-
-Les retours se font de la manière suivante :
-
-- Corrigé de l'évaluation
-
-**🚨 L'évaluation donne lieu à une note.** (100% de la note de cours)
 
 ## Objectifs
 
@@ -101,17 +101,7 @@ utilisateurs associés.
 Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
 évoluer.
 
-## Sources
-
-- [Illustration principale][illustration-principale] par
-  [MChe Lee](https://unsplash.com/@mclee) sur
-  [Unsplash](https://unsplash.com/photos/white-table-with-black-chairs-PC91Jm1DlWA)
-
 <!-- URLs -->
 
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/17-cours-evaluation/02-support-de-cours/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration-principale]:
-	https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?fit=crop&h=720

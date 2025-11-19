@@ -1,20 +1,69 @@
 # Trouver des idées originales qui répondent à un besoin - Support de cours
 
-![Illustration principale][illustration-principale]
-
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 
 Ce travail est sous licence [CC BY-SA 4.0][license].
 
+> [!TIP]
+>
+> Voici quelques informations relatives à la séance et son déroulement.
+>
+> **Ressources annexes**
+>
+> - Autres formats du support de cours :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/index.html)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/01-cours-introduction-motivation-et-organisation-de-lunite-presentation.pdf)
+> - Quiz :
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/03-quiz/index.html)
+>   ·
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/03-quiz/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin-quiz.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Décrire ce qu'est un contexte
+> - Décrire ce qu'est un besoin
+> - Décrire ce qu'est un secteur de marché
+> - Identifier des secteurs de marché prometteurs pour y fournir un nouveau
+>   service
+> - Décrire ce qu'est une idée originale
+> - Lister des sources d'inspiration pour trouver des idées originales
+> - Générer des idées originales
+> - Identifier les avantages et les inconvénients d'une idée
+> - Évaluer la pertinence d'une idée
+> - Évaluer la faisabilité d'une idée
+> - Lister des sources d'inspiration pour trouver des idées originales
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Présentation magistrale
+> - Discussions collectives
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à répondre avec justesse
+> - Capacité à argumenter
+>
+> Les retours se font de la manière suivante :
+>
+> - Corrigé du quiz
+>
+> L'évaluation ne donne pas lieu à une note.
+
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
-- [Informations générales sur la séance](#informations-générales-sur-la-séance)
-  - [Ressources annexes](#ressources-annexes)
-  - [Objectifs](#objectifs)
-  - [Méthodes d'enseignement et d'apprentissage](#méthodes-denseignement-et-dapprentissage)
-  - [Méthodes d'évaluation](#méthodes-dévaluation)
-- [Objectifs](#objectifs-1)
+- [Objectifs](#objectifs)
 - [Comprendre le contexte dans lequel nous évoluons](#comprendre-le-contexte-dans-lequel-nous-évoluons)
 - [Identifier des secteurs de marché](#identifier-des-secteurs-de-marché)
   - [Exemple : le secteur pharmaceutique](#exemple--le-secteur-pharmaceutique)
@@ -31,61 +80,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
-
-## Informations générales sur la séance
-
-### Ressources annexes
-
-- Autres formats du support de cours :
-  [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/01-presentation/index.html)
-  ·
-  [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/01-presentation/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin-presentation.pdf)
-- Support de cours : [Markdown](./02-support-de-cours/README.md)
-- Quiz :
-  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/03-quiz/index.html)
-  ·
-  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/03-quiz/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin-quiz.pdf)
-
-### Objectifs
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Décrire ce qu'est un contexte
-- Décrire ce qu'est un besoin
-- Décrire ce qu'est un secteur de marché
-- Identifier des secteurs de marché prometteurs pour y fournir un nouveau
-  service
-- Décrire ce qu'est une idée originale
-- Lister des sources d'inspiration pour trouver des idées originales
-- Générer des idées originales
-- Identifier les avantages et les inconvénients d'une idée
-- Évaluer la pertinence d'une idée
-- Évaluer la faisabilité d'une idée
-- Lister des sources d'inspiration pour trouver des idées originales
-
-### Méthodes d'enseignement et d'apprentissage
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-### Méthodes d'évaluation
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
 
 ## Objectifs
 
@@ -485,12 +479,6 @@ La séance de projet sera consacrée à la mise en pratique des concepts abordé
 dans ce support de cours. Vous serez amené à trouver des idées originales qui
 répondent à un besoin dans un secteur de marché donné.
 
-## Sources
-
-- [Illustration principale][illustration-principale] par
-  [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) sur
-  [Unsplash](https://unsplash.com/photos/blue-and-orange-abstract-painting-yn97LNy0bao)
-
 [^agricole]:
     Le secteur économique de l'agriculture,
     [.admin.ch](https://www.eda.admin.ch/aboutswitzerland/fr/home/wirtschaft/taetigkeitsgebiete/landwirtschaft.html),
@@ -537,9 +525,5 @@ répondent à un besoin dans un secteur de marché donné.
 
 <!-- URLs -->
 
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/02-support-de-cours/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration-principale]:
-	https://images.unsplash.com/photo-1553949345-eb786bb3f7ba?fit=crop&h=720

@@ -3,7 +3,7 @@ marp: true
 ---
 
 <!--
-theme: gaia
+theme: custom-marp-theme
 size: 16:9
 paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
@@ -12,46 +12,6 @@ description: Revue du semestre pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/index.html
 header: "**Revue du semestre**"
 footer: "**HEIG-VD** - MVP Course 2024-2025 - CC BY-SA 4.0"
-style: |
-    :root {
-        --color-background: #fff;
-        --color-foreground: #333;
-        --color-highlight: #f96;
-        --color-dimmed: #888;
-        --color-headings: #7d8ca3;
-    }
-    blockquote {
-        font-style: italic;
-    }
-    table {
-        width: 100%;
-    }
-    h1, h2, h3, h4, h5, h6 {
-        color: var(--color-headings);
-    }
-    h2, h3, h4, h5, h6 {
-        font-size: 1.5rem;
-    }
-    h1 a:link, h2 a:link, h3 a:link, h4 a:link, h5 a:link, h6 a:link {
-        text-decoration: none;
-    }
-    section:not(.lead) > p, blockquote {
-        text-align: justify;
-    }
-    section:has(h1) {
-        padding: 50px;
-    }
-    section:has(h1) > header {
-        display: none;
-    }
-    section > header {
-        font-size: 50%;
-    }
-    .two-columns {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 1rem;
-    }
 headingDivider: 6
 -->
 
@@ -101,15 +61,15 @@ Est-ce que vous avez des questions ?
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
 
 [web]:
-    https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/
+	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/
 [pdf]:
-    https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/18-cours-revue-du-semestre-presentation.pdf
+	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/18-cours-revue-du-semestre-presentation.pdf
 [license]:
-    https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 
 <!-- Illustrations -->
 
 [illustration-principale]:
-    https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
+	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 [illustration-objectifs]:
-    https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
+	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720

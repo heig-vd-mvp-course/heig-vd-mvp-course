@@ -3,7 +3,7 @@ marp: true
 ---
 
 <!--
-theme: gaia
+theme: custom-marp-theme
 size: 16:9
 paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
@@ -12,46 +12,6 @@ description: Constitution des groupes, identification d'une idée, de son public
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-constitution-des-groupes-identification-dune-idee-de-son-public-cible-et-de-la-plus-value-dun-service/01-presentation/index.html
 header: "**Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service**"
 footer: "**HEIG-VD** - MVP Course 2024-2025 - CC BY-SA 4.0"
-style: |
-    :root {
-        --color-background: #fff;
-        --color-foreground: #333;
-        --color-highlight: #f96;
-        --color-dimmed: #888;
-        --color-headings: #7d8ca3;
-    }
-    blockquote {
-        font-style: italic;
-    }
-    table {
-        width: 100%;
-    }
-    h1, h2, h3, h4, h5, h6 {
-        color: var(--color-headings);
-    }
-    h2, h3, h4, h5, h6 {
-        font-size: 1.5rem;
-    }
-    h1 a:link, h2 a:link, h3 a:link, h4 a:link, h5 a:link, h6 a:link {
-        text-decoration: none;
-    }
-    section:not(.lead) > p, blockquote {
-        text-align: justify;
-    }
-    section:has(h1) {
-        padding: 50px;
-    }
-    section:has(h1) > header {
-        display: none;
-    }
-    section > header {
-        font-size: 50%;
-    }
-    .two-columns {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 1rem;
-    }
 headingDivider: 6
 -->
 

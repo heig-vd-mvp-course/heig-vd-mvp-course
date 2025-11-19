@@ -1,20 +1,62 @@
 # Se faire payer pour sa passion - Support de cours
 
-![Illustration principale][illustration-principale]
-
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 
 Ce travail est sous licence [CC BY-SA 4.0][license].
 
+> [!TIP]
+>
+> Voici quelques informations relatives à la séance et son déroulement.
+>
+> **Ressources annexes**
+>
+> - Autres formats du support de cours :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/01-presentation/index.html)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/01-presentation/15-cours-se-faire-payer-pour-sa-passion-presentation.pdf)
+> - Quiz :
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/03-quiz/index.html)
+>   ·
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/03-quiz/15-cours-se-faire-payer-pour-sa-passion-quiz.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Établir un business model pour son projet
+> - Lister les différents moyens de paiement populaires en Suisse
+> - Lister les différents prestataires de paiement populaires sur Internet
+> - Lister les éléments légaux nécessaires pour pouvoir se faire payer pour sa
+>   passion
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Présentation magistrale
+> - Discussions collectives
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à répondre avec justesse
+> - Capacité à argumenter
+>
+> Les retours se font de la manière suivante :
+>
+> - Corrigé du quiz
+>
+> L'évaluation ne donne pas lieu à une note.
+
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
-- [Informations générales sur la séance](#informations-générales-sur-la-séance)
-  - [Ressources annexes](#ressources-annexes)
-  - [Objectifs](#objectifs)
-  - [Méthodes d'enseignement et d'apprentissage](#méthodes-denseignement-et-dapprentissage)
-  - [Méthodes d'évaluation](#méthodes-dévaluation)
-- [Objectifs](#objectifs-1)
+- [Objectifs](#objectifs)
 - [Pourquoi se faire payer pour sa passion ?](#pourquoi-se-faire-payer-pour-sa-passion-)
 - [Établir un business model](#établir-un-business-model)
   - [Business model canvas](#business-model-canvas)
@@ -30,53 +72,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
-
-## Informations générales sur la séance
-
-### Ressources annexes
-
-- Autres formats du support de cours :
-  [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/01-presentation/index.html)
-  ·
-  [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/01-presentation/15-cours-se-faire-payer-pour-sa-passion-presentation.pdf)
-- Quiz :
-  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/03-quiz/index.html)
-  ·
-  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/15-cours-se-faire-payer-pour-sa-passion/03-quiz/15-cours-se-faire-payer-pour-sa-passion-quiz.pdf)
-
-### Objectifs
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Établir un business model pour son projet
-- Lister les différents moyens de paiement populaires en Suisse
-- Lister les différents prestataires de paiement populaires sur Internet
-- Lister les éléments légaux nécessaires pour pouvoir se faire payer pour sa
-  passion
-
-### Méthodes d'enseignement et d'apprentissage
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-### Méthodes d'évaluation
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
 
 ## Objectifs
 
@@ -151,7 +146,7 @@ en neuf blocs essentiels :
 Ce modèle peut être représenté selon le canvas suivant, tiré du site
 Strategyzer[^strategyzer] :
 
-![Business Model Canvas](./images/business-model-canvas.png)
+![Business Model Canvas](./_images/business-model-canvas.png)
 
 De nombreux autres modèles existent mais un intéressant que nous souhaitons vous
 présenter est le Sustainable Business Model
@@ -159,7 +154,7 @@ Canvas[^sustainable-business-model-canvas]. Il est très similaire au Business
 Model Canvas mais intègre aussi des aspects de durabilité de votre projet. Nous
 vous conseillons de l'utiliser pour votre projet.
 
-![Sustainable Business Model Canvas](./images/sustainable-business-model-canvas.jpg)
+![Sustainable Business Model Canvas](./_images/sustainable-business-model-canvas.jpg)
 
 ### Sources de revenus
 
@@ -311,9 +306,6 @@ Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
 
 ## Sources
 
-- [Illustration principale][illustration-principale] par
-  [Fabian Blank](https://unsplash.com/@blankerwahnsinn) sur
-  [Unsplash](https://unsplash.com/photos/pink-pig-figurine-on-white-surface-pElSkGRA2NU)
 - [wikipedia.org](https://www.wikipedia.org/) sur
   <https://fr.wikipedia.org/wiki/Mod%C3%A8le_d%27entreprise> consulté le 7 mai
   2025
@@ -335,9 +327,5 @@ Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
 
 <!-- URLs -->
 
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/15-cours-se-faire-payer-pour-sa-passion/02-support-de-cours/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration-principale]:
-	https://images.unsplash.com/photo-1459257831348-f0cdd359235f?fit=crop&h=720

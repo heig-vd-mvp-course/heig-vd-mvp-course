@@ -1,7 +1,5 @@
 # Introduction, motivation et organisation de l'unité - Support de cours
 
-![Illustration principale][illustration-principale]
-
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 
 Ce travail est sous licence [CC BY-SA 4.0][license].
@@ -65,7 +63,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
-> Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
 > - Présentation magistrale

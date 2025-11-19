@@ -1,16 +1,63 @@
 # Comprendre et atteindre son public cible - Support de cours
 
-![Illustration principale][illustration-principale]
-
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 
 Ce travail est sous licence [CC BY-SA 4.0][license].
 
+> [!TIP]
+>
+> Voici quelques informations relatives à la séance et son déroulement.
+>
+> **Ressources annexes**
+>
+> - Autres formats du support de cours :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/01-presentation/index.html)
+>   ·
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/01-presentation/04-cours-comprendre-et-atteindre-son-public-cible-presentation.pdf)
+> - Quiz :
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/03-quiz/index.html)
+>   ·
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/03-quiz/04-cours-comprendre-et-atteindre-son-public-cible-quiz.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Décrire ce qu'est un public cible
+> - Décrire ce qu'est un persona
+> - Identifier un public cible
+> - Décrire les étapes pour comprendre un public cible
+> - Identifier les (réels) besoins d'un public cible
+> - Décrire comment dialoguer avec un public cible
+> - Lister les hypothèses à valider pour comprendre un public cible
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Présentation magistrale
+> - Discussions collectives
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à répondre avec justesse
+> - Capacité à argumenter
+>
+> Les retours se font de la manière suivante :
+>
+> - Corrigé du quiz
+>
+> L'évaluation ne donne pas lieu à une note.
+
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
-- [Informations générales sur la séance](#informations-générales-sur-la-séance)
-  - [Ressources annexes](#ressources-annexes)
 - [Objectifs](#objectifs)
 - [Public cible et personae](#public-cible-et-personae)
   - [Qu'est-ce qu'un public cible ?](#quest-ce-quun-public-cible-)
@@ -27,56 +74,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
-- [Sources](#sources)
-
-## Informations générales sur la séance
-
-### Ressources annexes
-
-- Autres formats du support de cours :
-  [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/01-presentation/index.html)
-  ·
-  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/01-presentation/04-cours-comprendre-et-atteindre-son-public-cible-presentation.pdf)
-- Quiz :
-  [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/03-quiz/index.html)
-  ·
-  [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/04-cours-comprendre-et-atteindre-son-public-cible/03-quiz/04-cours-comprendre-et-atteindre-son-public-cible-quiz.pdf)
-
-### Objectifs
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Décrire ce qu'est un public cible
-- Décrire ce qu'est un persona
-- Identifier un public cible
-- Décrire les étapes pour comprendre un public cible
-- Identifier les (réels) besoins d'un public cible
-- Décrire comment dialoguer avec un public cible
-- Lister les hypothèses à valider pour comprendre un public cible
-
-### Méthodes d'enseignement et d'apprentissage
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
-sont les suivantes :
-
-- Présentation magistrale
-- Discussions collectives
-
-### Méthodes d'évaluation
-
-L'évaluation prend la forme d'un quiz qui aura lieu au cours suivant.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à répondre avec justesse
-- Capacité à argumenter
-
-Les retours se font de la manière suivante :
-
-- Corrigé du quiz
-
-L'évaluation ne donne pas lieu à une note.
 
 ## Objectifs
 
@@ -351,20 +348,10 @@ La séance de projet sera consacrée à l'identification de votre public cible e
 la création de personae. Vous serez amené à définir les besoins de votre public
 cible et à valider vos hypothèses.
 
-## Sources
-
-- [Illustration principale][illustration-principale] par
-  [Yvette de Wit](https://unsplash.com/@yvettedewit) sur
-  [Unsplash](https://unsplash.com/photos/stage-light-front-of-audience-NYrVisodQ2M)
-
 [^the-mom-test]:
     The Mom Test, [momtestbook.com](https://www.momtestbook.com/), 05 mars 2025
 
 <!-- URLs -->
 
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/04-cours-comprendre-et-atteindre-son-public-cible/02-support-de-cours/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[illustration-principale]:
-	https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?fit=crop&h=720
