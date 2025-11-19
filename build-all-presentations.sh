@@ -28,14 +28,14 @@ eval "$MARP_CMD --config-file .marp/config.yaml --parallel $(nproc) --pdf **/*/P
 
 # Rename files
 echo "Renaming HTML files to 'index.html'..."
-find . -mindepth 3 -maxdepth 3 -type f \( -name "PRESENTATION.html" -o -name "QUIZ.html" \) -exec sh -c '
+find . -type f \( -name "PRESENTATION.html" -o -name "QUIZ.html" \) -exec sh -c '
     mv -f "$1" "$(dirname "$1")/index.html"
 ' sh {} \;
 
 echo "Renaming presentation files to match parent directory..."
-find . -mindepth 3 -maxdepth 3 -type f \( -name "PRESENTATION.pdf" -o -name "QUIZ.pdf" \) -exec sh -c '
+find . -type f \( -name "PRESENTATION.pdf" -o -name "QUIZ.pdf" \) -exec sh -c '
     for file; do
-        course_name=$(basename "$(dirname "$(dirname "$file")")")
+        course_name=$(basename "$(dirname "$file")")
         if [ "$(basename "$file")" = "PRESENTATION.pdf" ]; then
             mv -f "$file" "$(dirname "$file")/$course_name-presentation.pdf"
         else
