@@ -3,13 +3,6 @@
 Ce dossier contient les contenus de cours pour le cours _"Lancez votre Minimum
 Viable Product (MVP)"_.
 
-Chaque dossier est structuré de la manière suivante `xx.yy-zzz` où :
-
-- `xx` est le numéro de la session.
-- `yy` est le numéro de la partie de la session (plusieurs parties par session
-  possible).
-- `zzz` est une description courte du contenu.
-
 ## 🕐 Semaine 1
 
 ### Cours - Introduction, motivation et organisation de l'unité
