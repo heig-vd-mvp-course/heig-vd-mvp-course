@@ -11,9 +11,9 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > **Ressources annexes**
 >
 > - Autres formats du support de cours :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/index.html)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/01-introduction-motivation-et-organisation-de-lunite/index.html)
 >   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/01-cours-introduction-motivation-et-organisation-de-lunite-presentation.pdf)
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/01-introduction-motivation-et-organisation-de-lunite/01-introduction-motivation-et-organisation-de-lunite-presentation.pdf)
 >
 > **Objectifs**
 >

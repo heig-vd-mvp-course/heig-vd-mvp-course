@@ -21,26 +21,34 @@ fi
 
 # Convert presentations
 echo "Converting presentations to HTML..."
-eval "$MARP_CMD --config-file .marp/config.yaml --parallel $(nproc) **/*/PRESENTATION.md **/*/QUIZ.md"
+eval "$MARP_CMD --config-file .marp/config.yaml --parallel $(nproc) **/**/*/PRESENTATION.md **/**/*/QUIZ.md"
 
 echo "Converting presentations to PDF..."
-eval "$MARP_CMD --config-file .marp/config.yaml --parallel $(nproc) --pdf **/*/PRESENTATION.md **/*/QUIZ.md"
+eval "$MARP_CMD --config-file .marp/config.yaml --parallel $(nproc) --pdf **/**/*/PRESENTATION.md **/**/*/QUIZ.md"
 
 # Rename files
 echo "Renaming HTML files to 'index.html'..."
-find . -type f \( -name "PRESENTATION.html" -o -name "QUIZ.html" \) -exec sh -c '
+find . -type f -name "PRESENTATION.html" -exec sh -c '
     mv -f "$1" "$(dirname "$1")/index.html"
 ' sh {} \;
 
+find . -type f -name "QUIZ.html" -exec sh -c '
+    mkdir -p "$(dirname "$1")/quiz"
+    mv -f "$1" "$(dirname "$1")/quiz/index.html"
+' sh {} \;
+
 echo "Renaming presentation files to match parent directory..."
-find . -type f \( -name "PRESENTATION.pdf" -o -name "QUIZ.pdf" \) -exec sh -c '
+find . -type f -name "PRESENTATION.pdf" -exec sh -c '
     for file; do
         course_name=$(basename "$(dirname "$file")")
-        if [ "$(basename "$file")" = "PRESENTATION.pdf" ]; then
-            mv -f "$file" "$(dirname "$file")/$course_name-presentation.pdf"
-        else
-            mv -f "$file" "$(dirname "$file")/$course_name-quiz.pdf"
-        fi
+        mv -f "$file" "$(dirname "$file")/$course_name-presentation.pdf"
+    done
+' sh {} +
+
+find . -type f -name "QUIZ.pdf" -exec sh -c '
+    for file; do
+        course_name=$(basename "$(dirname "$file")")
+        mv -f "$file" "$(dirname "$file")/quiz/$course_name-quiz.pdf"
     done
 ' sh {} +
 

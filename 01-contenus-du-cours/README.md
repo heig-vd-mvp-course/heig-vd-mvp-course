@@ -9,9 +9,9 @@ Ce dossier contient les contenus du cours _"Lancez votre Minimum Viable Product
 
 - Supports de cours :
   [Support de cours (Markdown)](./01-introduction-motivation-et-organisation-de-lunite/README.md)
-  [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/index.html)
+  [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/01-introduction-motivation-et-organisation-de-lunite/index.html)
   ·
-  [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/01-cours-introduction-motivation-et-organisation-de-lunite-presentation.pdf)
+  [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/01-introduction-motivation-et-organisation-de-lunite/01-introduction-motivation-et-organisation-de-lunite-presentation.pdf)
 
 ### Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)
 
