@@ -27,17 +27,16 @@ echo "Converting presentations to PDF..."
 eval "$MARP_CMD --config-file .marp/config.yaml --parallel $(nproc) --pdf **/**/*/PRESENTATION.md **/**/*/QUIZ.md"
 
 # Rename files
-echo "Renaming HTML files to 'index.html'..."
+echo "Renaming HTML files'..."
 find . -type f -name "PRESENTATION.html" -exec sh -c '
-    mv -f "$1" "$(dirname "$1")/index.html"
+    mv -f "$1" "$(dirname "$1")/presentation.html"
 ' sh {} \;
 
 find . -type f -name "QUIZ.html" -exec sh -c '
-    mkdir -p "$(dirname "$1")/quiz"
-    mv -f "$1" "$(dirname "$1")/quiz/index.html"
+    mv -f "$1" "$(dirname "$1")/quiz.html"
 ' sh {} \;
 
-echo "Renaming presentation files to match parent directory..."
+echo "Renaming PDF files..."
 find . -type f -name "PRESENTATION.pdf" -exec sh -c '
     for file; do
         course_name=$(basename "$(dirname "$file")")
@@ -48,7 +47,7 @@ find . -type f -name "PRESENTATION.pdf" -exec sh -c '
 find . -type f -name "QUIZ.pdf" -exec sh -c '
     for file; do
         course_name=$(basename "$(dirname "$file")")
-        mv -f "$file" "$(dirname "$file")/quiz/$course_name-quiz.pdf"
+        mv -f "$file" "$(dirname "$file")/$course_name-quiz.pdf"
     done
 ' sh {} +
 

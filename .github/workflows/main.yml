@@ -46,6 +46,7 @@ jobs:
             **/*/*-presentation.pdf
             **/*/*-quiz.pdf
             **/*/index.html
+            **/*/quiz.html
           if-no-files-found: error
           retention-days: 1
 
