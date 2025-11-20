@@ -45,7 +45,7 @@ jobs:
             **/*/*.svg
             **/*/*-presentation.pdf
             **/*/*-quiz.pdf
-            **/*/index.html
+            **/*/presentation.html
             **/*/quiz.html
           if-no-files-found: error
           retention-days: 1

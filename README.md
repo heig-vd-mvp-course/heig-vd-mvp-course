@@ -51,7 +51,7 @@ méthodes d'enseignement et d'apprentissage, et les méthodes d'évaluation.
 Les numéros des semaines correspondent aux semaines définies dans le
 [Calendrier académique de la HEIG-VD](https://heig-vd.ch/formation/bachelor/calendrier-academique/).
 
-| Séance | Dates             | 1ère partie[^1ere-partie]                                                                                                                            | 2ème partie[^2eme-partie]                                                                                                                      | État[^etat] |
+| Séance | Dates             | Théorie                                                                                                                                              | Pratique                                                                                                                                       | État[^etat] |
 | -----: | :---------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
 |     01 | 16.02. - 22.02.26 | [Introduction, motivation et organisation de l'unité](./01-contenus-du-cours/01-introduction-motivation-et-organisation-de-lunite/README.md)         | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)](./02-projet-libre/README.md) | 🔴 À faire  |
 |     02 | 23.02. - 01.03.26 | [Trouver des idées originales qui répondent à un besoin](./01-contenus-du-cours/02-trouver-des-idees-originales-qui-repondent-a-un-besoin/README.md) | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)](./02-projet-libre/README.md) | 🔴 À faire  |
@@ -75,18 +75,6 @@ Les numéros des semaines correspondent aux semaines définies dans le
 
 Ce travail est sous licence
 [Creative Commons Attribution-ShareAlike 4.0 International](./LICENSE.md).
-
-[^1ere-partie]:
-    Le contenu **principal** de la partie. D'autres contenus annexes peuvent
-    avoir lieu dans la partie. La partie dure généralement deux périodes (2 x 45
-    minutes). Cependant, elle peut être plus longue ou plus courte selon la
-    complexité des sujets abordés et le rythme des personnes qui étudient.
-
-[^2eme-partie]:
-    Le contenu **principal** de la partie. D'autres contenus annexes peuvent
-    avoir lieu dans la partie. La partie dure généralement deux périodes (2 x 45
-    minutes). Cependant, elle peut être plus longue ou plus courte selon la
-    complexité des sujets abordés et le rythme des personnes qui étudient.
 
 [^etat]:
     🟢 Prêt : le cours est prêt à être utilisé. 🟡 En cours : le cours est en
