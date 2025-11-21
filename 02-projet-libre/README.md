@@ -1231,7 +1231,7 @@ il est recommandé pour la semaine suivante de :
 > **Ressources annexes**
 >
 > - Autres formats du support de cours :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séances-9-à-14---réalisation-du-service-et-tests-utilisateurs)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-9---réalisation-du-service-et-tests-utilisateurs-16)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1328,7 +1328,7 @@ il est recommandé pour la semaine suivante de :
 > **Ressources annexes**
 >
 > - Autres formats du support de cours :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séances-9-à-14---réalisation-du-service-et-tests-utilisateurs)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-10---réalisation-du-service-et-tests-utilisateurs-26)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1410,7 +1410,7 @@ il est recommandé pour la semaine suivante de :
 > **Ressources annexes**
 >
 > - Autres formats du support de cours :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séances-9-à-14---réalisation-du-service-et-tests-utilisateurs)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-11---réalisation-du-service-et-tests-utilisateurs-36)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1492,7 +1492,7 @@ il est recommandé pour la semaine suivante de :
 > **Ressources annexes**
 >
 > - Autres formats du support de cours :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séances-9-à-14---réalisation-du-service-et-tests-utilisateurs)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-12---réalisation-du-service-et-tests-utilisateurs-46)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1569,7 +1569,7 @@ il est recommandé pour la semaine suivante de :
 > **Ressources annexes**
 >
 > - Autres formats du support de cours :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séances-9-à-14---réalisation-du-service-et-tests-utilisateurs)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-13---réalisation-du-service-et-tests-utilisateurs-56)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1644,7 +1644,7 @@ il est recommandé pour la semaine suivante de :
 > **Ressources annexes**
 >
 > - Autres formats du support de cours :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séances-9-à-14---réalisation-du-service-et-tests-utilisateurs)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-14---réalisation-du-service-et-tests-utilisateurs-66)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >

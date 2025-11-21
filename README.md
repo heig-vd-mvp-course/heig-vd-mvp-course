@@ -49,7 +49,7 @@ Les détails de chaque séance sont disponibles dans le programme ci-dessous.
 Chaque séance de cours est détaillée avec les contenus, les objectifs, les
 méthodes d'enseignement et d'apprentissage, et les méthodes d'évaluation.
 
-Les numéros des semaines correspondent aux semaines définies dans le
+Les numéros et les dates des séances correspondent aux semaines définies dans le
 [Calendrier académique de la HEIG-VD](https://heig-vd.ch/formation/bachelor/calendrier-academique/).
 
 | Séance | Dates             | Cours                                                                                                                                                | Projet                                                                                                                                                                                                                                                             | État[^etat] |
@@ -75,7 +75,7 @@ Les numéros des semaines correspondent aux semaines définies dans le
 <details>
 <summary>Voir le détail des séances de cours</summary>
 
-## 🕐 Semaine 1
+## 🕐 Séance 1
 
 ### Introduction, motivation et organisation de l'unité
 
@@ -95,7 +95,7 @@ Les numéros des semaines correspondent aux semaines définies dans le
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-## 🕑 Semaine 2
+## 🕑 Séance 2
 
 ### Trouver des idées originales qui répondent à un besoin
 
@@ -119,7 +119,7 @@ Les numéros des semaines correspondent aux semaines définies dans le
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-## 🕒 Semaine 3
+## 🕒 Séance 3
 
 ### Comprendre et atteindre son public cible
 
@@ -143,7 +143,7 @@ Les numéros des semaines correspondent aux semaines définies dans le
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-## 🕓 Semaine 4
+## 🕓 Séance 4
 
 ### Promouvoir et pitcher son idée
 
@@ -168,12 +168,12 @@ Les numéros des semaines correspondent aux semaines définies dans le
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-## 🕔 Semaine 5
+## 🕔 Séance 5
 
 _En raison du CRUNCH, il n'y a pas de séances de cours/projet durant la
-semaine 4._
+séance 4._
 
-## 🕕 Semaine 6
+## 🕕 Séance 6
 
 ### Identification et choix d'une stack technologique
 
@@ -197,7 +197,7 @@ semaine 4._
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-## 🕖 Semaine 7
+## 🕖 Séance 7
 
 ### Réaliser des interfaces ergonomiques et réfléchies
 
@@ -221,7 +221,7 @@ semaine 4._
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-## 🕗 Semaine 8
+## 🕗 Séance 8
 
 ### Hébergement et déploiement de services
 
@@ -239,14 +239,14 @@ semaine 4._
 ### Présentations de la prospection
 
 - **🚨 Évaluation notée** (15% de la note de projet)
-- Supports de cours : [Support de cours
-  (Markdown)](./02-projet-libre/README.md#séance-8---présentation-sur-la-prospection
+- Supports de cours :
+  [Support de cours (Markdown)](./02-projet-libre/README.md#séance-8---présentation-sur-la-prospection)
   ·
   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-8---présentations-de-la-prospection)
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-## 🕘 Semaine 9
+## 🕘 Séance 9
 
 ### Recevoir des feedbacks constructifs et pivoter
 
@@ -270,7 +270,7 @@ semaine 4._
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-## 🕙 Semaine 10
+## 🕙 Séance 10
 
 ### Réaliser des applications pérennes
 
@@ -294,7 +294,7 @@ semaine 4._
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-## 🕚 Semaine 11
+## 🕚 Séance 11
 
 ### Se faire payer pour sa passion
 
@@ -318,7 +318,7 @@ semaine 4._
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-## 🕛 Semaine 12
+## 🕛 Séance 12
 
 ### Créer sa propre entreprise
 
@@ -342,15 +342,16 @@ semaine 4._
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-## 🕐 Semaine 13
+## 🕐 Séance 13
 
-### Évaluation
+### Évaluation finale
 
 - **🚨 Évaluation notée** (100% de la note de cours)
-- Supports de cours : [Support de cours (Markdown)](./03-evaluation/README.md) ·
-  [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-evaluation/presentation.html)
+- Supports de cours :
+  [Support de cours (Markdown)](./03-evaluation-finale/README.md) ·
+  [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-evaluation-finale/presentation.html)
   ·
-  [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-evaluation/03-evaluation-presentation.pdf)
+  [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-evaluation-finale/03-evaluation-finale-presentation.pdf)
 
 ### Réalisation du service et tests utilisateurs (5/6)
 
@@ -361,7 +362,7 @@ semaine 4._
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-## 🕑 Semaine 14
+## 🕑 Séance 14
 
 ### Cours
 
@@ -376,7 +377,7 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-## 🕒 Semaine 15
+## 🕒 Séance 15
 
 ### Cours
 
@@ -392,7 +393,7 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-## 🕓 Semaine 16
+## 🕓 Séance 16
 
 ### Revue du semestre
 
