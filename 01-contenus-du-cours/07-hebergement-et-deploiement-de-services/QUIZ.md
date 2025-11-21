@@ -6,12 +6,12 @@ marp: true
 theme: custom-marp-theme
 size: 16:9
 paginate: true
-author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
+author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 title: HEIG-VD MVP Course - Hébergement et déploiement de services - Quiz
 description: Quiz sur le chapitre Hébergement et déploiement de services pour le cours MVP à la HEIG-VD, Suisse
-url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/10-cours-hebergement-et-deploiement-de-services/03-quiz/index.html
-header: "**Hébergement et déploiement de services - Quiz**"
-footer: "**HEIG-VD** - MVP Course 2024-2025 - CC BY-SA 4.0"
+url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/07-hebergement-et-deploiement-de-services/quiz.html
+header: "[**Hébergement et déploiement de services - Quiz**](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/07-hebergement-et-deploiement-de-services/README.md)"
+footer: "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course 2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC BY-SA 4.0](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md)"
 headingDivider: 6
 -->
 
@@ -26,7 +26,7 @@ _paginate: false
 
 [Web][web] · [PDF][pdf]
 
-<small>L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot</small>
+<small>L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.</small>
 
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 

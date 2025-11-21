@@ -1,6 +1,6 @@
 # Recevoir des feedbacks constructifs et pivoter - Support de cours
 
-L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
+L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 
 Ce travail est sous licence [CC BY-SA 4.0][license].
 
@@ -11,13 +11,13 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > **Ressources annexes**
 >
 > - Autres formats du support de cours :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/index.html)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-recevoir-des-feedbacks-constructifs-et-pivoter/presentation.html)
 >   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-presentation.pdf)
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-recevoir-des-feedbacks-constructifs-et-pivoter/08-recevoir-des-feedbacks-constructifs-et-pivoter-presentation.pdf)
 > - Quiz :
->   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/index.html)
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-recevoir-des-feedbacks-constructifs-et-pivoter/quiz.html)
 >   ·
->   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/03-quiz/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-quiz.pdf)
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-recevoir-des-feedbacks-constructifs-et-pivoter/08-recevoir-des-feedbacks-constructifs-et-pivoter-quiz.pdf)
 >
 > **Objectifs**
 >

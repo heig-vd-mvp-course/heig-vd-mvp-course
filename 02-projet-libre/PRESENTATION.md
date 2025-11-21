@@ -6,12 +6,12 @@ marp: true
 theme: custom-marp-theme
 size: 16:9
 paginate: true
-author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
+author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 title: HEIG-VD MVP Course - Introduction, motivation et organisation de l'unité
 description: Introduction, motivation et organisation de l'unité pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/index.html
 header: "**Introduction, motivation et organisation de l'unité**"
-footer: "**HEIG-VD** - MVP Course 2024-2025 - CC BY-SA 4.0"
+footer: "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course 2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC BY-SA 4.0](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md)"
 
 headingDivider: 6
 -->
@@ -37,7 +37,7 @@ _paginate: false
 
 [Web][web] · [PDF][pdf]
 
-<small>L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot</small>
+<small>L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.</small>
 
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 

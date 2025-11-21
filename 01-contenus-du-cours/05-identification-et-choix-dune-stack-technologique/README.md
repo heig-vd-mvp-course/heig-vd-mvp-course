@@ -1,6 +1,6 @@
 # Identification et choix d'une stack technologique - Support de cours
 
-L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
+L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 
 Ce travail est sous licence [CC BY-SA 4.0][license].
 
@@ -11,13 +11,13 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > **Ressources annexes**
 >
 > - Autres formats du support de cours :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/01-presentation/index.html)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/05-identification-et-choix-dune-stack-technologique/presentation.html)
 >   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/01-presentation/07-cours-identification-et-choix-dune-stack-technologique-presentation.pdf)
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/05-identification-et-choix-dune-stack-technologique/05-identification-et-choix-dune-stack-technologique-presentation.pdf)
 > - Quiz :
->   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/03-quiz/index.html)
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/05-identification-et-choix-dune-stack-technologique/quiz.html)
 >   ·
->   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/07-cours-identification-et-choix-dune-stack-technologique/03-quiz/07-cours-identification-et-choix-dune-stack-technologique-quiz.pdf)
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/05-identification-et-choix-dune-stack-technologique/05-identification-et-choix-dune-stack-technologique-quiz.pdf)
 >
 > **Objectifs**
 >
