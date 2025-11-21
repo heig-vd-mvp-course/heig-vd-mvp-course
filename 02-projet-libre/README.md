@@ -11,9 +11,9 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > **Ressources annexes**
 >
 > - Autres formats du support de cours :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-evaluation-finale/presentation.html)
 >   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-evaluation-finale/03-evaluation-finale-presentation.pdf)
 >
 > Tous les détails de chaque séance de cours et les ressources associées sont
 > décrites dans la section [Répartition des séances](#répartition-des-séances).
