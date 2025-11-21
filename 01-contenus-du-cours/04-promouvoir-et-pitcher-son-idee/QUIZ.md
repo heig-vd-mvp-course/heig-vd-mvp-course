@@ -6,7 +6,7 @@ marp: true
 theme: custom-marp-theme
 size: 16:9
 paginate: true
-author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
+author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 title: HEIG-VD MVP Course - Promouvoir et pitcher son idée - Quiz
 description: Quiz sur le chapitre Promouvoir et pitcher son idée pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/04-promouvoir-et-pitcher-son-idee/quiz.html

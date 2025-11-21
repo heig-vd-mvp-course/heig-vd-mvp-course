@@ -22,12 +22,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 >
 > - Lister les objectifs du cours
 > - Lister les modalités d'organisation du cours
-> - Lister les modalités d'organisation du projet
 > - Lister les modalités d'évaluation
-> - Décrire comment travailler en équipe de façon efficace
-> - Décrire les différences entre un wireframe, un mockup, un prototype et un
->   MVP
-> - Décrire ce qu'est un MVP
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
@@ -47,7 +42,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Objectifs](#objectifs)
 - [Objectifs du cours](#objectifs-du-cours)
 - [Modalités d'organisation du cours](#modalités-dorganisation-du-cours)
-- [Modalités d'organisation du projet](#modalités-dorganisation-du-projet)
 - [Modalités d'évaluation](#modalités-dévaluation)
   - [Évaluation écrite](#évaluation-écrite)
   - [Présentations](#présentations)
@@ -55,19 +49,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Produit final](#produit-final)
 - [Grilles d'évaluation](#grilles-dévaluation)
   - [Critères d'évaluation](#critères-dévaluation)
-  - [Grille d'évaluation des présentations](#grille-dévaluation-des-présentations)
-  - [Grille d'évaluation du rapport final](#grille-dévaluation-du-rapport-final)
-  - [Grille d'évaluation du produit final](#grille-dévaluation-du-produit-final)
-- [Comment travailler en équipe de façon efficace](#comment-travailler-en-équipe-de-façon-efficace)
-  - [Les outils à utiliser](#les-outils-à-utiliser)
-  - [Votre équipe](#votre-équipe)
-  - [Rôles](#rôles)
-  - [Séances](#séances)
-- [Différences entre un wireframe, un mockup, un prototype et un minimum viable product (MVP)](#différences-entre-un-wireframe-un-mockup-un-prototype-et-un-minimum-viable-product-mvp)
-  - [Wireframe](#wireframe)
-  - [Mockup](#mockup)
-  - [Prototype](#prototype)
-  - [Minimum viable product (MVP)](#minimum-viable-product-mvp)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 - [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
@@ -141,32 +122,6 @@ Nous sommes ouverts à la discussion et aux retours. Il ne faut pas hésiter à
 nous poser des questions si quelque chose n'est pas clair et/ou si votre
 expérience diffère de la nôtre.
 
-## Modalités d'organisation du projet
-
-Le projet est une partie importante de ce cours. Il vous permettra de mettre en
-pratique les connaissances acquises durant le cours et de vous confronter à la
-réalité du terrain.
-
-Le projet est libre. Vous êtes libres de choisir le sujet de votre projet, le
-public cible, les technologies utilisées, etc.
-
-La seule contrainte est que le projet doit viser un "large" public. Cela
-signifie que le projet ne doit pas être destiné à un public restreint (par
-exemple, un projet destiné à une seule entreprise ou à un seul groupe de
-personnes).
-
-Le projet peut se dérouler en équipe ou en solo ; vous êtes libres de choisir.
-Il n'y a pas de taille maximum pour les équipes mais nous vous recommandons de
-ne pas dépasser cinq personnes pour des raisons de communication et de
-coordination.
-
-Les premières séances de projet auront pour but de vous permettre de présenter
-les idées que vous avez et de former des équipes si vous le souhaitez ou de
-trouver une idée de projet personnel.
-
-Chaque semaine, nous prendrons un moment pour discuter de l'avancement de votre
-projet et pour vous donner des retours.
-
 ## Modalités d'évaluation
 
 Le cours sera évalué sur plusieurs aspects :
@@ -222,16 +177,6 @@ groupes qui présentent et vous sera communiqué à l'avance pour vous préparer
 
 La grille d'évaluation des présentations est disponible ici :
 [Grille d'évaluation des présentations](#grille-dévaluation-des-présentations).
-
-#### Contraintes
-
-- Les présentations doivent être présentées en équipe (même si tout le monde ne
-  parle pas durant la présentation)
-
-#### Astuces
-
-- Nous vous conseillons de profiter de l'occasion pour expérimenter la prise de
-  parole en public, et que chaque membre de l'équipe participe à la présentation
 
 ### Rapport final
 
@@ -289,22 +234,6 @@ La grille d'évaluation du rapport final est disponible ici :
 Nous nous rendons disponibles pour vous faire un retour sur votre rapport tout
 au long du semestre si besoin.
 
-#### Contraintes
-
-- Au moins deux idées doivent être présentées et explorées avant de choisir
-  celle qui sera développée
-- Le nombre d'interviews est proportionnel au nombre de membres de l'équipe (un
-  membre doit réaliser au moins trois interviews)
-- **La longueur du rapport final ne doit pas dépasser 12 pages (sans compter les
-  images, les tableaux, les annexes, etc.).**
-
-#### Astuces
-
-- Nous vous recommandons de travailler sur votre rapport tout au long du
-  semestre pour ne pas vous retrouver à devoir tout faire à la fin de celui-ci
-- Il n'est pas nécessaire de fournir les wireframes/mockups pour les
-  fonctionnalités basiques (login, logout, etc.)
-
 ### Produit final
 
 Le résultat final du projet devra être rendu sous forme d'un lien vers un dépôt
@@ -325,24 +254,6 @@ nous intéresse de voir comment vous avez réalisé votre projet.
 La grille d'évaluation du produit final est disponible ici :
 [Grille d'évaluation du produit final](#grille-dévaluation-du-produit-final).
 
-#### Contraintes
-
-Il n'y a aucune contrainte sur la technologie et les manières utilisées pour
-réaliser le projet.
-
-#### Astuces
-
-- Nous vous conseillons de partir sur une technologie que vous connaissez et
-  maîtrisez déjà et avec laquelle vous êtes à l'aise - Nous ne sommes pas contre
-  que vous profitiez de l'opportunité de tester une nouvelle technologie mais, à
-  nouveau, l'important de ce cours est la méthode et non pas le produit final
-  donc nous ne recommandons pas de partir sur une technologie que vous ne
-  maîtrisez pas déjà
-- **Ne codez pas tout de suite**. Nous ne répéterons jamais assez que le plus
-  important est de valider votre idée avant de vous lancer dans le développement
-  de celle-ci : partez sur des wireframes, des mockups et une bonne
-  compréhension de votre public cible avant de vous lancer dans le développement
-
 ## Grilles d'évaluation
 
 Les grilles d'évaluation des présentations, du rapport final et du produit final
@@ -356,269 +267,11 @@ sont décrites ci-dessous.
 
 Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 
-### Grille d'évaluation des présentations
-
-| #   | Critère                                                                   |
-| :-- | :------------------------------------------------------------------------ |
-| 1   | La problématique ainsi que sa solution permettent de comprendre le projet |
-| 2   | L'élocution est claire et compréhensible                                  |
-| 3   | Les informations sont claires et bien présentées                          |
-| 4   | Les contenus présentés sont pertinents et supportent l'argumentation      |
-| 5   | Les supports sont de qualité                                              |
-| 6   | Le temps imparti est respecté                                             |
-| 7   | Les réponses aux questions sont pertinentes                               |
-| 8   | Les retours sont écoutés et pris en compte                                |
-
-### Grille d'évaluation du rapport final
-
-| #   | Critère                                                                                   |
-| :-- | :---------------------------------------------------------------------------------------- |
-| 1   | Qualité de la présentation de la problématique, du projet et des objectifs de celui-ci    |
-| 2   | Qualité de la présentation des membres de l'équipe et de leurs rôles et leurs compétences |
-| 3   | Qualité de recherche, choix et justification de l'idée                                    |
-| 4   | Qualité de l'identification du public cible avec énumération des personae                 |
-| 5   | Qualité des wireframes/mockups des fonctionnalités clés                                   |
-| 6   | Qualité des questionnaires et hypothèses à valider avec le public cible                   |
-| 7   | Qualité des entretiens effectués avec le public cible                                     |
-| 8   | Qualité de l'analyse des retours et des conclusions                                       |
-| 9   | Qualité des choix technologiques et de la réalisation du MVP                              |
-| 10  | Qualité des tests utilisateurs                                                            |
-| 11  | Qualité de la pérennité du projet (financier et technique)                                |
-| 12  | Qualité de la présentation des difficultés rencontrées et des solutions trouvées          |
-| 13  | Qualité de la conclusion                                                                  |
-| 14  | Qualité de la rédaction du rapport                                                        |
-| 15  | Qualité de la clarté de la présentation des informations                                  |
-| 16  | Respect des délais, de la longueur et du format du rendu du rapport                       |
-
-### Grille d'évaluation du produit final
-
-| #   | Critère                                                                                |
-| :-- | :------------------------------------------------------------------------------------- |
-| 1   | L'application est déployée et accessible sur Internet                                  |
-| 2   | La page d'accueil permet de comprendre la problématique et la solution proposée        |
-| 3   | La navigation est intuitive et permet de comprendre le fonctionnement de l'application |
-| 4   | Le service est fonctionnel et permet de répondre à la problématique                    |
-| 5   | Un moyen de paiement est présent et fonctionnel                                        |
-| 6   | Un formulaire de contact est présent et fonctionnel                                    |
-| 7   | La qualité du code source est acceptable et permet de reprendre en main le projet      |
-| 8   | Respect des délais et du format du rendu du produit final                              |
-
-## Comment travailler en équipe de façon efficace
-
-Il est rare qu'un projet soit réalisé par une seule personne. Il est donc
-important de savoir comment travailler en équipe de façon efficace. Nous allons
-parcourir certains points essentiels pour une collaboration fluide et
-productive.
-
-Nous nous inspirons ici des principes de la gouvernance partagée et horizontale,
-notamment l'holacratie, où chaque membre a un rôle clair et participe aux
-décisions collectives selon un mode de gestion par consentement[^gouvernance]
-[^holacratie].
-
-### Les outils à utiliser
-
-De nombreuses solutions existent pour le travail en équipe (Jira[^jira],
-Trello[^trello], Asana[^asana], etc.), et il est facile de se sentir perdu face
-à tant d'options. Toutefois, il est toujours plus important de mettre l'accent
-sur les individus et leurs interactions plutôt que sur les outils et les
-processus. Quel que soit l'outil que vous choisissez, s'il ne convient pas à
-votre équipe, il ne sera pas efficace.
-
-Si votre projet concerne le développement d'un logiciel, nous vous recommandons
-d'utiliser Git pour gérer votre code. GitHub[^github] et GitLab[^gitlab] sont
-des solutions éprouvées qui facilitent la gestion collaborative du code. Le
-workflow **_Issue_ -> _Pull Request_/_Merge Request_ -> _Review_ -> _Merge_** a
-déjà largement prouvé son efficacité[^git-workflows] [^gitflow].
-
-N'hésitez pas à utiliser les concepts de pipeline de CI/CD afin d'automatiser
-les tests et les déploiements de votre code. Automatiser les tâches répétitives
-vous fera gagner du temps et vous permettra de vous concentrer sur les tâches
-plus intéressantes. **Attention néanmoins à ne pas vous perdre dans la
-complexité de l'automatisation.**
-
-Aussi, essayez de minimiser le nombre d'outils et de technologies utilisés. Plus
-vous en utilisez, plus vous risquez de disperser vos efforts et de perdre du
-temps à les apprendre et à les maintenir.
-
-### Votre équipe
-
-Il est essentiel de bien connaître les membres de votre équipe. Nous ne parlons
-pas forcément d'évaluer leur personnalité via des tests comme les 16
-personnalités[^personalite], mais de comprendre des aspects concrets et utiles :
-
-- **Les compétences** : connaître les forces de chacun permet de mieux répartir
-  les responsabilités et d'optimiser la collaboration.
-- **Les limites** : tout le monde a des points de friction, des tâches qui
-  prennent plus de temps ou des besoins spécifiques. Identifier ces éléments
-  permet d'adapter le fonctionnement de l'équipe et d'éviter les situations de
-  stress.
-- **Les besoins** : chaque personne veut progresser et a des préférences en
-  termes de communication et de soutien. Prendre en compte ces besoins favorise
-  l'engagement et la montée en compétence.
-
-Des pratiques comme les check-ins réguliers (aussi appelés _"daily"_ en anglais)
-ou les rétrospectives d'équipe (aussi appelé _"weekly"_ en anglais) peuvent
-aider à mieux cerner ces éléments et à ajuster la dynamique de groupe[^scrum].
-
-### Rôles
-
-Attribuer des rôles permet de clarifier les responsabilités et d'assurer que
-chacun sait ce qu'il doit faire. Cependant, ces rôles ne sont pas figés et
-peuvent évoluer au fil du projet. La rotation des rôles est une bonne pratique
-pour favoriser l'apprentissage et l'adaptabilité.
-
-Voici quelques rôles possibles :
-
-- **Point de contact** : personne en lien avec les autres équipes, les
-  encadrants et les parties prenantes, garantissant la circulation des
-  informations.
-- **Décideur** : personne qui tranche en cas de désaccord et prend les décisions
-  finales.
-- **Scribe** : personne qui prend des notes et consigne les décisions.
-- **Facilitateur** : personne qui veille à ce que tout le monde puisse
-  s'exprimer, s'assure de la compréhension mutuelle et arbitre si nécessaire.
-- **Développeur** : personne en charge du développement du produit.
-- **Designer** : personne responsable de l'identité visuelle du produit.
-- **Testeur** : personne chargée de tester le produit et de remonter les
-  anomalies.
-- Et bien d'autres...
-
-### Séances
-
-On peut rapidement être frustré en réalisant que l'on passe plus de temps à
-discuter qu'à avancer concrètement. Voici quelques principes pour des séances de
-travail efficaces.
-
-Deux rôles clés sont essentiels :
-
-- **Facilitateur** : donne la parole, s'assure que tout le monde a compris et
-  peut s'exprimer, prend des décisions si nécessaire.
-- **Scribe** : consigne les décisions et les actions à réaliser.
-
-**Déroulement d'une séance**
-
-1. **Tour de table** : chaque membre partage brièvement son état du moment. Cela
-   permet d'anticiper d'éventuelles difficultés et d'adapter le rythme de
-   travail.
-1. **Présentation des points à discuter** : la personne concernée expose son
-   sujet sans interruption.
-1. **Tour de clarification** : les autres posent des questions pour mieux
-   comprendre, sans débat immédiat.
-1. **Tour d'opposition** : chacun peut exprimer des objections ou des
-   préoccupations en se concentrant sur les idées plutôt que sur les personnes.
-1. **Réponse et ajustements** : la personne qui a présenté le sujet répond aux
-   objections et ajuste si nécessaire.
-1. **Prise de décision** : si des ajustements sont faits, le facilitateur ou
-   l'équipe valide la décision.
-1. **Définition des actions à suivre (aussi appelées _"action points (AP)"_ en
-   anglais)** : On note qui fait quoi et pour quand.
-
-Il faut éviter les discussions sans fin et les débats stériles. Pour cela, il
-est important d'éviter un effet "ping pong" où les personnes répondent
-directement aux questions posées. Attendez que chaque personne se soit exprimée
-avant de clarifier ou de proposer des ajustements.
-
-Si nous sommes d'accord avec ce qui a été dit, nous pouvons simplement faire un
-signe convenu par l'équipe (comme lever les mains et les secouer).
-
-Cette approche, inspirée de la **gestion par consentement**[^consentement],
-garantit que les décisions sont prises en tenant compte des avis de tous, sans
-tomber dans des débats interminables.
-
-En appliquant ces principes, vous favorisez une collaboration plus fluide,
-efficace et respectueuse des besoins de chacun. Certains de ces concepts
-demandent un temps d'adaptation et de pratique, mais ils peuvent grandement
-améliorer la qualité de votre travail en équipe. Il faut mettre son ego de côté
-de temps en temps, votre équipe vous fait confiance et sait que vous avez des
-compétences et des connaissances à apporter.
-
-## Différences entre un wireframe, un mockup, un prototype et un minimum viable product (MVP)
-
-Dans le développement d'un produit, il est rare de passer directement à la
-version finale sans étapes intermédiaires. Il est essentiel de tester les idées,
-les interactions et les besoins du public cible avant d'investir du temps et des
-ressources dans un produit complet. Les concepts suivants sont des outils qui
-permettent de structurer ce processus tout en minimisant les risques et les
-coûts.
-
-Voici les différentes étapes du développement d'un produit :
-
-- **Wireframe** : définir la structure et la navigation
-- **Mockup** : visualiser l'apparence finale
-- **Prototype** : tester les interactions et l'ergonomie
-- **MVP** : lancer une première version utilisable sur le marché
-
-Ces étapes permettent de maximiser les chances de succès d'un projet en
-réduisant les risques et en favorisant une approche progressive et itérative.
-
-### Wireframe
-
-Un wireframe est une esquisse simplifiée du produit, souvent utilisée dans les
-échanges techniques. Son objectif principal est de définir l'organisation des
-éléments et la navigation de l'interface, sans se soucier des détails
-graphiques.
-
-- Très rapide et peu coûteux à réaliser
-- Utilisé pour aligner l'équipe sur la structure du produit
-- Peut être fait avec des outils simples comme du papier-crayon ou des logiciels
-  dédiés (Balsamiq[^balsamiq])
-- Idéal pour tester et ajuster rapidement la disposition des éléments
-
-### Mockup
-
-Un mockup est une version plus détaillée du wireframe, qui intègre l'aspect
-visuel du produit. Il permet de mieux se projeter sur l'apparence finale et
-facilite la communication avec les parties prenantes, notamment les clients ou
-le public cible.
-
-- Plus détaillé qu'un wireframe, il inclut couleurs, typographie et mise en page
-- Utilisé pour obtenir des retours sur l'identité visuelle et l'expérience
-  utilisateur
-- Demande plus de temps et de ressources qu'un wireframe, mais reste plus rapide
-  à produire qu'un prototype
-
-Il peut être statique (simple représentation graphique) ou dynamique
-(interactions et animations). La première forme est souvent utilisée par les
-équipes médias ou design. Elle peut prendre la forme d'un PDF qui permet de
-valider l'identité visuelle, les couleurs, les polices, etc. La seconde forme
-est plus utilisée par les équipes techniques pour valider les interactions, les
-animations, etc. Des logiciels comme Penpot[^penpot], Figma[^figma] ou Adobe
-XD[^adobe-xd] permettent de réaliser des mockups interactifs.
-
-### Prototype
-
-Un prototype est une version interactive du produit, qui simule son
-fonctionnement réel sans pour autant être finalisé. Son objectif est de tester
-l'expérience utilisateur et l'adéquation aux besoins du public cible avant
-d'investir davantage dans le développement.
-
-- Permet de tester rapidement les interactions et les parcours utilisateurs
-- Conçu pour détecter les problèmes d'ergonomie et améliorer l'expérience
-  utilisateur
-- Favorise une approche _"fail early/fail cheap"_ : détecter et corriger les
-  erreurs avant d'engager trop de ressources
-- **N'est pas conçu pour durer et ne devrait pas être utilisé en production**
-
-### Minimum viable product (MVP)
-
-Le minimum viable product (MVP) est la première version fonctionnelle du produit
-avec un ensemble minimal de fonctionnalités permettant de répondre au besoin
-principal des utilisateurs. Il vise à tester l'idée sur le marché et à récolter
-des retours concrets.
-
-- Version la plus simple et fonctionnelle du produit
-- Optimisé pour minimiser les coûts et maximiser le retour utilisateur
-- Permet de tester le marché et d'adapter le produit en fonction des retours
-- Favorise l'itération rapide et les pivots si nécessaire
-- Contrairement au prototype, il est destiné à être réellement utilisé par les
-  utilisateurs finaux
-
 ## Conclusion
 
 Nous espérons que cette première séance vous a permis de comprendre les
-objectifs du cours, les modalités d'organisation du cours et du projet et les
-modalités d'évaluation ainsi que quelques outils et conseils pour travailler de
-façon efficace en équipe.
+objectifs du cours, les modalités d'organisation du cours ainsi que les
+modalités d'évaluation.
 
 Nous restons à votre disposition pour toute question et nous nous réjouissons de
 travailler avec vous durant ce semestre.
@@ -634,72 +287,6 @@ il est recommandé pour la semaine suivante de :
 
 La séance de projet sera consacrée à la présentation des idées que vous avez et
 à la formation des équipes si vous le souhaitez.
-
-[^adobe-xd]:
-    Adobe XD, [adobe.com](https://helpx.adobe.com/ch_fr/support/xd.html), 19
-    février 2025
-
-[^asana]: Asana, [asana.com](https://asana.com/fr), 19 février 2025
-[^balsamiq]: Balsamiq, [balsamiq.com](https://balsamiq.com/), 19 février 2025
-[^consentement]:
-    Décision par consentement,
-    [imfusio.com](https://imfusio.com/es/bibliotheque/decision-par-consentement),
-    19 février 2025
-
-[^jira]:
-    Jira, [atlassian.com](https://www.atlassian.com/software/jira), 19 février
-    2025
-
-[^figma]: Figma, [figma.com](https://www.figma.com/), 19 février 2025
-[^github]: GitHub, [github.com](https://github.com/), 19 février 2025
-[^gitlab]: GitLab, [gitlab.com](https://gitlab.com/), 19 février 2025
-[^git-workflows]:
-    Comparaison des workflows Git,
-    [atlassian.com](https://www.atlassian.com/git/tutorials/comparing-workflows),
-    19 février 2025
-
-[^gouvernance]:
-    Gouvernance partagée,
-    [fr.wikipedia.org](https://fr.wikipedia.org/wiki/Gouvernance_partag%C3%A9e),
-    19 février 2025
-
-[^gitflow]:
-    Workflow GitFlow,
-    [atlassian.com](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow),
-    19 février 2025
-
-[^google-docs]:
-    Google Docs, [docs.google.com](https://docs.google.com/), 19 février 2025
-
-[^holacratie]:
-    Holacratie, [fr.wikipedia.org](https://fr.wikipedia.org/wiki/Holacratie), 19
-    février 2025
-
-[^latex]:
-    LaTeX, [latex-project.org](https://www.latex-project.org/), 19 février 2025
-
-[^markdown]:
-    Markdown,
-    [daringfireball.net](https://daringfireball.net/projects/markdown/), 19
-    février 2025
-
-[^microsoft-word]:
-    Microsoft Word,
-    [microsoft.com](https://www.microsoft.com/microsoft-365/word), 19 février
-    2025
-
-[^penpot]: Penpot, [penpot.app](https://penpot.app/), 19 février 2025
-[^personalite]:
-    Types de personnalité,
-    [16personalities.com](https://www.16personalities.com/fr/types-de-personnalite),
-    19 février 2025
-
-[^trello]: Trello, [trello.com](https://trello.com/), 19 février 2025
-[^typst]: Typst, [typs.app](https://typs.app/), 19 février 2025
-[^scrum]:
-    Stand-ups Scrum,
-    [atlassian.com](https://www.atlassian.com/agile/scrum/standups), 19 février
-    2025
 
 <!-- URLs -->
 

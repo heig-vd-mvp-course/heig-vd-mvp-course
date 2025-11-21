@@ -6,7 +6,7 @@ marp: true
 theme: custom-marp-theme
 size: 16:9
 paginate: true
-author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
+author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 title: HEIG-VD MVP Course - Introduction, motivation et organisation de l'unité
 description: Introduction, motivation et organisation de l'unité pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/01-introduction-motivation-et-organisation-de-lunite/presentation.html
@@ -92,21 +92,12 @@ suivants pour toute question relative au cours :
 _Cette présentation est un résumé du support de cours. Pour plus de détails,
 consultez le [support de cours][course-material]._
 
-## Objectifs (1/2)
+## Objectifs
 
 - Lister les objectifs du cours
 - Lister les modalités d'organisation du cours
-- Lister les modalités d'organisation du projet
 - Lister les modalités d'organisation des équipes
 - Lister les modalités d'évaluation
-
-![bg right:40%][illustration-objectifs]
-
-## Objectifs (2/2)
-
-- Décrire comment travailler en équipe de façon efficace
-- Décrire les différences entre un wireframe, un mockup, un prototype et un MVP
-- Décrire ce qu'est un MVP
 
 ![bg right:40%][illustration-objectifs]
 
@@ -154,16 +145,6 @@ simple** mais **viable et** de **le lancer sur le marché après l'avoir validé
 - Un terrain d'expérimentation pour tester vos projets sur le marché
 
 Nous nous réjouissons de vous accompagner dans ce cours !
-
-## Modalités d'organisation du projet
-
-- Projet libre : sujet, public cible, technologie, etc.
-- En solo ou en équipe (max. 5 personnes recommandé)
-- Seule contrainte : doit viser un "large" public (pas de projet personnel ou
-  groupe restreint)
-- Projet à rendre à la fin du semestre
-
-![bg right:40%][illustration-modalites-dorganisation-du-projet]
 
 ## Modalités d'évaluation
 
@@ -236,129 +217,6 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 
 ![bg right:40%][illustration-grilles-devaluation]
 
-### Grille d'évaluation des présentations
-
-- 8 critères
-- Basés, entre autres, sur :
-  - La qualité de la présentation
-  - La qualité de l'argumentation
-  - La qualité des réponses aux questions
-- [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
-
-![bg right:40%][illustration-grilles-devaluation]
-
-### Grille d'évaluation du rapport final
-
-- 16 critères
-- Basés, entre autres, sur :
-  - La qualité de la rédaction
-  - La qualité du contenu
-- 12 pages maximum (sans compter les images, tableaux, annexes, etc.)
-- [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-du-rapport-final)
-
-![bg right:40%][illustration-grilles-devaluation]
-
-### Grille d'évaluation du produit final
-
-- 8 critères
-- Basés, entre autres, sur :
-  - La qualité de la problématique et de sa solution
-  - La qualité de la réalisation et de l'expérience utilisateur
-- [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-du-produit-final)
-
-![bg right:40%][illustration-grilles-devaluation]
-
-## Comment travailler en équipe de façon efficace
-
-- Il est rare qu'un projet soit réalisé par une seule personne
-- Savoir comment travailler en équipe de façon efficace
-- Principes de la gouvernance partagée et horizontale
-
-![bg right:40%][illustration-comment-travailler-en-equipe-de-facon-efficace]
-
-### Les outils à utiliser
-
-- Préférez les individus et les interactions aux processus et aux outils
-- Le meilleur des outils ne remplacera jamais une bonne communication
-- Git workflow
-- Minimisez le nombre d'outils utilisés
-
-![bg right:40%][illustration-les-outils-a-utiliser]
-
-### Votre équipe
-
-- Faire connaissance
-- Définir les compétences, limites et besoins de chaque personne
-- Les rôles peuvent évoluer au fil du projet
-- Daily et weekly
-
-![bg right:40%][illustration-votre-equipe]
-
-### Rôles
-
-- Importance de bien définir les choses et les rôles :
-  - Point de contact
-  - Décideur
-  - Scribe
-  - Facilitateur
-  - Développeur
-  - Etc.
-
-![bg right:40%][illustration-roles]
-
-### Séances
-
-- Quand est-ce qu'on travaille ?
-- Gestion par consentement
-- Tour de table
-- L'importance des rôles
-
-![bg right:40%][illustration-seances]
-
-## Différences entre un wireframe, un mockup, un prototype et un minimum viable product (MVP)
-
-- **Wireframe** : définir la structure et la navigation
-- **Mockup** : visualiser l'apparence finale
-- **Prototype** : tester les interactions et l'ergonomie
-- **MVP** : lancer une première version utilisable sur le marché
-
-![bg right:20%][illustration-differences-entre-un-wireframe-un-mockup-un-prototype-et-un-minimum-viable-product-mvp]
-
-### Wireframe
-
-- Esquisse simplifiée du produit
-- Définit la structure et la navigation
-- Peu coûteux et rapide à réaliser
-- Papier-crayon
-
-![bg right:40%][illustration-wireframe]
-
-### Mockup
-
-- Version plus détaillée du wireframe
-- Intègre l'aspect visuel du produit
-- De statique à dynamique
-- Utilisé pour obtenir des retours sur l'identité visuelle et l'expérience
-  utilisateur
-
-![bg right:40%][illustration-mockup]
-
-### Prototype
-
-- Simule l'interaction utilisateur
-- Permet de tester l'ergonomie et l'expérience
-- **N'est pas conçu pour durer et ne devrait pas être utilisé en production**
-
-![bg right:40%][illustration-prototype]
-
-### Minimum viable product (MVP)
-
-- Produit minimal simple
-- Permet d'obtenir des retours utilisateurs
-- Résoudre un problème clé avec le minimum d'effort
-
-![bg right:40%][illustration-minimum-viable-product-mvp]
-
 ## Questions
 
 <!-- _class: lead -->
@@ -401,39 +259,6 @@ Est-ce que vous avez des questions ?
 
 ## Sources (2/3)
 
-- [Illustration][illustration-comment-travailler-en-equipe-de-facon-efficace]
-  par [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
-  [Unsplash](https://unsplash.com/photos/man-standing-behind-flat-screen-computer-monitor-bzqU01v-G54)
-- [Illustration][illustration-les-outils-a-utiliser] par
-  [Alvaro Reyes](https://unsplash.com/@alvarordesign) sur
-  [Unsplash](https://unsplash.com/photos/person-working-on-blue-and-white-paper-on-board-qWwpHwip31M)
-- [Illustration][illustration-votre-equipe] par
-  [John Arano](https://unsplash.com/@johnarano) sur
-  [Unsplash](https://unsplash.com/photos/three-people-holding-glass-bottles-while-talking-_qADvinJi20)
-- [Illustration][illustration-roles] par
-  [Randy Fathe](https://unsplash.com/@randyfath) sur
-  [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-chess-pieces-G1yhU1Ej-9A)
-- [Illustration][illustration-seances] par
-  [Brooke Cagle](https://unsplash.com/@brookecagle) sur
-  [Unsplash](https://unsplash.com/photos/a-group-of-friends-at-a-coffee-shop--uHVRvDr7pg)
-- [Illustration][illustration-differences-entre-un-wireframe-un-mockup-un-prototype-et-un-minimum-viable-product-mvp]
-  par [Steven Wright](https://unsplash.com/@stevenwright) sur
-  [Unsplash](https://unsplash.com/photos/magnifying-glass-mq8QogEBy00)
-- [Illustration][illustration-wireframe] par
-  [Faizur Rehman](https://unsplash.com/@fazurrehman) sur
-  [Unsplash](https://unsplash.com/photos/person-holding-black-ipad-with-green-plant-dJpupM4LiS4)
-- [Illustration][illustration-mockup] par
-  [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki) sur
-  [Unsplash](https://unsplash.com/photos/a-pink-and-purple-phone-sitting-on-top-of-a-purple-and-pink-background-Z-vPf7KBuT8)
-
-## Sources (3/3)
-
-- [Illustration][illustration-prototype] par
-  [Mark König](https://unsplash.com/@markkoenig) sur
-  [Unsplash](https://unsplash.com/photos/blue-and-white-wooden-house-on-green-grass-field-during-daytime-1UMrSoItdDE)
-- [Illustration][illustration-minimum-viable-product-mvp] par
-  [Niklas Tidbury](https://unsplash.com/@ntidbury) sur
-  [Unsplash](https://unsplash.com/photos/brown-and-gray-wooden-house-near-mountain-valley-during-daytime-tc3SyHYF_4s)
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
@@ -467,25 +292,5 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1523275335684-37898b6baf30?fit=crop&h=720
 [illustration-grilles-devaluation]:
 	https://images.unsplash.com/photo-1487603527224-a650979f288e?fit=crop&h=720
-[illustration-comment-travailler-en-equipe-de-facon-efficace]:
-	https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?fit=crop&h=720
-[illustration-les-outils-a-utiliser]:
-	https://images.unsplash.com/photo-1531403009284-440f080d1e12?fit=crop&h=720
-[illustration-votre-equipe]:
-	https://images.unsplash.com/photo-1541532713592-79a0317b6b77?fit=crop&h=720
-[illustration-roles]:
-	https://images.unsplash.com/photo-1529699211952-734e80c4d42b?fit=crop&h=720
-[illustration-seances]:
-	https://images.unsplash.com/photo-1543269865-cbf427effbad?fit=crop&h=720
-[illustration-differences-entre-un-wireframe-un-mockup-un-prototype-et-un-minimum-viable-product-mvp]:
-	https://images.unsplash.com/photo-1547057740-4b18aac8eed2?fit=crop&h=720
-[illustration-wireframe]:
-	https://images.unsplash.com/photo-1618788372246-79faff0c3742?fit=crop&h=720
-[illustration-mockup]:
-	https://images.unsplash.com/photo-1703676311066-34caf2cbee33?fit=crop&h=720
-[illustration-prototype]:
-	https://images.unsplash.com/photo-1592660681825-70364e4dd0b9?fit=crop&h=720
-[illustration-minimum-viable-product-mvp]:
-	https://images.unsplash.com/photo-1540468348633-084ed9d348f1?fit=crop&h=720
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720

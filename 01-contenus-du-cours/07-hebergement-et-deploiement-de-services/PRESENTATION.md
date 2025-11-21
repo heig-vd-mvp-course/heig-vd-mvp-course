@@ -6,7 +6,7 @@ marp: true
 theme: custom-marp-theme
 size: 16:9
 paginate: true
-author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
+author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 title: HEIG-VD MVP Course - Hébergement et déploiement de services
 description: Hébergement et déploiement de services pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/07-hebergement-et-deploiement-de-services/presentation.html

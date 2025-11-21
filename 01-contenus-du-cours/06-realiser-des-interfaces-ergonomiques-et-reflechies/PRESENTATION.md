@@ -6,7 +6,7 @@ marp: true
 theme: custom-marp-theme
 size: 16:9
 paginate: true
-author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
+author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 title: HEIG-VD MVP Course - Réaliser des interfaces ergonomiques et réfléchies
 description: Réaliser des interfaces ergonomiques et réfléchies pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/06-realiser-des-interfaces-ergonomiques-et-reflechies/presentation.html

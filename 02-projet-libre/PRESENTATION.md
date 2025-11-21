@@ -6,27 +6,16 @@ marp: true
 theme: custom-marp-theme
 size: 16:9
 paginate: true
-author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
-title: HEIG-VD MVP Course - Introduction, motivation et organisation de l'unité
-description: Introduction, motivation et organisation de l'unité pour le cours MVP à la HEIG-VD, Suisse
-url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/index.html
-header: "**Introduction, motivation et organisation de l'unité**"
+author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
+title: HEIG-VD MVP Course - Projet libre
+description: Projet libre pour le cours MVP à la HEIG-VD, Suisse
+url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html
+header: "[**Projet libre**](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/02-projet-libre/README.md)"
 footer: "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course 2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC BY-SA 4.0](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md)"
-
 headingDivider: 6
 -->
 
-<!--
-
-Commentaires
-
-Cette présentation avait duré 45 minutes. Mais la partie sur la gestion d'équipe
-était un peu longue. 35 minutes serait plus approprié, de toute façon, le
-contenu est dans le support de cours.
-
--->
-
-# Introduction, motivation et organisation de l'unité
+# Projet libre
 
 <!--
 _class: lead
@@ -43,119 +32,6 @@ _paginate: false
 
 ![bg opacity:0.25][illustration-principale]
 
-## Bienvenue au cours Lancez votre minimum viable product (MVP) !
-
-<!-- _class: lead -->
-
-## Qui sommes-nous
-
-<div class="two-columns center">
-<div>
-
-**Ludovic  
-Delafontaine**
-
-![w:200](./images/ludovic-delafontaine.png)
-
-[E-mail](mailto:ludovic.delafontaine@heig-vd.ch) ·
-[GitHub](https://github.com/ludelafo)
-
-</div>
-<div>
-
-**Vincent  
-Guidoux**
-
-![w:200](./images/vincent-guidoux.png)
-
-[E-mail](mailto:vincent.guidoux1@heig-vd.ch) ·
-[GitHub](https://github.com/Nortalle)
-
-</div>
-</div>
-
-## Comment nous contacter
-
-Selon vos préférences, vous pouvez utiliser l'un des canaux de communication
-suivants pour toute question relative au cours :
-
-- [GitHub Discussions](https://github.com/orgs/heig-vd-mvp-course/discussions)
-  (à privilégier)
-- En personne
-- Par e-mail (mettre tout le monde en copie sauf cas particulier) :
-  - [ludovic.delafontaine@heig-vd.ch](mailto:ludovic.delafontaine@heig-vd.ch)
-  - [vincent.guidoux1@heig-vd.ch](mailto:vincent.guidoux1@heig-vd.ch)
-
-## Plus de détails dans le support de cours
-
-<!-- _class: lead -->
-
-_Cette présentation est un résumé du support de cours. Pour plus de détails,
-consultez le [support de cours][course-material]._
-
-## Objectifs (1/2)
-
-- Lister les objectifs du cours
-- Lister les modalités d'organisation du cours
-- Lister les modalités d'organisation du projet
-- Lister les modalités d'organisation des équipes
-- Lister les modalités d'évaluation
-
-![bg right:40%][illustration-objectifs]
-
-## Objectifs (2/2)
-
-- Décrire comment travailler en équipe de façon efficace
-- Décrire les différences entre un wireframe, un mockup, un prototype et un MVP
-- Décrire ce qu'est un MVP
-
-![bg right:40%][illustration-objectifs]
-
-## Objectifs du cours (1/3)
-
-Selon la
-[fiche d'unité](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379),
-à la fin de ce cours, vous devriez être capable de :
-
-> - Identifier des secteurs de marché prometteurs pour y fournir un nouveau
->   service
-> - Promouvoir et pitcher son idée en public
-> - Appliquer des méthodologies de validation de marché
-> - Énumérer les avantages et les inconvénients d'une stack technologique web
-
-## Objectifs du cours (2/3)
-
-> - Évaluer le choix d'une stack technologique web par rapport à une situation
->   donnée
-> - Utiliser les bonnes pratiques de programmation pour rendre une application
->   viable et pérenne dans le temps
-> - Créer, maintenir, déployer une application web de type minimum viable
->   product (MVP) attractive proposant un service à son public cible
-> - Inclure un moyen de paiement sur un site web et se faire rémunérer pour ses
->   services
-
-## Objectifs du cours (3/3)
-
-> - Mettre en place des applications durables (autant au niveau technique qu'au
->   niveau financier)
-> - Énumérer les différentes formes juridiques pour la création d'une entreprise
->   avec leurs avantages et inconvénients
-
-En résumé, à la fin de ce cours, vous devriez être capable de **créer un produit
-simple** mais **viable et** de **le lancer sur le marché après l'avoir validé.**
-
-## Modalités d'organisation du cours
-
-- En présentiel chaque semaine dans cette même salle
-- De la théorie sera abordée, mais surtout de la pratique
-- Espace de discussion pour poser des questions, partager vos expériences et
-  obtenir de l'aide/des retours
-- Partage de connaissance et d'expérience - il n'y a pas de juste ou de faux
-  dans ce cours
-- Un terrain d'expérimentation pour tester vos projets sur le marché
-
-Nous nous réjouissons de vous accompagner dans ce cours !
-
 ## Modalités d'organisation du projet
 
 - Projet libre : sujet, public cible, technologie, etc.
@@ -165,26 +41,6 @@ Nous nous réjouissons de vous accompagner dans ce cours !
 - Projet à rendre à la fin du semestre
 
 ![bg right:40%][illustration-modalites-dorganisation-du-projet]
-
-## Modalités d'évaluation
-
-Le cours sera évalué sur plusieurs aspects :
-
-- Une évaluation écrite (100% de la note du cours)
-- Trois présentations (10%/15%/20% du projet, respectivement)
-- Un rapport final (40% du projet)
-- Une évaluation sur le produit final (15% du projet)
-
-**Le produit final n'a qu'une petite part de la note.** L'important est la
-démarche et l'apprentissage.
-
-### Évaluation écrite
-
-- Évaluation sur les connaissances théoriques acquises sur tout le semestre
-- Durée minimale de 45 minutes
-- Devrait utiliser la plateforme d'évaluation en ligne de la HEIG-VD
-
-![bg right:40%][illustration-evaluation-ecrite]
 
 ### Présentations
 
@@ -366,12 +222,626 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 
 Est-ce que vous avez des questions ?
 
-## À vous de jouer !
+## Répartition des séances
 
-- Prendre connaissance du [support de cours][course-material]
-- Poser des questions si nécessaire
+### Séance 1 - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)
 
-![bg right:40%][illustration-a-vous-de-jouer]
+<!-- _class: lead -->
+
+#### Objectifs (1/2)
+
+- Faire connaissance
+- Présenter les idées existantes
+- Constituer les groupes
+- Connaître les intérêts de chaque personne
+- Définir les rôles de chaque personne
+- Organiser le travail en équipe sur le semestre
+
+![bg right:40%][illustration-objectifs]
+
+#### Objectifs (2/2)
+
+- Explorer d'autres idées
+- Commencer à approfondir une idée
+- Prendre connaissance de la structure attendue et des critères d'évaluation du
+  rendu final
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Nous vous invitons maintenant à vous présenter et votre idée de projet si vous
+en avez une. N'hésitez pas à poser des questions aux autres personnes pour mieux
+comprendre leur(s) idée(s).
+
+Ensuite, nous vous invitons à former des groupes avec les personnes/projets qui
+vont inspirés ou à réfléchir à une idée personnelle.
+
+Enfin, nous vous invitons à prendre connaissance de la structure et critères du
+rapport final et explorer/approfondir d'autres idées.
+
+#### Conclusion
+
+TODO?
+
+#### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
+  pour le projet
+
+### Séance 2 - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)
+
+<!-- _class: lead -->
+
+#### Objectifs (1/2)
+
+- Identifier le contexte dans lequel évolue le projet
+- Identifier le secteur de marché dans lequel évolue le projet
+- Décrire le besoin auquel répond le projet
+- Lister des idées originales
+- Choisir une idée qui répond à un besoin
+
+![bg right:40%][illustration-objectifs]
+
+#### Objectifs (2/2)
+
+- Identifier la plus-value du service
+- Identifier les avantages/forces et les inconvénients/faiblesses de l'idée
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Nous vous invitons maintenant à prendre la parole pour rappeler vos groupes, les
+projets sur lesquels vous allez travailler et présenter l'avancement de votre
+projet.
+
+Ensuite, nous vous invitons à tester les outils de créativité pour explorer
+d'autres idées originales qui répondent à un besoin défini.
+
+Enfin, nous vous invitons à décrire le besoin, identifier le secteur de marché,
+identifier la plus-value du service, identifier si votre idée est pertinente et
+compléter le rapport.
+
+#### Conclusion
+
+TODO?
+
+#### À faire pour la semaine suivante
+
+TODO?
+
+### Séance 3 - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)
+
+<!-- _class: lead -->
+
+#### Objectifs (1/2)
+
+- Choisir une idée qui répond à un besoin
+- Rédiger la description du projet
+- Identifier le public cible **imaginaire**
+- Lister des personae **imaginés**
+- Améliorer la description des besoins **imaginés** du public cible
+- Identifier les étapes pour comprendre le public cible
+
+![bg right:40%][illustration-objectifs]
+
+#### Objectifs (2/2)
+
+- Rédiger une série de questions pour comprendre le public cible
+- Identifier 2-3 personnes avec qui discuter pour comprendre le public cible
+- Lister les hypothèses à valider pour comprendre le public cible
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Nous vous invitons à travailler sur votre public cible **imaginaire**, ses
+personae et ses besoins.
+
+Ensuite, identifiez les personnes avec qui vous allez discuter et préparez une
+série de questions pour un entretien.
+
+Enfin, listez les hypothèses à valider pour comprendre le public cible et
+complétez le rapport.
+
+#### Conclusion
+
+TODO?
+
+#### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
+
+### Séance 4 - Présentations du pitch
+
+<!-- _class: lead -->
+
+#### Objectifs
+
+- Préparer un pitch
+- Réaliser un pitch
+- Répondre aux questions
+- Recevoir des feedbacks constructifs
+- Évaluer les pitches des autres groupes
+- Donner des feedbacks constructifs
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Vous avez 20 minutes pour préparer votre pitch, après quoi chaque groupe a 2
+minutes pour présenter son pitch suivi d'un moments de questions et feedbacks.
+
+Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
+feedbacks constructifs.
+
+Vous pouvez retrouver la grille d'évaluation de la présentation ici :
+[Projet libre - Grille d'évaluation des présentations](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
+
+#### Conclusion
+
+TODO?
+
+#### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
+
+### Séance 5 - CRUNCH : pas de séance
+
+_En raison du CRUNCH, il n'y a pas de séances de cours/projet durant la
+semaine 4._
+
+### Séance 6 - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)
+
+<!-- _class: lead -->
+
+#### Objectifs (1/3)
+
+- Prendre en main un outil de création de site web statique
+- Réaliser un site statique type _"Hello, world!"_
+- Déployer le site statique sur Internet
+- Identifier les mots clés pour le référencement
+
+![bg right:40%][illustration-objectifs]
+
+#### Objectifs (2/3)
+
+- Mettre en commun les interviews réalisées jusqu'ici
+- Partager les réflexions autour de ces interviews
+
+![bg right:40%][illustration-objectifs]
+
+#### Objectifs (3/3)
+
+- Prendre connaissance des critères d'évaluation pour la présentation sur la
+  [Prospection](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Déployez un site web statique _"Hello world"_ sur un hébergeur de votre choix
+avec la technologie de votre choix. Il s'agira de la fondation pour votre MVP.
+
+Identifiez les mots clés pour le référencement de votre projet afin d'être
+visible sur Internet.
+
+Complétez le rapport avec les nouvelles données que vous avez acquises jusqu'ici
+et prenez connaissance de la présentation sur la prospection et son contenu.
+
+#### Conclusion
+
+TODO?
+
+#### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser la mise en ligne du site web statique
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
+
+### Séance 7 - Réalisation et hébergement de la landing page avec formulaire de contact (2/2)
+
+<!-- _class: lead -->
+
+#### Objectifs (1/2)
+
+- Réaliser un mockup de la landing page
+- Commencer à réaliser la landing page
+- Implémenter un formulaire de contact
+- Identifier les canaux de communication pour promouvoir le projet
+
+![bg right:40%][illustration-objectifs]
+
+#### Objectifs (2/2)
+
+- Commencer à promouvoir la landing page
+- Commencer à réaliser la présentation sur la [Prospection][prospection]
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Profitant des retours des interviews, réalisez un mockup de la landing page de
+votre projet. Continuez à réaliser la landing page et implémentez un formulaire
+de contact.
+
+Utilisez les outils et conseils vus en cours pour promouvoir votre projet et
+améliorer votre visibilité.
+
+Ayez toujours un regard critique sur votre projet et soyez prêt.es à recevoir
+des feedbacks constructifs. Et aussi, gardez en tête le fil rouge du cours et
+les prochaines étapes.
+
+#### Conclusion
+
+TODO?
+
+#### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser la landing page
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible et les interviewer
+- Partager votre projet autour de vous selon les canaux de communication
+  identifiés
+- Finaliser et répéter la présentation sur la [Prospection][prospection]
+
+### Séance 8 - Présentation sur la prospection
+
+<!-- _class: lead -->
+
+#### Objectifs
+
+- Présenter le travail effectué sur la prospection
+- Répondre aux questions
+- Recevoir des feedbacks constructifs
+- Évaluer les présentations des autres groupes
+- Donner des feedbacks constructifs
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Vous avez 8-10 minutes pour présenter votre travail sur la prospection
+(interviews, public cible, etc...), après quoi votre groupe répondra aux
+questions et au feedbacks.
+
+Il est conseillé de préparer un support pour votre présentation.
+
+Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
+feedbacks constructifs.
+
+Vous pouvez retrouver la grille d'évaluation de la présentation ici :
+[Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-des-présentations)
+
+#### Conclusion
+
+TODO?
+
+#### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
+- Partager votre projet autour de vous selon les canaux de communication
+  identifiés
+
+### Séance 9 - Réalisation du service et tests utilisateurs (1/6)
+
+<!-- _class: lead -->
+
+#### Objectifs (1/3)
+
+- Identifier s'il faut pivoter ou non
+- Identifier quels éléments manquent pour déterminer s'il faut pivoter ou non
+- Identifier les forces et les faiblesses des données récoltées jusqu'ici
+
+![bg right:40%][illustration-objectifs]
+
+#### Objectifs (2/3)
+
+- Pivoter si nécessaire avec une nouvelle idée (proche de l'existant ou non)
+- Identifier les fonctionnalités minimales à implémenter pour le service
+  envisagé
+- Identifier les hypothèses à tester sur la base des fonctionnalités minimales
+
+![bg right:40%][illustration-objectifs]
+
+#### Objectifs (3/3)
+
+- Planifier le développement des fonctionnalités de base pour le service
+  envisagé pour les semaines restantes
+- Identifier des personnes qui pourraient tester le service envisagé
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Prenez ce moment pour faire le point sur votre projet. Vous pouvez :
+
+- Lister clairement les informations collectées jusqu'ici et si elles indiquent
+  qu'un pivot est nécessaire ou non.
+- Réaliser une analyse SWOT simplifiée de votre situation actuelle.
+- Organiser un brainstorming en équipe pour identifier des pistes alternatives
+  concrètes (si nécessaire).
+- Planifier le développement des fonctionnalités minimales pour le service
+  envisagé.
+
+#### Conclusion
+
+TODO?
+
+#### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Trouver une nouvelle idée (si nécessaire)
+- Effectuer des tests utilisateurs
+
+### Séance 10 - Réalisation du service et tests utilisateurs (2/6)
+
+<!-- _class: lead -->
+
+#### Objectifs (1/2)
+
+- Déployer une application de type _"Hello, world!"_ sur Internet
+- Mettre en place un pipeline de CI/CD pour déployer une application sur
+  Internet
+- Commencer à faire les mockups des fonctionnalités de base du service envisagé
+
+![bg right:40%][illustration-objectifs]
+
+#### Objectifs (2/2)
+
+- Mettre en place les bonnes pratiques pour le développement du service envisagé
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+TODO
+
+#### Conclusion
+
+TODO?
+
+#### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Réaliser des tests utilisateurs
+
+### Séance 11 - Réalisation du service et tests utilisateurs (3/6)
+
+<!-- _class: lead -->
+
+#### Objectifs (1/2)
+
+- Réaliser une ébauche de business model pour leur service
+- Intégrer une solution de paiement à leur service
+- Continuer les mockups du service envisagé
+- Continuer le développement du service envisagé
+
+![bg right:40%][illustration-objectifs]
+
+#### Objectifs (2/2)
+
+- Effectuer des tests utilisateurs
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Suivez les objectifs de la séance en cours et commencez à développer le service
+envisagé.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
+
+#### Conclusion
+
+TODO?
+
+#### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Relire le support de cours si nécessaire
+- Commencer à réviser pour l'évaluation de la semaine 13
+
+### Séance 12 - Réalisation du service et tests utilisateurs (4/6)
+
+<!-- _class: lead -->
+
+#### Objectifs (1/2)
+
+- Lister les formes juridiques possibles pour une entreprise en Suisse
+- Lister les avantages et inconvénients des différentes formes juridiques pour
+  une entreprise en Suisse
+- Lister les aides et soutiens possibles à l'innovation en Suisse romande
+
+![bg right:40%][illustration-objectifs]
+
+#### Objectifs (2/2)
+
+- Lister les différents éléments administratifs qu'une entreprise en Suisse doit
+  avoir et respecter
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Suivez les objectifs de la séance en cours et commencez à développer le service
+envisagé.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
+
+#### Conclusion
+
+TODO?
+
+#### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Effectuer des tests utilisateurs
+- Réviser pour l'évaluation de la semaine 13
+
+### Séance 13 - Réalisation du service et tests utilisateurs (5/6)
+
+<!-- _class: lead -->
+
+#### Objectifs
+
+- Continuer le développement du service
+- Planifier les dernières étapes du développement du service
+- Compléter le rapport
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Suivez les objectifs de la séance en cours et commencez à développer le service
+envisagé.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
+
+#### Conclusion
+
+TODO?
+
+#### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser le développement du service
+- Effectuer des tests utilisateurs
+
+### Séance 14 - Réalisation du service et tests utilisateurs (6/6)
+
+<!-- _class: lead -->
+
+#### Objectifs
+
+- Finaliser le développement du service
+- Finaliser le rapport
+- Commencer la présentation du projet de la semaine 16
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Suivez les objectifs de la séance en cours et commencez à développer le service
+envisagé.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
+
+#### Conclusion
+
+TODO?
+
+#### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la semaine suivante de :
+
+- Finaliser et rendre le rapport selon les attentes spécifiées à la semaine 15
+
+### Séance 15 - Rendu du rapport
+
+<!-- _class: lead -->
+
+#### Objectifs
+
+TODO
+
+#### Déroulement
+
+TODO
+
+#### Conclusion
+
+TODO?
+
+#### À faire pour la semaine suivante
+
+TODO
+
+### Séance 16 - Présentations et rendu du projet
+
+<!-- _class: lead -->
+
+#### Objectifs
+
+- Présenter le travail effectué sur tout le semestre
+- Répondre aux questions
+- Recevoir des feedbacks constructifs
+- Évaluer les présentations des autres groupes
+- Donner des feedbacks constructifs
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement (1/2)
+
+Tout le monde est présent pour voir toutes les présentations. 10 minutes de
+présentation et 5 minutes de questions par groupe. Entre les présentations, le
+prochain groupe se prépare.
+
+| Ordre | Groupe                          | Passage       |
+| :---- | :------------------------------ | :------------ |
+| 1     | Zmoos Léo, Oliveira Ramos Dylan | 09:30 - 09:40 |
+| 2     | Demont Kilian                   | 09:45 - 09:55 |
+| 3     | Häffner Edwin                   | 10:00 - 10:10 |
+| 4     | Mühlemann Julien                | 10:15 - 10:25 |
+
+#### Déroulement (2/2)
+
+| Ordre | Groupe                                 | Passage       |
+| :---- | :------------------------------------- | :------------ |
+| 5     | Iorio Alexandre, Serzedelo Costa André | 10:30 - 10:40 |
+|       | Pause                                  | 10:45 - 11:00 |
+| 6     | Holzer Julien                          | 11:00 - 11:10 |
+| 7     | Hutzli Boris                           | 11:15 - 11:25 |
+| 8     | Graf Calvin, Sottile Alan              | 11:30 - 11:40 |
+| 9     | Roland Samuel                          | 11:45 - 11:55 |
 
 ## Sources (1/3)
 
