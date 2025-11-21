@@ -415,7 +415,7 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 
-<details>
+</details>
 
 ## 📜 Licence
 
