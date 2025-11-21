@@ -49,7 +49,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Séance 5 - CRUNCH : pas de séance](#séance-5---crunch--pas-de-séance)
   - [Séance 6 - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)](#séance-6---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-12)
   - [Séance 7 - Réalisation et hébergement de la landing page avec formulaire de contact (2/2)](#séance-7---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-22)
-  - [Conclusion](#conclusion-5)
   - [Séance 8 - Présentation sur la prospection](#séance-8---présentation-sur-la-prospection)
   - [Séance 9 - Réalisation du service et tests utilisateurs (1/6)](#séance-9---réalisation-du-service-et-tests-utilisateurs-16)
   - [Séance 10 - Réalisation du service et tests utilisateurs (2/6)](#séance-10---réalisation-du-service-et-tests-utilisateurs-26)
@@ -1109,6 +1108,10 @@ Ayez toujours un regard critique sur votre projet et soyez prêt.es à recevoir
 des feedbacks constructifs. Et aussi, gardez en tête le fil rouge du cours et
 les prochaines étapes.
 
+#### Conclusion
+
+TODO?
+
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1123,7 +1126,7 @@ il est recommandé pour la semaine suivante de :
 - Finaliser la présentation sur la [Prospection][prospection]
 - Répéter la présentation sur la [Prospection][prospection]
 
-### Conclusion
+#### Conclusion
 
 À l'issue de cette séance, vous avez réalisé un mockup de la landing page de
 votre projet, commencé à réaliser la landing page et implémenté un formulaire de
@@ -1311,6 +1314,10 @@ Prenez ce moment pour faire le point sur votre projet. Vous pouvez :
 - Organiser un brainstorming en équipe pour identifier des pistes alternatives
   concrètes (si nécessaire).
 
+#### Conclusion
+
+TODO?
+
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1394,6 +1401,10 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
+#### Conclusion
+
+TODO?
+
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1474,6 +1485,10 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
+#### Conclusion
+
+TODO?
+
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1552,6 +1567,10 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
+#### Conclusion
+
+TODO?
+
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1627,6 +1646,10 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
+#### Conclusion
+
+TODO?
+
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1701,6 +1724,10 @@ envisagé.
 
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
+
+#### Conclusion
+
+TODO?
 
 #### À faire pour la semaine suivante
 
