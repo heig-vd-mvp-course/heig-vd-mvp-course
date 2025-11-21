@@ -1,0 +1,11 @@
+services:
+  devcontainer:
+    image: mcr.microsoft.com/devcontainers/base:bookworm
+    command: sleep infinity
+    volumes:
+      - ..:/workspace:cached
+
+  plantuml:
+    image: plantuml/plantuml-server:latest
+    ports:
+      - 9090:8080
