@@ -52,25 +52,25 @@ méthodes d'enseignement et d'apprentissage, et les méthodes d'évaluation.
 Les numéros des semaines correspondent aux semaines définies dans le
 [Calendrier académique de la HEIG-VD](https://heig-vd.ch/formation/bachelor/calendrier-academique/).
 
-| Séance | Dates             | Cours                                                                                                                                                | Projet                                                                                                                                         | État[^etat] |
-| -----: | :---------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
-|     01 | 16.02. - 22.02.26 | [Introduction, motivation et organisation de l'unité](./01-contenus-du-cours/01-introduction-motivation-et-organisation-de-lunite/README.md)         | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)](./02-projet-libre/README.md) | 🔴 À faire  |
-|     02 | 23.02. - 01.03.26 | [Trouver des idées originales qui répondent à un besoin](./01-contenus-du-cours/02-trouver-des-idees-originales-qui-repondent-a-un-besoin/README.md) | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)](./02-projet-libre/README.md) | 🔴 À faire  |
-|     03 | 02.03. - 08.03.26 | [Comprendre et atteindre son public cible](./01-contenus-du-cours/03-comprendre-et-atteindre-son-public-cible/README.md)                             | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)](./02-projet-libre/README.md) | 🔴 À faire  |
-|  🚨 04 | 09.03. - 15.03.26 | [Promouvoir et pitcher son idée](./01-contenus-du-cours/04-promouvoir-et-pitcher-son-idee/README.md)                                                 | [Présentations du pitch](./02-projet-libre/README.md)                                                                                          | 🔴 À faire  |
-|     05 | 16.03. - 22.03.26 | _CRUNCH : pas de séance_                                                                                                                             | _CRUNCH : pas de projet libre_                                                                                                                 | 🔴 À faire  |
-|     06 | 23.03. - 29.03.26 | [Identification et choix d'une stack technologique](./01-contenus-du-cours/05-identification-et-choix-dune-stack-technologique/README.md)            | [Réalisation et hébergement de la landing page avec formulaire de contact (1/2)](./02-projet-libre/README.md)                                  | 🔴 À faire  |
-|     07 | 30.03. - 05.04.26 | [Réaliser des interfaces ergonomiques et réfléchies](./01-contenus-du-cours/06-realiser-des-interfaces-ergonomiques-et-reflechies/README.md)         | [Réalisation et hébergement de la landing page avec formulaire de contact (2/2)](./02-projet-libre/README.md)                                  | 🔴 À faire  |
-|      - | 06.04. - 12.04.26 | _Vacances : pas de séance_                                                                                                                           | _Vacances : pas de projet libre_                                                                                                               | 🔴 À faire  |
-|  🚨 08 | 13.04. - 19.04.26 | [Hébergement et déploiement de services](./01-contenus-du-cours/07-hebergement-et-deploiement-de-services/README.md)                                 | [Présentations de la prospection](./02-projet-libre/README.md)                                                                                 | 🔴 À faire  |
-|     09 | 20.04. - 26.04.26 | [Recevoir des feedbacks constructifs et pivoter](./01-contenus-du-cours/08-recevoir-des-feedbacks-constructifs-et-pivoter/README.md)                 | [Réalisation du service et tests utilisateurs (1/6)](./02-projet-libre/README.md)                                                              | 🔴 À faire  |
-|     10 | 27.04. - 03.05.26 | [Réaliser des applications pérennes](./01-contenus-du-cours/09-realiser-des-applications-perennes/README.md)                                         | [Réalisation du service et tests utilisateurs (2/6)](./02-projet-libre/README.md)                                                              | 🔴 À faire  |
-|     11 | 04.05. - 10.05.26 | [Se faire payer pour sa passion](./01-contenus-du-cours/10-se-faire-payer-pour-sa-passion/README.md)                                                 | [Réalisation du service et tests utilisateurs (3/6)](./02-projet-libre/README.md)                                                              | 🔴 À faire  |
-|     12 | 11.05. - 17.05.26 | [Créer sa propre entreprise](./01-contenus-du-cours/11-creer-sa-propre-entreprise/README.md)                                                         | [Réalisation du service et tests utilisateurs (4/6)](./02-projet-libre/README.md)                                                              | 🔴 À faire  |
-|  🚨 13 | 18.05. - 24.05.26 | [Évaluation](./03-evaluation-finale/README.md)                                                                                                       | [Réalisation du service et tests utilisateurs (5/6)](./02-projet-libre/README.md)                                                              | 🔴 À faire  |
-|     14 | 25.05. - 31.05.26 | _Pas de cours, uniquement du projet_                                                                                                                 | [Réalisation du service et tests utilisateurs (6/6)](./02-projet-libre/README.md)                                                              | 🔴 À faire  |
-|  🚨 15 | 01.06. - 07.06.26 | _Pas de cours, uniquement du projet_                                                                                                                 | [Rendu du rapport](./02-projet-libre/README.md)                                                                                                | 🔴 À faire  |
-|  🚨 16 | 08.06. - 14.06.26 | [Revue du semestre](./01-contenus-du-cours/12-revue-du-semestre/README.md)                                                                           | [Présentations et rendu du projet](./02-projet-libre/README.md)                                                                                | 🔴 À faire  |
+| Séance | Dates             | Cours                                                                                                                                                | Projet                                                                                                                                                                                                                                                             | État[^etat] |
+| -----: | :---------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
+|     01 | 16.02. - 22.02.26 | [Introduction, motivation et organisation de l'unité](./01-contenus-du-cours/01-introduction-motivation-et-organisation-de-lunite/README.md)         | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)](./02-projet-libre/README.md#séance-1---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-13) | 🔴 À faire  |
+|     02 | 23.02. - 01.03.26 | [Trouver des idées originales qui répondent à un besoin](./01-contenus-du-cours/02-trouver-des-idees-originales-qui-repondent-a-un-besoin/README.md) | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)](./02-projet-libre/README.md#séance-2---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-23) | 🔴 À faire  |
+|     03 | 02.03. - 08.03.26 | [Comprendre et atteindre son public cible](./01-contenus-du-cours/03-comprendre-et-atteindre-son-public-cible/README.md)                             | [Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)](./02-projet-libre/README.md#séance-3---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-33) | 🔴 À faire  |
+|  🚨 04 | 09.03. - 15.03.26 | [Promouvoir et pitcher son idée](./01-contenus-du-cours/04-promouvoir-et-pitcher-son-idee/README.md)                                                 | [Présentations du pitch](./02-projet-libre/README.md#séance-4---présentations-du-pitch)                                                                                                                                                                            | 🔴 À faire  |
+|     05 | 16.03. - 22.03.26 | _CRUNCH : pas de séance_                                                                                                                             | _CRUNCH : pas de projet libre_                                                                                                                                                                                                                                     | 🔴 À faire  |
+|     06 | 23.03. - 29.03.26 | [Identification et choix d'une stack technologique](./01-contenus-du-cours/05-identification-et-choix-dune-stack-technologique/README.md)            | [Réalisation et hébergement de la landing page avec formulaire de contact (1/2)](./02-projet-libre/README.md#séance-6---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-12)                                                               | 🔴 À faire  |
+|     07 | 30.03. - 05.04.26 | [Réaliser des interfaces ergonomiques et réfléchies](./01-contenus-du-cours/06-realiser-des-interfaces-ergonomiques-et-reflechies/README.md)         | [Réalisation et hébergement de la landing page avec formulaire de contact (2/2)](./02-projet-libre/README.md#séance-7---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-22)                                                               | 🔴 À faire  |
+|      - | 06.04. - 12.04.26 | _Vacances : pas de séance_                                                                                                                           | _Vacances : pas de projet libre_                                                                                                                                                                                                                                   | 🔴 À faire  |
+|  🚨 08 | 13.04. - 19.04.26 | [Hébergement et déploiement de services](./01-contenus-du-cours/07-hebergement-et-deploiement-de-services/README.md)                                 | [Présentations de la prospection](./02-projet-libre/README.md#séance-8---présentations-de-la-prospection)                                                                                                                                                          | 🔴 À faire  |
+|     09 | 20.04. - 26.04.26 | [Recevoir des feedbacks constructifs et pivoter](./01-contenus-du-cours/08-recevoir-des-feedbacks-constructifs-et-pivoter/README.md)                 | [Réalisation du service et tests utilisateurs (1/6)](./02-projet-libre/README.md#séance-9---réalisation-du-service-et-tests-utilisateurs-16)                                                                                                                       | 🔴 À faire  |
+|     10 | 27.04. - 03.05.26 | [Réaliser des applications pérennes](./01-contenus-du-cours/09-realiser-des-applications-perennes/README.md)                                         | [Réalisation du service et tests utilisateurs (2/6)](./02-projet-libre/README.md#séance-10---réalisation-du-service-et-tests-utilisateurs-26)                                                                                                                      | 🔴 À faire  |
+|     11 | 04.05. - 10.05.26 | [Se faire payer pour sa passion](./01-contenus-du-cours/10-se-faire-payer-pour-sa-passion/README.md)                                                 | [Réalisation du service et tests utilisateurs (3/6)](./02-projet-libre/README.md#séance-11---réalisation-du-service-et-tests-utilisateurs-36)                                                                                                                      | 🔴 À faire  |
+|     12 | 11.05. - 17.05.26 | [Créer sa propre entreprise](./01-contenus-du-cours/11-creer-sa-propre-entreprise/README.md)                                                         | [Réalisation du service et tests utilisateurs (4/6)](./02-projet-libre/README.md#séance-12---réalisation-du-service-et-tests-utilisateurs-46)                                                                                                                      | 🔴 À faire  |
+|  🚨 13 | 18.05. - 24.05.26 | [Évaluation](./03-evaluation-finale/README.md)                                                                                                       | [Réalisation du service et tests utilisateurs (5/6)](./02-projet-libre/README.md#séance-13---réalisation-du-service-et-tests-utilisateurs-56)                                                                                                                      | 🔴 À faire  |
+|     14 | 25.05. - 31.05.26 | _Pas de cours, uniquement du projet_                                                                                                                 | [Réalisation du service et tests utilisateurs (6/6)](./02-projet-libre/README.md#séance-14---réalisation-du-service-et-tests-utilisateurs-66)                                                                                                                      | 🔴 À faire  |
+|  🚨 15 | 01.06. - 07.06.26 | _Pas de cours, uniquement du projet_                                                                                                                 | [Rendu du rapport](./02-projet-libre/README.md#séance-15---rendu-du-rapport)                                                                                                                                                                                       | 🔴 À faire  |
+|  🚨 16 | 08.06. - 14.06.26 | [Revue du semestre](./01-contenus-du-cours/12-revue-du-semestre/README.md)                                                                           | [Présentations et rendu du projet](./02-projet-libre/README.md#séance-16---présentations-et-rendu-du-projet)                                                                                                                                                       | 🔴 À faire  |
 
 <details>
 <summary>Voir le détail des séances de cours</summary>
@@ -167,60 +167,6 @@ Les numéros des semaines correspondent aux semaines définies dans le
   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-4---présentations-du-pitch)
   ·
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
-
-<details>
-<summary>Voir les détails</summary>
-
-<br>
-
-### Objectifs
-
-À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
-
-- Préparer un pitch
-- Réaliser un pitch
-- Répondre aux questions
-- Recevoir des feedbacks constructifs
-- Évaluer les pitches des autres groupes
-- Donner des feedbacks constructifs
-
-### Méthodes d'enseignement et d'apprentissage
-
-Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
-sont les suivantes :
-
-- Temps de préparation (20 minutes)
-- Présentations (60 minutes)
-  - Présentations (sans slides)
-  - Sessions de questions-réponses
-  - Évaluations et feedbacks
-
-### Méthodes d'évaluation
-
-L'évaluation prend la forme d'une présentation du projet aux autres groupes.
-
-L'évaluation se fait en utilisant les critères suivants :
-
-- Capacité à présenter
-- Capacité à répondre aux questions
-- Capacité à écouter les feedbacks
-
-Les retours se font de la manière suivante :
-
-- [Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-dévaluation-des-présentations)
-
-**🚨 L'évaluation donne lieu à une note.** (10% de la note de projet)
-
-**À faire pour la semaine suivante**
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
-- Identifier des personnes dans votre entourage qui pourraient rentrer dans
-  votre public cible
-- Interviewer ces personnes pour récolter des retours
-
-</details>
 
 ## 🕔 Semaine 5
 
@@ -438,12 +384,6 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
 
 ### Rendu du rapport
 
-> [!CAUTION]
->
-> Malgré le jeudi de l'Ascension, le rapport devra être remis au plus tard le
-> jeudi à 23h59. Tout retard entraînera une pénalité d'un point par jour sur la
-> note finale.
-
 - **🚨 Évaluation notée** (20% de la note de projet)
 - Supports de cours :
   [Support de cours (Markdown)](./02-projet-libre/README.md#séance-15---rendu-du-rapport)
@@ -464,11 +404,6 @@ _Il n'y a pas de cours cette séance, uniquement le projet._
   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/12-revue-du-semestre/12-revue-du-semestre-presentation.pdf)
 
 ### Présentations et rendu du projet
-
-> [!CAUTION]
->
-> Le projet devra être remis au plus tard le jeudi à 23h59. Tout retard
-> entraînera une pénalité d'un point par jour sur la note finale.
 
 - **🚨 Évaluation notée** (20% de la note de projet pour la présentation et 15%
   de la note de projet pour le rendu du projet)
