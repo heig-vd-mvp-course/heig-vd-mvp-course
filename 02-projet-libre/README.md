@@ -900,7 +900,7 @@ Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
 feedbacks constructifs.
 
 Vous pouvez retrouver la grille d'évaluation de la présentation ici :
-[Projet libre - Grille d'évaluation des présentations](../../01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
+[Projet libre - Grille d'évaluation des présentations](../../01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
 
 #### Conclusion
 
@@ -1206,7 +1206,7 @@ Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
 feedbacks constructifs.
 
 Vous pouvez retrouver la grille d'évaluation de la présentation ici :
-[Grille d'évaluation des présentations](../../01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-des-présentations)
+[Grille d'évaluation des présentations](../../01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-dévaluation-des-présentations)
 
 #### Conclusion
 

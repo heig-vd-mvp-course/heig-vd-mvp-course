@@ -37,7 +37,7 @@ _paginate: false
 <!-- _class: lead -->
 
 _Cette présentation est un résumé du support de cours. Pour plus de détails,
-consultez le [support de cours][course-material]._
+consultez le [support de cours][contenu-complet-sur-github]._
 
 ## Objectifs (1/2)
 
@@ -90,7 +90,7 @@ vos droits.
 ## Formes juridiques
 
 - Il existe plusieurs formes juridiques possibles en Suisse (entre autres - voir
-  [support de cours][course-material]) :
+  [support de cours][contenu-complet-sur-github]) :
   - Association
   - Entreprise individuelle
   - Société en nom collectif
@@ -350,7 +350,7 @@ Est-ce que vous avez des questions ?
 
 ## À vous de jouer !
 
-- Prendre connaissance du [support de cours][course-material]
+- Prendre connaissance du [support de cours][contenu-complet-sur-github]
 - Poser des questions si nécessaire
 
 ![bg right:40%][illustration-a-vous-de-jouer]
@@ -392,8 +392,8 @@ Est-ce que vous avez des questions ?
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/16-cours-creer-sa-propre-entreprise/01-presentation/
 [pdf]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/16-cours-creer-sa-propre-entreprise/01-presentation/16-cours-creer-sa-propre-entreprise-presentation.pdf
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/16-cours-creer-sa-propre-entreprise/02-support-de-cours/README.md
+[contenu-complet-sur-github]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/16-cours-creer-sa-propre-entreprise/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

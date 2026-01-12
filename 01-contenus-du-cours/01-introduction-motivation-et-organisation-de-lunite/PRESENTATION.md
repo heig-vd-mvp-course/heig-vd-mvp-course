@@ -90,7 +90,7 @@ suivants pour toute question relative au cours :
 <!-- _class: lead -->
 
 _Cette présentation est un résumé du support de cours. Pour plus de détails,
-consultez le [support de cours][course-material]._
+consultez le [support de cours][contenu-complet-sur-github]._
 
 ## Objectifs
 
@@ -199,11 +199,11 @@ Profitez-en pour vous entraîner !
 ## Grilles d'évaluation
 
 Les grilles d'évaluation sont présentées en détails dans le [support de
-cours][course-material] :
+cours][contenu-complet-sur-github] :
 
-- [Grille d'évaluation des présentations](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
-- [Grille d'évaluation du rapport final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-du-rapport-final)
-- [Grille d'évaluation du produit final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-du-produit-final)
+- [Grille d'évaluation des présentations](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
+- [Grille d'évaluation du rapport final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-du-rapport-final)
+- [Grille d'évaluation du produit final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-du-produit-final)
 
 ![bg right:40%][illustration-grilles-devaluation]
 
@@ -225,7 +225,7 @@ Est-ce que vous avez des questions ?
 
 ## À vous de jouer !
 
-- Prendre connaissance du [support de cours][course-material]
+- Prendre connaissance du [support de cours][contenu-complet-sur-github]
 - Poser des questions si nécessaire
 
 ![bg right:40%][illustration-a-vous-de-jouer]
@@ -269,8 +269,8 @@ Est-ce que vous avez des questions ?
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/
 [pdf]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/01-cours-introduction-motivation-et-organisation-de-lunite-presentation.pdf
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md
+[contenu-complet-sur-github]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

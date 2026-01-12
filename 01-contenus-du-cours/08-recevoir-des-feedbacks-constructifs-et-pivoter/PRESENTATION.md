@@ -37,7 +37,7 @@ _paginate: false
 <!-- _class: lead -->
 
 _Cette présentation est un résumé du support de cours. Pour plus de détails,
-consultez le [support de cours][course-material]._
+consultez le [support de cours][contenu-complet-sur-github]._
 
 ## Objectifs (1/2)
 
@@ -56,8 +56,8 @@ consultez le [support de cours][course-material]._
 
 ## Recevoir des feedbacks constructifs
 
-- [Donner des feedbacks constructifs](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/05-cours-promouvoir-et-pitcher-son-idee/02-support-de-cours#donner-des-feedbacks-constructifs)
-- [Recevoir des feedbacks constructifs](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/05-cours-promouvoir-et-pitcher-son-idee/02-support-de-cours#recevoir-des-feedbacks-constructifs)
+- [Donner des feedbacks constructifs](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/05-cours-promouvoir-et-pitcher-son-idee#donner-des-feedbacks-constructifs)
+- [Recevoir des feedbacks constructifs](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/05-cours-promouvoir-et-pitcher-son-idee#recevoir-des-feedbacks-constructifs)
 
 ![bg right:40%][illustration-feedbacks]
 
@@ -125,8 +125,8 @@ Exemples :
 Ne reprenez pas tout de zéro, mais avec de nouvelles lunettes, une nouvelle
 vision
 
-- [Trouver des idées originales qui répondent à un besoin](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/02-support-de-cours/README.md)
-- [Comprendre et atteindre son public cible](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/04-cours-comprendre-et-atteindre-son-public-cible/02-support-de-cours/README.md)
+- [Trouver des idées originales qui répondent à un besoin](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/README.md)
+- [Comprendre et atteindre son public cible](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/04-cours-comprendre-et-atteindre-son-public-cible/README.md)
 
 ![bg right:40%][illustration-explorer-pistes]
 
@@ -138,7 +138,7 @@ Est-ce que vous avez des questions ?
 
 ## À vous de jouer !
 
-- Prendre connaissance du [support de cours][course-material]
+- Prendre connaissance du [support de cours][contenu-complet-sur-github]
 - Poser des questions si nécessaire
 
 ![bg right:40%][illustration-a-vous-de-jouer]
@@ -181,8 +181,8 @@ Est-ce que vous avez des questions ?
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/
 [pdf]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/01-presentation/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter-presentation.pdf
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/02-support-de-cours/README.md
+[contenu-complet-sur-github]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

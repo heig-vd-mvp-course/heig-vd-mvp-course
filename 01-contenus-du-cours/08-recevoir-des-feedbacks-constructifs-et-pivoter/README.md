@@ -82,8 +82,8 @@ projet. Nous en avons déjà parlé dans le cours sur "Promouvoir et pitcher son
 idée". Pour une bonne maîtrise de cette compétence, retournez lire ces sections
 :
 
-- [Donner des feedbacks constructifs](../../05-cours-promouvoir-et-pitcher-son-idee/02-support-de-cours/README.md#donner-des-feedbacks-constructifs)
-- [Recevoir des feedbacks constructifs](../../05-cours-promouvoir-et-pitcher-son-idee/02-support-de-cours/README.md#recevoir-des-feedbacks-constructifs)
+- [Donner des feedbacks constructifs](../../05-cours-promouvoir-et-pitcher-son-idee/README.md#donner-des-feedbacks-constructifs)
+- [Recevoir des feedbacks constructifs](../../05-cours-promouvoir-et-pitcher-son-idee/README.md#recevoir-des-feedbacks-constructifs)
 
 ## Qu'est-ce qu'un pivot ?
 
@@ -162,8 +162,8 @@ Explorer de nouvelles pistes implique une démarche créative :
 
 Et surtout, repassez par toutes les étapes de la démarche MVP :
 
-- [Trouver des idées originales qui répondent à un besoin](../../03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/02-support-de-cours/README.md)
-- [Comprendre et atteindre son public cible](../../04-cours-comprendre-et-atteindre-son-public-cible/02-support-de-cours/README.md)
+- [Trouver des idées originales qui répondent à un besoin](../../03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/README.md)
+- [Comprendre et atteindre son public cible](../../04-cours-comprendre-et-atteindre-son-public-cible/README.md)
 
 ## Conclusion
 

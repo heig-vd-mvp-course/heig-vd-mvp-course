@@ -1,19 +1,19 @@
 ---
 marp: true
----
-
-<!--
 theme: custom-marp-theme
 size: 16:9
 paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
-title: HEIG-VD MVP Course - Évaluation finale
 description: Évaluation finale pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/index.html
 header: "**Évaluation finale**"
-footer: "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course 2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC BY-SA 4.0](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md)"
+footer:
+  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
+  BY-SA
+  4.0](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md)"
 headingDivider: 6
--->
+---
 
 # Évaluation finale
 
@@ -24,20 +24,21 @@ _paginate: false
 
 <https://github.com/heig-vd-mvp-course>
 
-[Web][web] · [PDF][pdf]
+Visualiser le contenu complet sur GitHub [à cette
+adresse][contenu-complet-sur-github].
 
 <small>L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.</small>
 
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 
-![bg opacity:0.25][illustration-principale]
+![bg opacity:0.1][illustration-principale]
 
 ## Plus de détails dans le support de cours
 
 <!-- _class: lead -->
 
 _Cette présentation est un résumé du support de cours. Pour plus de détails,
-consultez le [support de cours][course-material]._
+consultez le [support de cours][contenu-complet-sur-github]._
 
 ## Objectifs
 
@@ -84,7 +85,7 @@ Est-ce que vous avez des questions ?
 
 ## À vous de jouer !
 
-- Prendre connaissance du [support de cours][course-material]
+- Prendre connaissance du [support de cours][contenu-complet-sur-github]
 - Poser des questions si nécessaire
 
 ![bg right:40%][illustration-a-vous-de-jouer]
@@ -101,12 +102,8 @@ Est-ce que vous avez des questions ?
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
 
-[web]:
-	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/
-[pdf]:
-	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/17-cours-evaluation-presentation.pdf
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/17-cours-evaluation/02-support-de-cours/README.md
+[contenu-complet-sur-github]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/17-cours-evaluation/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

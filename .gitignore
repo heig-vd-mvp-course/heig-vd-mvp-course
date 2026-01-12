@@ -1,21 +1,17 @@
 ## Linux
-
 # Temporary files
 *~
 
 ## macOS
-
 # Files created by macOS Finder
 .DS_Store
 
 ## Marp
-
 # Outputs
 *.html
 *.pdf
 
 ## Windows
-
 # Windows thumbnail cache files
 Thumbs.db
 

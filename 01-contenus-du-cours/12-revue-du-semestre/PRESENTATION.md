@@ -1,19 +1,21 @@
 ---
 marp: true
----
-
-<!--
 theme: custom-marp-theme
 size: 16:9
 paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
-title: HEIG-VD MVP Course - Revue du semestre
 description: Revue du semestre pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/12-revue-du-semestre/presentation.html
-header: "[**Revue du semestre**](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/12-revue-du-semestre/README.md)"
-footer: "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course 2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC BY-SA 4.0](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md)"
+header:
+  "[**Revue du
+  semestre**](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/12-revue-du-semestre/README.md)"
+footer:
+  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
+  BY-SA
+  4.0](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md)"
 headingDivider: 6
--->
+---
 
 # Revue du semestre
 
@@ -24,13 +26,24 @@ _paginate: false
 
 <https://github.com/heig-vd-mvp-course>
 
-[Web][web] · [PDF][pdf]
+Visualiser le contenu complet sur GitHub [à cette
+adresse][contenu-complet-sur-github].
 
 <small>L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.</small>
 
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 
 ![bg opacity:0.25][illustration-principale]
+
+## Plus de détails sur GitHub
+
+<!-- _class: lead -->
+
+_Cette présentation est un résumé du contenu complet disponible sur GitHub._
+
+_Pour plus de détails, consulter le [contenu complet sur
+GitHub][contenu-complet-sur-github] ou en cliquant sur l'en-tête de ce
+document._
 
 ## Objectifs
 
@@ -60,10 +73,10 @@ Est-ce que vous avez des questions ?
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
 
-[web]:
-	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/
-[pdf]:
-	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/18-cours-revue-du-semestre/01-presentation/18-cours-revue-du-semestre-presentation.pdf
+<!-- URLs -->
+
+[contenu-complet-sur-github]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/12-revue-du-semestre/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

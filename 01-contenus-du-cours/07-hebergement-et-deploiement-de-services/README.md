@@ -448,7 +448,7 @@ permet de déployer une application en contrôlant toutes les étapes du
 déploiement.
 
 En souvenir du chapitre sur les
-[stacks technologiques](../../07-cours-identification-et-choix-dune-stack-technologique/02-support-de-cours/README.md),
+[stacks technologiques](../../07-cours-identification-et-choix-dune-stack-technologique/README.md),
 nous pouvons voir que vous avez contrôle total sur l'infrastructure et les
 ressources et qui y sont listées.
 

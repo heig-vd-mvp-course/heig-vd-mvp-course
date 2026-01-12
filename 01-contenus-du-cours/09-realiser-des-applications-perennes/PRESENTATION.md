@@ -37,7 +37,7 @@ _paginate: false
 <!-- _class: lead -->
 
 _Cette présentation est un résumé du support de cours. Pour plus de détails,
-consultez le [support de cours][course-material]._
+consultez le [support de cours][contenu-complet-sur-github]._
 
 ## Objectifs (1/2)
 
@@ -58,7 +58,7 @@ consultez le [support de cours][course-material]._
 
 Nous vous proposons un format un peu différent pour ce cours :
 
-1. Lisez le [support de cours][course-material] de façon autonome.
+1. Lisez le [support de cours][contenu-complet-sur-github] de façon autonome.
 2. Une fois terminé, annoncez-le. Vous pouvez commencer le travail en groupe
    pendant que les autres finissent de lire.
 3. Une fois que tout le monde a terminé la lecture, nous répondons aux
@@ -79,8 +79,8 @@ rencontrées dans le cadre de vos projets :
 
 ### Situations fictives
 
-Le [support de cours][course-material] contient des situations fictives que vous
-pouvez analyser si vous le souhaitez.
+Le [support de cours][contenu-complet-sur-github] contient des situations
+fictives que vous pouvez analyser si vous le souhaitez.
 
 ![bg right:40%][illustration-principale]
 
@@ -92,7 +92,7 @@ Est-ce que vous avez des questions ?
 
 ## À vous de jouer !
 
-- Prendre connaissance du [support de cours][course-material]
+- Prendre connaissance du [support de cours][contenu-complet-sur-github]
 - Poser des questions si nécessaire
 
 ![bg right:40%][illustration-a-vous-de-jouer]
@@ -112,8 +112,8 @@ Est-ce que vous avez des questions ?
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/01-presentation/
 [pdf]:
 	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/14-cours-realiser-des-applications-perennes/01-presentation/14-cours-realiser-des-applications-perennes-presentation.pdf
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/14-cours-realiser-des-applications-perennes/02-support-de-cours/README.md
+[contenu-complet-sur-github]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/14-cours-realiser-des-applications-perennes/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 
