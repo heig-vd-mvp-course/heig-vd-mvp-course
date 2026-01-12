@@ -289,7 +289,7 @@ blockquote::before,
 blockquote::after {
 	content: "“";
 	display: block;
-	font-family: "Times New Roman", serif;
+	font-family: "Atkinson Hyperlegible", serif;
 	font-weight: bold;
 	position: absolute;
 }

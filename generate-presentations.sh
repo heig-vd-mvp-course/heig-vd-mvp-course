@@ -15,7 +15,7 @@ else
         docker run --rm
         --entrypoint="marp-cli.js"
         --volume="${WORKDIR}:/home/marp/app"
-        --user "$(id -u):$(id -g)"
+        --user="$(id -u):$(id -g)"
         "$MARP_DOCKER_IMAGE"
     )
 fi

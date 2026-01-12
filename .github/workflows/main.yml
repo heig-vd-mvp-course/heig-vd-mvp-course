@@ -11,8 +11,9 @@ on:
     #   - main
     # tags:
     #   - "*"
-    paths:
-      - "!**/README.md"
+    paths-ignore:
+      - "**/README.md"
+      - "README.md"
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages and to release to GitHub Releases
 permissions:
@@ -30,7 +31,7 @@ jobs:
       - name: Build presentations with Marp
         uses: docker://marpteam/marp-cli:v4.2.3
         with:
-          entrypoint: sh
+          entrypoint: bash
           args: generate-presentations.sh
 
       - name: Upload files
