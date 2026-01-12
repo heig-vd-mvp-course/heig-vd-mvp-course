@@ -10,7 +10,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-evaluation-finale/presentation.html)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-evaluation-finale/03-evaluation-finale-presentation.pdf)
@@ -22,7 +22,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Introduction](#introduction)
-- [Modalités d'organisation du projet](#modalités-dorganisation-du-projet)
+- [Introduction et organisation du projet libre](#introduction-et-organisation-du-projet-libre)
   - [Présentations](#présentations)
   - [Rapport final](#rapport-final)
   - [Produit final](#produit-final)
@@ -60,11 +60,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Séance 16 - Présentations et rendu du projet](#séance-16---présentations-et-rendu-du-projet)
 - [Sources](#sources)
 
-## Introduction
-
-TODO
-
-## Modalités d'organisation du projet
+## Introduction et organisation du projet libre
 
 Le projet est une partie importante de ce cours. Il vous permettra de mettre en
 pratique les connaissances acquises durant le cours et de vous confronter à la
@@ -511,15 +507,15 @@ des retours concrets.
 
 ## Répartition des séances
 
-### Séance 1 - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)
+### Séance 1 - Constituer les groupes et identifier une problématique
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-1---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-13)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
@@ -621,15 +617,15 @@ il est recommandé pour la semaine suivante de :
 - Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
   pour le projet
 
-### Séance 2 - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)
+### Séance 2 - Identifier et interroger un public cible
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-2---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-23)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
@@ -720,15 +716,15 @@ il est recommandé pour la semaine suivante de :
 - Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
   pour le projet
 
-### Séance 3 - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)
+### Séance 3 - Analyser les résultats des questionnaires
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-3---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-33)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
@@ -831,11 +827,11 @@ il est recommandé pour la semaine suivante de :
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-4---présentations-du-pitch)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
@@ -926,11 +922,11 @@ semaine 4._
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-6---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-12)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
@@ -1030,11 +1026,11 @@ il est recommandé pour la semaine suivante de :
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-7---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-22)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
@@ -1138,11 +1134,11 @@ Votre projet est sur l'avant-scène et vous allez pouvoir le promouvoir.
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-8---présentations-de-la-prospection)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
@@ -1229,11 +1225,11 @@ il est recommandé pour la semaine suivante de :
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-9---réalisation-du-service-et-tests-utilisateurs-16)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
@@ -1330,11 +1326,11 @@ il est recommandé pour la semaine suivante de :
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-10---réalisation-du-service-et-tests-utilisateurs-26)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
@@ -1416,11 +1412,11 @@ il est recommandé pour la semaine suivante de :
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-11---réalisation-du-service-et-tests-utilisateurs-36)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
@@ -1502,11 +1498,11 @@ il est recommandé pour la semaine suivante de :
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-12---réalisation-du-service-et-tests-utilisateurs-46)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
@@ -1583,11 +1579,11 @@ il est recommandé pour la semaine suivante de :
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-13---réalisation-du-service-et-tests-utilisateurs-56)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
@@ -1662,11 +1658,11 @@ il est recommandé pour la semaine suivante de :
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-14---réalisation-du-service-et-tests-utilisateurs-66)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
@@ -1740,11 +1736,11 @@ il est recommandé pour la semaine suivante de :
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-15---rendu-du-rapport)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
@@ -1798,11 +1794,11 @@ il est recommandé pour la semaine suivante de :
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-16---présentations-finales-et-rendu-du-projet)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)

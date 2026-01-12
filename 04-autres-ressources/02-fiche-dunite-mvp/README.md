@@ -62,7 +62,7 @@ pour orienter et améliorer les idées de manière collective.
 
 - identifier des secteurs de marché prometteurs pour y fournir un nouveau
   service ;
-- être capable de promouvoir et pitcher son idée en public ;
+- être capable de Pitcher son idée en public ;
 - appliquer des méthodologies de validation de marché (Mom test) ;
 - énumérer les avantages et les inconvénients d'une stack technologique web ;
 - évaluer le choix d'une stack technologique web par rapport à une situation
@@ -86,20 +86,20 @@ au long du cours.
 
 _Répartition des périodes indiquée à titre informatif._
 
-| Cours                                                                                                                            |  24 |
-| :------------------------------------------------------------------------------------------------------------------------------- | --: |
-| Introduction, motivation et organisation de l'unité                                                                              |   2 |
-| Trouver des idées originales qui répondent à un besoin (design thinking et philosophie Indie Hackers)                            |   2 |
-| Comprendre, atteindre et discuter avec son public cible (Mom test, marketing et SEO)                                             |   2 |
-| Promouvoir et pitcher son idée (prestance et présentations)                                                                      |   2 |
-| Identification et choix d'une stack technologique (par ex. Hugo, Next.js, Lavarel, NestJS, Spring Boot, MVC vs backend/frontend) |   2 |
-| Réaliser des interfaces ergonomiques et réfléchies (UI/UX avec mockups)                                                          |   2 |
-| Hébergement et déploiement de services (par ex. GitHub Pages, GitLab Pages, Heroku, Exoscale, Infomaniak)                        |   2 |
-| Recevoir des feedbacks constructifs et pivoter (changement de produit, comment faire ?)                                          |   2 |
-| Réaliser des applications pérennes (architecture, documentation et accessibilité)                                                |   2 |
-| Se faire payer pour sa passion (systèmes de paiement et questions juridiques)                                                    |   2 |
-| Créer sa propre entreprise (formes juridiques, responsabilités et aides/ressources à disposition)                                |   2 |
-| Évaluation théorique                                                                                                             |   2 |
+| Cours                                                                                                     |  24 |
+| :-------------------------------------------------------------------------------------------------------- | --: |
+| Introduction et organisation du cours                                                                     |   2 |
+| Observer, comprendre, et définir un besoin (design thinking et philosophie Indie Hackers)                 |   2 |
+| Comprendre, atteindre et discuter avec son public cible (Mom test, marketing et SEO)                      |   2 |
+| Pitcher son idée (prestance et présentations)                                                             |   2 |
+| Promouvoir son idée (par ex. Hugo, Next.js, Lavarel, NestJS, Spring Boot, MVC vs backend/frontend)        |   2 |
+| Réaliser des interfaces ergonomiques (UI/UX avec mockups)                                                 |   2 |
+| Hébergement et déploiement de services (par ex. GitHub Pages, GitLab Pages, Heroku, Exoscale, Infomaniak) |   2 |
+| Recevoir des feedbacks constructifs et pivoter (changement de produit, comment faire ?)                   |   2 |
+| Réaliser des applications pérennes (architecture, documentation et accessibilité)                         |   2 |
+| Se faire payer pour sa passion (systèmes de paiement et questions juridiques)                             |   2 |
+| Créer sa propre entreprise (formes juridiques, responsabilités et aides/ressources à disposition)         |   2 |
+| Évaluation théorique                                                                                      |   2 |
 
 | Laboratoire                                                                                               |  40 |
 | :-------------------------------------------------------------------------------------------------------- | --: |

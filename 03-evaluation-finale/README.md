@@ -6,11 +6,11 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 > [!TIP]
 >
-> Voici quelques informations relatives à la séance et son déroulement.
+> Voici quelques informations relatives à ce contenu.
 >
 > **Ressources annexes**
 >
-> - Autres formats du support de cours :
+> - Autres formats :
 >   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/index.html)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/17-cours-evaluation-presentation.pdf)

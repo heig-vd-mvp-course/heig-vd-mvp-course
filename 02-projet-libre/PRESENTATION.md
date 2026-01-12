@@ -6,14 +6,11 @@ paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 description: Projet libre pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html
-header:
-  "[**Projet
-  libre**](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/02-projet-libre/README.md)"
+header: "[**Projet libre**][contenu-complet-sur-github]"
 footer:
   "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA
-  4.0](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md)"
+  BY-SA 4.0][license]"
 headingDivider: 6
 ---
 
@@ -35,7 +32,7 @@ adresse][contenu-complet-sur-github].
 
 ![bg opacity:0.1][illustration-principale]
 
-## Modalités d'organisation du projet
+## Introduction et organisation du projet libre
 
 - Projet libre : sujet, public cible, technologie, etc.
 - En solo ou en équipe (max. 5 personnes recommandé)

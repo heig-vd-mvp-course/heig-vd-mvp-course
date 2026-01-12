@@ -14,7 +14,7 @@ Suisse !
 
 - Identifier des secteurs de marché prometteurs pour y fournir un nouveau
   service.
-- Promouvoir et pitcher son idée en public.
+- Pitcher son idée en public.
 - Appliquer des méthodologies de validation de marché.
 - Énumérer les avantages et les inconvénients d'une stack technologique web.
 - Évaluer le choix d'une stack technologique web par rapport à une situation
@@ -33,78 +33,46 @@ Suisse !
 ## ➡️ Par où commencer ?
 
 Vous ne savez pas par où commencer ? Jetez un œil à
-l'[Introduction, motivation et organisation de l'unité](./01-contenus-du-cours/01-introduction-motivation-et-organisation-de-lunite/README.md)
+l'[Introduction et organisation du cours](./01-contenus-du-cours/01-introduction-et-organisation-du-cours/README.md)
+et à
+l'[Introduction et organisation du projet libre](./02-projet-libre/README.md)
 pour en savoir plus sur le cours.
 
 ## 📅 Programme
 
 Ce cours est équivalent à 3 crédits ECTS (= ~75-90 heures de travail) :
 
-- 48 heures en classe pour la théorie et la réalisation du service.
+- 48 heures en classe pour la théorie et la réalisation du minimum viable
+  product (MVP).
 - ~27-42 heures en dehors de la classe pour les interviews, la prospection, les
   tests utilisateurs, etc.
 
-Les détails de chaque séance sont disponibles dans le programme ci-dessous.
-
-Chaque séance de cours est détaillée avec les contenus, les objectifs, les
-méthodes d'enseignement et d'apprentissage, et les méthodes d'évaluation.
+Les détails de chaque séance composant le cours sont disponibles ci-dessous.
+Chaque séance est détaillée avec les contenus, les objectifs, les méthodes
+d'enseignement et d'apprentissage, et les méthodes d'évaluation.
 
 Les numéros et les dates des séances correspondent aux semaines définies dans le
 [Calendrier académique de la HEIG-VD](https://heig-vd.ch/formation/bachelor/calendrier-academique/).
 
-[Introduction, motivation et organisation de l'unité](./01-contenus-du-cours/01-introduction-motivation-et-organisation-de-lunite/README.md) +
-
-1. Observer, comprendre, et définir un besoin (+ Introduction au cours +
-   Introduction au projet) - Identifier une problématique (définition du besoin)
-2. Observer, comprendre, et définir un public cible - Identifier et interroger
-   un public cible (préparation du questionnaire vis-à-vis du besoin)
-3. Recevoir des feedbacks constructifs et pivoter - Analyser les retours des
-   questions (synthèse des questionnaires et pistes d'exploration)
-4. Trouver des idées originales - Identifier une idée pour répondre à la
-   problématique d'un public cible (exploration des idées et présentation d'au
-   moins deux (2) idées)
-5. CRUNCH
-6. Étudier la concurrence - Étudier et adapter son offre par rapport à sa
-   concurrence (réalisation d'une analyse du marché)
-7. Pitcher son idée - Préparer et donner un pitch
-8. Promouvoir son idée - Avoir une présence sur Internet (réalisation et
-   publication d'une landing page avec page de contact à l'aide de templates
-   prédéfinis)
-9. Réaliser des interfaces ergonomiques et réfléchies - Réfléchir avant de
-   développer (réalisation des maquettes et mise à jour de la landing page)
-10. Identification et choix d'une stack technologique - Définir des choix
-    adaptés au context (choix des outils et argumentation - fusion avec le cours
-    actuel _"Hébergement et déploiement de services"_)
-11. Réaliser des applications itératives et pérennes - Développer sa solution
-    (1/2) (développement du MVP)
-12. Se faire payer pour sa passion - Trouver des sources de revenus (réalisation
-    d'un business model canvas)
-13. Créer sa propre entreprise - Développer sa solution (2/2) (suite du
-    développement du MVP)
-14. _Pas de cours, que du projet_ - Tester sa solution (tests en classe entre
-    les différents groupes)
-15. _Jeudi de l'Ascension - Pas de cours ni de projet_ (rendu du rapport)
-16. Présentations finales + rendu du projet
-
-| Séance[^seance] | Dates             | 1ère partie[^premiere-partie]                                                                                | 2ème partie[^deuxieme-partie]                                                        | État[^etat] |
-| --------------: | :---------------- | :----------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- | :---------- |
-|              01 | 16.02. - 22.02.26 | [Introduction au cours]() + [Introduction au projet]() + [Observer, comprendre, et définir un besoin]()      | [Constituer les groupes et identifier une problématique]()                           | 🔴 À faire  |
-|              02 | 23.02. - 01.03.26 | [Observer, comprendre, et définir un public cible]()                                                         | [Identifier et interroger un public cible]()                                         | 🔴 À faire  |
-|              03 | 02.03. - 08.03.26 | [Recevoir des feedbacks constructifs et pivoter]()                                                           | [Analyser les résultats des questionnaires]()                                        | 🔴 À faire  |
-|           🌴 04 | 09.03. - 15.03.26 | _CRUNCH : pas de séance_                                                                                     | _CRUNCH : pas de projet libre_                                                       | 🔴 À faire  |
-|              05 | 16.03. - 22.03.26 | [Trouver des idées originales]()                                                                             | [Identifier une idée originale pour répondre à la problématique d'un public cible]() | 🔴 À faire  |
-|              06 | 23.03. - 29.03.26 | [Étudier la concurrence]()                                                                                   | [Étudier et adapter son offre par rapport à la concurrence]()                        | 🔴 À faire  |
-|              07 | 30.03. - 05.04.26 | [Pitcher son idée]()                                                                                         | [Préparer et donner un pitch]()                                                      | 🔴 À faire  |
-|           🌴 -- | 06.04. - 12.04.26 | _Vacances : pas de séance_                                                                                   | _Vacances : pas de projet libre_                                                     | 🔴 À faire  |
-|           🚨 08 | 13.04. - 19.04.26 | [Promouvoir son idée]()                                                                                      | [Promouvoir son idée sur Internet]()                                                 | 🔴 À faire  |
-|              09 | 20.04. - 26.04.26 | [Réaliser des interfaces ergonomiques]()                                                                     | [Réaliser des maquettes avant de développer]()                                       | 🔴 À faire  |
-|              10 | 27.04. - 03.05.26 | [Choisir une stack technologique]()                                                                          | [Identifier une stack technologique adaptée]()                                       | 🔴 À faire  |
-|              11 | 04.05. - 10.05.26 | [Réaliser des applications pérennes]()                                                                       | [Développer sa solution (1/2)]()                                                     | 🔴 À faire  |
-|           🌴 12 | 11.05. - 17.05.26 | _Jeudi de l'Ascension : pas de séance_                                                                       | _Jeudi de l'Ascension : pas de séance_                                               | 🔴 À faire  |
-|              13 | 18.05. - 24.05.26 | [Se faire payer pour sa passion]()                                                                           | [Trouver des sources de revenus]()                                                   | 🔴 À faire  |
-|              14 | 25.05. - 31.05.26 | [Créer sa propre entreprise]()                                                                               | [Développer sa solution (2/2)]()                                                     | 🔴 À faire  |
-|           🚨 15 | 01.06. - 07.06.26 | [Tester sa solution]()                                                                                       | [Tester sa solution]()                                                               | 🔴 À faire  |
-|           🚨 16 | 08.06. - 14.06.26 | [Présentations et rendu du projet](./02-projet-libre/README.md#séance-16---présentations-et-rendu-du-projet) | [Revue du semestre](./01-contenus-du-cours/12-revue-du-semestre/README.md)           | 🔴 À faire  |
+| Séance[^seance] | Dates             | 1ère partie[^1ere-partie]                                                                                                              | 2ème partie[^2eme-partie]                                                            | État[^etat] |
+| --------------: | :---------------- | :------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- | :---------- |
+|              01 | 16.02. - 22.02.26 | [Observer, comprendre, et définir un besoin](./01-contenus-du-cours/02-observer-comprendre-et-definir-un-besoin/README.md)             | [Constituer les groupes et identifier une problématique]()                           | 🔴 À faire  |
+|              02 | 23.02. - 01.03.26 | [Observer, comprendre, et définir un public cible](./01-contenus-du-cours/03-observer-comprendre-et-definir-un-public-cible/README.md) | [Identifier et interroger un public cible]()                                         | 🔴 À faire  |
+|              03 | 02.03. - 08.03.26 | [Recevoir des feedbacks constructifs et pivoter](./01-contenus-du-cours/04-recevoir-des-feedbacks-constructifs-et-pivoter/README.md)   | [Analyser les résultats des questionnaires]()                                        | 🔴 À faire  |
+|           🌴 04 | 09.03. - 15.03.26 | _CRUNCH : pas de séance_                                                                                                               | _CRUNCH : pas de séance_                                                             | 🔴 À faire  |
+|              05 | 16.03. - 22.03.26 | [Trouver des idées originales](./01-contenus-du-cours/05-trouver-des-idees-originales/README.md)                                       | [Identifier une idée originale pour répondre à la problématique d'un public cible]() | 🔴 À faire  |
+|              06 | 23.03. - 29.03.26 | [Étudier la concurrence](./01-contenus-du-cours/06-etudier-la-concurrence/README.md)                                                   | [Étudier et adapter son offre par rapport à la concurrence]()                        | 🔴 À faire  |
+|           🚨 07 | 30.03. - 05.04.26 | [Pitcher son idée](./01-contenus-du-cours/07-pitcher-son-idee/README.md)                                                               | [Préparer et donner un pitch]()                                                      | 🔴 À faire  |
+|            🌴 - | 06.04. - 12.04.26 | _Vacances : pas de séance_                                                                                                             | _Vacances : pas de séance_                                                           | 🔴 À faire  |
+|              08 | 13.04. - 19.04.26 | [Promouvoir son idée](./01-contenus-du-cours/08-promouvoir-son-idee/README.md)                                                         | [Promouvoir son idée sur Internet]()                                                 | 🔴 À faire  |
+|              09 | 20.04. - 26.04.26 | [Réaliser des interfaces ergonomiques](./01-contenus-du-cours/09-realiser-des-interfaces-ergonomiques/README.md)                       | [Réaliser des maquettes avant de développer]()                                       | 🔴 À faire  |
+|              10 | 27.04. - 03.05.26 | [Choisir une stack technologique](./01-contenus-du-cours/10-choisir-une-stack-technologique/README.md)                                 | [Identifier une stack technologique adaptée]()                                       | 🔴 À faire  |
+|              11 | 04.05. - 10.05.26 | [Réaliser des applications pérennes](./01-contenus-du-cours/11-realiser-des-applications-perennes/README.md)                           | [Développer sa solution (1/2)]()                                                     | 🔴 À faire  |
+|           🌴 12 | 11.05. - 17.05.26 | _Jeudi de l'Ascension : pas de séance_                                                                                                 | _Jeudi de l'Ascension : pas de séance_                                               | 🔴 À faire  |
+|              13 | 18.05. - 24.05.26 | [Se faire payer pour sa passion](./01-contenus-du-cours/12-se-faire-payer-pour-sa-passion/README.md)                                   | [Trouver des sources de revenus]()                                                   | 🔴 À faire  |
+|              14 | 25.05. - 31.05.26 | [Créer sa propre entreprise](./01-contenus-du-cours/13-creer-sa-propre-entreprise/README.md)                                           | [Développer sa solution (2/2)]()                                                     | 🔴 À faire  |
+|           🚨 15 | 01.06. - 07.06.26 | [Evaluation finale](./03-evaluation-finale/README.md)                                                                                  | [Tester sa solution]()                                                               | 🔴 À faire  |
+|           🚨 16 | 08.06. - 14.06.26 | [Présentations et rendu du projet](./02-projet-libre/README.md#séance-16---présentations-et-rendu-du-projet)                           | [Revue du semestre](./01-contenus-du-cours/14-revue-du-semestre/README.md)           | 🔴 À faire  |
 
 ## 📜 Licence
 
