@@ -29,6 +29,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Rapport final](#rapport-final)
   - [Produit final](#produit-final)
   - [Suivi et application de la méthodologie](#suivi-et-application-de-la-méthodologie)
+- [Soumission](#soumission)
 - [Comment travailler en équipe de façon efficace](#comment-travailler-en-équipe-de-façon-efficace)
   - [Les outils à utiliser](#les-outils-à-utiliser)
   - [Votre équipe](#votre-équipe)
@@ -218,7 +219,10 @@ La grille d'évaluation de la présentation finale est la suivante :
 - Une démonstration du service/prototype/MVP doit être effectuée durant la
   présentation.
 - Si des supports sont utilisés (diaporama, démonstration, etc.), merci de nous
-  les transmettre après la présentation par email.
+  les transmettre après la présentation par email (Ludovic Delafontaine
+  - [ludovic.delafontaine@heig-vd.ch](mailto:ludovic.delafontaine@heig-vd.ch) et
+    Vincent Guidoux
+  - [vincent.guidoux1@heig-vd.ch](mailto:vincent.guidoux1@heig-vd.ch))
 
 #### Astuces
 
@@ -232,15 +236,7 @@ Un rapport final sera demandé à la fin du semestre. Il devra contenir les éta
 significatives de votre projet, les choix que vous avez faits, les raisons de
 ces choix, les difficultés rencontrées et les solutions trouvées.
 
-Le résultat final du rapport devra être rendu à l'aide d'un e-mail aux personnes
-qui enseignent :
-
-- [Ludovic Delafontaine](mailto:ludovic.delafontaine@heig-vd.ch)
-- [Vincent Guidoux](mailto:vincent.guidoux1@heig-vd.ch)
-
-Cet e-mail devra contenir :
-
-- Le rapport final en format PDF.
+Pour la soumission, se référer à la section [Soumission](#soumission).
 
 Ce rapport sera complété au fur et à mesure du semestre au fil des séances de
 projet (voir
@@ -331,23 +327,17 @@ La grille d'évaluation du rapport final est la suivante :
 - Le business model canvas doit être annexé au rapport.
 - Le délai et le format du rendu du rapport final doivent être respectés.
 
+> [!CAUTION]
+>
+> Le non-respect de ces contraintes peut entraîner des sanctions sévères, et ce,
+> pour chaque critère non respecté.
+
 #### Astuces
 
 - Nous vous recommandons de travailler sur votre rapport tout au long du
   semestre pour ne pas vous retrouver à devoir tout faire à la fin de celui-ci.
 
 ### Produit final
-
-Le résultat final du projet devra être rendu à l'aide d'un e-mail aux personnes
-qui enseignent :
-
-- [Ludovic Delafontaine](mailto:ludovic.delafontaine@heig-vd.ch)
-- [Vincent Guidoux](mailto:vincent.guidoux1@heig-vd.ch)
-
-Cet e-mail devra contenir :
-
-- Un lien vers un dépôt Git contenant le code source de votre projet.
-- Un lien vers la page d'accueil de votre application web.
 
 Le produit final sera principalement noté sur les éléments suivants :
 
@@ -394,6 +384,11 @@ La grille d'évaluation du produit final est la suivante :
 - Le délai et le format du rendu du produit final doivent être respectés.
 - La qualité du code source doit être acceptable et permettre de reprendre en
   main le projet.
+
+> [!CAUTION]
+>
+> Le non-respect de ces contraintes peut entraîner des sanctions sévères, et ce,
+> pour chaque critère non respecté.
 
 #### Astuces
 
@@ -474,6 +469,33 @@ La grille d'évaluation du rapport final est la suivante :
 - Nous vous recommandons de mettre à jour votre rapport par rapport à la
   méthodologie tout au long du semestre pour ne pas vous retrouver à devoir tout
   faire à la fin de celui-ci.
+
+## Soumission
+
+Votre travail doit être remis comme suit :
+
+- Rapport final : 07.06.2026 23h59
+- Produit final : 14.06.2026 23h59
+
+Le résultat final du rapport devra être rendu à l'aide d'un e-mail aux personnes
+qui enseignent. Cet e-mail devra contenir :
+
+- Le rapport final en format PDF.
+
+Le résultat final du projet devra être rendu à l'aide d'un e-mail aux personnes
+qui enseignent. Cet e-mail devra contenir :
+
+- Un lien vers un dépôt Git contenant le code source de votre projet.
+- Un lien vers la page d'accueil de votre application web.
+
+Tou.tes les membres du groupe sont mis.es en copie du mail.
+
+Nos adresses mails sont les suivantes :
+
+- Ludovic Delafontaine
+  ([ludovic.delafontaine@heig-vd.ch](mailto:ludovic.delafontaine@heig-vd.ch))
+- Vincent Guidoux
+  ([vincent.guidoux1@heig-vd.ch](mailto:vincent.guidoux1@heig-vd.ch))
 
 ## Comment travailler en équipe de façon efficace
 
