@@ -1,4 +1,4 @@
-# Hébergement et déploiement de services - Support de cours
+# Hébergement et déploiement de services
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 

@@ -1,4 +1,4 @@
-# Réaliser des interfaces ergonomiques - Support de cours
+# Réaliser des interfaces ergonomiques
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 

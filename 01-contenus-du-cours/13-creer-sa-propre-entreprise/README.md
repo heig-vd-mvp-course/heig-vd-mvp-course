@@ -1,4 +1,4 @@
-# Créer sa propre entreprise - Support de cours
+# Créer sa propre entreprise
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 

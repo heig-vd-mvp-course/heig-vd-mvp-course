@@ -1,4 +1,4 @@
-# Projet libre - Support de cours
+# Projet libre
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 
@@ -28,6 +28,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Présentation finale](#présentation-finale)
   - [Rapport final](#rapport-final)
   - [Produit final](#produit-final)
+  - [Suivi et application de la méthodologie](#suivi-et-application-de-la-méthodologie)
 - [Comment travailler en équipe de façon efficace](#comment-travailler-en-équipe-de-façon-efficace)
   - [Les outils à utiliser](#les-outils-à-utiliser)
   - [Votre équipe](#votre-équipe)
@@ -72,10 +73,12 @@ projet et pour vous donner des retours.
 
 Les délivrables attendus pour ce projet sont les suivants :
 
-- [Présentation du pitch](#présentation-du-pitch) - 30% de la note.
-- [Présentation finale](#présentation-finale) - 30% de la note.
-- [Rapport final](#rapport-final) - 30% de la note.
+- [Présentation du pitch](#présentation-du-pitch) - 20% de la note.
+- [Présentation finale](#présentation-finale) - 20% de la note.
+- [Rapport final](#rapport-final) - 20% de la note.
 - [Produit final](#produit-final) - 10% de la note.
+- [Suivi et application de la méthodologie](#suivi-et-application-de-la-méthodologie) -
+  30% de la note.
 
 Chacun de ces délivrables est décrit en détail ci-dessous avec leur grille
 d'évaluation respective, les contraintes et des astuces pour vous aider à les
@@ -108,16 +111,17 @@ groupes qui présentent et vous sera communiqué à l'avance pour vous préparer
 
 Les critères d'évaluation sont les suivants :
 
-- 0 point - Le travail est manquant, hors sujet ou montre une compréhension très
-  limitée du sujet.
-- 1 point - Le travail montre une compréhension partielle : certains éléments
-  clés sont manquants, peu clairs ou mal mis en œuvre.
-- 2 points - Le travail est complet, précis et montre une compréhension claire
-  et approfondie du sujet.
+- 0 point – Les critères ne sont pas respectés : la production est absente, hors
+  sujet ou témoigne d'une compréhension très limitée du sujet.
+- 1 point – Les critères sont partiellement respectés : certains éléments
+  essentiels sont manquants, imprécis ou incorrectement mis en œuvre.
+- 2 points – Les critères sont pleinement respectés : l'ensemble des éléments
+  attendus est présent, précis et démontre une compréhension claire et
+  approfondie du sujet.
 
-Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
+Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1.
 
-La pondération de ce délivrable est de 30% de la note finale du projet.
+La pondération de ce délivrable est de 20% de la note finale du projet.
 
 #### Grille d'évaluation
 
@@ -175,16 +179,17 @@ l'information. Vous êtes donc libres de choisir le format de votre présentatio
 
 Les critères d'évaluation sont les suivants :
 
-- 0 point - Le travail est manquant, hors sujet ou montre une compréhension très
-  limitée du sujet.
-- 1 point - Le travail montre une compréhension partielle : certains éléments
-  clés sont manquants, peu clairs ou mal mis en œuvre.
-- 2 points - Le travail est complet, précis et montre une compréhension claire
-  et approfondie du sujet.
+- 0 point – Les critères ne sont pas respectés : la production est absente, hors
+  sujet ou témoigne d'une compréhension très limitée du sujet.
+- 1 point – Les critères sont partiellement respectés : certains éléments
+  essentiels sont manquants, imprécis ou incorrectement mis en œuvre.
+- 2 points – Les critères sont pleinement respectés : l'ensemble des éléments
+  attendus est présent, précis et démontre une compréhension claire et
+  approfondie du sujet.
 
-Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
+Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1.
 
-La pondération de ce délivrable est de 30% de la note finale du projet.
+La pondération de ce délivrable est de 20% de la note finale du projet.
 
 #### Grille d'évaluation
 
@@ -276,41 +281,40 @@ au long du semestre si besoin.
 
 Les critères d'évaluation sont les suivants :
 
-- 0 point - Le travail est manquant, hors sujet ou montre une compréhension très
-  limitée du sujet.
-- 1 point - Le travail montre une compréhension partielle : certains éléments
-  clés sont manquants, peu clairs ou mal mis en œuvre.
-- 2 points - Le travail est complet, précis et montre une compréhension claire
-  et approfondie du sujet.
+- 0 point – Les critères ne sont pas respectés : la production est absente, hors
+  sujet ou témoigne d'une compréhension très limitée du sujet.
+- 1 point – Les critères sont partiellement respectés : certains éléments
+  essentiels sont manquants, imprécis ou incorrectement mis en œuvre.
+- 2 points – Les critères sont pleinement respectés : l'ensemble des éléments
+  attendus est présent, précis et démontre une compréhension claire et
+  approfondie du sujet.
 
-Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1 +
-0.05 point par critère réalisé durant le semestre (voir section
-[Répartition des séances / jalons](#répartition-des-séances--jalons)).
+Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1.
 
-La pondération de ce délivrable est de 30% de la note finale du projet.
+La pondération de ce délivrable est de 20% de la note finale du projet.
 
 #### Grille d'évaluation
 
 La grille d'évaluation du rapport final est la suivante :
 
-|   # | Critère                                                                                           | Réalisé durant le semestre ?[^repartition-des-seances] |
-| --: | :------------------------------------------------------------------------------------------------ | :----------------------------------------------------- |
-|   1 | Une introduction permet de comprendre clairement la problématique                                 | Oui / Non                                              |
-|   2 | Une introduction permet de comprendre clairement le public cible                                  | Oui / Non                                              |
-|   3 | Une introduction permet de comprendre clairement la solution                                      | Oui / Non                                              |
-|   4 | Le lien entre la problématique, le public cible et la solution est cohérent                       | -                                                      |
-|   5 | Une section présente l'équipe avec les rôles et les contributions de chacun.e                     | -                                                      |
-|   6 | Une section présente les questions et hypothèses à valider avec le public cible                   | Oui / Non                                              |
-|   7 | Une section présente l'analyse des entretiens effectués avec le public cible                      | Oui / Non                                              |
-|   8 | Une section présente au moins deux idées avec leur exploration et la justification du choix final | Oui / Non                                              |
-|   9 | Une section présente l'analyse du marché avec les concurrents et les alternatives existantes      | Oui / Non                                              |
-|  10 | Une section présente les choix et justifications technologiques pour la réalisation du MVP        | Oui / Non                                              |
-|  11 | Une section présente le produit final                                                             | Oui / Non                                              |
-|  12 | Une section présente les sources de revenus et le modèle économique envisagé                      | Oui / Non                                              |
-|  13 | Une section présente les tests utilisateurs effectués et les retours obtenus                      | Oui / Non                                              |
-|  14 | Une conclusion présente les résultats obtenus et un retour sur la méthodologie utilisée           | -                                                      |
-|  15 | Une conclusion présente les apprentissages réalisés et les remises en question sur le projet      | -                                                      |
-|  16 | Une conclusion présente les prochaines étapes envisagées                                          | -                                                      |
+|   # | Critère                                                                                           |
+| --: | :------------------------------------------------------------------------------------------------ |
+|   1 | Une introduction permet de comprendre clairement la problématique                                 |
+|   2 | Une introduction permet de comprendre clairement le public cible                                  |
+|   3 | Une introduction permet de comprendre clairement la solution                                      |
+|   4 | Le lien entre la problématique, le public cible et la solution est cohérent                       |
+|   5 | Une section présente l'équipe avec les rôles et les contributions de chacun.e                     |
+|   6 | Une section présente les questions et hypothèses à valider avec le public cible                   |
+|   7 | Une section présente l'analyse des entretiens effectués avec le public cible                      |
+|   8 | Une section présente au moins deux idées avec leur exploration et la justification du choix final |
+|   9 | Une section présente l'analyse du marché avec les concurrents et les alternatives existantes      |
+|  10 | Une section présente les choix et justifications technologiques pour la réalisation du MVP        |
+|  11 | Une section présente le produit final                                                             |
+|  12 | Une section présente les sources de revenus et le modèle économique envisagé                      |
+|  13 | Une section présente les tests utilisateurs effectués et les retours obtenus                      |
+|  14 | Une conclusion présente les résultats obtenus et un retour sur la méthodologie utilisée           |
+|  15 | Une conclusion présente les apprentissages réalisés et les remises en question sur le projet      |
+|  16 | Une conclusion présente les prochaines étapes envisagées                                          |
 
 #### Contraintes
 
@@ -360,14 +364,15 @@ intéresse de voir comment vous avez réalisé votre projet.
 
 Les critères d'évaluation sont les suivants :
 
-- 0 point - Le travail est manquant, hors sujet ou montre une compréhension très
-  limitée du sujet.
-- 1 point - Le travail montre une compréhension partielle : certains éléments
-  clés sont manquants, peu clairs ou mal mis en œuvre.
-- 2 points - Le travail est complet, précis et montre une compréhension claire
-  et approfondie du sujet.
+- 0 point – Les critères ne sont pas respectés : la production est absente, hors
+  sujet ou témoigne d'une compréhension très limitée du sujet.
+- 1 point – Les critères sont partiellement respectés : certains éléments
+  essentiels sont manquants, imprécis ou incorrectement mis en œuvre.
+- 2 points – Les critères sont pleinement respectés : l'ensemble des éléments
+  attendus est présent, précis et démontre une compréhension claire et
+  approfondie du sujet.
 
-Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
+Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1.
 
 La pondération de ce délivrable est de 10% de la note finale du projet.
 
@@ -403,6 +408,72 @@ La grille d'évaluation du produit final est la suivante :
   de celle-ci : partez sur des wireframes, des mockups et une bonne
   compréhension de votre public cible avant de vous lancer dans le
   développement.
+
+### Suivi et application de la méthodologie
+
+La dernière partie de l'évaluation portera sur le suivi et l'application de la
+méthodologie vue durant le cours.
+
+Ce suivi sera effectué tout au long du semestre lors des séances de projet (voir
+[Répartition des séances / jalons](#répartition-des-séances--jalons)).
+
+La méthodologie sera principalement notée sur les éléments suivants :
+
+- L'application de la méthodologie.
+- Les choix effectués durant le projet.
+- La réflexion et remise en question des choix effectués.
+
+La méthodologie doit être appliquée de façon rigoureuse et réfléchie. Il ne
+s'agit pas de suivre aveuglément la méthodologie mais de l'adapter à votre
+projet et de réfléchir aux choix que vous faites.
+
+L'observation sera le principal outil pour évaluer ce critère. Nous observerons
+votre travail durant les séances de projet et sur l'avancement que vous nous
+présenterez de séance en séance.
+
+#### Critères d'évaluation et pondération
+
+Les critères d'évaluation sont les suivants :
+
+- 0 point – La méthodologie n'est pas appliquée ou montre une compréhension très
+  limitée de celle-ci.
+- 1 point – La méthodologie est partiellement appliquée ou montre une
+  compréhension partielle de celle-ci.
+- 2 points – La méthodologie est pleinement appliquée et montre une
+  compréhension claire et approfondie de celle-ci.
+
+Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1.
+
+La pondération de ce délivrable est de 30% de la note finale du projet.
+
+#### Grille d'évaluation
+
+La grille d'évaluation du rapport final est la suivante :
+
+|   # | Critère                                                                                                                                                                        |
+| --: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Une recherche d'au moins une problématique a été effectuée                                                                                                                     |
+|   2 | Une recherche d'au moins un public cible a été effectuée                                                                                                                       |
+|   3 | Des questions et des hypothèses pertinentes ont été formulées                                                                                                                  |
+|   4 | Des interviews ont été réalisées avec le public cible (au moins trois par membre de l'équipe durant le semestre et au moins une pour l'équipe après la première séance dédiée) |
+|   5 | Une analyse des entretiens effectués avec le public cible a été réalisée                                                                                                       |
+|   6 | Des conclusions pertinentes ont été tirées de l'analyse des entretiens                                                                                                         |
+|   7 | Une recherche d'au moins deux solutions pour répondre à la problématique du public cible basée sur les retours des entretiens a été effectuée                                  |
+|   8 | Le lien entre la problématique, le public cible et la solution est cohérent                                                                                                    |
+|   9 | Une analyse du marché avec les concurrents et les alternatives existantes a été réalisée                                                                                       |
+|  10 | Une recherche des choix et justifications technologiques pour la réalisation du MVP a été réalisée                                                                             |
+|  11 | Une étude des sources de revenus et du modèle économique envisagé a été réalisée                                                                                               |
+|  12 | Des tests utilisateurs ont été réalisés et analysés                                                                                                                            |
+
+#### Contraintes
+
+- Est-ce qu'il y a des contraintes spécifiques à respecter pour ce critère..?
+
+#### Astuces
+
+- Nous vous recommandons de mettre à jour votre rapport par rapport à la
+  méthodologie tout au long du semestre pour ne pas vous retrouver à devoir tout
+  faire à la fin de celui-ci.
 
 ## Comment travailler en équipe de façon efficace
 

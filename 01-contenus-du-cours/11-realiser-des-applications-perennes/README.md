@@ -1,4 +1,4 @@
-# Réaliser des applications pérennes - Support de cours
+# Réaliser des applications pérennes
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 

@@ -1,4 +1,4 @@
-# Promouvoir son idée - Support de cours
+# Promouvoir son idée
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 

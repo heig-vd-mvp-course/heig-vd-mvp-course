@@ -1,4 +1,4 @@
-# Choisir une stack technologique - Support de cours
+# Choisir une stack technologique
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 

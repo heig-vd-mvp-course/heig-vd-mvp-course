@@ -1,4 +1,4 @@
-# Pitcher son idée - Support de cours
+# Pitcher son idée
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 

@@ -1,4 +1,4 @@
-# Revue du semestre - Support de cours
+# Revue du semestre
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 

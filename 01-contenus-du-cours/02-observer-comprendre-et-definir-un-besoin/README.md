@@ -1,4 +1,4 @@
-# Observer, comprendre, et définir un besoin - Support de cours
+# Observer, comprendre, et définir un besoin
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 

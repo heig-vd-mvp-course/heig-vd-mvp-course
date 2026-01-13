@@ -1,4 +1,4 @@
-# Introduction et organisation du cours - Support de cours
+# Introduction et organisation du cours
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 

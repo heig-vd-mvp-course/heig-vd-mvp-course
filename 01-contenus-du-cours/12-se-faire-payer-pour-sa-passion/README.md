@@ -1,4 +1,4 @@
-# Se faire payer pour sa passion - Support de cours
+# Se faire payer pour sa passion
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 

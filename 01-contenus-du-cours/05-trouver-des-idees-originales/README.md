@@ -1,4 +1,4 @@
-# Trouver des idées originales - Support de cours
+# Trouver des idées originales
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 

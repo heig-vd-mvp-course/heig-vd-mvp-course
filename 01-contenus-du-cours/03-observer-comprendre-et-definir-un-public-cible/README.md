@@ -1,4 +1,4 @@
-# Comprendre et atteindre son public cible - Support de cours
+# Comprendre et atteindre son public cible
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 

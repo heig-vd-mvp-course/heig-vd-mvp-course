@@ -1,4 +1,4 @@
-# Recevoir des feedbacks constructifs et pivoter - Support de cours
+# Recevoir des feedbacks constructifs et pivoter
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 

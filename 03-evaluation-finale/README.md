@@ -1,4 +1,4 @@
-# Évaluation finale - Support de cours
+# Évaluation finale
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 
