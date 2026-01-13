@@ -1,7 +1,7 @@
 allowLocalFiles: true
 browserTimeout: 120
 html: true
-jpegQuality: 100
+jpegQuality: 75
 lang: fr
 themeSet: .
 options:

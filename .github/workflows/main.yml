@@ -3,17 +3,17 @@ name: HEIG-VD MVP Course GitHub Workflow
 # Allow one concurrent deployment
 concurrency:
   group: GitHub Pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 on:
   push:
-    branches:
-      - main
-    tags:
-      - "*"
-    paths:
-      - "**/**/PRESENTATION.md"
-      - "**/**/QUIZ.md"
+    # branches:
+    #   - main
+    # tags:
+    #   - "*"
+    paths-ignore:
+      - "**/README.md"
+      - "README.md"
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages and to release to GitHub Releases
 permissions:
@@ -29,24 +29,24 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Build presentations with Marp
-        uses: docker://marpteam/marp-cli:v4.1.1
+        uses: docker://marpteam/marp-cli:v4.2.3
         with:
-          entrypoint: sh
-          args: build-all-presentations.sh
+          entrypoint: bash
+          args: generate-presentations.sh
 
       - name: Upload files
         uses: actions/upload-artifact@v4
         with:
           name: course-presentations
           path: |
-            **/*/*.jpg
-            **/*/*.jpeg
-            **/*/*.png
-            **/*/*.svg
-            **/*/*-presentation.pdf
-            **/*/*-quiz.pdf
-            **/*/presentation.html
-            **/*/quiz.html
+            **/*.jpg
+            **/*.jpeg
+            **/*.png
+            **/*.svg
+            **/*-presentation.pdf
+            **/*-quiz.pdf
+            **/presentation.html
+            **/quiz.html
           if-no-files-found: error
           retention-days: 1
 
@@ -92,13 +92,12 @@ jobs:
         with:
           name: course-presentations
 
-      - name: Release course material to GitHub Releases
+      - name: Release course presentations to GitHub Releases
         uses: softprops/action-gh-release@v2
         with:
           body: |
-            Cette nouvelle version contient les présentations au format PDF pour l'unité d'enseignement [Lancez votre minimum viable product (MVP)](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379) enseignée à la [Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD)](https://heig-vd.ch), Suisse !
+            Cette nouvelle version contient les présentations au format PDF pour le cours _"[Lancez votre minimum viable product (MVP)](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7379)"_" enseigné à la [Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD)](https://heig-vd.ch), Suisse !
 
-            Vous pouvez directement accéder aux supports de cours de cette version avec le tag Git suivant : [`${{ github.ref_name }}`](${{ github.event.repository.html_url }}/tree/${{ github.ref_name }}).
+            Vous pouvez directement accéder au contenu de cette version avec le tag Git suivant : [`${{ github.ref_name }}`](${{ github.event.repository.html_url }}/tree/${{ github.ref_name }}).
           files: |
-            **/*/*-presentation.pdf
-            **/*/*-quiz.pdf
+            **/*.pdf

@@ -277,11 +277,6 @@ section > header:first-child + * {
 	margin-top: 0;
 }
 
-section:not(.lead) > p,
-blockquote {
-	text-align: justify;
-}
-
 /* Blockquote */
 blockquote {
 	font-style: italic;
@@ -327,6 +322,24 @@ blockquote > *:first-child {
 	gap: 1rem;
 }
 
+.four-columns {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	gap: 1rem;
+}
+
+.one-third-two-thirds-columns {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	gap: 1rem;
+}
+
+.forty-sixty-columns {
+	display: grid;
+	grid-template-columns: 2fr 3fr;
+	gap: 1rem;
+}
+
 .center {
 	text-align: center;
 }
@@ -338,4 +351,8 @@ blockquote > *:first-child {
 
 .rounded img {
 	border-radius: 50%;
+}
+
+.margin-0 {
+	margin: 0;
 }

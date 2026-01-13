@@ -1,19 +1,18 @@
 ---
 marp: true
----
-
-<!--
 theme: custom-marp-theme
 size: 16:9
 paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
-title: HEIG-VD MVP Course - Projet libre
 description: Projet libre pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html
-header: "[**Projet libre**](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/02-projet-libre/README.md)"
-footer: "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course 2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC BY-SA 4.0](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md)"
+header: "[**Projet libre**][contenu-complet-sur-github]"
+footer:
+  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
+  BY-SA 4.0][license]"
 headingDivider: 6
--->
+---
 
 # Projet libre
 
@@ -24,15 +23,16 @@ _paginate: false
 
 <https://github.com/heig-vd-mvp-course>
 
-[Web][web] · [PDF][pdf]
+Visualiser le contenu complet sur GitHub [à cette
+adresse][contenu-complet-sur-github].
 
 <small>L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.</small>
 
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 
-![bg opacity:0.25][illustration-principale]
+![bg opacity:0.1][illustration-principale]
 
-## Modalités d'organisation du projet
+## Introduction et organisation du projet libre
 
 - Projet libre : sujet, public cible, technologie, etc.
 - En solo ou en équipe (max. 5 personnes recommandé)
@@ -75,11 +75,11 @@ Profitez-en pour vous entraîner !
 ## Grilles d'évaluation
 
 Les grilles d'évaluation sont présentées en détails dans le [support de
-cours][course-material] :
+cours][contenu-complet-sur-github] :
 
-- [Grille d'évaluation des présentations](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
-- [Grille d'évaluation du rapport final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-du-rapport-final)
-- [Grille d'évaluation du produit final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-du-produit-final)
+- [Grille d'évaluation des présentations](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
+- [Grille d'évaluation du rapport final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-du-rapport-final)
+- [Grille d'évaluation du produit final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-du-produit-final)
 
 ![bg right:40%][illustration-grilles-devaluation]
 
@@ -100,7 +100,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
   - La qualité de la présentation
   - La qualité de l'argumentation
   - La qualité des réponses aux questions
-- [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
+- [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
 
 ![bg right:40%][illustration-grilles-devaluation]
 
@@ -111,7 +111,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
   - La qualité de la rédaction
   - La qualité du contenu
 - 12 pages maximum (sans compter les images, tableaux, annexes, etc.)
-- [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-du-rapport-final)
+- [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-du-rapport-final)
 
 ![bg right:40%][illustration-grilles-devaluation]
 
@@ -121,7 +121,7 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 - Basés, entre autres, sur :
   - La qualité de la problématique et de sa solution
   - La qualité de la réalisation et de l'expérience utilisateur
-- [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-du-produit-final)
+- [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-du-produit-final)
 
 ![bg right:40%][illustration-grilles-devaluation]
 
@@ -387,7 +387,7 @@ Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
 feedbacks constructifs.
 
 Vous pouvez retrouver la grille d'évaluation de la présentation ici :
-[Projet libre - Grille d'évaluation des présentations](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
+[Projet libre - Grille d'évaluation des présentations](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
 
 #### Conclusion
 
@@ -430,7 +430,7 @@ semaine 4._
 #### Objectifs (3/3)
 
 - Prendre connaissance des critères d'évaluation pour la présentation sur la
-  [Prospection](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/02-support-de-cours/README.md)
+  [Prospection](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/README.md)
 - Compléter le rapport
 
 ![bg right:40%][illustration-objectifs]
@@ -536,7 +536,7 @@ Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
 feedbacks constructifs.
 
 Vous pouvez retrouver la grille d'évaluation de la présentation ici :
-[Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md#grille-dévaluation-des-présentations)
+[Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-dévaluation-des-présentations)
 
 #### Conclusion
 
@@ -911,12 +911,8 @@ prochain groupe se prépare.
 
 <!-- URLs -->
 
-[web]:
-	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/
-[pdf]:
-	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-cours-introduction-motivation-et-organisation-de-lunite/01-presentation/01-cours-introduction-motivation-et-organisation-de-lunite-presentation.pdf
-[course-material]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md
+[contenu-complet-sur-github]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

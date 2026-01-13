@@ -145,7 +145,7 @@ La semaine prochaine aura lieu la première évaluation du cours de MVP avec une
 
 De ce fait, nous vous demandons d'être présent et à l'heure pour cette séance.
 
-Nous vous rappelons que vous pouvez retrouver une proposition de structure de rapport et toutes les grilles d'évaluation dans le support de cours de la semaine 1 à l'adresse suivante : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/02-support-de-cours/README.md.
+Nous vous rappelons que vous pouvez retrouver une proposition de structure de rapport et toutes les grilles d'évaluation dans le support de cours de la semaine 1 à l'adresse suivante : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md.
 
 Merci et toute bonne semaine ! 🙂
 Ludovic et Vincent
@@ -273,7 +273,8 @@ Ludovic et Vincent
 
 ## Sources
 
-[^1]: https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW, Wikipédia, 25 juin 2025
+[^1]:
+    <https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW>, Wikipédia, 25 juin 2025
 
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md

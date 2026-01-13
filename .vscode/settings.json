@@ -11,7 +11,6 @@
 	"files.encoding": "utf8",
 	"files.eol": "\n",
 	"files.insertFinalNewline": true,
-	"intelephense.format.braces": "k&r",
 	"markdown.extension.toc.levels": "2..3",
 	"markdown.marp.breaks": "off",
 	"markdown.marp.html": "all",
@@ -26,5 +25,10 @@
 		"no-trailing-punctuation": false
 	},
 	"plantuml.render": "PlantUMLServer",
-	"plantuml.server": "http://localhost:9090"
+	"plantuml.server": "http://plantuml:8080",
+	"prettier.endOfLine": "lf",
+	"prettier.printWidth": 80,
+	"prettier.proseWrap": "always",
+	"prettier.tabWidth": 2,
+	"prettier.useTabs": true
 }
