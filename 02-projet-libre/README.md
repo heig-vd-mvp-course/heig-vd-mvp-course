@@ -35,9 +35,9 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Votre équipe](#votre-équipe)
   - [Rôles](#rôles)
   - [Séances](#séances)
-- [Différences entre un wireframe, un mockup, un prototype et un minimum viable product (MVP)](#différences-entre-un-wireframe-un-mockup-un-prototype-et-un-minimum-viable-product-mvp)
-  - [Wireframe](#wireframe)
-  - [Mockup](#mockup)
+- [Différences entre une esquisse, une maquette, un prototype et un minimum viable product (MVP)](#différences-entre-une-esquisse-une-maquette-un-prototype-et-un-minimum-viable-product-mvp)
+  - [Esquisse / wireframes](#esquisse--wireframes)
+  - [Maquettes / mockup](#maquettes--mockup)
   - [Prototype](#prototype)
   - [Minimum viable product (MVP)](#minimum-viable-product-mvp)
 - [Répartition des séances / jalons](#répartition-des-séances--jalons)
@@ -522,13 +522,13 @@ Si votre projet concerne le développement d'un logiciel, nous vous recommandons
 d'utiliser Git pour gérer votre code. GitHub[^github] et GitLab[^gitlab] sont
 des solutions éprouvées qui facilitent la gestion collaborative du code. Le
 workflow **_Issue_ -> _Pull Request_/_Merge Request_ -> _Review_ -> _Merge_** a
-déjà largement prouvé son efficacité[^git-workflows] [^gitflow].
+déjà largement prouvé son efficacité[^git-workflows][^gitflow].
 
 N'hésitez pas à utiliser les concepts de pipeline de CI/CD afin d'automatiser
 les tests et les déploiements de votre code. Automatiser les tâches répétitives
 vous fera gagner du temps et vous permettra de vous concentrer sur les tâches
-plus intéressantes. **Attention néanmoins à ne pas vous perdre dans la
-complexité de l'automatisation.**
+plus intéressantes. Attention néanmoins à ne pas vous perdre dans la complexité
+de l'automatisation.
 
 Aussi, essayez de minimiser le nombre d'outils et de technologies utilisés. Plus
 vous en utilisez, plus vous risquez de disperser vos efforts et de perdre du
@@ -551,7 +551,7 @@ personnalités[^personalite], mais de comprendre des aspects concrets et utiles 
   l'engagement et la montée en compétence.
 
 Des pratiques comme les check-ins réguliers (aussi appelés _"daily"_ en anglais)
-ou les rétrospectives d'équipe (aussi appelé _"weekly"_ en anglais) peuvent
+ou les rétrospectives hebdomadaires (aussi appelé _"weekly"_ en anglais) peuvent
 aider à mieux cerner ces éléments et à ajuster la dynamique de groupe[^scrum].
 
 ### Rôles
@@ -604,8 +604,8 @@ Deux rôles clés sont essentiels :
    objections et ajuste si nécessaire.
 1. **Prise de décision** : si des ajustements sont faits, le facilitateur ou
    l'équipe valide la décision.
-1. **Définition des actions à suivre (aussi appelées _"action points (AP)"_ en
-   anglais)** : On note qui fait quoi et pour quand.
+1. **Définition des actions à suivre** (aussi appelées _"action points (AP)_ en
+   anglais) : On note qui fait quoi et pour quand.
 
 Il faut éviter les discussions sans fin et les débats stériles. Pour cela, il
 est important d'éviter un effet "ping pong" où les personnes répondent
@@ -626,7 +626,7 @@ améliorer la qualité de votre travail en équipe. Il faut mettre son ego de c�
 de temps en temps, votre équipe vous fait confiance et sait que vous avez des
 compétences et des connaissances à apporter.
 
-## Différences entre un wireframe, un mockup, un prototype et un minimum viable product (MVP)
+## Différences entre une esquisse, une maquette, un prototype et un minimum viable product (MVP)
 
 Dans le développement d'un produit, il est rare de passer directement à la
 version finale sans étapes intermédiaires. Il est essentiel de tester les idées,
@@ -637,39 +637,42 @@ coûts.
 
 Voici les différentes étapes du développement d'un produit :
 
-- **Wireframe** : définir la structure et la navigation
-- **Mockup** : visualiser l'apparence finale
-- **Prototype** : tester les interactions et l'ergonomie
-- **MVP** : lancer une première version utilisable sur le marché
+- **Esquisse** (appelée _"wireframes"_ en anglais) : définir la structure et la
+  navigation.
+- **Maquette** (appelée _"mockups"_ en anglais) : visualiser l'apparence finale.
+- **Prototype** : tester les interactions et l'ergonomie.
+- **Minimum viable product (MVP)** : lancer une première version utilisable sur
+  le marché.
 
 Ces étapes permettent de maximiser les chances de succès d'un projet en
 réduisant les risques et en favorisant une approche progressive et itérative.
 
-### Wireframe
+### Esquisse / wireframes
 
-Un wireframe est une esquisse simplifiée du produit, souvent utilisée dans les
-échanges techniques. Son objectif principal est de définir l'organisation des
-éléments et la navigation de l'interface, sans se soucier des détails
-graphiques.
+Une esquisse (_"wireframe"_) est une esquisse simplifiée du produit, souvent
+utilisée dans les échanges techniques. Son objectif principal est de définir
+l'organisation des éléments et la navigation de l'interface, sans se soucier des
+détails graphiques.
 
-- Très rapide et peu coûteux à réaliser
-- Utilisé pour aligner l'équipe sur la structure du produit
+- Très rapide et peu coûteux à réaliser.
+- Utilisé pour aligner l'équipe sur la structure du produit.
 - Peut être fait avec des outils simples comme du papier-crayon ou des logiciels
-  dédiés (Balsamiq[^balsamiq])
-- Idéal pour tester et ajuster rapidement la disposition des éléments
+  dédiés (Balsamiq[^balsamiq]).
+- Idéal pour tester et ajuster rapidement la disposition des éléments.
 
-### Mockup
+### Maquettes / mockup
 
-Un mockup est une version plus détaillée du wireframe, qui intègre l'aspect
-visuel du produit. Il permet de mieux se projeter sur l'apparence finale et
-facilite la communication avec les parties prenantes, notamment les clients ou
-le public cible.
+Une maquette (_"mockup"_) est une version plus détaillée de l'esquisse, qui
+intègre l'aspect visuel du produit. Il permet de mieux se projeter sur
+l'apparence finale et facilite la communication avec les parties prenantes,
+notamment les clients ou le public cible :
 
-- Plus détaillé qu'un wireframe, il inclut couleurs, typographie et mise en page
+- Plus détaillé qu'un wireframe, il inclut couleurs, typographie et mise en
+  page.
 - Utilisé pour obtenir des retours sur l'identité visuelle et l'expérience
-  utilisateur
+  utilisateur.
 - Demande plus de temps et de ressources qu'un wireframe, mais reste plus rapide
-  à produire qu'un prototype
+  à produire qu'un prototype.
 
 Il peut être statique (simple représentation graphique) ou dynamique
 (interactions et animations). La première forme est souvent utilisée par les
@@ -684,28 +687,28 @@ XD[^adobe-xd] permettent de réaliser des mockups interactifs.
 Un prototype est une version interactive du produit, qui simule son
 fonctionnement réel sans pour autant être finalisé. Son objectif est de tester
 l'expérience utilisateur et l'adéquation aux besoins du public cible avant
-d'investir davantage dans le développement.
+d'investir davantage dans le développement :
 
-- Permet de tester rapidement les interactions et les parcours utilisateurs
+- Permet de tester rapidement les interactions et les parcours utilisateurs.
 - Conçu pour détecter les problèmes d'ergonomie et améliorer l'expérience
-  utilisateur
+  utilisateur.
 - Favorise une approche _"fail early/fail cheap"_ : détecter et corriger les
-  erreurs avant d'engager trop de ressources
-- **N'est pas conçu pour durer et ne devrait pas être utilisé en production**
+  erreurs avant d'engager trop de ressources.
+- **N'est pas conçu pour durer et ne devrait pas être utilisé en production.**
 
 ### Minimum viable product (MVP)
 
 Le minimum viable product (MVP) est la première version fonctionnelle du produit
 avec un ensemble minimal de fonctionnalités permettant de répondre au besoin
 principal des utilisateurs. Il vise à tester l'idée sur le marché et à récolter
-des retours concrets.
+des retours concrets :
 
-- Version la plus simple et fonctionnelle du produit
-- Optimisé pour minimiser les coûts et maximiser le retour utilisateur
-- Permet de tester le marché et d'adapter le produit en fonction des retours
-- Favorise l'itération rapide et les pivots si nécessaire
+- Version la plus simple et fonctionnelle du produit.
+- Optimisé pour minimiser les coûts et maximiser le retour utilisateur.
+- Permet de tester le marché et d'adapter le produit en fonction des retours.
+- Favorise l'itération rapide et les pivots si nécessaire.
 - Contrairement au prototype, il est destiné à être réellement utilisé par les
-  utilisateurs finaux
+  utilisateurs finaux.
 
 ## Répartition des séances / jalons
 
@@ -713,23 +716,8 @@ Chaque semaine, une séance pratique est dédiée au projet. Lors de ces séance
 vous avez l'occasion de travailler sur votre projet, de poser des questions et
 de recevoir des retours.
 
-Vous remarquerez que certains critères du rapport final sont marqués comme
-"Réalisé durant le semestre ?". Cela signifie que ces critères seront évalués de
-semaine en semaine, et que leur réalisation contribuera à la note finale du
-rapport.
-
-Les critères d'évaluation sont les suivants :
-
-- Non - Le critère n'a pas été réalisé ou manque de manière significative.
-- Oui - Le critère a été réalisé de manière satisfaisante.
-
-Cela signifie que si vous avez travaillé sur ces critères au fil des séances,
-vous bénéficiez d'un bonus dans la note finale du rapport (0.05 point par
-critère réalisé).
-
-Cela signifie également que votre travail ne doit pas être parfait à chaque
-séance, mais qu'il doit montrer une progression et une amélioration au fil du
-temps.
+Les les détails de chaque séance de cours et les ressources associées sont
+décrites ci-dessous.
 
 ### Séance 1 - Constituer les groupes et identifier une problématique
 
@@ -749,6 +737,10 @@ temps.
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
+> - Décrire comment travailler en équipe de façon efficace.
+> - Décrire les différences entre une esquisse, une maquette, un prototype et un
+>   minimum viable product (MVP).
+> - Décrire ce qu'est un minimum viable product (MVP).
 > - Faire connaissance.
 > - Présenter les idées existantes.
 > - Constituer les groupes.
@@ -801,6 +793,10 @@ de commencer à explorer d'autres idées.
 
 De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
 
+- Décrire comment travailler en équipe de façon efficace.
+- Décrire les différences entre une esquisse, une maquette, un prototype et un
+  minimum viable product (MVP).
+- Décrire ce qu'est un minimum viable product (MVP).
 - Faire connaissance.
 - Présenter les idées existantes.
 - Constituer les groupes.

@@ -34,8 +34,6 @@ Suisse !
 
 Vous ne savez pas par où commencer ? Jetez un œil à
 l'[Introduction et organisation du cours](./01-contenus-du-cours/01-introduction-et-organisation-du-cours/README.md)
-et à
-l'[Introduction et organisation du projet libre](./02-projet-libre/README.md)
 pour en savoir plus sur le cours.
 
 ## 📅 Programme
