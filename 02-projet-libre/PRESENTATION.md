@@ -262,15 +262,22 @@ rapport final et explorer/approfondir d'autres idées.
 
 #### Conclusion
 
-TODO?
+Vous avez pu vous familiariser avec les personnes de la classe, partager vos
+problématiques et commencer à réfléchir à celles qui vous intéressent. Vous avez
+également pris connaissance des délivrables attendus et de la méthodologie à
+suivre pour réaliser votre projet.
+
+N'oubliez pas que le choix de la problématique doit être mûrement réfléchi :
+prenez le temps d'explorer plusieurs pistes avant de vous engager. Les semaines
+à venir vous permettront d'affiner votre compréhension du public cible.
 
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
-  pour le projet
+- Explorer d'autres problématiques/d'autres intérêts qui pourraient être
+  intéressants pour le projet
 
 ### Séance 2 - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)
 

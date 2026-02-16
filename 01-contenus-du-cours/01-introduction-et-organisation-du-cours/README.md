@@ -118,11 +118,10 @@ expérience diffère de la nôtre.
 Le cours sera évalué sur plusieurs aspects :
 
 - Une évaluation écrite (100% de la note du cours).
-- Projet libre
-  - Deux présentations (2 × 20% du projet libre).
-  - Un rapport final (20% du projet libre).
-  - Le produit final (10% du projet libre).
-  - Le suivi et application de la méthodologie (30% du projet libre).
+- Deux présentations (20%/20% du projet, respectivement).
+- Un rapport final (20% du projet).
+- Une évaluation sur le produit final (10% du projet).
+- Suivi et application de la méthodologie (30% du projet).
 
 Vous remarquerez que le produit final n'a qu'une petite part de la note. Cela
 est voulu. Nous voulons que vous pratiquiez les différentes étapes de la

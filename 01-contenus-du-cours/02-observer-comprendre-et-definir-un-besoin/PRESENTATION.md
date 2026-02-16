@@ -53,7 +53,6 @@ document._
 - Identifier des secteurs de marché prometteurs pour y fournir un nouveau
   service
 - Décrire ce qu'est une idée originale
-- Générer des idées originales
 
 ![bg right:40%][illustration-objectifs]
 

@@ -56,7 +56,7 @@ adresse][contenu-complet-sur-github].
 **Ludovic  
 Delafontaine**
 
-![w:200](./images/ludovic-delafontaine.png)
+<img src="https://avatars.githubusercontent.com/u/5037444?v=4" alt="Ludovic Delafontaine" width="200" class="rounded">
 
 [E-mail](mailto:ludovic.delafontaine@heig-vd.ch) ·
 [GitHub](https://github.com/ludelafo)
@@ -67,7 +67,7 @@ Delafontaine**
 **Vincent  
 Guidoux**
 
-![w:200](./images/vincent-guidoux.png)
+<img src="https://avatars.githubusercontent.com/u/23353545?v=4" alt="Vincent Guidoux" width="200" class="rounded">
 
 [E-mail](mailto:vincent.guidoux1@heig-vd.ch) ·
 [GitHub](https://github.com/Nortalle)
@@ -156,9 +156,10 @@ Nous nous réjouissons de vous accompagner dans ce cours !
 Le cours sera évalué sur plusieurs aspects :
 
 - Une évaluation écrite (100% de la note du cours)
-- Trois présentations (10%/15%/20% du projet, respectivement)
-- Un rapport final (40% du projet)
-- Une évaluation sur le produit final (15% du projet)
+- Deux présentations (20%/20% du projet, respectivement)
+- Un rapport final (20% du projet)
+- Une évaluation sur le produit final (10% du projet)
+- Suivi et application de la méthodologie (30% du projet)
 
 **Le produit final n'a qu'une petite part de la note.** L'important est la
 démarche et l'apprentissage.

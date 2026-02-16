@@ -299,7 +299,7 @@ La grille d'évaluation du rapport final est la suivante :
 |   2 | Une introduction permet de comprendre clairement le public cible                                  |
 |   3 | Une introduction permet de comprendre clairement la solution                                      |
 |   4 | Le lien entre la problématique, le public cible et la solution est cohérent                       |
-|   5 | Une section présente l'équipe avec les rôles et les contributions de chacun.e                     |
+|   5 | Une section présente l'équipe avec les rôles et les contributions de chaque personne              |
 |   6 | Une section présente les questions et hypothèses à valider avec le public cible                   |
 |   7 | Une section présente l'analyse des entretiens effectués avec le public cible                      |
 |   8 | Une section présente au moins deux idées avec leur exploration et la justification du choix final |
@@ -447,8 +447,8 @@ La grille d'évaluation du rapport final est la suivante :
 
 |   # | Critère                                                                                                                                                                        |
 | --: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | Une recherche d'au moins une problématique a été effectuée                                                                                                                     |
-|   2 | Une recherche d'au moins un public cible a été effectuée                                                                                                                       |
+|   1 | Une recherche d'au moins deux problématique a été effectuée                                                                                                                    |
+|   2 | Une recherche d'au moins deux publics cible a été effectuée                                                                                                                    |
 |   3 | Des questions et des hypothèses pertinentes ont été formulées                                                                                                                  |
 |   4 | Des interviews ont été réalisées avec le public cible (au moins trois par membre de l'équipe durant le semestre et au moins une pour l'équipe après la première séance dédiée) |
 |   5 | Une analyse des entretiens effectués avec le public cible a été réalisée                                                                                                       |
@@ -462,7 +462,7 @@ La grille d'évaluation du rapport final est la suivante :
 
 #### Contraintes
 
-- Est-ce qu'il y a des contraintes spécifiques à respecter pour ce critère..?
+- Il n'y a pas de contrainte spécifique pour cette évaluation
 
 #### Astuces
 
@@ -488,7 +488,7 @@ qui enseignent. Cet e-mail devra contenir :
 - Un lien vers un dépôt Git contenant le code source de votre projet.
 - Un lien vers la page d'accueil de votre application web.
 
-Tou.tes les membres du groupe sont mis.es en copie du mail.
+Chaque personne du groupe doit être mise en copie du mail.
 
 Nos adresses mails sont les suivantes :
 
@@ -716,8 +716,8 @@ Chaque semaine, une séance pratique est dédiée au projet. Lors de ces séance
 vous avez l'occasion de travailler sur votre projet, de poser des questions et
 de recevoir des retours.
 
-Les les détails de chaque séance de cours et les ressources associées sont
-décrites ci-dessous.
+Les détails de chaque séance de cours et les ressources associées sont décrites
+ci-dessous.
 
 ### Séance 1 - Constituer les groupes et identifier une problématique
 
@@ -742,7 +742,6 @@ décrites ci-dessous.
 >   minimum viable product (MVP).
 > - Décrire ce qu'est un minimum viable product (MVP).
 > - Faire connaissance.
-> - Présenter les idées existantes.
 > - Constituer les groupes.
 > - Prendre connaissance des délivrables attendus.
 > - Organiser le travail en équipe sur le semestre.
@@ -788,8 +787,8 @@ product (MVP)_ !
 
 Cette séance a pour but de lancer le projet sur lequel vous allez pouvoir
 travailler tout au long du cours. Nous allons commencer par vous laisser du
-temps pour faire connaissance, présenter les idées existantes et vous permettre
-de commencer à explorer d'autres idées.
+temps pour faire connaissance, présenter les problématiques existantes et vous
+permettre de commencer à explorer d'autres problématiques.
 
 De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
 
@@ -798,7 +797,7 @@ De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
   minimum viable product (MVP).
 - Décrire ce qu'est un minimum viable product (MVP).
 - Faire connaissance.
-- Présenter les idées existantes.
+- Présenter les problématiques existantes.
 - Constituer les groupes.
 - Prendre connaissance des délivrables attendus.
 - Organiser le travail en équipe sur le semestre.
@@ -825,15 +824,22 @@ rapport final et explorer/approfondir vos problématiques.
 
 #### Conclusion
 
-TODO?
+Vous avez pu vous familiariser avec les personnes de la classe, partager vos
+problématiques et commencer à réfléchir à celles qui vous intéressent. Vous avez
+également pris connaissance des délivrables attendus et de la méthodologie à
+suivre pour réaliser votre projet.
+
+N'oubliez pas que le choix de la problématique doit être mûrement réfléchi :
+prenez le temps d'explorer plusieurs pistes avant de vous engager. Les semaines
+à venir vous permettront d'affiner votre compréhension du public cible.
 
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine séance de :
 
-- Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
-  pour le projet libre.
+- Explorer d'autres problématiques/d'autres intérêts qui pourraient être
+  intéressants pour le projet libre.
 - Identifier une problématique.
 - Explorer d'autres problématiques.
 
@@ -2111,7 +2117,9 @@ TODO?
     février 2025
 
 [^asana]: Asana, [asana.com](https://asana.com/fr), 19 février 2025
+
 [^balsamiq]: Balsamiq, [balsamiq.com](https://balsamiq.com/), 19 février 2025
+
 [^consentement]:
     Décision par consentement,
     [imfusio.com](https://imfusio.com/es/bibliotheque/decision-par-consentement),
@@ -2122,8 +2130,11 @@ TODO?
     2025
 
 [^figma]: Figma, [figma.com](https://www.figma.com/), 19 février 2025
+
 [^github]: GitHub, [github.com](https://github.com/), 19 février 2025
+
 [^gitlab]: GitLab, [gitlab.com](https://gitlab.com/), 19 février 2025
+
 [^git-workflows]:
     Comparaison des workflows Git,
     [atlassian.com](https://www.atlassian.com/git/tutorials/comparing-workflows),
@@ -2160,6 +2171,7 @@ TODO?
     2025
 
 [^penpot]: Penpot, [penpot.app](https://penpot.app/), 19 février 2025
+
 [^personalite]:
     Types de personnalité,
     [16personalities.com](https://www.16personalities.com/fr/types-de-personnalite),
@@ -2176,4 +2188,5 @@ TODO?
     2025
 
 [^trello]: Trello, [trello.com](https://trello.com/), 19 février 2025
+
 [^typst]: Typst, [typs.app](https://typs.app/), 19 février 2025
