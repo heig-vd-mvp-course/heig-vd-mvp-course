@@ -1,4 +1,4 @@
-# Évaluation finale - Support de cours
+# Évaluation finale
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 
@@ -37,8 +37,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à répondre avec justesse
-> - Capacité à argumenter
+> - Capacité à répondre avec justesse.
+> - Capacité à argumenter.
 > - Capacité à synthétiser
 >
 > Les retours se font de la manière suivante :
@@ -55,7 +55,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Modalités d'évaluation](#modalités-dévaluation)
 - [Comment se préparer](#comment-se-préparer)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 
 ## Objectifs
 
@@ -68,8 +67,8 @@ L'évaluation prend la forme d'une évaluation écrite sur
 
 L'évaluation se fait en utilisant les critères suivants :
 
-- Capacité à répondre avec justesse
-- Capacité à argumenter
+- Capacité à répondre avec justesse.
+- Capacité à argumenter.
 - Capacité à synthétiser
 
 Les retours se font de la manière suivante :
@@ -92,14 +91,6 @@ Les retours se font de la manière suivante :
 
 _Il n'y a pas de cours la semaine suivante, il n'y a donc rien à faire pour la
 semaine suivante vis-à-vis du cours._
-
-## Ce que vous ferez ensuite
-
-La séance de projet sera consacrée à la réalisation de votre projet et des tests
-utilisateurs associés.
-
-Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
-évoluer.
 
 <!-- URLs -->
 

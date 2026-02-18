@@ -1,4 +1,4 @@
-# Pitcher son idée - Support de cours
+# Pitcher son idée
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 
@@ -38,8 +38,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Présentation magistrale
-> - Discussions collectives
+> - Présentation magistrale.
+> - Discussions collectives.
 >
 > **Méthodes d'évaluation**
 >
@@ -47,12 +47,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à répondre avec justesse
-> - Capacité à argumenter
+> - Capacité à répondre avec justesse.
+> - Capacité à argumenter.
 >
 > Les retours se font de la manière suivante :
 >
-> - Corrigé du quiz
+> - Corrigé du quiz.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -368,12 +368,6 @@ Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
 - Relire le support de cours si nécessaire
-
-## Ce que vous ferez ensuite
-
-La séance de projet sera consacrée à la préparation de votre pitch. Vous aurez
-l'occasion de vous entraîner devant vos camarades et de recevoir des feedbacks
-constructifs.
 
 [^elevator-pitch]:
     Elevator pitch,

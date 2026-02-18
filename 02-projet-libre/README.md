@@ -1,4 +1,4 @@
-# Projet libre - Support de cours
+# Projet libre
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 
@@ -16,51 +16,35 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-evaluation-finale/03-evaluation-finale-presentation.pdf)
 >
 > Tous les détails de chaque séance de cours et les ressources associées sont
-> décrites dans la section [Répartition des séances](#répartition-des-séances).
+> décrites dans la section
+> [Répartition des séances / jalons](#répartition-des-séances--jalons).
 
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
-- [Introduction](#introduction)
-- [Introduction et organisation du projet libre](#introduction-et-organisation-du-projet-libre)
-  - [Présentations](#présentations)
+- [Objectifs](#objectifs)
+- [Délivrables attendus](#délivrables-attendus)
+  - [Présentation du pitch](#présentation-du-pitch)
+  - [Présentation finale](#présentation-finale)
   - [Rapport final](#rapport-final)
   - [Produit final](#produit-final)
-- [Grilles d'évaluation](#grilles-dévaluation)
-  - [Critères d'évaluation](#critères-dévaluation)
-  - [Grille d'évaluation des présentations](#grille-dévaluation-des-présentations)
-  - [Grille d'évaluation du rapport final](#grille-dévaluation-du-rapport-final)
-  - [Grille d'évaluation du produit final](#grille-dévaluation-du-produit-final)
+  - [Suivi et application de la méthodologie](#suivi-et-application-de-la-méthodologie)
+- [Soumission](#soumission)
 - [Comment travailler en équipe de façon efficace](#comment-travailler-en-équipe-de-façon-efficace)
   - [Les outils à utiliser](#les-outils-à-utiliser)
   - [Votre équipe](#votre-équipe)
   - [Rôles](#rôles)
   - [Séances](#séances)
-- [Différences entre un wireframe, un mockup, un prototype et un minimum viable product (MVP)](#différences-entre-un-wireframe-un-mockup-un-prototype-et-un-minimum-viable-product-mvp)
-  - [Wireframe](#wireframe)
-  - [Mockup](#mockup)
+- [Différences entre une esquisse, une maquette, un prototype et un minimum viable product (MVP)](#différences-entre-une-esquisse-une-maquette-un-prototype-et-un-minimum-viable-product-mvp)
+  - [Esquisse / wireframes](#esquisse--wireframes)
+  - [Maquettes / mockup](#maquettes--mockup)
   - [Prototype](#prototype)
   - [Minimum viable product (MVP)](#minimum-viable-product-mvp)
-- [Répartition des séances](#répartition-des-séances)
-  - [Séance 1 - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)](#séance-1---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-13)
-  - [Séance 2 - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)](#séance-2---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-23)
-  - [Séance 3 - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)](#séance-3---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-33)
-  - [Séance 4 - Présentations du pitch](#séance-4---présentations-du-pitch)
-  - [Séance 5 - CRUNCH : pas de séance](#séance-5---crunch--pas-de-séance)
-  - [Séance 6 - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)](#séance-6---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-12)
-  - [Séance 7 - Réalisation et hébergement de la landing page avec formulaire de contact (2/2)](#séance-7---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-22)
-  - [Séance 8 - Présentation sur la prospection](#séance-8---présentation-sur-la-prospection)
-  - [Séance 9 - Réalisation du service et tests utilisateurs (1/6)](#séance-9---réalisation-du-service-et-tests-utilisateurs-16)
-  - [Séance 10 - Réalisation du service et tests utilisateurs (2/6)](#séance-10---réalisation-du-service-et-tests-utilisateurs-26)
-  - [Séance 11 - Réalisation du service et tests utilisateurs (3/6)](#séance-11---réalisation-du-service-et-tests-utilisateurs-36)
-  - [Séance 12 - Réalisation du service et tests utilisateurs (4/6)](#séance-12---réalisation-du-service-et-tests-utilisateurs-46)
-  - [Séance 13 - Réalisation du service et tests utilisateurs (5/6)](#séance-13---réalisation-du-service-et-tests-utilisateurs-56)
-  - [Séance 14 - Réalisation du service et tests utilisateurs (6/6)](#séance-14---réalisation-du-service-et-tests-utilisateurs-66)
-  - [Séance 15 - Rendu du rapport](#séance-15---rendu-du-rapport)
-  - [Séance 16 - Présentations et rendu du projet](#séance-16---présentations-et-rendu-du-projet)
-- [Sources](#sources)
+- [Retour sur l'application de la méthodologie](#retour-sur-lapplication-de-la-méthodologie)
+- [Répartition des séances / jalons](#répartition-des-séances--jalons)
+  - [Séance 1 - Constituer les groupes et identifier des besoins au sein de la problématique](#séance-1---constituer-les-groupes-et-identifier-un-besoin)
 
-## Introduction et organisation du projet libre
+## Objectifs
 
 Le projet est une partie importante de ce cours. Il vous permettra de mettre en
 pratique les connaissances acquises durant le cours et de vous confronter à la
@@ -74,56 +58,178 @@ signifie que le projet ne doit pas être destiné à un public restreint (par
 exemple, un projet destiné à une seule entreprise ou à un seul groupe de
 personnes).
 
-Le projet peut se dérouler en équipe ou en solo ; vous êtes libres de choisir.
+Le projet peut se dérouler en équipe ou de façon individuelle ; vous êtes libres
+de choisir.
+
 Il n'y a pas de taille maximum pour les équipes mais nous vous recommandons de
-ne pas dépasser cinq personnes pour des raisons de communication et de
+ne pas dépasser cinq (5) personnes pour des raisons de communication et de
 coordination.
 
-Les premières séances de projet auront pour but de vous permettre de présenter
-les idées que vous avez et de former des équipes si vous le souhaitez ou de
-trouver une idée de projet personnel.
+Les premières séances de projet auront pour but de former les équipes, expliquer
+les besoins de vos projets respectifs et de trouver une idée de projet.
 
 Chaque semaine, nous prendrons un moment pour discuter de l'avancement de votre
 projet et pour vous donner des retours.
 
-### Présentations
+## Délivrables attendus
 
-Trois présentations auront lieu durant le semestre. Elles porteront sur
-l'avancement du projet et elles seront réalisées en équipe et présentées au
-reste de la classe.
+Les délivrables attendus pour ce projet sont les suivants :
 
-Chaque autre équipe pourra poser des questions à l'équipe qui présente et leur
-faire des retours.
+- [Présentation du pitch](#présentation-du-pitch) - 20% de la note.
+- [Présentation finale](#présentation-finale) - 20% de la note.
+- [Rapport final](#rapport-final) - 20% de la note.
+- [Produit final](#produit-final) - 10% de la note.
+- [Suivi et application de la méthodologie](#suivi-et-application-de-la-méthodologie) -
+  30% de la note.
+
+Chacun de ces délivrables est décrit en détail ci-dessous avec leur grille
+d'évaluation respective, les contraintes et des astuces pour vous aider à les
+réaliser.
+
+### Présentation du pitch
+
+Cette présentation portera sur l'idée de projet que vous avez choisie et devra
+permettre de convaincre les autres équipes que votre idée est intéressante et
+mérite d'être développée.
+
+Chaque équipe pourra poser des questions à l'équipe qui présente et leur faire
+des retours.
 
 Les retours ne seront pas pris en compte dans la note et devraient permettre aux
 membres du groupe de s'améliorer.
 
-Les présentations seront notées sur la qualité de la présentation, la qualité de
-l'argumentation, la qualité des réponses aux questions et la qualité de l'écoute
-des retours.
+La présentation sera principalement notée sur les éléments suivants :
 
-Sauf cas contraire, les présentations sont libres et tout support peut être
-utilisé pour transmettre l'information. Vous êtes libres de choisir le format de
-votre présentation.
-
-Il n'est pas nécessaire de nous transmettre les supports de présentation avant
-ni après la présentation.
+- La qualité de la présentation.
+- La qualité de l'argumentation.
+- La qualité des réponses aux questions.
+- La qualité de l'écoute des retours.
+- Les points spécifiques mentionnés dans la grille d'évaluation.
 
 Le temps alloué pour chaque présentation sera défini en fonction du nombre de
 groupes qui présentent et vous sera communiqué à l'avance pour vous préparer.
 
-La grille d'évaluation des présentations est disponible ici :
-[Grille d'évaluation des présentations](#grille-dévaluation-des-présentations).
+#### Critères d'évaluation et pondération
+
+Les critères d'évaluation sont les suivants :
+
+- 0 point - Les critères ne sont pas respectés : la production est absente, hors
+  sujet ou témoigne d'une compréhension très limitée du sujet.
+- 1 point - Les critères sont partiellement respectés : certains éléments
+  essentiels sont manquants, imprécis ou incorrectement mis en œuvre.
+- 2 points - Les critères sont pleinement respectés : l'ensemble des éléments
+  attendus est présent, précis et démontre une compréhension claire et
+  approfondie du sujet.
+
+Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1.
+
+La pondération de ce délivrable est de 20% de la note finale du projet.
+
+#### Grille d'évaluation
+
+La grille d'évaluation de la présentation du pitch est la suivante :
+
+|   # | Critère                                                                            |
+| --: | :--------------------------------------------------------------------------------- |
+|   1 | L'élocution est claire et compréhensible                                           |
+|   2 | Le fil conducteur de la présentation est logique et fluide                         |
+|   3 | La problématique et son besoin sont clairement définis                             |
+|   4 | Le public cible est clairement défini                                              |
+|   5 | La solution proposée est clairement définie                                        |
+|   6 | Le lien entre le besoin, le public cible et la solution est cohérent               |
+|   7 | Des données et des recherches pertinentes soutiennent les propos tenus             |
+|   8 | Un message convaincant est transmis pour identifier la suite du projet             |
+|   9 | Le temps imparti est respecté                                                      |
+|  10 | Toute l'équipe participe d'une manière ou d'une autre de façon active et équitable |
 
 #### Contraintes
 
-- Les présentations doivent être présentées en équipe (même si tout le monde ne
-  parle pas durant la présentation)
+- Aucun support ne sera utilisé/autorisé pour cette présentation mais vous
+  pouvez choisir le format de votre présentation (libre à vous de faire un
+  scénario, une mise en scène, etc.).
 
 #### Astuces
 
 - Nous vous conseillons de profiter de l'occasion pour expérimenter la prise de
-  parole en public, et que chaque membre de l'équipe participe à la présentation
+  parole en public, et que chaque membre de l'équipe participe à la
+  présentation.
+
+### Présentation finale
+
+La présentation finale aura lieu à la fin du semestre. Elle a pour but de
+présenter le projet finalisé avec tous les éléments qui le composent et sur
+lesquels vous avez travaillé durant le semestre.
+
+Chaque équipe pourra poser des questions à l'équipe qui présente et leur faire
+des retours.
+
+Les retours ne seront pas pris en compte dans la note et devraient permettre aux
+membres du groupe de s'améliorer.
+
+La présentation sera notée sur la qualité de la présentation, la qualité de
+l'argumentation, la qualité des réponses aux questions, la qualité de l'écoute
+des retours ainsi que les points spécifiques mentionnés dans la grille
+d'évaluation.
+
+Le temps alloué pour chaque présentation sera défini en fonction du nombre de
+groupes qui présentent et vous sera communiqué à l'avance pour vous préparer.
+
+Cette présentation est libre et tout support peut être utilisé pour transmettre
+l'information. Vous êtes donc libres de choisir le format de votre présentation.
+
+#### Critères d'évaluation et pondération
+
+Les critères d'évaluation sont les suivants :
+
+- 0 point - Les critères ne sont pas respectés : la production est absente, hors
+  sujet ou témoigne d'une compréhension très limitée du sujet.
+- 1 point - Les critères sont partiellement respectés : certains éléments
+  essentiels sont manquants, imprécis ou incorrectement mis en œuvre.
+- 2 points - Les critères sont pleinement respectés : l'ensemble des éléments
+  attendus est présent, précis et démontre une compréhension claire et
+  approfondie du sujet.
+
+Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1.
+
+La pondération de ce délivrable est de 20% de la note finale du projet.
+
+#### Grille d'évaluation
+
+La grille d'évaluation de la présentation finale est la suivante :
+
+|   # | Critère                                                                            |
+| --: | :--------------------------------------------------------------------------------- |
+|   1 | L'élocution est claire et compréhensible                                           |
+|   2 | Le fil conducteur de la présentation est logique et fluide                         |
+|   3 | La problématique et son besoin sont clairement définis                             |
+|   4 | Le public cible est clairement défini                                              |
+|   5 | La solution proposée est clairement définie                                        |
+|   6 | Le lien entre le besoin, le public cible et la solution est cohérent               |
+|   7 | Des données et des recherches pertinentes soutiennent les propos tenus             |
+|   8 | Les fonctionnalités clés du service/prototype/MVP sont présentées                  |
+|   9 | Les choix technologiques sont expliqués et justifiés                               |
+|  10 | Les retours des tests utilisateurs sont présentés et analysés                      |
+|  11 | La pérennité du projet (financière et technique) est abordée                       |
+|  12 | L'équipe est présentée avec les rôles et les contributions de chacun.e             |
+|  13 | Un message convaincant est transmis pour identifier la suite du projet             |
+|  14 | Le temps imparti est respecté                                                      |
+|  15 | Toute l'équipe participe d'une manière ou d'une autre de façon active et équitable |
+
+#### Contraintes
+
+- Une démonstration du service/prototype/MVP doit être effectuée durant la
+  présentation.
+- Si des supports sont utilisés (diaporama, démonstration, etc.), merci de nous
+  les transmettre après la présentation par email (Ludovic Delafontaine
+  - [ludovic.delafontaine@heig-vd.ch](mailto:ludovic.delafontaine@heig-vd.ch) et
+    Vincent Guidoux
+  - [vincent.guidoux1@heig-vd.ch](mailto:vincent.guidoux1@heig-vd.ch))
+
+#### Astuces
+
+- Nous vous conseillons de profiter de l'occasion pour expérimenter la prise de
+  parole en public, et que chaque membre de l'équipe participe à la
+  présentation.
 
 ### Rapport final
 
@@ -131,169 +237,268 @@ Un rapport final sera demandé à la fin du semestre. Il devra contenir les éta
 significatives de votre projet, les choix que vous avez faits, les raisons de
 ces choix, les difficultés rencontrées et les solutions trouvées.
 
+Pour la soumission, se référer à la section [Soumission](#soumission).
+
+Ce rapport sera complété au fur et à mesure du semestre au fil des séances de
+projet (voir
+[Répartition des séances / jalons](#répartition-des-séances--jalons)).
+
 Le rapport devra être structuré et clair. Il devra être remis en format PDF.
 
 Il s'agit avant tout d'un rapport pour vous. Il devrait vous permettra de voir
 ce que vous avez fait, de voir ce qui a bien fonctionné et ce qui a moins bien
 fonctionné et permettre de suivre l'évolution de votre projet.
 
-Le rapport sera noté sur la qualité de la rédaction, la qualité de la
-présentation des informations, la qualité des choix et des raisons de ces choix,
-la qualité des solutions trouvées et la qualité de la réflexion sur les
-difficultés rencontrées. Il n'est pas nécessaire d'aller dans les détails mais
-nous devrions pouvoir comprendre ce que vous avez fait et pourquoi vous l'avez
-fait.
+Le rapport final sera principalement noté sur les éléments suivants :
 
-Nous vous proposons la structure suivante pour votre rapport final. Vous n'êtes
-pas obligé.es de suivre cette structure si vous jugez qu'une autre structure est
-plus adaptée à votre projet :
+- La qualité de synthétisation et de rédaction.
+- La qualité de présentation des informations.
+- La qualité des choix et leur argumentation.
+- La qualité et la pertinence des solutions trouvées.
+- La qualité de la réflexion sur les difficultés rencontrées.
+- Les points spécifiques mentionnés dans la grille d'évaluation.
 
-1. Introduction - Présentation de la problématique, du projet et des objectifs
-   de celui-ci
-2. Membres de l'équipe - Présentation des membres de l'équipe et de leurs rôles
-   avec leurs compétences
-3. Étapes du projet - Présentation des étapes significatives du projet
-   1. Recherche, choix et justification de l'idée
-   2. Identification du public cible avec énumération des personae
-   3. Wireframes/mockups des fonctionnalités clés
-   4. Questionnaires et hypothèses à valider avec le public cible
-   5. Entretiens effectués avec le public cible
-   6. Analyse des retours et conclusions
-   7. Choix technologiques et réalisation du MVP
-   8. Tests utilisateurs
-   9. Pérennité du projet (financier et technique)
-4. Difficultés rencontrées et solutions - Présentation des difficultés
-   rencontrées et des solutions trouvées
-5. Conclusion - Retrospective des résultats obtenus et des perspectives d'avenir
+Il n'est pas nécessaire d'aller dans les détails mais nous devrions pouvoir
+comprendre ce que vous avez fait et pourquoi vous l'avez fait.
 
 Le rapport peut être réalisé avec l'outil de votre choix mais voici une liste
 d'outils que vous pourriez utiliser si vous n'en avez pas en tête :
 
-- Typst[^typst]
-- LaTeX[^latex]
-- Markdown[^markdown]
-- Google Docs[^google-docs]
-- Microsoft Word[^microsoft-word] (si vous souhaitez vraiment vous faire du mal)
-
-La grille d'évaluation du rapport final est disponible ici :
-[Grille d'évaluation du rapport final](#grille-dévaluation-du-rapport-final).
+- Typst[^typst].
+- LaTeX[^latex].
+- Markdown[^markdown].
+- Google Docs[^google-docs].
+- Microsoft Word[^microsoft-word] (si vous souhaitez vraiment vous faire du
+  mal).
 
 Nous nous rendons disponibles pour vous faire un retour sur votre rapport tout
 au long du semestre si besoin.
 
+#### Critères d'évaluation et pondération
+
+Les critères d'évaluation sont les suivants :
+
+- 0 point - Les critères ne sont pas respectés : la production est absente, hors
+  sujet ou témoigne d'une compréhension très limitée du sujet.
+- 1 point - Les critères sont partiellement respectés : certains éléments
+  essentiels sont manquants, imprécis ou incorrectement mis en œuvre.
+- 2 points - Les critères sont pleinement respectés : l'ensemble des éléments
+  attendus est présent, précis et démontre une compréhension claire et
+  approfondie du sujet.
+
+Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1.
+
+La pondération de ce délivrable est de 20% de la note finale du projet.
+
+#### Grille d'évaluation
+
+La grille d'évaluation du rapport final est la suivante :
+
+|   # | Critère                                                                                           |
+| --: | :------------------------------------------------------------------------------------------------ |
+|   1 | Une introduction permet de comprendre clairement la problématique et le besoin du projet          |
+|   2 | Une introduction permet de comprendre clairement le public cible                                  |
+|   3 | Une introduction permet de comprendre clairement la solution                                      |
+|   4 | Le lien entre le besoin, le public cible et la solution est cohérent                              |
+|   5 | Une section présente l'équipe avec les rôles et les contributions de chaque personne              |
+|   6 | Une section présente les questions et hypothèses à valider avec le public cible                   |
+|   7 | Une section présente l'analyse des entretiens effectués avec le public cible                      |
+|   8 | Une section présente au moins deux idées avec leur exploration et la justification du choix final |
+|   9 | Une section présente l'analyse du marché avec les concurrents et les alternatives existantes      |
+|  10 | Une section présente les choix et justifications technologiques pour la réalisation du MVP        |
+|  11 | Une section présente le produit final                                                             |
+|  12 | Une section présente les sources de revenus et le modèle économique envisagé                      |
+|  13 | Une section présente les tests utilisateurs effectués et les retours obtenus                      |
+|  14 | Une conclusion présente les résultats obtenus et un retour sur la méthodologie utilisée           |
+|  15 | Une conclusion présente les apprentissages réalisés et les remises en question sur le projet      |
+|  16 | Une conclusion présente les prochaines étapes envisagées                                          |
+
 #### Contraintes
 
-- Au moins deux idées doivent être présentées et explorées avant de choisir
-  celle qui sera développée
-- Le nombre d'interviews est proportionnel au nombre de membres de l'équipe (un
-  membre doit réaliser au moins trois interviews)
 - **La longueur du rapport final ne doit pas dépasser 12 pages (sans compter les
   images, les tableaux, les annexes, etc.).**
+- Le document doit être remis au format PDF.
+- Le rapport est facile à lire, bien structuré et bien présenté.
+- Au moins deux idées doivent être présentées et explorées avant de choisir
+  celle qui sera développée.
+- Le nombre d'interviews est proportionnel au nombre de membres de l'équipe (un
+  membre doit réaliser au moins trois interviews).
+- Le questionnaire d'interview doit être annexé au rapport.
+- Les maquettes des fonctionnalités clés doivent être annexées au rapport.
+- Le business model canvas doit être annexé au rapport.
+- Le délai et le format du rendu du rapport final doivent être respectés.
+
+> [!CAUTION]
+>
+> Le non-respect de ces contraintes peut entraîner des sanctions sévères, et ce,
+> pour chaque critère non respecté.
 
 #### Astuces
 
 - Nous vous recommandons de travailler sur votre rapport tout au long du
-  semestre pour ne pas vous retrouver à devoir tout faire à la fin de celui-ci
-- Il n'est pas nécessaire de fournir les wireframes/mockups pour les
-  fonctionnalités basiques (login, logout, etc.)
+  semestre pour ne pas vous retrouver à devoir tout faire à la fin de celui-ci.
 
 ### Produit final
 
-Le résultat final du projet devra être rendu sous forme d'un lien vers un dépôt
-Git contenant le code source de votre projet ou d'une archive contenant le code
-source de votre projet rendue par mail aux personnes qui enseignent.
+Le produit final sera principalement noté sur les éléments suivants :
 
-De plus, un lien vers le site web de votre projet devra être fourni. Cela nous
-permettra de tester l'application.
+- La qualité de l'application.
+- La qualité de la présentation du besoin et de la solution.
+- La qualité de la navigation.
+- La qualité du service (fonctionnalités, expérience utilisateur et tests
+  utilisateurs).
 
-Le produit final sera noté sur la qualité de l'application, la qualité de la
-présentation de la problématique et de la solution, la qualité de la navigation
-et la qualité du service.
+Nous n'allons pas évaluer la qualité du code source en détails mais il nous
+intéresse de voir comment vous avez réalisé votre projet.
 
-Nous vous demanderons de fournir le code source afin de vous faire un sommaire
-retour. Nous n'allons pas évaluer la qualité du code source en détails mais il
-nous intéresse de voir comment vous avez réalisé votre projet.
+#### Critères d'évaluation et pondération
 
-La grille d'évaluation du produit final est disponible ici :
-[Grille d'évaluation du produit final](#grille-dévaluation-du-produit-final).
+Les critères d'évaluation sont les suivants :
+
+- 0 point - Les critères ne sont pas respectés : la production est absente, hors
+  sujet ou témoigne d'une compréhension très limitée du sujet.
+- 1 point - Les critères sont partiellement respectés : certains éléments
+  essentiels sont manquants, imprécis ou incorrectement mis en œuvre.
+- 2 points - Les critères sont pleinement respectés : l'ensemble des éléments
+  attendus est présent, précis et démontre une compréhension claire et
+  approfondie du sujet.
+
+Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1.
+
+La pondération de ce délivrable est de 10% de la note finale du projet.
+
+#### Grille d'évaluation
+
+La grille d'évaluation du produit final est la suivante :
+
+|   # | Critère                                                                                |
+| --: | :------------------------------------------------------------------------------------- |
+|   1 | L'application est déployée et accessible sur Internet                                  |
+|   2 | La page d'accueil permet de comprendre le besoin et la solution proposée               |
+|   3 | La navigation est intuitive et permet de comprendre le fonctionnement de l'application |
+|   4 | Le service est fonctionnel et permet de répondre à la problématique                    |
+|   5 | Un formulaire de contact est présent et fonctionnel                                    |
+|   6 | Un moyen de paiement est présent et fonctionnel                                        |
 
 #### Contraintes
 
-Il n'y a aucune contrainte sur la technologie et les manières utilisées pour
-réaliser le projet.
+- Le délai et le format du rendu du produit final doivent être respectés.
+- La qualité du code source doit être acceptable et permettre de reprendre en
+  main le projet.
+
+> [!CAUTION]
+>
+> Le non-respect de ces contraintes peut entraîner des sanctions sévères, et ce,
+> pour chaque critère non respecté.
 
 #### Astuces
 
 - Nous vous conseillons de partir sur une technologie que vous connaissez et
-  maîtrisez déjà et avec laquelle vous êtes à l'aise - Nous ne sommes pas contre
+  maîtrisez déjà et avec laquelle vous êtes à l'aise. Nous ne sommes pas contre
   que vous profitiez de l'opportunité de tester une nouvelle technologie mais, à
   nouveau, l'important de ce cours est la méthode et non pas le produit final
   donc nous ne recommandons pas de partir sur une technologie que vous ne
-  maîtrisez pas déjà
+  maîtrisez pas déjà.
 - **Ne codez pas tout de suite**. Nous ne répéterons jamais assez que le plus
   important est de valider votre idée avant de vous lancer dans le développement
   de celle-ci : partez sur des wireframes, des mockups et une bonne
-  compréhension de votre public cible avant de vous lancer dans le développement
+  compréhension de votre public cible avant de vous lancer dans le
+  développement.
 
-## Grilles d'évaluation
+### Suivi et application de la méthodologie
 
-Les grilles d'évaluation des présentations, du rapport final et du produit final
-sont décrites ci-dessous.
+La dernière partie de l'évaluation portera sur le suivi et l'application de la
+méthodologie vue durant le cours.
 
-### Critères d'évaluation
+Ce suivi sera effectué tout au long du semestre lors des séances de projet (voir
+[Répartition des séances / jalons](#répartition-des-séances--jalons)).
 
-- 0 point - Le travail est insuffisant
-- 1 point - Le travail est réalisé
-- 2 points - Le travail est bien réalisé (sans la nécessité d'être parfait)
+La méthodologie sera principalement notée sur les éléments suivants :
 
-Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
+- L'application de la méthodologie.
+- Les choix effectués durant le projet.
+- La réflexion et remise en question des choix effectués.
 
-### Grille d'évaluation des présentations
+La méthodologie doit être appliquée de façon rigoureuse et réfléchie. Il ne
+s'agit pas de suivre aveuglément la méthodologie mais de l'adapter à votre
+projet et de réfléchir aux choix que vous faites.
 
-| #   | Critère                                                                   |
-| :-- | :------------------------------------------------------------------------ |
-| 1   | La problématique ainsi que sa solution permettent de comprendre le projet |
-| 2   | L'élocution est claire et compréhensible                                  |
-| 3   | Les informations sont claires et bien présentées                          |
-| 4   | Les contenus présentés sont pertinents et supportent l'argumentation      |
-| 5   | Les supports sont de qualité                                              |
-| 6   | Le temps imparti est respecté                                             |
-| 7   | Les réponses aux questions sont pertinentes                               |
-| 8   | Les retours sont écoutés et pris en compte                                |
+L'observation sera le principal outil pour évaluer ce critère. Nous observerons
+votre travail durant les séances de projet et sur l'avancement que vous nous
+présenterez de séance en séance.
 
-### Grille d'évaluation du rapport final
+#### Critères d'évaluation et pondération
 
-| #   | Critère                                                                                   |
-| :-- | :---------------------------------------------------------------------------------------- |
-| 1   | Qualité de la présentation de la problématique, du projet et des objectifs de celui-ci    |
-| 2   | Qualité de la présentation des membres de l'équipe et de leurs rôles et leurs compétences |
-| 3   | Qualité de recherche, choix et justification de l'idée                                    |
-| 4   | Qualité de l'identification du public cible avec énumération des personae                 |
-| 5   | Qualité des wireframes/mockups des fonctionnalités clés                                   |
-| 6   | Qualité des questionnaires et hypothèses à valider avec le public cible                   |
-| 7   | Qualité des entretiens effectués avec le public cible                                     |
-| 8   | Qualité de l'analyse des retours et des conclusions                                       |
-| 9   | Qualité des choix technologiques et de la réalisation du MVP                              |
-| 10  | Qualité des tests utilisateurs                                                            |
-| 11  | Qualité de la pérennité du projet (financier et technique)                                |
-| 12  | Qualité de la présentation des difficultés rencontrées et des solutions trouvées          |
-| 13  | Qualité de la conclusion                                                                  |
-| 14  | Qualité de la rédaction du rapport                                                        |
-| 15  | Qualité de la clarté de la présentation des informations                                  |
-| 16  | Respect des délais, de la longueur et du format du rendu du rapport                       |
+Les critères d'évaluation sont les suivants :
 
-### Grille d'évaluation du produit final
+- 0 point - La méthodologie n'est pas appliquée ou montre une compréhension très
+  limitée de celle-ci.
+- 1 point - La méthodologie est partiellement appliquée ou montre une
+  compréhension partielle de celle-ci.
+- 2 points - La méthodologie est pleinement appliquée et montre une
+  compréhension claire et approfondie de celle-ci.
 
-| #   | Critère                                                                                |
-| :-- | :------------------------------------------------------------------------------------- |
-| 1   | L'application est déployée et accessible sur Internet                                  |
-| 2   | La page d'accueil permet de comprendre la problématique et la solution proposée        |
-| 3   | La navigation est intuitive et permet de comprendre le fonctionnement de l'application |
-| 4   | Le service est fonctionnel et permet de répondre à la problématique                    |
-| 5   | Un moyen de paiement est présent et fonctionnel                                        |
-| 6   | Un formulaire de contact est présent et fonctionnel                                    |
-| 7   | La qualité du code source est acceptable et permet de reprendre en main le projet      |
-| 8   | Respect des délais et du format du rendu du produit final                              |
+Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1.
+
+La pondération de ce délivrable est de 30% de la note finale du projet.
+
+#### Grille d'évaluation
+
+La grille d'évaluation du rapport final est la suivante :
+
+|   # | Critère                                                                                                                                                                        |
+| --: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Une recherche d'au moins deux besoins liés à la problématique a été effectuée                                                                                                  |
+|   2 | Une recherche d'au moins deux publics cible a été effectuée                                                                                                                    |
+|   3 | Des questions et des hypothèses pertinentes ont été formulées                                                                                                                  |
+|   4 | Des interviews ont été réalisées avec le public cible (au moins trois par membre de l'équipe durant le semestre et au moins une pour l'équipe après la première séance dédiée) |
+|   5 | Une analyse des entretiens effectués avec le public cible a été réalisée                                                                                                       |
+|   6 | Des conclusions pertinentes ont été tirées de l'analyse des entretiens                                                                                                         |
+|   7 | Une recherche d'au moins deux solutions pour répondre au besoin du public cible basée sur les retours des entretiens a été effectuée                                           |
+|   8 | Le lien entre le besoin, le public cible et la solution est cohérent                                                                                                           |
+|   9 | Une analyse du marché avec les concurrents et les alternatives existantes a été réalisée                                                                                       |
+|  10 | Une recherche des choix et justifications technologiques pour la réalisation du MVP a été réalisée                                                                             |
+|  11 | Une étude des sources de revenus et du modèle économique envisagé a été réalisée                                                                                               |
+|  12 | Des tests utilisateurs ont été réalisés et analysés                                                                                                                            |
+
+#### Contraintes
+
+- Si nous ne sommes pas en mesure de suivre et valider la méthodologie de votre
+  projet durant les séances de projet, nous ne serons pas en mesure de vous
+  attribuer une note pour ce critère.
+
+#### Astuces
+
+- Nous vous recommandons de mettre à jour votre rapport par rapport à la
+  méthodologie tout au long du semestre pour ne pas vous retrouver à devoir tout
+  faire à la fin de celui-ci.
+
+## Soumission
+
+Votre travail doit être remis comme suit :
+
+- Rapport final : 07.06.2026 23h59
+- Produit final : 14.06.2026 23h59
+
+Le résultat final du rapport devra être rendu à l'aide d'un e-mail aux personnes
+qui enseignent. Cet e-mail devra contenir :
+
+- Le rapport final en format PDF.
+
+Le résultat final du projet devra être rendu à l'aide d'un e-mail aux personnes
+qui enseignent. Cet e-mail devra contenir :
+
+- Un lien vers un dépôt Git contenant le code source de votre projet.
+- Un lien vers la page d'accueil de votre application web.
+
+Chaque personne du groupe doit être mise en copie du mail.
+
+Nos adresses mails sont les suivantes :
+
+- Ludovic Delafontaine
+  ([ludovic.delafontaine@heig-vd.ch](mailto:ludovic.delafontaine@heig-vd.ch))
+- Vincent Guidoux
+  ([vincent.guidoux1@heig-vd.ch](mailto:vincent.guidoux1@heig-vd.ch))
 
 ## Comment travailler en équipe de façon efficace
 
@@ -320,13 +525,13 @@ Si votre projet concerne le développement d'un logiciel, nous vous recommandons
 d'utiliser Git pour gérer votre code. GitHub[^github] et GitLab[^gitlab] sont
 des solutions éprouvées qui facilitent la gestion collaborative du code. Le
 workflow **_Issue_ -> _Pull Request_/_Merge Request_ -> _Review_ -> _Merge_** a
-déjà largement prouvé son efficacité[^git-workflows] [^gitflow].
+déjà largement prouvé son efficacité[^git-workflows][^gitflow].
 
 N'hésitez pas à utiliser les concepts de pipeline de CI/CD afin d'automatiser
 les tests et les déploiements de votre code. Automatiser les tâches répétitives
 vous fera gagner du temps et vous permettra de vous concentrer sur les tâches
-plus intéressantes. **Attention néanmoins à ne pas vous perdre dans la
-complexité de l'automatisation.**
+plus intéressantes. Attention néanmoins à ne pas vous perdre dans la complexité
+de l'automatisation.
 
 Aussi, essayez de minimiser le nombre d'outils et de technologies utilisés. Plus
 vous en utilisez, plus vous risquez de disperser vos efforts et de perdre du
@@ -349,7 +554,7 @@ personnalités[^personalite], mais de comprendre des aspects concrets et utiles 
   l'engagement et la montée en compétence.
 
 Des pratiques comme les check-ins réguliers (aussi appelés _"daily"_ en anglais)
-ou les rétrospectives d'équipe (aussi appelé _"weekly"_ en anglais) peuvent
+ou les rétrospectives hebdomadaires (aussi appelé _"weekly"_ en anglais) peuvent
 aider à mieux cerner ces éléments et à ajuster la dynamique de groupe[^scrum].
 
 ### Rôles
@@ -402,8 +607,8 @@ Deux rôles clés sont essentiels :
    objections et ajuste si nécessaire.
 1. **Prise de décision** : si des ajustements sont faits, le facilitateur ou
    l'équipe valide la décision.
-1. **Définition des actions à suivre (aussi appelées _"action points (AP)"_ en
-   anglais)** : On note qui fait quoi et pour quand.
+1. **Définition des actions à suivre** (aussi appelées _"action points (AP)_ en
+   anglais) : On note qui fait quoi et pour quand.
 
 Il faut éviter les discussions sans fin et les débats stériles. Pour cela, il
 est important d'éviter un effet "ping pong" où les personnes répondent
@@ -424,7 +629,7 @@ améliorer la qualité de votre travail en équipe. Il faut mettre son ego de c�
 de temps en temps, votre équipe vous fait confiance et sait que vous avez des
 compétences et des connaissances à apporter.
 
-## Différences entre un wireframe, un mockup, un prototype et un minimum viable product (MVP)
+## Différences entre une esquisse, une maquette, un prototype et un minimum viable product (MVP)
 
 Dans le développement d'un produit, il est rare de passer directement à la
 version finale sans étapes intermédiaires. Il est essentiel de tester les idées,
@@ -435,39 +640,42 @@ coûts.
 
 Voici les différentes étapes du développement d'un produit :
 
-- **Wireframe** : définir la structure et la navigation
-- **Mockup** : visualiser l'apparence finale
-- **Prototype** : tester les interactions et l'ergonomie
-- **MVP** : lancer une première version utilisable sur le marché
+- **Esquisse** (appelée _"wireframes"_ en anglais) : définir la structure et la
+  navigation.
+- **Maquette** (appelée _"mockups"_ en anglais) : visualiser l'apparence finale.
+- **Prototype** : tester les interactions et l'ergonomie.
+- **Minimum viable product (MVP)** : lancer une première version utilisable sur
+  le marché.
 
 Ces étapes permettent de maximiser les chances de succès d'un projet en
 réduisant les risques et en favorisant une approche progressive et itérative.
 
-### Wireframe
+### Esquisse / wireframes
 
-Un wireframe est une esquisse simplifiée du produit, souvent utilisée dans les
-échanges techniques. Son objectif principal est de définir l'organisation des
-éléments et la navigation de l'interface, sans se soucier des détails
-graphiques.
+Une esquisse (_"wireframe"_) est une esquisse simplifiée du produit, souvent
+utilisée dans les échanges techniques. Son objectif principal est de définir
+l'organisation des éléments et la navigation de l'interface, sans se soucier des
+détails graphiques.
 
-- Très rapide et peu coûteux à réaliser
-- Utilisé pour aligner l'équipe sur la structure du produit
+- Très rapide et peu coûteux à réaliser.
+- Utilisé pour aligner l'équipe sur la structure du produit.
 - Peut être fait avec des outils simples comme du papier-crayon ou des logiciels
-  dédiés (Balsamiq[^balsamiq])
-- Idéal pour tester et ajuster rapidement la disposition des éléments
+  dédiés (Balsamiq[^balsamiq]).
+- Idéal pour tester et ajuster rapidement la disposition des éléments.
 
-### Mockup
+### Maquettes / mockup
 
-Un mockup est une version plus détaillée du wireframe, qui intègre l'aspect
-visuel du produit. Il permet de mieux se projeter sur l'apparence finale et
-facilite la communication avec les parties prenantes, notamment les clients ou
-le public cible.
+Une maquette (_"mockup"_) est une version plus détaillée de l'esquisse, qui
+intègre l'aspect visuel du produit. Il permet de mieux se projeter sur
+l'apparence finale et facilite la communication avec les parties prenantes,
+notamment les clients ou le public cible :
 
-- Plus détaillé qu'un wireframe, il inclut couleurs, typographie et mise en page
+- Plus détaillé qu'un wireframe, il inclut couleurs, typographie et mise en
+  page.
 - Utilisé pour obtenir des retours sur l'identité visuelle et l'expérience
-  utilisateur
+  utilisateur.
 - Demande plus de temps et de ressources qu'un wireframe, mais reste plus rapide
-  à produire qu'un prototype
+  à produire qu'un prototype.
 
 Il peut être statique (simple représentation graphique) ou dynamique
 (interactions et animations). La première forme est souvent utilisée par les
@@ -482,32 +690,59 @@ XD[^adobe-xd] permettent de réaliser des mockups interactifs.
 Un prototype est une version interactive du produit, qui simule son
 fonctionnement réel sans pour autant être finalisé. Son objectif est de tester
 l'expérience utilisateur et l'adéquation aux besoins du public cible avant
-d'investir davantage dans le développement.
+d'investir davantage dans le développement :
 
-- Permet de tester rapidement les interactions et les parcours utilisateurs
+- Permet de tester rapidement les interactions et les parcours utilisateurs.
 - Conçu pour détecter les problèmes d'ergonomie et améliorer l'expérience
-  utilisateur
+  utilisateur.
 - Favorise une approche _"fail early/fail cheap"_ : détecter et corriger les
-  erreurs avant d'engager trop de ressources
-- **N'est pas conçu pour durer et ne devrait pas être utilisé en production**
+  erreurs avant d'engager trop de ressources.
+- **N'est pas conçu pour durer et ne devrait pas être utilisé en production.**
 
 ### Minimum viable product (MVP)
 
 Le minimum viable product (MVP) est la première version fonctionnelle du produit
 avec un ensemble minimal de fonctionnalités permettant de répondre au besoin
 principal des utilisateurs. Il vise à tester l'idée sur le marché et à récolter
-des retours concrets.
+des retours concrets :
 
-- Version la plus simple et fonctionnelle du produit
-- Optimisé pour minimiser les coûts et maximiser le retour utilisateur
-- Permet de tester le marché et d'adapter le produit en fonction des retours
-- Favorise l'itération rapide et les pivots si nécessaire
+- Version la plus simple et fonctionnelle du produit.
+- Optimisé pour minimiser les coûts et maximiser le retour utilisateur.
+- Permet de tester le marché et d'adapter le produit en fonction des retours.
+- Favorise l'itération rapide et les pivots si nécessaire.
 - Contrairement au prototype, il est destiné à être réellement utilisé par les
-  utilisateurs finaux
+  utilisateurs finaux.
+- Les personnes sont prêtes à payer pour utiliser un MVP afin de résoudre leur
+  problème.
 
-## Répartition des séances
+## Retour sur l'application de la méthodologie
 
-### Séance 1 - Constituer les groupes et identifier une problématique
+Où que vous en soyez dans votre projet...
+
+Peu importe le temps que vous avez passé à travailler dessus...
+
+Quelle que soit la qualité de votre produit final...
+
+**Vous oubliez absolument tout ce que vous pensez savoir et vous repartez à
+partir de zéro.**
+
+Le but est d'enlever tous les biais, les hypothèses, les idées préconçues pour
+obtenir le meilleur produit pour votre public cible.
+
+## Répartition des séances / jalons
+
+Chaque semaine, une séance pratique est dédiée au projet. Lors de ces séances,
+vous avez l'occasion de travailler sur votre projet, de poser des questions et
+de recevoir des retours.
+
+C'est lors de ces séances que nous allons suivre l'avancement de votre projet et
+évaluer l'application de la méthodologie liée à l'évaluation
+[Application de la méthodologie](#suivi-et-application-de-la-méthodologie).
+
+Les détails de chaque séance de cours et les ressources associées sont décrites
+ci-dessous.
+
+### Séance 1 - Constituer les groupes et identifier des besoins au sein de la problématique
 
 > [!TIP]
 >
@@ -525,68 +760,74 @@ des retours concrets.
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Faire connaissance
-> - Présenter les idées existantes
-> - Constituer les groupes
-> - Connaître les intérêts de chaque personne
-> - Définir les rôles de chaque personne
-> - Organiser le travail en équipe sur le semestre
-> - Explorer d'autres idées
-> - Commencer à approfondir une idée
-> - Prendre connaissance de la structure attendue et des critères d'évaluation
->   du rendu final
+> - Décrire comment travailler en équipe de façon efficace.
+> - Décrire les différences entre une esquisse, une maquette, un prototype et un
+>   minimum viable product (MVP).
+> - Décrire ce qu'est un minimum viable product (MVP).
+> - Faire connaissance.
+> - Constituer les groupes.
+> - Prendre connaissance des délivrables attendus.
+> - Définir les rôles de chaque personne.
+> - Organiser le travail en équipe sur le semestre.
+> - Identifier un besoin.
+> - Explorer d'autres besoins.
+> - Décrire le besoin auquel répond le projet libre.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Discussions en groupe
-> - Pitch
-> - Brainstorming
-> - Feedback
-> - Travail autonome en groupe ou individuel
+> - Discussions en groupe.
+> - Pitch.
+> - Brainstorming.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
 >
 > L'évaluation prend la forme d'une présentation du projet aux personnes qui
-> enseignent.
+> enseignent lors de la séance suivante.
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à présenter
-> - Capacité à écouter
-> - Capacité à argumenter
-> - Capacité à participer
+> - Capacité à présenter.
+> - Capacité à écouter.
+> - Capacité à argumenter..
+> - Capacité à participer.
+> - Réalisation du travail demandé.
 >
 > Les retours se font de la manière suivante :
 >
-> - Feedback
+> - Feedback.
 >
-> L'évaluation ne donne pas lieu à une note.
+> L'évaluation donne lieu à une note (0.05 point de bonus si réalisé - voir
+> section [Répartition des séances / jalons](#répartition-des-séances--jalons)).
 
-#### Introduction
+#### Objectifs
 
-Bienvenue dans la première séance pratique du cours _Lancez votre minimum viable
-product (MVP)_ !
+Bienvenue dans la première séance pratique du cours _"Lancez votre minimum
+viable product (MVP)"_ !
 
 Cette séance a pour but de lancer le projet sur lequel vous allez pouvoir
 travailler tout au long du cours. Nous allons commencer par vous laisser du
-temps pour faire connaissance, présenter les idées existantes et vous permettre
-de commencer à explorer d'autres idées.
+temps pour faire connaissance, présenter les problématiques existantes et vous
+permettre de commencer à explorer d'autres problématiques.
 
 De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
 
-- Faire connaissance
-- Présenter les idées existantes
-- Constituer les groupes
-- Connaître les intérêts de chaque personne
-- Définir les rôles de chaque personne
-- Organiser le travail en équipe sur le semestre
-- Explorer d'autres idées
-- Commencer à approfondir une idée
-- Prendre connaissance de la structure attendue et des critères d'évaluation du
-  rendu final
+- Décrire comment travailler en équipe de façon efficace.
+- Décrire les différences entre une esquisse, une maquette, un prototype et un
+  minimum viable product (MVP).
+- Décrire ce qu'est un minimum viable product (MVP).
+- Faire connaissance.
+- Présenter les problématiques existantes.
+- Constituer les groupes.
+- Prendre connaissance des délivrables attendus.
+- Définir les rôles de chaque personne.
+- Organiser le travail en équipe sur le semestre.
+- Identifier et décrire au moins deux besoins au sein de la problématique.
+- Explorer d'autres besoins.
 
 Durant ces séances pratiques, nous vous invitons à être autonome et à travailler
 en équipe ou de manière individuelle pour avancer sur votre projet selon les
@@ -595,27 +836,39 @@ dans votre projet.
 
 #### Déroulement
 
-Nous vous invitons maintenant à vous présenter et votre idée de projet si vous
-en avez une. N'hésitez pas à poser des questions aux autres personnes pour mieux
-comprendre leur(s) idée(s).
-
-Ensuite, nous vous invitons à former des groupes avec les personnes/projets qui
-vont inspirés ou à réfléchir à une idée personnelle.
-
-Enfin, nous vous invitons à prendre connaissance de la structure et critères du
-rapport final et explorer/approfondir d'autres idées.
+- Présentez-vous ainsi que la problématique de votre projet si vous en avez une.
+  N'hésitez pas à poser des questions aux autres personnes pour mieux comprendre
+  leur projet.
+- Former les groupes avec les personnes/projets qui vont inspirés ou à
+  réfléchissez à un projet personnel.
+- Prendre connaissance des délivrables attendus.
+- Réfléchir à au moins deux besoins au sein de votre problématique et les
+  décrire.
+- Explorer d'autres besoins au sein de votre problématique.
 
 #### Conclusion
 
-TODO?
+Vous avez pu vous familiariser avec les personnes de la classe, partager vos
+problématiques et commencer à réfléchir à celles qui vous intéressent. Vous avez
+également pris connaissance des délivrables attendus et de la méthodologie à
+suivre pour réaliser votre projet.
+
+N'oubliez pas que le choix de la problématique et des besoins associés doit être
+mûrement réfléchi : prenez le temps d'explorer plusieurs pistes avant de vous
+engager. Les semaines à venir vous permettront d'affiner votre compréhension du
+public cible.
 
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine séance de :
 
-- Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
-  pour le projet
+- Explorer d'autres problématiques/d'autres intérêts et leurs besoins associés.
+- Identifier une problématique.
+- Explorer d'autres problématiques.
+- Mettre en place la structure de base du rapport final.
+
+<!--
 
 ### Séance 2 - Identifier et interroger un public cible
 
@@ -635,14 +888,9 @@ il est recommandé pour la semaine suivante de :
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Identifier le contexte dans lequel évolue le projet
-> - Identifier le secteur de marché dans lequel évolue le projet
-> - Décrire le besoin auquel répond le projet
-> - Lister des idées originales
-> - Choisir une idée qui répond à un besoin
-> - Identifier la plus-value du service
-> - Identifier les avantages/forces et les inconvénients/faiblesses de l'idée
-> - Compléter le rapport
+> - Identifier le contexte dans lequel évolue le projet libre.
+> - Identifier le secteur de marché dans lequel évolue le projet libre.
+> - Décrire le public cible pour lequel le projet libre est conçu.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
@@ -664,7 +912,7 @@ il est recommandé pour la semaine suivante de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -673,7 +921,7 @@ il est recommandé pour la semaine suivante de :
 >
 > L'évaluation ne donne pas lieu à une note.
 
-#### Introduction
+#### Objectifs
 
 Deuxième séance pratique du cours _Lancez votre minimum viable product (MVP)_ !
 
@@ -708,10 +956,10 @@ compléter le rapport.
 
 TODO?
 
-#### À faire pour la semaine suivante
+#### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine séance de :
 
 - Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
   pour le projet
@@ -765,7 +1013,7 @@ il est recommandé pour la semaine suivante de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 > - Identification du public cible **imaginaire**
 > - Identification des personae **imaginés**
@@ -779,7 +1027,7 @@ il est recommandé pour la semaine suivante de :
 >
 > L'évaluation ne donne pas lieu à une note.
 
-#### Introduction
+#### Objectifs
 
 Troisième séance pratique du cours _Lancez votre minimum viable product (MVP)_ !
 
@@ -814,109 +1062,18 @@ complétez le rapport.
 
 TODO?
 
-#### À faire pour la semaine suivante
+#### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine séance de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
 - Interviewer ces personnes pour récolter des retours
 
-### Séance 4 - Présentations du pitch
+### Séance 4 - CRUNCH : pas de séance
 
-> [!TIP]
->
-> Voici quelques informations relatives à ce contenu.
->
-> **Ressources annexes**
->
-> - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-4---présentations-du-pitch)
->   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
->
-> **Objectifs**
->
-> À l'issue de cette séance, les personnes qui étudient devraient être capables
-> de :
->
-> - Préparer un pitch
-> - Réaliser un pitch
-> - Répondre aux questions
-> - Recevoir des feedbacks constructifs
-> - Évaluer les pitches des autres groupes
-> - Donner des feedbacks constructifs
->
-> **Méthodes d'enseignement et d'apprentissage**
->
-> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
-> sont les suivantes :
->
-> - Temps de préparation (20 minutes)
-> - Présentations (60 minutes)
->   - Présentations (sans slides)
->   - Sessions de questions-réponses
->   - Évaluations et feedbacks
->
-> **Méthodes d'évaluation**
->
-> L'évaluation prend la forme d'une présentation du projet aux autres groupes.
->
-> L'évaluation se fait en utilisant les critères suivants :
->
-> - Capacité à présenter
-> - Capacité à répondre aux questions
-> - Capacité à écouter les feedbacks
->
-> Les retours se font de la manière suivante :
->
-> - [Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-dévaluation-des-présentations)
->
-> **🚨 L'évaluation donne lieu à une note.** (10% de la note de projet)
-
-#### Introduction
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Préparer un pitch
-- Réaliser un pitch
-- Répondre aux questions
-- Recevoir des feedbacks constructifs
-- Évaluer les pitches des autres groupes
-- Donner des feedbacks constructifs
-
-#### Déroulement
-
-Vous avez 20 minutes pour préparer votre pitch, après quoi chaque groupe a 2
-minutes pour présenter son pitch suivi d'un moments de questions et feedbacks.
-
-Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
-feedbacks constructifs.
-
-Vous pouvez retrouver la grille d'évaluation de la présentation ici :
-[Projet libre - Grille d'évaluation des présentations](../../01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
-
-#### Conclusion
-
-Les présentations de pitch sont un moment important dans le développement de
-votre projet. C'est l'occasion de confronter vos idées à celles des autres et
-d'obtenir des retours constructifs.
-
-#### À faire pour la semaine suivante
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
-
-- Identifier des personnes dans votre entourage qui pourraient rentrer dans
-  votre public cible
-- Interviewer ces personnes pour récolter des retours
-
-### Séance 5 - CRUNCH : pas de séance
-
-_En raison du CRUNCH, il n'y a pas de séances de cours/projet durant la
-semaine 4._
+_En raison du CRUNCH, il n'y a pas de séances de cours/projet._
 
 ### Séance 6 - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)
 
@@ -968,7 +1125,7 @@ semaine 4._
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -977,7 +1134,7 @@ semaine 4._
 >
 > L'évaluation ne donne pas lieu à une note.
 
-#### Introduction
+#### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -1012,10 +1169,10 @@ web statique, réalisé un site statique _"Hello, world!"_, déployé le site su
 Internet, identifié les mots clés pour le référencement, mis en commun les
 interviews réalisées jusqu'ici, partagé les réflexions autour de ces interviews.
 
-#### À faire pour la semaine suivante
+#### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine séance de :
 
 - Finaliser la mise en ligne du site web statique
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
@@ -1069,7 +1226,7 @@ il est recommandé pour la semaine suivante de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -1078,7 +1235,7 @@ il est recommandé pour la semaine suivante de :
 >
 > L'évaluation ne donne pas lieu à une note.
 
-#### Introduction
+#### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -1106,12 +1263,16 @@ les prochaines étapes.
 
 #### Conclusion
 
-TODO?
+À l'issue de cette séance, vous avez réalisé un mockup de la landing page de
+votre projet, commencé à réaliser la landing page et implémenté un formulaire de
+contact.
 
-#### À faire pour la semaine suivante
+Votre projet est sur l'avant-scène et vous allez pouvoir le promouvoir.
+
+#### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine séance de :
 
 - Finaliser la landing page
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
@@ -1122,13 +1283,95 @@ il est recommandé pour la semaine suivante de :
 - Finaliser la présentation sur la [Prospection][prospection]
 - Répéter la présentation sur la [Prospection][prospection]
 
+### Séance 7 - Présentations du pitch
+
+> [!TIP]
+>
+> Voici quelques informations relatives à ce contenu.
+>
+> **Ressources annexes**
+>
+> - Autres formats :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-4---présentations-du-pitch)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Préparer un pitch
+> - Réaliser un pitch
+> - Répondre aux questions
+> - Recevoir des feedbacks constructifs
+> - Évaluer les pitches des autres groupes
+> - Donner des feedbacks constructifs
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Temps de préparation (20 minutes)
+> - Présentations (60 minutes)
+>   - Présentations (sans slides)
+>   - Sessions de questions-réponses
+>   - Évaluations et feedbacks
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'une présentation du projet aux autres groupes.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à présenter
+> - Capacité à répondre aux questions
+> - Capacité à écouter les feedbacks
+>
+> Les retours se font de la manière suivante :
+>
+> - [Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-dévaluation-des-présentations)
+>
+> **🚨 L'évaluation donne lieu à une note.** (10% de la note de projet)
+
+#### Objectifs
+
+À l'issue de cette séance, les personnes qui étudient devraient être capables de
+:
+
+- Préparer un pitch
+- Réaliser un pitch
+- Répondre aux questions
+- Recevoir des feedbacks constructifs
+- Évaluer les pitches des autres groupes
+- Donner des feedbacks constructifs
+
+#### Déroulement
+
+Vous avez 20 minutes pour préparer votre pitch, après quoi chaque groupe a 2
+minutes pour présenter son pitch suivi d'un moments de questions et feedbacks.
+
+Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
+feedbacks constructifs.
+
+Vous pouvez retrouver la grille d'évaluation de la présentation ici :
+[Projet libre - Grille d'évaluation des présentations](../../01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
+
 #### Conclusion
 
-À l'issue de cette séance, vous avez réalisé un mockup de la landing page de
-votre projet, commencé à réaliser la landing page et implémenté un formulaire de
-contact.
+Les présentations de pitch sont un moment important dans le développement de
+votre projet. C'est l'occasion de confronter vos idées à celles des autres et
+d'obtenir des retours constructifs.
 
-Votre projet est sur l'avant-scène et vous allez pouvoir le promouvoir.
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine séance de :
+
+- Identifier des personnes dans votre entourage qui pourraient rentrer dans
+  votre public cible
+- Interviewer ces personnes pour récolter des retours
 
 ### Séance 8 - Présentation sur la prospection
 
@@ -1180,7 +1423,7 @@ Votre projet est sur l'avant-scène et vous allez pouvoir le promouvoir.
 >
 > **🚨 L'évaluation donne lieu à une note.** (15% de la note de projet)
 
-#### Introduction
+#### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 
@@ -1210,10 +1453,10 @@ Bravo pour votre travail ! Vous avez su présenter votre prospection de manière
 claire et concise. Vous avez également su répondre aux questions et aux
 feedbacks de manière constructive.
 
-#### Ce que vous ferez ensuite
+#### A faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine séance de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
@@ -1271,7 +1514,7 @@ il est recommandé pour la semaine suivante de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -1314,10 +1557,10 @@ Prenez ce moment pour faire le point sur votre projet. Vous pouvez :
 
 TODO?
 
-#### À faire pour la semaine suivante
+#### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine séance de :
 
 - Trouver une nouvelle idée (si nécessaire)
 - Effectuer des tests utilisateurs
@@ -1369,7 +1612,7 @@ il est recommandé pour la semaine suivante de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -1401,10 +1644,10 @@ votre rapport.
 
 TODO?
 
-#### À faire pour la semaine suivante
+#### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine séance de :
 
 - Réaliser des tests utilisateurs
 
@@ -1453,7 +1696,7 @@ il est recommandé pour la semaine suivante de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -1485,10 +1728,10 @@ votre rapport.
 
 TODO?
 
-#### À faire pour la semaine suivante
+#### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine séance de :
 
 - Relire le support de cours si nécessaire
 - Commencer à réviser pour l'évaluation de la
@@ -1535,7 +1778,7 @@ il est recommandé pour la semaine suivante de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -1567,10 +1810,10 @@ votre rapport.
 
 TODO?
 
-#### À faire pour la semaine suivante
+#### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine séance de :
 
 - Effectuer des tests utilisateurs
 - Réviser pour l'évaluation de la [semaine 13](../../17-cours-evaluation/)
@@ -1617,7 +1860,7 @@ il est recommandé pour la semaine suivante de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -1646,10 +1889,10 @@ votre rapport.
 
 TODO?
 
-#### À faire pour la semaine suivante
+#### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine séance de :
 
 - Finaliser le développement du service
 - Effectuer des tests utilisateurs
@@ -1696,7 +1939,7 @@ il est recommandé pour la semaine suivante de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -1725,10 +1968,10 @@ votre rapport.
 
 TODO?
 
-#### À faire pour la semaine suivante
+#### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine séance de :
 
 - Finaliser et rendre le rapport selon les attentes spécifiées à la semaine 15
 
@@ -1778,10 +2021,10 @@ il est recommandé pour la semaine suivante de :
 
 TODO
 
-#### À faire pour la semaine suivante
+#### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine séance de :
 
 - Finaliser et rendre le développement du service selon les attentes spécifiées
   à la [semaine 16](#-semaine-16)
@@ -1880,14 +2123,23 @@ prochain groupe se prépare.
 
 TODO?
 
-## Sources
+-->
+
+<!-- URLs -->
+
+[license]:
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+
+<!-- Footnotes -->
 
 [^adobe-xd]:
     Adobe XD, [adobe.com](https://helpx.adobe.com/ch_fr/support/xd.html), 19
     février 2025
 
 [^asana]: Asana, [asana.com](https://asana.com/fr), 19 février 2025
+
 [^balsamiq]: Balsamiq, [balsamiq.com](https://balsamiq.com/), 19 février 2025
+
 [^consentement]:
     Décision par consentement,
     [imfusio.com](https://imfusio.com/es/bibliotheque/decision-par-consentement),
@@ -1898,8 +2150,11 @@ TODO?
     2025
 
 [^figma]: Figma, [figma.com](https://www.figma.com/), 19 février 2025
+
 [^github]: GitHub, [github.com](https://github.com/), 19 février 2025
+
 [^gitlab]: GitLab, [gitlab.com](https://gitlab.com/), 19 février 2025
+
 [^git-workflows]:
     Comparaison des workflows Git,
     [atlassian.com](https://www.atlassian.com/git/tutorials/comparing-workflows),
@@ -1936,19 +2191,22 @@ TODO?
     2025
 
 [^penpot]: Penpot, [penpot.app](https://penpot.app/), 19 février 2025
+
 [^personalite]:
     Types de personnalité,
     [16personalities.com](https://www.16personalities.com/fr/types-de-personnalite),
     19 février 2025
 
-[^trello]: Trello, [trello.com](https://trello.com/), 19 février 2025
-[^typst]: Typst, [typs.app](https://typs.app/), 19 février 2025
+[^repartition-des-seances]:
+    Voir section
+    [Répartition des séances/ jalons](#répartition-des-séances--jalons)
+    ci-dessus.
+
 [^scrum]:
     Stand-ups Scrum,
     [atlassian.com](https://www.atlassian.com/agile/scrum/standups), 19 février
     2025
 
-<!-- URLs -->
+[^trello]: Trello, [trello.com](https://trello.com/), 19 février 2025
 
-[license]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
+[^typst]: Typst, [typs.app](https://typs.app/), 19 février 2025

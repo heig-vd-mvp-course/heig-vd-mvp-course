@@ -9,11 +9,11 @@ description:
   la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/09-realiser-des-interfaces-ergonomiques/quiz.html
 header:
-  "[**Réaliser des interfaces ergonomiques - Quiz**][contenu-complet-sur-github]"
+  '[**Réaliser des interfaces ergonomiques - Quiz**][contenu-complet-sur-github]'
 footer:
-  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]"
+  BY-SA 4.0][license]'
 headingDivider: 6
 ---
 
@@ -35,13 +35,15 @@ adresse][contenu-complet-sur-github].
 
 ![bg opacity:0.1][illustration-principale]
 
-## Plus de détails dans le support de cours
+## Plus de détails sur GitHub
 
 <!-- _class: lead -->
 
-_Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
-cours. Pour plus de détails, consultez le [support de
-cours][contenu-complet-sur-github]._
+_Cette présentation est un résumé du contenu complet disponible sur GitHub._
+
+_Pour plus de détails, consulter le [contenu complet sur
+GitHub][contenu-complet-sur-github] ou en cliquant sur l'en-tête de ce
+document._
 
 ## Question 1 - Donnée
 

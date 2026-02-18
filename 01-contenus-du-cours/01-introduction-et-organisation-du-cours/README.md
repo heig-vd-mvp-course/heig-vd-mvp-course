@@ -1,4 +1,4 @@
-# Introduction et organisation du cours - Support de cours
+# Introduction et organisation du cours
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 
@@ -20,17 +20,17 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Lister les objectifs du cours
-> - Lister les modalités d'organisation du cours
-> - Lister les modalités d'évaluation
+> - Lister les objectifs du cours.
+> - Lister les modalités d'organisation du cours.
+> - Lister les modalités d'évaluation.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 > sont les suivantes :
 >
-> - Présentation magistrale
-> - Discussions collectives
+> - Présentation magistrale..
+> - Discussions collectives..
 >
 > **Méthodes d'évaluation**
 >
@@ -44,14 +44,11 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Modalités d'organisation du cours](#modalités-dorganisation-du-cours)
 - [Modalités d'évaluation](#modalités-dévaluation)
   - [Évaluation écrite](#évaluation-écrite)
-  - [Présentations](#présentations)
-  - [Rapport final](#rapport-final)
-  - [Produit final](#produit-final)
-- [Grilles d'évaluation](#grilles-dévaluation)
-  - [Critères d'évaluation](#critères-dévaluation)
+  - [Projet libre](#projet-libre)
+- [Propriété intellectuelle](#propriété-intellectuelle)
+- [Liens avec un travail de Bachelor](#liens-avec-un-travail-de-bachelor)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 
 ## Objectifs
 
@@ -59,19 +56,15 @@ Bienvenue dans la première séance théorique du cours _Lancez votre minimum
 viable product (MVP)_ !
 
 Cette séance a pour but de vous présenter le cours avec ses objectifs, ses
-modalités d'évaluation et son organisation ainsi que quelques outils et conseils
-pour travailler de façon efficace en équipe.
+modalités d'évaluation et son organisation.
 
 De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
-- Lister les objectifs du cours
-- Lister les modalités d'organisation du cours
-- Lister les Introduction et organisation du projet libre
-- Lister les modalités d'organisation des équipes
-- Lister les modalités d'évaluation
-- Décrire comment travailler en équipe de façon efficace
-- Décrire les différences entre un wireframe, un mockup, un prototype et un MVP
-- Décrire ce qu'est un MVP
+- Lister les objectifs du cours.
+- Lister les modalités d'organisation du cours.
+- Lister les modalité d'organisation du projet libre.
+- Lister les modalités d'organisation des équipes.
+- Lister les modalités d'évaluation.
 
 ## Objectifs du cours
 
@@ -80,22 +73,22 @@ Selon la
 à la fin de ce cours, vous devriez être capable de :
 
 - Identifier des secteurs de marché prometteurs pour y fournir un nouveau
-  service
-- Pitcher son idée en public
-- Appliquer des méthodologies de validation de marché
-- Énumérer les avantages et les inconvénients d'une stack technologique web
+  service.
+- Pitcher son idée en public.
+- Appliquer des méthodologies de validation de marché.
+- Énumérer les avantages et les inconvénients d'une stack technologique web.
 - Évaluer le choix d'une stack technologique web par rapport à une situation
-  donnée
+  donnée.
 - Utiliser les bonnes pratiques de programmation pour rendre une application
-  viable et pérenne dans le temps
+  viable et pérenne dans le temps.
 - Créer, maintenir, déployer une application web de type minimum viable product
-  (MVP) attractive proposant un service à son public cible
+  (MVP) attractive proposant un service à son public cible.
 - Inclure un moyen de paiement sur un site web et se faire rémunérer pour ses
-  services
+  services.
 - Mettre en place des applications durables (autant au niveau technique qu'au
-  niveau financier)
+  niveau financier).
 - Énumérer les différentes formes juridiques pour la création d'une entreprise
-  avec leurs avantages et inconvénients
+  avec leurs avantages et inconvénients.
 
 En résumé, à la fin de ce cours, vous devriez être capable de créer un produit
 simple mais viable et de le lancer sur le marché après l'avoir validé.
@@ -115,8 +108,8 @@ discuter avec vos camarades et nous-mêmes.
 
 Nous n'avons pas la prétention de tout savoir et ce cours est surtout un partage
 de notre expérience et de nos connaissances. Il n'y a pas de juste ou de faux
-dans ce cours. Il s'agit d'un terrain d'expérimentation où le processus est le
-plus important.
+dans ce cours. Il s'agit d'un terrain d'expérimentation où la méthodologie est
+le plus important.
 
 Nous sommes ouverts à la discussion et aux retours. Il ne faut pas hésiter à
 nous poser des questions si quelque chose n'est pas clair et/ou si votre
@@ -126,10 +119,11 @@ expérience diffère de la nôtre.
 
 Le cours sera évalué sur plusieurs aspects :
 
-- Une évaluation écrite (100% de la note du cours)
-- Trois présentations (10%/15%/20% du projet, respectivement)
-- Un rapport final (40% du projet)
-- Une évaluation sur le produit final (15% du projet)
+- Une évaluation écrite (100% de la note du cours).
+- Deux présentations (20%/20% du projet, respectivement).
+- Un rapport final (20% du projet).
+- Une évaluation sur le produit final (10% du projet).
+- Suivi et application de la méthodologie (30% du projet).
 
 Vous remarquerez que le produit final n'a qu'une petite part de la note. Cela
 est voulu. Nous voulons que vous pratiquiez les différentes étapes de la
@@ -149,123 +143,84 @@ connaissances acquises durant le cours.
 Sa durée sera de minimum 45 minutes et devrait utiliser la plateforme
 d'évaluation en ligne de la HEIG-VD.
 
-### Présentations
+### Projet libre
 
-Trois présentations auront lieu durant le semestre. Elles porteront sur
-l'avancement du projet et elles seront réalisées en équipe et présentées au
-reste de la classe.
+Les modalités et l'organisation du projet sont présentés dans le contenu
+[Projet libre](../../02-projet-libre/README.md).
 
-Chaque autre équipe pourra poser des questions à l'équipe qui présente et leur
-faire des retours.
+## Propriété intellectuelle
 
-Les retours ne seront pas pris en compte dans la note et devraient permettre aux
-membres du groupe de s'améliorer.
+Source :
+[Règlement formation de base Bachelor et Master HES-SO](https://heig-vd.ch/a-propos/cadre-reglementaire).
 
-Les présentations seront notées sur la qualité de la présentation, la qualité de
-l'argumentation, la qualité des réponses aux questions et la qualité de l'écoute
-des retours.
+> **Art. 22 - Propriété intellectuelle**
+>
+> A l'exception des droits d'auteur, les droits sur les biens immatériels
+> réalisés par les étudiant·e·s dans le cadre de leur formation ou d'un mandat
+> de recherche confié par ou à la haute école sont la propriété de la haute
+> école.
+>
+> Les droits sur les biens immatériels résultant de collaboration sont définis
+> dans les contrats ou accords passés entre l'étudiant·e et la haute école, et
+> cas échéant les partenaires.
 
-Sauf cas contraire, les présentations sont libres et tout support peut être
-utilisé pour transmettre l'information. Vous êtes libres de choisir le format de
-votre présentation.
+## Liens avec un travail de Bachelor
 
-Il n'est pas nécessaire de nous transmettre les supports de présentation avant
-ni après la présentation.
+Nous (Ludovic et Vincent) ne sommes pas contre le fait que ce cours puisse être
+en lien avec un travail de Bachelor (TB).
 
-Le temps alloué pour chaque présentation sera défini en fonction du nombre de
-groupes qui présentent et vous sera communiqué à l'avance pour vous préparer.
+Cependant, les tâches et les attentes doivent être clairement définies et
+séparées entre le cours MVP et le TB.
 
-La grille d'évaluation des présentations est disponible ici :
-[Grille d'évaluation des présentations](#grille-dévaluation-des-présentations).
+Si vous souhaitez mêler les deux, il est important de nous en parler dès le
+début du cours.
 
-### Rapport final
+Il doit y avoir un cadre défini pour ce cas de figure afin d'éviter tout
+malentendu et conflit d'intérêts.
 
-Un rapport final sera demandé à la fin du semestre. Il devra contenir les étapes
-significatives de votre projet, les choix que vous avez faits, les raisons de
-ces choix, les difficultés rencontrées et les solutions trouvées.
+Une discussion avec votre responsable de TB doit avoir lieu pour définir les
+modalités de ce mélange entre le cours MVP et le TB.
 
-Le rapport devra être structuré et clair. Il devra être remis en format PDF.
+Nous devons être informés de la décision au travers d'un e-mail avec votre
+responsable de TB en copie. Le mail doit contenir les informations suivantes :
 
-Il s'agit avant tout d'un rapport pour vous. Il devrait vous permettra de voir
-ce que vous avez fait, de voir ce qui a bien fonctionné et ce qui a moins bien
-fonctionné et permettre de suivre l'évolution de votre projet.
+- Les tâches et les attentes pour le TB.
+- Les tâches et les attentes pour le cours MVP.
+- Comment les tâches et les attentes pour le TB et le cours MVP sont séparées.
 
-Le rapport sera noté sur la qualité de la rédaction, la qualité de la
-présentation des informations, la qualité des choix et des raisons de ces choix,
-la qualité des solutions trouvées et la qualité de la réflexion sur les
-difficultés rencontrées. Il n'est pas nécessaire d'aller dans les détails mais
-nous devrions pouvoir comprendre ce que vous avez fait et pourquoi vous l'avez
-fait.
+Votre responsable de TB a le dernier mot. Si votre responsable de TB n'est pas
+d'accord avec le mélange entre le cours MVP et le TB, alors il ne sera pas
+possible de mêler les deux.
 
-Nous vous proposons la structure suivante pour votre rapport final. Vous n'êtes
-pas obligé.es de suivre cette structure si vous jugez qu'une autre structure est
-plus adaptée à votre projet :
+## _"Qu'en est-il de ChatGPT, etc. ?"_
 
-1. Introduction - Présentation de la problématique, du projet et des objectifs
-   de celui-ci
-2. Membres de l'équipe - Présentation des membres de l'équipe et de leurs rôles
-   avec leurs compétences
-3. Étapes du projet - Présentation des étapes significatives du projet
-   1. Recherche, choix et justification de l'idée
-   2. Identification du public cible avec énumération des personae
-   3. Wireframes/mockups des fonctionnalités clés
-   4. Questionnaires et hypothèses à valider avec le public cible
-   5. Entretiens effectués avec le public cible
-   6. Analyse des retours et conclusions
-   7. Choix technologiques et réalisation du MVP
-   8. Tests utilisateurs
-   9. Pérennité du projet (financier et technique)
-4. Difficultés rencontrées et solutions - Présentation des difficultés
-   rencontrées et des solutions trouvées
-5. Conclusion - Retrospective des résultats obtenus et des perspectives d'avenir
+Vous devez réaliser le travail vous-même, mais vous pouvez utiliser des aides
+externes pour vous aider à réaliser votre travail.
 
-Le rapport peut être réalisé avec l'outil de votre choix mais voici une liste
-d'outils que vous pourriez utiliser si vous n'en avez pas en tête :
+Tous les outils sont autorisés pour votre projet libre.
 
-- Typst[^typst]
-- LaTeX[^latex]
-- Markdown[^markdown]
-- Google Docs[^google-docs]
-- Microsoft Word[^microsoft-word] (si vous souhaitez vraiment vous faire du mal)
+Seule l'évaluation écrite est interdite d'utilisation de ces outils.
 
-La grille d'évaluation du rapport final est disponible ici :
-[Grille d'évaluation du rapport final](#grille-dévaluation-du-rapport-final).
+Quelques règles concernant l'utilisation de ces outils pour vos rendus :
 
-Nous nous rendons disponibles pour vous faire un retour sur votre rapport tout
-au long du semestre si besoin.
+- Vous devez indiquer quand, pourquoi et comment vous avez utilisé une aide
+  externe (la raison, outils, sources, etc.), soit dans le code, soit dans un
+  rapport annexe.
+- Si vous n'êtes pas transparent.e sur l'utilisation de ces outils, vous serez
+  alors pénalisé.e avec la note 1 pour l'évaluation concernée.
+- En cas de doutes, n'hésitez pas à nous contacter pour discuter de votre
+  utilisation de ces outils.
 
-### Produit final
+**Votre intégrité personnelle et académique est en jeu**.
 
-Le résultat final du projet devra être rendu sous forme d'un lien vers un dépôt
-Git contenant le code source de votre projet ou d'une archive contenant le code
-source de votre projet rendue par mail aux personnes qui enseignent.
+## Bibliographie et ressources utilisées
 
-De plus, un lien vers le site web de votre projet devra être fourni. Cela nous
-permettra de tester l'application.
-
-Le produit final sera noté sur la qualité de l'application, la qualité de la
-présentation de la problématique et de la solution, la qualité de la navigation
-et la qualité du service.
-
-Nous vous demanderons de fournir le code source afin de vous faire un sommaire
-retour. Nous n'allons pas évaluer la qualité du code source en détails mais il
-nous intéresse de voir comment vous avez réalisé votre projet.
-
-La grille d'évaluation du produit final est disponible ici :
-[Grille d'évaluation du produit final](#grille-dévaluation-du-produit-final).
-
-## Grilles d'évaluation
-
-Les grilles d'évaluation des présentations, du rapport final et du produit final
-sont décrites ci-dessous.
-
-### Critères d'évaluation
-
-- 0 point - Le travail est insuffisant
-- 1 point - Le travail est réalisé
-- 2 points - Le travail est bien réalisé (sans la nécessité d'être parfait)
-
-Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
+- Fitzpatrick, Rob, _"The Mom Test: How to Talk to Customers and Learn If Your
+  Business is a Good Idea when Everyone is Lying to You"_, 2013.
+- Nyffeler, Nathalie, _"Le livre des récits : Savoirs et connaissances des
+  navigateur·rice·s aguerri·e·s"_, 2022.
+- Nyffeler, Nathalie, _"Le Livre du Design Thinking - Méthode d'innovation
+  centrée utilisateur"_, 2022.
 
 ## Conclusion
 
@@ -281,12 +236,7 @@ travailler avec vous durant ce semestre.
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- Relire le support de cours si nécessaire
-
-## Ce que vous ferez ensuite
-
-La séance de projet sera consacrée à la présentation des idées que vous avez et
-à la formation des équipes si vous le souhaitez.
+- Relire le support de cours si nécessaire.
 
 <!-- URLs -->
 

@@ -1,4 +1,4 @@
-# Créer sa propre entreprise - Support de cours
+# Créer sa propre entreprise
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 
@@ -36,8 +36,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Présentation magistrale
-> - Discussions collectives
+> - Présentation magistrale.
+> - Discussions collectives.
 >
 > **Méthodes d'évaluation**
 >
@@ -45,12 +45,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à répondre avec justesse
-> - Capacité à argumenter
+> - Capacité à répondre avec justesse.
+> - Capacité à argumenter.
 >
 > Les retours se font de la manière suivante :
 >
-> - Corrigé du quiz
+> - Corrigé du quiz.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -368,7 +368,6 @@ leur identité.
 - **Numéro de TVA :** Si votre chiffre d'affaires dépasse 200'000 CHF par année,
   vous devrez vous inscrire à la TVA et facturer cette taxe à vos clients.
 - **Assurances :** Certaines assurances sont obligatoires :
-
   - 1er pilier: assurance vieillesse et survivants (AVS)
   - 2ème pilier: caisse de pension (LPP)
   - Assurance accidents (LAA)
@@ -468,14 +467,6 @@ il est recommandé pour la semaine suivante de :
 
 - Relire le support de cours si nécessaire
 - Réviser pour l'évaluation de la [semaine 13](../../17-cours-evaluation/)
-
-## Ce que vous ferez ensuite
-
-La séance de projet sera consacrée à la réalisation de votre projet et des tests
-utilisateurs associés.
-
-Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
-évoluer.
 
 ## Sources
 

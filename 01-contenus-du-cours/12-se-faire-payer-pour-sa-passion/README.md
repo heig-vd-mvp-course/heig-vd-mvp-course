@@ -1,4 +1,4 @@
-# Se faire payer pour sa passion - Support de cours
+# Se faire payer pour sa passion
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 
@@ -35,8 +35,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Présentation magistrale
-> - Discussions collectives
+> - Présentation magistrale.
+> - Discussions collectives.
 >
 > **Méthodes d'évaluation**
 >
@@ -44,12 +44,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à répondre avec justesse
-> - Capacité à argumenter
+> - Capacité à répondre avec justesse.
+> - Capacité à argumenter.
 >
 > Les retours se font de la manière suivante :
 >
-> - Corrigé du quiz
+> - Corrigé du quiz.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -146,7 +146,7 @@ en neuf blocs essentiels :
 Ce modèle peut être représenté selon le canvas suivant, tiré du site
 Strategyzer[^strategyzer] :
 
-![Business Model Canvas](./_images/business-model-canvas.png)
+![Business Model Canvas](./images/business-model-canvas.png)
 
 De nombreux autres modèles existent mais un intéressant que nous souhaitons vous
 présenter est le Sustainable Business Model
@@ -154,7 +154,7 @@ Canvas[^sustainable-business-model-canvas]. Il est très similaire au Business
 Model Canvas mais intègre aussi des aspects de durabilité de votre projet. Nous
 vous conseillons de l'utiliser pour votre projet.
 
-![Sustainable Business Model Canvas](./_images/sustainable-business-model-canvas.jpg)
+![Sustainable Business Model Canvas](./images/sustainable-business-model-canvas.jpg)
 
 ### Sources de revenus
 
@@ -295,14 +295,6 @@ il est recommandé pour la semaine suivante de :
 - Relire le support de cours si nécessaire
 - Commencer à réviser pour l'évaluation de la
   [semaine 13](../../17-cours-evaluation/)
-
-## Ce que vous ferez ensuite
-
-La séance de projet sera consacrée à la réalisation de votre projet et des tests
-utilisateurs associés.
-
-Vous pourrez ainsi continuer à travailler sur votre projet et à le faire
-évoluer.
 
 ## Sources
 

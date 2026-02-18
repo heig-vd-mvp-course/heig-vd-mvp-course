@@ -1,4 +1,4 @@
-# Réaliser des interfaces ergonomiques - Support de cours
+# Réaliser des interfaces ergonomiques
 
 L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot.
 
@@ -38,8 +38,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Présentation magistrale
-> - Discussions collectives
+> - Présentation magistrale.
+> - Discussions collectives.
 >
 > **Méthodes d'évaluation**
 >
@@ -47,12 +47,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à répondre avec justesse
-> - Capacité à argumenter
+> - Capacité à répondre avec justesse.
+> - Capacité à argumenter.
 >
 > Les retours se font de la manière suivante :
 >
-> - Corrigé du quiz
+> - Corrigé du quiz.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -204,7 +204,7 @@ Les points négatifs :
 - Interface peu intuitive
 - Navigation peu efficace
 
-![Garmin Connect](./_images/garmin-connect.png)
+![Garmin Connect](./images/garmin-connect.png)
 
 ### Discord
 
@@ -226,7 +226,7 @@ Depuis le 25 mars 2025, l'application a été mise à jour et l'interface a ét�
 révisée. Nous verrons à l'utilisation si cette mise à jour a été bénéfique ou
 non.
 
-![Discord](./_images/discord.png)
+![Discord](./images/discord.png)
 
 ### X/Twitter
 
@@ -245,7 +245,7 @@ Les points négatifs :
 - Sans compte, l'application est quasi inutilisable
 - "Nagging"[^nagging-wikipedia] pour créer un compte
 
-![X/Twitter](./_images/x-twitter.png)
+![X/Twitter](./images/x-twitter.png)
 
 ## Exemples d'interfaces que nous trouvons ergonomiques et réfléchies
 
@@ -267,7 +267,7 @@ Les points négatifs :
 
 - Peu de possibilité de personnaliser l'interface
 
-![WhatsApp](./_images/whatsapp.png)
+![WhatsApp](./images/whatsapp.png)
 
 ### CFF
 
@@ -289,7 +289,7 @@ Les points négatifs :
 - Type de billet à acheter pas toujours évident à comprendre (ex. billet de
   parcours, billet Mobilis, etc.)
 
-![CFF](./_images/cff.png)
+![CFF](./images/cff.png)
 
 ### Loading Artist
 
@@ -308,7 +308,7 @@ Les points négatifs :
 
 - Interface très simple, mais peut-être trop chargée ?
 
-![Loading Artist](./_images/loading-artist.png)
+![Loading Artist](./images/loading-artist.png)
 
 ## Outils pour concevoir une interface ergonomique et réfléchie
 
@@ -427,14 +427,6 @@ Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
 - Relire le support de cours si nécessaire
-
-## Ce que vous ferez ensuite
-
-Dans le projet, vous pourrez prendre le temps de réfléchir à l'ergonomie de
-votre application.
-
-Ceci vous permettra de vous entraîner à réaliser des interfaces ergonomiques et
-réfléchies.
 
 [^nagging-wikipedia]:
     Nagging, [en.wikipedia.org](https://en.wikipedia.org/wiki/Nagging), 02 avril

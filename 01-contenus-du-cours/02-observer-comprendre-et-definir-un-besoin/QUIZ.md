@@ -9,12 +9,12 @@ description:
   MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/02-observer-comprendre-et-definir-un-besoin/quiz.html
 header:
-  "[**Observer, comprendre, et définir un besoin -
-  Quiz**][contenu-complet-sur-github]"
+  '[**Observer, comprendre, et définir un besoin -
+  Quiz**][contenu-complet-sur-github]'
 footer:
-  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]"
+  BY-SA 4.0][license]'
 headingDivider: 6
 ---
 
@@ -36,13 +36,15 @@ adresse][contenu-complet-sur-github].
 
 ![bg opacity:0.1][illustration-principale]
 
-## Plus de détails dans le support de cours
+## Plus de détails sur GitHub
 
 <!-- _class: lead -->
 
-_Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
-cours. Pour plus de détails, consultez le [support de
-cours][contenu-complet-sur-github]._
+_Cette présentation est un résumé du contenu complet disponible sur GitHub._
+
+_Pour plus de détails, consulter le [contenu complet sur
+GitHub][contenu-complet-sur-github] ou en cliquant sur l'en-tête de ce
+document._
 
 ## Question 1 - Donnée
 
@@ -54,99 +56,113 @@ cours][contenu-complet-sur-github]._
 Les principaux éléments à prendre en compte pour comprendre le contexte d'une
 idée sont :
 
-- Contexte social
-- Contexte économique
-- Contexte politique et réglementaire
-- Contexte technologique
-- Contexte géographique
+- Contexte social.
+- Contexte économique.
+- Contexte politique et réglementaire.
+- Contexte technologique.
+- Contexte géographique.
 
 ## Question 2 - Donnée
 
-> Pourquoi est-il important de comprendre le secteur de marché avant de se
-> lancer dans l'entrepreneuriat ?
+> Qu'est-ce qu'un besoin selon le support de cours ? Comment peut-il s'exprimer
+> ? Donnez trois exemples concrets.
 
 ## Question 2 - Réponse
 
-Il est important de comprendre le secteur de marché pour identifier les
-opportunités et les menaces, mieux cibler les clients, comprendre leurs besoins
-et répondre à leurs attentes.
+Un besoin représente un écart entre une situation actuelle insatisfaisante et
+une situation désirée. Les besoins ne sont pas forcément exprimés de manière
+explicite, parfois ils sont latents.
+
+Il peut s'exprimer comme :
+
+- Un problème à résoudre ("Je perds du temps dans les transports").
+- Un désir d'amélioration ("J'aimerais une meilleure qualité de vie").
+- Une opportunité à saisir ("Je pourrais économiser de l'argent").
 
 ## Question 3 - Donnée
 
-> Comment définiriez-vous une idée originale ?
+> Quelle est la différence entre une problématique et un besoin ? Illustrez avec
+> l'exemple de la mobilité urbaine.
 
-## Réponse 3 - Réponse
+## Question 3 - Réponse
 
-Une idée originale est une idée qui **améliore la vie** sur différents aspects,
-**répond à un besoin**, est **consciente de son contexte** et s'adapte à
-celui-ci. Elle peut être une **réinvention ou une réadaptation d'une idée
-existante**.
+Une problématique est un problème ou une question qui se pose dans un contexte
+donné. C'est une question large et générale.
+
+Un besoin est un problème ou une opportunité spécifique que l'on souhaite
+résoudre ou exploiter au sein de la problématique. C'est plus concret et
+actionnable.
+
+- Problématique : "Comment améliorer la mobilité urbaine ?"
+- Besoin : "Avoir un moyen de transport rapide, économique et écologique pour se
+  déplacer en ville"
 
 ## Question 4 - Donnée
 
-> Qu'est-ce qui rend un marché plus prometteur qu'un autre ?
+> Dans l'exemple du café, identifiez : le contexte, la problématique, le besoin
+> réel et proposez trois solutions alternatives au café.
 
 ## Question 4 - Réponse
 
-Un marché est plus prometteur qu'un autre s'il est en pleine expansion, s'il est
-suffisamment grand pour accueillir de nouveaux acteurs et s'il est peu saturé.
+- **Contexte** : vie moderne exigeante, fatigue quotidienne.
+- **Problématique** : comment être plus productif ?
+- **Besoin réel** : avoir de l'énergie pour être productif.
+- **Solutions alternatives** (entre autres) :
+  - Faire une sieste.
+  - Faire une promenade.
+  - Adopter une alimentation plus équilibrée.
+  - Améliorer la qualité du sommeil.
+  - Faire de l'exercice physique régulier.
 
 ## Question 5 - Donnée
 
-> Quelles est la différence entre les méthodes de brainstorming et de doodling ?
+> Complétez le schéma hiérarchique suivant pour l'exemple de la mobilité urbaine
+> :
+>
+> - Contexte : ?
+> - Problématique : Comment améliorer la mobilité urbaine ?
+> - Besoin : ?
+> - Solution : ?
+> - Idée : ?
 
 ## Question 5 - Réponse
 
-Le brainstorming est une méthode de créativité qui consiste à générer un maximum
-d'idées en un minimum de temps, basée sur l'écriture.
-
-Le doodling est une méthode de créativité qui consiste à dessiner pour stimuler
-la créativité et partager des idées de façon visuelle.
+- **Contexte** : ville dense, pollution, trafic.
+- **Problématique** : comment améliorer la mobilité urbaine ?
+- **Besoin** : se déplacer rapidement et écologiquement.
+- **Solution** : covoiturage, vélo électrique, transport public (plusieurs
+  solutions possibles).
+- **Idée** : application de covoiturage avec trajet optimisé (exemple
+  d'implémentation concrète).
 
 ## Question 6 - Donnée
 
-> Par quoi devrions-nous commencer lors de l'utilisation de méthodes de
-> créativité comme le brainstorming ou le doodling ?
+> Quel est le piège fréquent mentionné dans le cours concernant l'identification
+> des besoins ? Comment peut-on l'éviter ?
 
 ## Question 6 - Réponse
 
-1. Définir un objectif clair
-2. Faire l'exercice de façon individuelle
-3. Partager les idées
-4. Regrouper les idées
-5. Sélectionner les idées les plus prometteuses
+Le piège fréquent est de confondre "j'ai besoin de X" (qui est souvent une
+solution) avec le vrai besoin.
+
+**Comment l'éviter :** posez-vous toujours "Pourquoi ai-je besoin de X ?"
+plusieurs fois de suite pour remonter au besoin réel.
+
+**Exemple :** "J'ai besoin d'une lampe de poche" → Pourquoi ? → "Pour avoir de
+la lumière" → Pourquoi ? → "Parce qu'il y a des pannes de courant" → Besoin réel
+: stabilité électrique.
 
 ## Question 7 - Donnée
 
-> Comment pouvons-nous définir une "bonne" idée ?
+> Comment l'observation de son environnement peut-elle aider à identifier des
+> besoins ?
 
 ## Question 7 - Réponse
 
-Une "bonne" idée est une idée est toujours subjective, mais il existe la matrice
-de décision basée sur les critères suivants :
-
-1. L'effort pour réaliser la solution (faible, moyen, fort)
-2. L'impact de la dite solution (faible, moyen, fort)
-
-L'impact est librement défini par et pour chaque personne (économique, sociétal,
-etc.).
+L'observation de son environnement permet d'identifier des besoins en observant
+les comportements, les habitudes et les frustrations des gens.
 
 ## Question 8 - Donnée
-
-> Où trouver des idées originales ?
-
-## Question 8 - Réponse
-
-Il existe plusieurs sources pour trouver des idées originales :
-
-- Les besoins des utilisateurs
-- Les tendances du marché
-- Les technologies émergentes
-- Votre vie de tous les jours
-- Des communautés sur Internet (forums, réseaux sociaux, etc.)
-- Etc.
-
-## Question 9 - Donnée
 
 > Parmi la liste suivante, quels sont les éléments qui décrivent un besoin ?
 >
@@ -188,8 +204,8 @@ Est-ce que vous avez des questions ?
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) sur
-  [Unsplash](https://unsplash.com/photos/blue-and-orange-abstract-painting-yn97LNy0bao)
+  [Annie Spratt](https://unsplash.com/@anniespratt) sur
+  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
 
 <!-- URLs -->
 
@@ -201,4 +217,4 @@ Est-ce que vous avez des questions ?
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1553949345-eb786bb3f7ba?fit=crop&h=720
+	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720

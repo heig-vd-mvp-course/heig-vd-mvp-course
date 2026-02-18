@@ -9,11 +9,11 @@ description:
   Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/02-observer-comprendre-et-definir-un-besoin/presentation.html
 header:
-  "[**Observer, comprendre, et définir un besoin**][contenu-complet-sur-github]"
+  '[**Observer, comprendre, et définir un besoin**][contenu-complet-sur-github]'
 footer:
-  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]"
+  BY-SA 4.0][license]'
 headingDivider: 6
 ---
 
@@ -47,201 +47,197 @@ document._
 
 ## Objectifs (1/2)
 
-- Décrire ce qu'est un contexte
-- Décrire ce qu'est un besoin
-- Décrire ce qu'est un secteur de marché
-- Identifier des secteurs de marché prometteurs pour y fournir un nouveau
-  service
-- Décrire ce qu'est une idée originale
-- Générer des idées originales
+- Décrire ce qu'est un contexte.
+- Décrire ce qu'est une problématique.
+- Décrire ce qu'est un besoin.
+- Différencier une problématique d'un besoin.
+- Différencier un besoin d'une solution.
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
-- Identifier les avantages et les inconvénients d'une idée
-- Évaluer la pertinence d'une idée
-- Évaluer la faisabilité d'une idée
-- Lister des sources d'inspiration pour trouver des idées originales
+- Différencier une idée d'un besoin.
+- Observer son environnement pour identifier un besoin.
 
 ![bg right:40%][illustration-objectifs]
 
-## Comprendre le contexte dans lequel nous évoluons
+## Décrire ce qu'est un contexte
 
-- Social
-- Économique
-- Politique & réglementaire
-- Technologique
-- Géographique
+Le contexte est l'ensemble des éléments qui entourent une idée, un projet ou une
+initiative :
 
-![bg right:40%][illustration-contexte]
+- Social : habitudes, valeurs culturelles.
+- Économique : marché, pouvoir d'achat.
+- Politique : lois, réglementations.
+- Technologique : avancées techniques.
+- Géographique : ressources, climat, densité.
 
-## Identifier des secteurs de marché
+Essentiel à prendre en compte (contraintes/opportunités).
 
-Chaque secteur à ses opportunités et ses menaces, dans un contexte donné.
+## Décrire ce qu'est une problématique
 
-- Pharmaceutique
-- Agricole
-- Horloger
-- Trourisme
-- Et bien d'autres
+Question large qui se pose dans un contexte donné.
 
-![bg right:40%][illustration-secteur-de-marche]
+**Exemples :**
 
-### Exemple : le secteur pharmaceutique
+- Générale : "Comment améliorer la mobilité urbaine ?"
+- Spécifique : "Comment réduire les embouteillages à Lausanne ?"
 
-<div class="two-columns center">
-<div>
+Point de départ pour identifier des besoins spécifiques.
 
-**Menaces**
+## Définir un besoin (1/2)
 
-- Secteur très réglementé
-- Normes de qualité strictes
-- Dimension éthique
+Écart entre une situation actuelle insatisfaisante et une situation désirée. Il
+peut s'exprimer comme :
 
-</div>
-<div>
+- Problème : "Je perds du temps dans les transports".
+- Désir : "J'aimerais une meilleure qualité de vie".
+- Opportunité : "Je pourrais économiser de l'argent".
 
-**Opportunités**
+Un besoin est toujours rattaché à une problématique dans un contexte donné.
+Souvent latents, ils doivent être révélés par observation et empathie.
 
-- Croissance constante
-- Investissements massifs dans la recherche et le développement
-- Main-d'œuvre qualifiée
-- Infrastructure de qualité
+## Définir un besoin (2/2)
 
-</div>
+**Piège fréquent :** Confondre "j'ai besoin de X" (solution) avec le vrai
+besoin.
 
-### Exemple : le secteur agricole
+**Solution :** Posez "Pourquoi ?" plusieurs fois pour remonter au besoin réel.
 
-<div class="two-columns center">
-<div>
+**Il ne faut pas essayer de créer un besoin artificiel.**
 
-**Menaces**
+**Exemple :** "J'ai besoin d'une lampe de poche" ➡️ Pourquoi ? ➡️ "Pour avoir de
+la lumière" ➡️ Pourquoi ? ➡️ "Parce qu'il y a des pannes de courant" ➡️ Besoin
+réel : stabilité électrique.
 
-- Concurrence des produits importés
-- Normes de qualité strictes
-- Coûts de production élevés
-- Pression politique et environnementale
-- Non valorisation du travail
+## Différence entre problématique et besoin
 
-</div>
-<div>
+- **Problématique :** question large et générale.
+- **Besoin :** problème spécifique et concret.
+- **Exemple :**
+  - Problématique : "Comment améliorer la mobilité urbaine ?".
+  - Besoin : "Avoir un moyen de transport rapide, économique et écologique".
 
-**Opportunités**
+La nuance est parfois subtile, mais elle est essentielle pour trouver des
+solutions pertinentes.
 
-- Pratiques agricoles durables
-- Nouvelles technologies
-- Réduction de l'impact environnemental
+## Différence entre besoin et solution
 
-</div>
+- **Besoin :** problème ou opportunité à résoudre.
+- **Solution :** réponse au besoin.
 
-## Définir un besoin
+Se concentrer sur le besoin d'abord ➡️ solutions plus pertinentes et innovantes.
 
-Dans un contexte donné, un besoin peut être de vouloir :
+**Il est commun de se précipiter sur une solution sans comprendre le vrai
+besoin.**
 
-- Une meilleure qualité de vie
-- Gagner du temps
-- Économiser de l'argent
+**Sans considérer le besoin, on risque de créer des solutions inefficaces ou
+inutiles.**
 
-Bien sûr, un besoin dépend du contexte dans lequel il est exprimé.
-
-![bg right:40%][illustration-identifier-un-besoin]
-
-## Identifier un marché prometteur
-
-- Avoir conscience des opportunités et des menaces
-- Opportunités d'agilité
-- Résilient face aux crises
-- Être suffisamment grand pour accueillir de nouvelles entreprises
-
-![bg right:40%][illustration-identifier-marche-prometteur]
-
-## Trouver une idée originale
+### Exemple 1 - La lampe de poche
 
 <!-- _class: lead -->
 
-> _Une **idée originale** est une idée ancrée dans son contexte, mais qui en
-> explore les limites._
+**"J'ai besoin d'une lampe de poche"**
 
-<!-- > _Une **idée originale** est une idée qui comprend son contexte et ose en
-> dévier légèrement._ -->
+#### Récapitulatif de l'exemple
 
-![bg right:40% ][illustration-identifier-idee-pertinente]
+- **Contexte** : zone géographique avec pannes de courant fréquentes.
+- **Problématique** : comment voir dans l'obscurité ?
+- **Besoin réel** : avoir de la lumière dans l'obscurité.
+- **Solutions possibles** : lampe de poche, application mobile, lampe solaire,
+  amélioration du réseau électrique.
+- **Fausse piste** : "j'ai besoin d'une lampe de poche" (c'est une solution, pas
+  un besoin).
 
-## Méthodologies pour générer des idées
+### Exemple 2 - Le café
 
-- But : générer de nouvelles idées
-- Deux méthodes dans ce cours :
-  - Brainstorming : basée sur des idées textuelles
-  - Doodling : basée sur des idées visuelles (gribouillages)
-- **Toutes les idées sont bonnes**
+<!-- _class: lead -->
 
-![bg right:40%][illustration-methodologies-generer-des-idees-1]
+**"J'ai besoin d'un café"**
 
-![bg vertical][illustration-methodologies-generer-des-idees-2]
+#### Récapitulatif de l'exemple
 
-### Brainstorming
+- **Contexte** : vie moderne exigeante, fatigue quotidienne.
+- **Problématique** : comment être plus productif ?
+- **Besoin réel** : avoir de l'énergie pour être productif.
+- **Solutions possibles** : café, sieste, promenade, alimentation équilibrée,
+  meilleure hygiène de sommeil.
+- **Fausse piste** : "j'ai besoin d'un café" (c'est une solution, pas un
+  besoin).
 
-1. Fixer un objectif clair (problème à résoudre, question à répondre)
-2. Encourager le non-jugement
-3. Distribuer des post-its pour noter les idées
-4. Commencer l'exercice **par une phase de réflexion individuelle**
-5. Partager les idées au reste du groupe
-6. Regrouper les idées par thème
-7. Voter pour les idées les plus prometteuses
+### Exemple 3 - Gagner du temps
 
-**Attention à ne pas juger les idées pendant la phase de génération !**
+<!-- _class: lead -->
 
-### Doodling
+**"J'ai besoin de gagner du temps"**
 
-- Sensiblement le même processus que le brainstorming (réflexion individuelle,
-  partage, discussion, etc.)
-- Utilise des dessins (gribouillages/doodles) pour générer des idées
-- Permet de générer des idées plus originales
-- Les dessins sont souvent plus axées sur les processus et interactions des
-  utilisateurs ce qui complète le brainstorming
+#### Récapitulatif de l'exemple
 
-**Les dessins demandent une compréhension plus simple et plus rapide des
-problèmes/idées et permettent souvent d'être plus créatif.**
+- **Contexte** : vie quotidienne surchargée (travail, famille, obligations).
+- **Problématique** : comment avoir plus de temps pour faire ce qui est
+  important pour nous ?
+- **Besoin réel** : mieux gérer les tâches courantes.
+- **Solutions possibles** : calendrier, délégation, automatisation,
+  priorisation.
+- **Fausse piste** : "j'ai besoin de gagner du temps" (c'est un constat, pas un
+  besoin).
 
-## Identifier et sélectionner les "bonnes" idées
+## Différence entre idée et besoin
 
-Une simple matrice de décision (basée sur l'effort et l'impact) peut aider à
-sélectionner les "bonnes" idées.
+- **Idée :** pensée, suggestion ou hypothèse de solution.
+- **Besoin :** problème ou opportunité à résoudre.
+- **Exemple :**
+  - Idée : "App pour trouver des restaurants".
+  - Besoin : "Trouver des endroits où manger facilement".
 
-La partie supérieure gauche sont les idées les plus prometteuses.
+**Souvent, les idées sont basées sur des solutions préconçues plutôt que sur une
+compréhension profonde du besoin.**
 
-|                   |                    |                  |                  |
-| :---------------: | :----------------: | :--------------: | :--------------: |
-| **Impact élevé**  | _Idée 1_, _Idée 4_ |                  |                  |
-| **Impact moyen**  |                    |     _Idée 5_     |     _Idée 3_     |
-| **Impact faible** |      _Idée 6_      |     _Idée 2_     |                  |
-|                   | **Effort faible**  | **Effort moyen** | **Effort élevé** |
+## Observer son environnement pour identifier un besoin
 
-## Trouver des sources d'inspiration d'idées originales
+L'observation de son environnement permet d'identifier des besoins en observant
+les comportements, les habitudes et les frustrations des gens ➡️ opportunités
+d'innovation.
 
-Il existe plusieurs communautés pour trouver de l'inspiration :
+**Exemples :**
 
-<div class="two-columns center">
-<div>
+- Café : difficulté à trouver une prise.
+- Supermarché : difficulté à trouver produits.
 
-- [Indie Hackers](https://www.indiehackers.com/)
-- [Product Hunt](https://www.producthunt.com/)
-- [Hacker News](https://news.ycombinator.com/)
-- [Kickstarter](https://www.kickstarter.com/)
-- [Indiegogo](https://www.indiegogo.com/)
+### Exercice pratique d'observation
 
-</div>
-<div>
+> Observez votre environnement immédiat :
+>
+> 1. **Observez** : notez trois comportements ou frustrations que vous observez
+>    chez les personnes autour de vous
+> 2. **Analysez** : pour chacun, identifiez :
+>    - Le contexte dans lequel cela se produit.
+>    - La problématique générale sous-jacente.
+>    - Le besoin spécifique exprimé.
 
-- [GENILEM](https://genilem.ch/)
-- [Fondation FIT](https://www.fondation-fit.ch/fr)
-- [Gebert Rüf Stiftung](https://www.grstiftung.ch/fr/)
-- [Agorize](https://www.agorize.com/fr/)
-- [HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)
+**Pour le moment, la solution ne nous intéresse pas.**
 
-</div>
-</div>
+## Tableau récapitulatif des niveaux d'analyse
+
+| Niveau            | Définition           | Exemple                        |
+| ----------------- | -------------------- | ------------------------------ |
+| **Contexte**      | Environnement global | Vie moderne exigeante, fatigue |
+| **Problématique** | Question large       | Comment être plus productif ?  |
+| **Besoin**        | Problème spécifique  | Avoir de l'énergie             |
+| **Solution**      | Réponse possible     | -                              |
+
+## Conclusion
+
+**Retenez :**
+
+- Contexte ➡️ Problématique ➡️ Besoin (➡️ Solution).
+- Une problématique = plusieurs besoins.
+- Un besoin = plusieurs solutions.
+- Observer pour identifier des besoins réels.
+
+**Se concentrer sur le besoin avant la solution, ne pas créer de faux besoins.**
 
 ## Questions
 
@@ -256,47 +252,17 @@ Est-ce que vous avez des questions ?
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 
-## Sources (1/2)
+## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) sur
-  [Unsplash](https://unsplash.com/photos/blue-and-orange-abstract-painting-yn97LNy0bao)
+  [Annie Spratt](https://unsplash.com/@anniespratt) sur
+  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
-- [Illustration][illustration-methodologies-generer-des-idees-1] par
-  [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
-  [Unsplash](https://unsplash.com/photos/paper-on-wall-m2TU2gfqSeE)
-- [Illustration][illustration-methodologies-generer-des-idees-2] par
-  [Sunguk Kim](https://unsplash.com/@sunyu) sur
-  [Unsplash](https://unsplash.com/photos/happy-birthday-to-you-greeting-card-o9RLeUVowG8)
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
-- [Illustration][illustration-secteur-de-marche] par
-  [Masum Ali](https://unsplash.com/@masum_ali_photography) sur
-  [Unsplash](https://unsplash.com/photos/refill-of-liquid-on-tubes-pwcKF7L4-no)
-- [Illustration][illustration-secteur-de-marche-pharmaceutique] par
-  [Louis Reed](https://unsplash.com/@_louisreed) sur
-  [Unsplash](https://unsplash.com/photos/refill-of-liquid-on-tubes-pwcKF7L4-no)
-- [Illustration][illustration-secteur-de-marche-agricole] par
-  [Olivier Mary](https://unsplash.com/@oliviermary) sur
-  [Unsplash](https://unsplash.com/photos/orange-pumpkin-on-green-grass-4JHV1dgjayI)
-
-## Sources (2/2)
-
-- [Illustration][illustration-identifier-un-besoin] par
-  [youssef naddam](https://unsplash.com/@youssefnaddam) sur
-  [Unsplash](https://unsplash.com/photos/two-persons-arms-iJ2IG8ckCpA)
-- [Illustration][illustration-identifier-marche-prometteur] par
-  [Dmitry Topkin](https://unsplash.com/@dtopkin1) sur
-  [Unsplash](https://unsplash.com/photos/woman-in-black-jacket-wearing-yellow-knit-cap-xdx5hIHGt4A)
-- [Illustration][illustration-identifier-idee-pertinente] par
-  [Alejandro Bianchi](https://unsplash.com/@ale_s_bianchi) sur
-  [Unsplash](https://unsplash.com/photos/light-bulb-illustration-_kdTyfnUFAc)
-- [Illustration][illustration-contexte] par
-  [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) sur
-  [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-white-paper-sheet-mounted-on-cork-board-ZT9gjcJog6U)
 
 <!-- URLs -->
 
@@ -308,26 +274,8 @@ Est-ce que vous avez des questions ?
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1553949345-eb786bb3f7ba?fit=crop&h=720
+	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
-[illustration-methodologies-generer-des-idees-1]:
-	https://images.unsplash.com/photo-1552664688-cf412ec27db2?fit=crop&h=720
-[illustration-methodologies-generer-des-idees-2]:
-	https://images.unsplash.com/photo-1623116135497-a90bdc0ddca9?fit=crop&h=720
-[illustration-secteur-de-marche]:
-	https://images.unsplash.com/photo-1594700062947-2a1bc1fd19b6?fit=crop&h=720
-[illustration-secteur-de-marche-pharmaceutique]:
-	https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?fit=crop&h=720
-[illustration-secteur-de-marche-agricole]:
-	https://images.unsplash.com/photo-1600020888788-94adc279a4a7?fit=crop&h=720
-[illustration-identifier-un-besoin]:
-	https://images.unsplash.com/photo-1541976844346-f18aeac57b06?fit=crop&h=720
-[illustration-identifier-marche-prometteur]:
-	https://images.unsplash.com/photo-1581306144940-6fdc110b7b71?fit=crop&h=720
-[illustration-identifier-idee-pertinente]:
-	https://images.unsplash.com/photo-1529310399831-ed472b81d589?fit=crop&h=720
-[illustration-contexte]:
-	https://images.unsplash.com/photo-1577401159468-3bbc7ee440b5?fit=crop&h=720
