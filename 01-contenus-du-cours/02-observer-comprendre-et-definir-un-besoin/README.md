@@ -69,6 +69,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Exemple 3 - Gagner du temps](#exemple-3---gagner-du-temps)
 - [Différence entre idée et besoin](#différence-entre-idée-et-besoin)
 - [Observer son environnement pour identifier un besoin](#observer-son-environnement-pour-identifier-un-besoin)
+  - [Exercice pratique d'observation](#exercice-pratique-dobservation)
+- [Tableau récapitulatif des niveaux d'analyse](#tableau-récapitulatif-des-niveaux-danalyse)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 
@@ -135,6 +137,9 @@ projet.
 
 ## Décrire ce qu'est une problématique
 
+Une fois le contexte compris, il faut identifier les problématiques qui s'y
+dessinent.
+
 Une problématique est un problème ou une question qui se pose dans un contexte
 donné. Elle peut être formulée de manière générale ou spécifique, et peut être
 liée à un domaine particulier ou à un sujet plus large.
@@ -150,6 +155,8 @@ innovantes.
 
 ## Définir un besoin
 
+Au sein de chaque problématique se cachent des besoins concrets à identifier.
+
 La vie est comme elle est. Elle est faite de hauts et de bas, de joies et de
 peines, de succès et d'échecs. Ce qui importe lorsque l'on entreprend, c'est de
 savoir identifier où sont les points de friction, les problèmes, les besoins
@@ -158,11 +165,12 @@ insatisfaits.
 C'est pour ça qu'il est important de bien identifier les besoins de votre public
 cible.
 
-Un besoin peut être de vouloir:
+Un besoin représente un écart entre une situation actuelle insatisfaisante et
+une situation désirée. Il peut s'exprimer comme :
 
-- Une meilleur qualité de vie.
-- Gagner du temps.
-- Économiser de l'argent.
+- Un problème à résoudre ("Je perds du temps dans les transports").
+- Un désir d'amélioration ("J'aimerais une meilleure qualité de vie").
+- Une opportunité à saisir ("Je pourrais économiser de l'argent").
 
 Bien sûr, un besoin dépend du contexte dans lequel il est exprimé ainsi que la
 problématique à laquelle il est lié.
@@ -177,6 +185,14 @@ manière explicite. Parfois, ils sont latents et il faut les faire émerger grâ
 
 Essayer de créer un besoin est une entreprise risquée et contre-productive pour
 la société et son projet.
+
+> [!WARNING]
+>
+> **Piège fréquent**
+>
+> Confondre "j'ai besoin de X" (souvent une solution) avec le vrai besoin.
+> Posez-vous toujours "Pourquoi ai-je besoin de X ?" plusieurs fois de suite
+> pour remonter au besoin réel.
 
 ## Différence entre problématique et besoin
 
@@ -245,11 +261,6 @@ problème de fond qui est l'instabilité du réseau électrique. En revanche, en
 proposant une solution qui s'attaque à la racine du problème, on peut contribuer
 à améliorer la situation de manière plus durable et efficace.
 
-Le besoin n'est pas d'avoir une lampe de poche, mais d'avoir de la lumière dans
-l'obscurité. La solution peut être une lampe de poche, mais elle peut aussi être
-une application mobile qui utilise la lumière du téléphone, ou encore une lampe
-solaire qui se recharge pendant la journée.
-
 Dans cet exemple, la problématique est "Comment voir dans l'obscurité ?". Le
 besoin est "Avoir de la lumière dans l'obscurité". La solution peut être une
 lampe de poche.
@@ -258,6 +269,16 @@ Comme souvent, plusieurs besoins peuvent être associés à une même problémat
 et plusieurs solutions peuvent être associées à un même besoin. Et chaque
 personne peut avoir sa propre définition de ce qui est important pour elle, ce
 qui rend la question du temps encore plus subjective et complexe à résoudre.
+
+#### Récapitulatif de l'exemple
+
+- **Contexte** : zone géographique avec pannes de courant fréquentes.
+- **Problématique** : comment voir dans l'obscurité ?
+- **Besoin réel** : avoir de la lumière dans l'obscurité.
+- **Solutions possibles** : lampe de poche, application mobile, lampe solaire,
+  amélioration du réseau électrique.
+- **Fausse piste** : "j'ai besoin d'une lampe de poche" (c'est une solution, pas
+  un besoin).
 
 ### Exemple 2 - Le café
 
@@ -291,6 +312,16 @@ et plusieurs solutions peuvent être associées à un même besoin. Et chaque
 personne peut avoir sa propre définition de ce qui est important pour elle, ce
 qui rend la question du temps encore plus subjective et complexe à résoudre.
 
+#### Récapitulatif de l'exemple
+
+- **Contexte** : vie moderne exigeante, fatigue quotidienne.
+- **Problématique** : comment être plus productif ?
+- **Besoin réel** : avoir de l'énergie pour être productif.
+- **Solutions possibles** : café, sieste, promenade, alimentation équilibrée,
+  meilleure hygiène de sommeil.
+- **Fausse piste** : "j'ai besoin d'un café" (c'est une solution, pas un
+  besoin).
+
 ### Exemple 3 - Gagner du temps
 
 Un autre exemple est celui de gagner du temps. Que ce soit pour l'administratif,
@@ -314,6 +345,17 @@ Comme souvent, plusieurs besoins peuvent être associés à une même problémat
 et plusieurs solutions peuvent être associées à un même besoin. Et chaque
 personne peut avoir sa propre définition de ce qui est important pour elle, ce
 qui rend la question du temps encore plus subjective et complexe à résoudre.
+
+#### Récapitulatif de l'exemple
+
+- **Contexte** : vie quotidienne surchargée (travail, famille, obligations).
+- **Problématique** : comment avoir plus de temps pour faire ce qui est
+  important pour nous ?
+- **Besoin réel** : mieux gérer les tâches courantes.
+- **Solutions possibles** : calendrier, délégation, automatisation,
+  priorisation.
+- **Fausse piste** : "j'ai besoin de gagner du temps" (c'est un constat, pas un
+  besoin).
 
 ## Différence entre idée et besoin
 
@@ -356,6 +398,46 @@ de produits.
 Tout cela montre que l'observation de son environnement peut être une source
 précieuse d'inspiration pour trouver des idées originales qui répondent à des
 besoins réels.
+
+### Exercice pratique d'observation
+
+> **Exercice à réaliser (15-20 minutes)**
+>
+> Observez votre environnement immédiat (salle de cours, campus, trajet
+> quotidien) :
+>
+> 1. **Observez** : Notez 3 comportements ou frustrations que vous observez chez
+>    les personnes autour de vous
+> 2. **Analysez** : Pour chacun, identifiez :
+>    - Le contexte dans lequel cela se produit
+>    - La problématique générale sous-jacente
+>    - Le besoin spécifique exprimé
+> 3. **Proposez** : Imaginez 2 solutions différentes par besoin identifié
+>
+> **Exemple concret :**
+>
+> - **Observation** : je vois des étudiant.es qui cherchent désespérément une
+>   prise électrique dans la cafétéria.
+> - **Contexte** : campus universitaire, étudiant.es avec ordinateurs portables,
+>   longues journées de cours.
+> - **Problématique** : comment travailler efficacement sur le campus entre deux
+>   cours ?
+> - **Besoin** : accès facile à l'électricité pour recharger ses appareils.
+> - **Solutions possibles** :
+>   - Installer plus de prises murales dans les espaces communs.
+>   - Mettre à disposition des batteries portables en location.
+>   - Créer des espaces de travail dédiés avec prises garanties.
+>   - Application mobile indiquant les prises disponibles en temps réel.
+
+## Tableau récapitulatif des niveaux d'analyse
+
+| Niveau            | Définition             | Exemple : Mobilité urbaine                      | Exemple : Productivité                      |
+| ----------------- | ---------------------- | ----------------------------------------------- | ------------------------------------------- |
+| **Contexte**      | Environnement global   | Ville dense, pollution, trafic                  | Vie moderne exigeante, fatigue              |
+| **Problématique** | Question large         | Comment améliorer la mobilité urbaine ?         | Comment être plus productif ?               |
+| **Besoin**        | Problème spécifique    | Se déplacer rapidement et écologiquement        | Avoir de l'énergie                          |
+| **Solution**      | Réponse possible       | Covoiturage, vélo électrique, transport public  | Café, sieste, sport, meilleure alimentation |
+| **Idée**          | Mise en œuvre concrète | Application de covoiturage avec trajet optimisé | Abonnement café livré au bureau             |
 
 ## Conclusion
 
