@@ -38,8 +38,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Présentation magistrale
-> - Discussions collectives
+> - Présentation magistrale.
+> - Discussions collectives.
 >
 > **Méthodes d'évaluation**
 >
@@ -47,12 +47,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à répondre avec justesse
-> - Capacité à argumenter
+> - Capacité à répondre avec justesse.
+> - Capacité à argumenter.
 >
 > Les retours se font de la manière suivante :
 >
-> - Corrigé du quiz
+> - Corrigé du quiz.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -427,14 +427,6 @@ Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
 - Relire le support de cours si nécessaire
-
-## Ce que vous ferez ensuite
-
-Dans le projet, vous pourrez prendre le temps de réfléchir à l'ergonomie de
-votre application.
-
-Ceci vous permettra de vous entraîner à réaliser des interfaces ergonomiques et
-réfléchies.
 
 [^nagging-wikipedia]:
     Nagging, [en.wikipedia.org](https://en.wikipedia.org/wiki/Nagging), 02 avril

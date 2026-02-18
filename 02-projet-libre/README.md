@@ -112,11 +112,11 @@ groupes qui présentent et vous sera communiqué à l'avance pour vous préparer
 
 Les critères d'évaluation sont les suivants :
 
-- 0 point – Les critères ne sont pas respectés : la production est absente, hors
+- 0 point - Les critères ne sont pas respectés : la production est absente, hors
   sujet ou témoigne d'une compréhension très limitée du sujet.
-- 1 point – Les critères sont partiellement respectés : certains éléments
+- 1 point - Les critères sont partiellement respectés : certains éléments
   essentiels sont manquants, imprécis ou incorrectement mis en œuvre.
-- 2 points – Les critères sont pleinement respectés : l'ensemble des éléments
+- 2 points - Les critères sont pleinement respectés : l'ensemble des éléments
   attendus est présent, précis et démontre une compréhension claire et
   approfondie du sujet.
 
@@ -180,11 +180,11 @@ l'information. Vous êtes donc libres de choisir le format de votre présentatio
 
 Les critères d'évaluation sont les suivants :
 
-- 0 point – Les critères ne sont pas respectés : la production est absente, hors
+- 0 point - Les critères ne sont pas respectés : la production est absente, hors
   sujet ou témoigne d'une compréhension très limitée du sujet.
-- 1 point – Les critères sont partiellement respectés : certains éléments
+- 1 point - Les critères sont partiellement respectés : certains éléments
   essentiels sont manquants, imprécis ou incorrectement mis en œuvre.
-- 2 points – Les critères sont pleinement respectés : l'ensemble des éléments
+- 2 points - Les critères sont pleinement respectés : l'ensemble des éléments
   attendus est présent, précis et démontre une compréhension claire et
   approfondie du sujet.
 
@@ -277,11 +277,11 @@ au long du semestre si besoin.
 
 Les critères d'évaluation sont les suivants :
 
-- 0 point – Les critères ne sont pas respectés : la production est absente, hors
+- 0 point - Les critères ne sont pas respectés : la production est absente, hors
   sujet ou témoigne d'une compréhension très limitée du sujet.
-- 1 point – Les critères sont partiellement respectés : certains éléments
+- 1 point - Les critères sont partiellement respectés : certains éléments
   essentiels sont manquants, imprécis ou incorrectement mis en œuvre.
-- 2 points – Les critères sont pleinement respectés : l'ensemble des éléments
+- 2 points - Les critères sont pleinement respectés : l'ensemble des éléments
   attendus est présent, précis et démontre une compréhension claire et
   approfondie du sujet.
 
@@ -354,11 +354,11 @@ intéresse de voir comment vous avez réalisé votre projet.
 
 Les critères d'évaluation sont les suivants :
 
-- 0 point – Les critères ne sont pas respectés : la production est absente, hors
+- 0 point - Les critères ne sont pas respectés : la production est absente, hors
   sujet ou témoigne d'une compréhension très limitée du sujet.
-- 1 point – Les critères sont partiellement respectés : certains éléments
+- 1 point - Les critères sont partiellement respectés : certains éléments
   essentiels sont manquants, imprécis ou incorrectement mis en œuvre.
-- 2 points – Les critères sont pleinement respectés : l'ensemble des éléments
+- 2 points - Les critères sont pleinement respectés : l'ensemble des éléments
   attendus est présent, précis et démontre une compréhension claire et
   approfondie du sujet.
 
@@ -430,11 +430,11 @@ présenterez de séance en séance.
 
 Les critères d'évaluation sont les suivants :
 
-- 0 point – La méthodologie n'est pas appliquée ou montre une compréhension très
+- 0 point - La méthodologie n'est pas appliquée ou montre une compréhension très
   limitée de celle-ci.
-- 1 point – La méthodologie est partiellement appliquée ou montre une
+- 1 point - La méthodologie est partiellement appliquée ou montre une
   compréhension partielle de celle-ci.
-- 2 points – La méthodologie est pleinement appliquée et montre une
+- 2 points - La méthodologie est pleinement appliquée et montre une
   compréhension claire et approfondie de celle-ci.
 
 Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1.
@@ -462,7 +462,9 @@ La grille d'évaluation du rapport final est la suivante :
 
 #### Contraintes
 
-- Il n'y a pas de contrainte spécifique pour cette évaluation
+- Si nous ne sommes pas en mesure de suivre et valider la méthodologie de votre
+  projet durant les séances de projet, nous ne serons pas en mesure de vous
+  attribuer une note pour ce critère.
 
 #### Astuces
 
@@ -709,6 +711,8 @@ des retours concrets :
 - Favorise l'itération rapide et les pivots si nécessaire.
 - Contrairement au prototype, il est destiné à être réellement utilisé par les
   utilisateurs finaux.
+- Les personnes sont prêtes à payer pour utiliser un MVP afin de résoudre leur
+  problème.
 
 ## Répartition des séances / jalons
 
@@ -769,7 +773,7 @@ ci-dessous.
 >
 > - Capacité à présenter.
 > - Capacité à écouter.
-> - Capacité à argumenter.
+> - Capacité à argumenter..
 > - Capacité à participer.
 > - Réalisation du travail demandé.
 >
@@ -891,7 +895,7 @@ obtenir le bonus (voir section
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -992,7 +996,7 @@ il est recommandé pour la prochaine séance de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 > - Identification du public cible **imaginaire**
 > - Identification des personae **imaginés**
@@ -1052,8 +1056,7 @@ il est recommandé pour la prochaine séance de :
 
 ### Séance 4 - CRUNCH : pas de séance
 
-_En raison du CRUNCH, il n'y a pas de séances de cours/projet durant la
-semaine 4._
+_En raison du CRUNCH, il n'y a pas de séances de cours/projet._
 
 ### Séance 6 - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)
 
@@ -1105,7 +1108,7 @@ semaine 4._
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -1206,7 +1209,7 @@ il est recommandé pour la prochaine séance de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -1433,7 +1436,7 @@ Bravo pour votre travail ! Vous avez su présenter votre prospection de manière
 claire et concise. Vous avez également su répondre aux questions et aux
 feedbacks de manière constructive.
 
-#### Ce que vous ferez ensuite
+#### A faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine séance de :
@@ -1494,7 +1497,7 @@ il est recommandé pour la prochaine séance de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -1592,7 +1595,7 @@ il est recommandé pour la prochaine séance de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -1676,7 +1679,7 @@ il est recommandé pour la prochaine séance de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -1758,7 +1761,7 @@ il est recommandé pour la prochaine séance de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -1840,7 +1843,7 @@ il est recommandé pour la prochaine séance de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :
@@ -1919,7 +1922,7 @@ il est recommandé pour la prochaine séance de :
 >
 > - Capacité à présenter
 > - Capacité à écouter
-> - Capacité à argumenter
+> - Capacité à argumenter.
 > - Capacité à participer
 >
 > Les retours se font de la manière suivante :

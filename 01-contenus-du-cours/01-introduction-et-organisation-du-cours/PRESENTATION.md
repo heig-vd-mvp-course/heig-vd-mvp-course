@@ -8,11 +8,11 @@ description:
   Introduction et organisation du cours pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/01-introduction-et-organisation-du-cours/presentation.html
 header:
-  "[**Introduction et organisation du cours**][contenu-complet-sur-github]"
+  '[**Introduction et organisation du cours**][contenu-complet-sur-github]'
 footer:
-  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2024-2025](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]"
+  BY-SA 4.0][license]'
 headingDivider: 6
 ---
 
@@ -44,7 +44,7 @@ adresse][contenu-complet-sur-github].
 
 ![bg opacity:0.1][illustration-principale]
 
-## Bienvenue au cours Lancez votre minimum viable product (MVP) !
+## Bienvenue au cours _"Lancez votre minimum viable product"_ (MVP) !
 
 <!-- _class: lead -->
 
@@ -113,41 +113,41 @@ Selon la
 à la fin de ce cours, vous devriez être capable de :
 
 > - Identifier des secteurs de marché prometteurs pour y fournir un nouveau
->   service
-> - Pitcher son idée en public
-> - Appliquer des méthodologies de validation de marché
-> - Énumérer les avantages et les inconvénients d'une stack technologique web
+>   service.
+> - Pitcher son idée en public.
+> - Appliquer des méthodologies de validation de marché.
+> - Énumérer les avantages et les inconvénients d'une stack technologique web.
 
 ## Objectifs du cours (2/3)
 
 > - Évaluer le choix d'une stack technologique web par rapport à une situation
->   donnée
+>   donnée.
 > - Utiliser les bonnes pratiques de programmation pour rendre une application
->   viable et pérenne dans le temps
+>   viable et pérenne dans le temps.
 > - Créer, maintenir, déployer une application web de type minimum viable
->   product (MVP) attractive proposant un service à son public cible
+>   product (MVP) attractive proposant un service à son public cible.
 > - Inclure un moyen de paiement sur un site web et se faire rémunérer pour ses
->   services
+>   services.
 
 ## Objectifs du cours (3/3)
 
 > - Mettre en place des applications durables (autant au niveau technique qu'au
->   niveau financier)
+>   niveau financier).
 > - Énumérer les différentes formes juridiques pour la création d'une entreprise
->   avec leurs avantages et inconvénients
+>   avec leurs avantages et inconvénients.
 
 En résumé, à la fin de ce cours, vous devriez être capable de **créer un produit
 simple** mais **viable et** de **le lancer sur le marché après l'avoir validé.**
 
 ## Modalités d'organisation du cours
 
-- En présentiel chaque semaine dans cette même salle
-- De la théorie sera abordée, mais surtout de la pratique
+- En présentiel chaque semaine dans cette même salle.
+- De la théorie sera abordée, mais surtout de la pratique.
 - Espace de discussion pour poser des questions, partager vos expériences et
-  obtenir de l'aide/des retours
+  obtenir de l'aide/des retours.
 - Partage de connaissance et d'expérience - il n'y a pas de juste ou de faux
-  dans ce cours
-- Un terrain d'expérimentation pour tester vos projets sur le marché
+  dans ce cours.
+- Un terrain d'expérimentation pour tester vos projets.
 
 Nous nous réjouissons de vous accompagner dans ce cours !
 
@@ -155,73 +155,71 @@ Nous nous réjouissons de vous accompagner dans ce cours !
 
 Le cours sera évalué sur plusieurs aspects :
 
-- Une évaluation écrite (100% de la note du cours)
-- Deux présentations (20%/20% du projet, respectivement)
-- Un rapport final (20% du projet)
-- Une évaluation sur le produit final (10% du projet)
-- Suivi et application de la méthodologie (30% du projet)
+- Une évaluation écrite (100% de la note du cours).
+- Deux présentations (20%/20% du projet, respectivement).
+- Un rapport final (20% du projet).
+- Une évaluation sur le produit final (10% du projet).
+- Suivi et application de la méthodologie (30% du projet).
 
-**Le produit final n'a qu'une petite part de la note.** L'important est la
-démarche et l'apprentissage.
+**L'important est la démarche et les leçons tirées de l'expérience.**
 
 ### Évaluation écrite
 
-- Évaluation sur les connaissances théoriques acquises sur tout le semestre
-- Durée minimale de 45 minutes
-- Devrait utiliser la plateforme d'évaluation en ligne de la HEIG-VD
+- Évaluation sur les connaissances théoriques et pratiques acquises sur tout le
+  semestre.
+- Durée minimale de 45 minutes.
 
 ![bg right:40%][illustration-evaluation-ecrite]
 
-### Présentations
+### Projet libre
 
-- À présenter en équipe, même si tout le monde ne parle pas
-- Présentation orale, format libre (sauf contraintes explicites)
-- À pour but de présenter l'avancement du projet et recevoir des retours de tout
-  le monde
+- Les modalités et l'organisation du projet sont présentés dans le contenu
+  [Projet libre](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/02-projet-libre).
+- Nous y reviendrons juste après.
 
-Profitez-en pour vous entraîner !
+![bg right:40% vertical][illustration-presentations]
+![bg right:40% vertical][illustration-rapport-final]
+![bg right:40% vertical][illustration-produit-final]
+![bg right:40% vertical][illustration-suivi-et-application-de-la-methodologie]
 
-![bg right:40%][illustration-presentations]
+## Propriété intellectuelle (1/2)
 
-### Rapport final
+Source :
+[Règlement formation de base Bachelor et Master HES-SO](https://heig-vd.ch/a-propos/cadre-reglementaire).
 
-- Contient les différentes étapes du projet
-- Doit être structuré et clair et remis au format PDF
-- Un rapport avant tout pour vous-même pour voir l'avancement
-- Une structure et des outils vous sont proposés dans le support de cours
+> **Art. 22 - Propriété intellectuelle**
+>
+> A l'exception des droits d'auteur, les droits sur les biens immatériels
+> réalisés par les étudiant·e·s dans le cadre de leur formation ou d'un mandat
+> de recherche confié par ou à la haute école sont la propriété de la haute
+> école.
 
-![bg right:40%][illustration-rapport-final]
+## Propriété intellectuelle (2/2)
 
-### Produit final
+> Les droits sur les biens immatériels résultant de collaboration sont définis
+> dans les contrats ou accords passés entre l'étudiant·e et la haute école, et
+> cas échéant les partenaires.
 
-- Contient le code source du projet
-- A rendre sur un dépôt de code ou une archive par mail
-- Le produit final doit être accessible en ligne
-- La qualité du code ne sera que peu évaluée
-- **Ne codez pas tout de suite !**
+## Liens avec un travail de Bachelor (1/2)
 
-![bg right:40%][illustration-produit-final]
+- Nous (Ludovic et Vincent) ne sommes pas contre le fait que ce cours puisse
+  être en lien avec un travail de Bachelor (TB).
+- Cependant, les tâches et les attentes doivent être clairement définies et
+  séparées entre le cours MVP et le TB.
+- Si vous souhaitez mêler les deux, il est important de nous en parler dès le
+  début du cours.
+- Il doit y avoir un cadre défini pour ce cas de figure afin d'éviter tout
+  malentendu et conflit d'intérêts.
 
-## Grilles d'évaluation
+## Liens avec un travail de Bachelor (2/2)
 
-Les grilles d'évaluation sont présentées en détails dans le [support de
-cours][contenu-complet-sur-github] :
-
-- [Grille d'évaluation des présentations](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
-- [Grille d'évaluation du rapport final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-du-rapport-final)
-- [Grille d'évaluation du produit final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-du-produit-final)
-
-![bg right:40%][illustration-grilles-devaluation]
-
-### Critères d'évaluation
-
-- 0 point - Le travail est insuffisant
-- 1 point - Le travail est réalisé
-- 2 points - Le travail est bien réalisé (sans la nécessité d'être parfait)
-
-Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
-
-![bg right:40%][illustration-grilles-devaluation]
+- Une discussion avec votre responsable de TB doit avoir lieu.
+- Nous devons être informés de la décision au travers d'un e-mail avec votre
+  responsable de TB en copie contenant les informations suivantes :
+  - Les tâches et les attentes pour le TB.
+  - Les tâches et les attentes pour le cours MVP.
+  - Comment les tâches et les attentes pour le cours MVP et le TB sont séparées.
+- Votre responsable de TB a le dernier mot.
 
 ## Questions
 
@@ -259,12 +257,15 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-produit-final] par
   [Rachit Tank](https://unsplash.com/@rachitank) sur
   [Unsplash](https://unsplash.com/photos/round-white-watch-with-white-band-2cFZ_FB08UM)
-- [Illustration][illustration-grilles-devaluation] par
-  [Lance Anderson](https://unsplash.com/@lanceanderson) sur
-  [Unsplash](https://unsplash.com/photos/white-and-black-architectural-building-diagram-oSZzkAqIRIM)
+- [Illustration][illustration-suivi-et-application-de-la-methodologie] par
+  [Armand Khoury](https://unsplash.com/@armand_khoury) sur
+  [Unsplash](https://unsplash.com/photos/boy-on-ladder-under-blue-sky-Ba6IlmAzl-k)
 
 ## Sources (2/3)
 
+- [Illustration][illustration-grilles-devaluation] par
+  [Lance Anderson](https://unsplash.com/@lanceanderson) sur
+  [Unsplash](https://unsplash.com/photos/white-and-black-architectural-building-diagram-oSZzkAqIRIM)
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
@@ -292,6 +293,8 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1532153955177-f59af40d6472?fit=crop&h=720
 [illustration-produit-final]:
 	https://images.unsplash.com/photo-1523275335684-37898b6baf30?fit=crop&h=720
+[illustration-suivi-et-application-de-la-methodologie]:
+	https://images.unsplash.com/photo-1570050785780-3c79854c7813?fit=crop&h=720
 [illustration-grilles-devaluation]:
 	https://images.unsplash.com/photo-1487603527224-a650979f288e?fit=crop&h=720
 [illustration-a-vous-de-jouer]:

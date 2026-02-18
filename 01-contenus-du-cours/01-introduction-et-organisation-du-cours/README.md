@@ -29,8 +29,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer le cours
 > sont les suivantes :
 >
-> - Présentation magistrale.
-> - Discussions collectives.
+> - Présentation magistrale..
+> - Discussions collectives..
 >
 > **Méthodes d'évaluation**
 >
@@ -45,6 +45,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Modalités d'évaluation](#modalités-dévaluation)
   - [Évaluation écrite](#évaluation-écrite)
   - [Projet libre](#projet-libre)
+- [Propriété intellectuelle](#propriété-intellectuelle)
+- [Liens avec un travail de Bachelor](#liens-avec-un-travail-de-bachelor)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 
@@ -145,6 +147,50 @@ d'évaluation en ligne de la HEIG-VD.
 
 Les modalités et l'organisation du projet sont présentés dans le contenu
 [Projet libre](../../02-projet-libre/README.md).
+
+## Propriété intellectuelle
+
+Source :
+[Règlement formation de base Bachelor et Master HES-SO](https://heig-vd.ch/a-propos/cadre-reglementaire).
+
+> **Art. 22 - Propriété intellectuelle**
+>
+> A l'exception des droits d'auteur, les droits sur les biens immatériels
+> réalisés par les étudiant·e·s dans le cadre de leur formation ou d'un mandat
+> de recherche confié par ou à la haute école sont la propriété de la haute
+> école.
+>
+> Les droits sur les biens immatériels résultant de collaboration sont définis
+> dans les contrats ou accords passés entre l'étudiant·e et la haute école, et
+> cas échéant les partenaires.
+
+## Liens avec un travail de Bachelor
+
+Nous (Ludovic et Vincent) ne sommes pas contre le fait que ce cours puisse être
+en lien avec un travail de Bachelor (TB).
+
+Cependant, les tâches et les attentes doivent être clairement définies et
+séparées entre le cours MVP et le TB.
+
+Si vous souhaitez mêler les deux, il est important de nous en parler dès le
+début du cours.
+
+Il doit y avoir un cadre défini pour ce cas de figure afin d'éviter tout
+malentendu et conflit d'intérêts.
+
+Une discussion avec votre responsable de TB doit avoir lieu pour définir les
+modalités de ce mélange entre le cours MVP et le TB.
+
+Nous devons être informés de la décision au travers d'un e-mail avec votre
+responsable de TB en copie. Le mail doit contenir les informations suivantes :
+
+- Les tâches et les attentes pour le TB.
+- Les tâches et les attentes pour le cours MVP.
+- Comment les tâches et les attentes pour le TB et le cours MVP sont séparées.
+
+Votre responsable de TB a le dernier mot. Si votre responsable de TB n'est pas
+d'accord avec le mélange entre le cours MVP et le TB, alors il ne sera pas
+possible de mêler les deux.
 
 ## Conclusion
 

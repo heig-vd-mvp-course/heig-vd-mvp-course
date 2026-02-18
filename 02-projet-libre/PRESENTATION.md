@@ -6,11 +6,11 @@ paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 description: Projet libre pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html
-header: "[**Projet libre**][contenu-complet-sur-github]"
+header: '[**Projet libre**][contenu-complet-sur-github]'
 footer:
-  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]"
+  BY-SA 4.0][license]'
 headingDivider: 6
 ---
 
@@ -32,22 +32,56 @@ adresse][contenu-complet-sur-github].
 
 ![bg opacity:0.1][illustration-principale]
 
-## Introduction et organisation du projet libre
+## Plus de détails sur GitHub
+
+<!-- _class: lead -->
+
+_Cette présentation est un résumé du contenu complet disponible sur GitHub._
+
+_Pour plus de détails, consulter le [contenu complet sur
+GitHub][contenu-complet-sur-github] ou en cliquant sur l'en-tête de ce
+document._
+
+## Objectifs
 
 - Projet libre : sujet, public cible, technologie, etc.
-- En solo ou en équipe (max. 5 personnes recommandé)
+- En solo ou en équipe (max. 5 personnes recommandé).
 - Seule contrainte : doit viser un "large" public (pas de projet personnel ou
-  groupe restreint)
-- Projet à rendre à la fin du semestre
+  groupe restreint).
+- Projet à rendre à la fin du semestre.
 
 ![bg right:40%][illustration-modalites-dorganisation-du-projet]
 
-### Présentations
+## Délivrables attendus
 
-- À présenter en équipe, même si tout le monde ne parle pas
-- Présentation orale, format libre (sauf contraintes explicites)
+- [Présentation du pitch](#présentation-du-pitch) - 20% de la note.
+- [Présentation finale](#présentation-finale) - 20% de la note.
+- [Rapport final](#rapport-final) - 20% de la note.
+- [Produit final](#produit-final) - 10% de la note.
+- [Suivi et application de la méthodologie](#suivi-et-application-de-la-méthodologie) -
+  30% de la note.
+
+![bg right:40% vertical][illustration-presentations]
+![bg right:40% vertical][illustration-rapport-final]
+![bg right:40% vertical][illustration-produit-final]
+![bg right:40% vertical][illustration-suivi-et-application-de-la-methodologie]
+
+### Présentation du pitch
+
+- À présenter en équipe, même si tout le monde ne parle pas.
+- Présentation orale, format libre (sauf contraintes explicites).
 - À pour but de présenter l'avancement du projet et recevoir des retours de tout
-  le monde
+  le monde.
+
+Profitez-en pour vous entraîner !
+
+![bg right:40%][illustration-presentations]
+
+### Présentation finale
+
+- À présenter en équipe, même si tout le monde ne parle pas.
+- Présentation orale, format libre (sauf contraintes explicites).
+- À pour but de présenter le résultat final de votre projet.
 
 Profitez-en pour vous entraîner !
 
@@ -55,110 +89,80 @@ Profitez-en pour vous entraîner !
 
 ### Rapport final
 
-- Contient les différentes étapes du projet
-- Doit être structuré et clair et remis au format PDF
-- Un rapport avant tout pour vous-même pour voir l'avancement
-- Une structure et des outils vous sont proposés dans le support de cours
+- Contient les différentes étapes du projet.
+- Doit être structuré, clair et remis au format PDF.
+- Un rapport avant tout pour vous-même pour voir l'avancement.
+- Une structure et des outils vous sont proposés dans le support de cours.
 
 ![bg right:40%][illustration-rapport-final]
 
 ### Produit final
 
-- Contient le code source du projet
-- A rendre sur un dépôt de code ou une archive par mail
-- Le produit final doit être accessible en ligne
-- La qualité du code ne sera que peu évaluée
+- Contient le code source du projet.
+- A rendre sur un dépôt de code Git.
+- Le produit final doit être accessible en ligne.
+- La qualité du code ne sera que peu évaluée.
 - **Ne codez pas tout de suite !**
 
 ![bg right:40%][illustration-produit-final]
 
+### Suivi et application de la méthodologie
+
+- Suivi étape par étape du projet.
+- Chaque chose en son temps.
+- Apprendre et tirer des leçons de chaque étape.
+- L'application de la méthode basée sur des données et des faits est plus
+  importante que le produit final.
+
+![bg right:40%][illustration-suivi-et-application-de-la-methodologie]
+
 ## Grilles d'évaluation
 
-Les grilles d'évaluation sont présentées en détails dans le [support de
-cours][contenu-complet-sur-github] :
+Les critères, contraintes et astuces sont décrits sur
+[GitHub][contenu-complet-sur-github] :
 
-- [Grille d'évaluation des présentations](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
-- [Grille d'évaluation du rapport final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-du-rapport-final)
-- [Grille d'évaluation du produit final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-du-produit-final)
-
-![bg right:40%][illustration-grilles-devaluation]
-
-### Critères d'évaluation
-
-- 0 point - Le travail est insuffisant
-- 1 point - Le travail est réalisé
-- 2 points - Le travail est bien réalisé (sans la nécessité d'être parfait)
-
-Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
-
-![bg right:40%][illustration-grilles-devaluation]
-
-### Grille d'évaluation des présentations
-
-- 8 critères
-- Basés, entre autres, sur :
-  - La qualité de la présentation
-  - La qualité de l'argumentation
-  - La qualité des réponses aux questions
-- [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
-
-![bg right:40%][illustration-grilles-devaluation]
-
-### Grille d'évaluation du rapport final
-
-- 16 critères
-- Basés, entre autres, sur :
-  - La qualité de la rédaction
-  - La qualité du contenu
-- 12 pages maximum (sans compter les images, tableaux, annexes, etc.)
-- [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-du-rapport-final)
-
-![bg right:40%][illustration-grilles-devaluation]
-
-### Grille d'évaluation du produit final
-
-- 8 critères
-- Basés, entre autres, sur :
-  - La qualité de la problématique et de sa solution
-  - La qualité de la réalisation et de l'expérience utilisateur
-- [Détails de la grille d'évaluation](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-du-produit-final)
+- [Présentation du pitch](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/02-projet-libre#grille-d%C3%A9valuation).
+- [Présentation finale](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/02-projet-libre#grille-d%C3%A9valuation-1).
+- [Rapport final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/02-projet-libre#grille-d%C3%A9valuation-2).
+- [Produit final](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/02-projet-libre#grille-d%C3%A9valuation-3).
+- [Suivi et application de la méthodologie](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/02-projet-libre#grille-d%C3%A9valuation-4).
 
 ![bg right:40%][illustration-grilles-devaluation]
 
 ## Comment travailler en équipe de façon efficace
 
-- Il est rare qu'un projet soit réalisé par une seule personne
-- Savoir comment travailler en équipe de façon efficace
-- Principes de la gouvernance partagée et horizontale
+- Il est rare qu'un projet soit réalisé par une seule personne.
+- Savoir comment travailler en équipe de façon efficace.
+- Principes de la gouvernance partagée et horizontale.
 
 ![bg right:40%][illustration-comment-travailler-en-equipe-de-facon-efficace]
 
 ### Les outils à utiliser
 
-- Préférez les individus et les interactions aux processus et aux outils
-- Le meilleur des outils ne remplacera jamais une bonne communication
-- Git workflow
-- Minimisez le nombre d'outils utilisés
+- Préférez les individus et les interactions aux processus et aux outils.
+- Le meilleur des outils ne remplacera jamais une bonne communication.
+- Git workflow.
+- Minimisez le nombre d'outils utilisés.
 
 ![bg right:40%][illustration-les-outils-a-utiliser]
 
 ### Votre équipe
 
-- Faire connaissance
-- Définir les compétences, limites et besoins de chaque personne
-- Les rôles peuvent évoluer au fil du projet
-- Daily et weekly
+- Faire connaissance.
+- Définir les compétences, limites et besoins de chaque personne.
+- Les rôles peuvent évoluer au fil du projet.
+- Daily et weekly.
 
 ![bg right:40%][illustration-votre-equipe]
 
 ### Rôles
 
 - Importance de bien définir les choses et les rôles :
-  - Point de contact
-  - Décideur
-  - Scribe
-  - Facilitateur
-  - Développeur
+  - Point de contact.
+  - Décideur.euse.
+  - Scribe.
+  - Facilitateur.euse.
+  - Développeur.euse.
   - Etc.
 
 ![bg right:40%][illustration-roles]
@@ -166,53 +170,55 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 ### Séances
 
 - Quand est-ce qu'on travaille ?
-- Gestion par consentement
-- Tour de table
-- L'importance des rôles
+- Gestion par consentement.
+- Tour de table.
+- L'importance des rôles.
 
 ![bg right:40%][illustration-seances]
 
 ## Différences entre un wireframe, un mockup, un prototype et un minimum viable product (MVP)
 
-- **Wireframe** : définir la structure et la navigation
-- **Mockup** : visualiser l'apparence finale
-- **Prototype** : tester les interactions et l'ergonomie
-- **MVP** : lancer une première version utilisable sur le marché
+- **Wireframe** : définir la structure et la navigation.
+- **Mockup** : visualiser l'apparence finale.
+- **Prototype** : tester les interactions et l'ergonomie.
+- **MVP** : lancer une première version utilisable sur le marché.
 
 ![bg right:20%][illustration-differences-entre-un-wireframe-un-mockup-un-prototype-et-un-minimum-viable-product-mvp]
 
 ### Wireframe
 
-- Esquisse simplifiée du produit
-- Définit la structure et la navigation
-- Peu coûteux et rapide à réaliser
-- Papier-crayon
+- Esquisse simplifiée du produit.
+- Définit la structure et la navigation.
+- Peu coûteux et rapide à réaliser.
+- Papier-crayon.
 
 ![bg right:40%][illustration-wireframe]
 
 ### Mockup
 
-- Version plus détaillée du wireframe
-- Intègre l'aspect visuel du produit
-- De statique à dynamique
+- Version plus détaillée du wireframe.
+- Intègre l'aspect visuel du produit.
+- De statique à dynamique.
 - Utilisé pour obtenir des retours sur l'identité visuelle et l'expérience
-  utilisateur
+  utilisateur.
 
 ![bg right:40%][illustration-mockup]
 
 ### Prototype
 
-- Simule l'interaction utilisateur
-- Permet de tester l'ergonomie et l'expérience
-- **N'est pas conçu pour durer et ne devrait pas être utilisé en production**
+- Simule l'interaction utilisateur.
+- Permet de tester l'ergonomie et l'expérience.
+- Permet d'obtenir des retours utilisateurs.
+- **N'est pas conçu pour durer et ne devrait pas être utilisé en production.**
 
 ![bg right:40%][illustration-prototype]
 
 ### Minimum viable product (MVP)
 
-- Produit minimal simple
-- Permet d'obtenir des retours utilisateurs
-- Résoudre un problème clé avec le minimum d'effort
+- Produit minimal **simple mais** entièrement **fonctionnel**.
+- **Résout un problème spécifique**.
+- **Les personnes sont prêtes à payer ce produit**.
+- **Obtenu avec le minimum d'effort (financier et temps)**.
 
 ![bg right:40%][illustration-minimum-viable-product-mvp]
 
@@ -222,9 +228,25 @@ Note maximale : (nombre de points obtenus / nombre de points maximum) × 5 + 1
 
 Est-ce que vous avez des questions ?
 
+## Retour sur l'application de la méthodologie
+
+Où que vous en soyez dans votre projet...
+
+Peu importe le temps que vous avez passé à travailler dessus...
+
+Quelle que soit la qualité de votre produit final...
+
+**Vous oubliez absolument tout ce que vous pensez savoir et vous repartez à
+partir de zéro.**
+
+Le but est d'enlever tous les biais, les hypothèses, les idées préconçues pour
+obtenir le meilleur produit pour votre public cible.
+
 ## Répartition des séances
 
-### Séance 1 - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (1/3)
+<!-- _class: lead -->
+
+### Séance 1 - Constituer les groupes et identifier une problématique
 
 <!-- _class: lead -->
 
@@ -279,9 +301,11 @@ il est recommandé pour la semaine suivante de :
 - Explorer d'autres problématiques/d'autres intérêts qui pourraient être
   intéressants pour le projet
 
-### Séance 2 - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (2/3)
+<!--
 
-<!-- _class: lead -->
+### Séance 2 - Identifier et interroger un public cible
+
+<!-- _class: lead --
 
 #### Objectifs (1/2)
 
@@ -322,9 +346,9 @@ TODO?
 
 TODO?
 
-### Séance 3 - Constitution des groupes, identification d'une idée, de son public cible et de la plus-value d'un service (3/3)
+### Séance 3 - Analyser les résultats des questionnaires
 
-<!-- _class: lead -->
+<!-- _class: lead --
 
 #### Objectifs (1/2)
 
@@ -370,9 +394,16 @@ il est recommandé pour la semaine suivante de :
   votre public cible
 - Interviewer ces personnes pour récolter des retours
 
-### Séance 4 - Présentations du pitch
+### Séance 4 - CRUNCH : pas de séance
 
-<!-- _class: lead -->
+<!-- _class: lead --
+
+_En raison du CRUNCH, il n'y a pas de séances de cours/projet._
+
+TODO ?
+### Séance 5 - Présentations du pitch
+
+<!-- _class: lead --
 
 #### Objectifs
 
@@ -409,14 +440,9 @@ il est recommandé pour la semaine suivante de :
   votre public cible
 - Interviewer ces personnes pour récolter des retours
 
-### Séance 5 - CRUNCH : pas de séance
-
-_En raison du CRUNCH, il n'y a pas de séances de cours/projet durant la
-semaine 4._
-
 ### Séance 6 - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)
 
-<!-- _class: lead -->
+<!-- _class: lead --
 
 #### Objectifs (1/3)
 
@@ -469,7 +495,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Séance 7 - Réalisation et hébergement de la landing page avec formulaire de contact (2/2)
 
-<!-- _class: lead -->
+<!-- _class: lead --
 
 #### Objectifs (1/2)
 
@@ -519,7 +545,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Séance 8 - Présentation sur la prospection
 
-<!-- _class: lead -->
+<!-- _class: lead --
 
 #### Objectifs
 
@@ -562,7 +588,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Séance 9 - Réalisation du service et tests utilisateurs (1/6)
 
-<!-- _class: lead -->
+<!-- _class: lead --
 
 #### Objectifs (1/3)
 
@@ -616,7 +642,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Séance 10 - Réalisation du service et tests utilisateurs (2/6)
 
-<!-- _class: lead -->
+<!-- _class: lead --
 
 #### Objectifs (1/2)
 
@@ -651,7 +677,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Séance 11 - Réalisation du service et tests utilisateurs (3/6)
 
-<!-- _class: lead -->
+<!-- _class: lead --
 
 #### Objectifs (1/2)
 
@@ -691,7 +717,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Séance 12 - Réalisation du service et tests utilisateurs (4/6)
 
-<!-- _class: lead -->
+<!-- _class: lead --
 
 #### Objectifs (1/2)
 
@@ -731,7 +757,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Séance 13 - Réalisation du service et tests utilisateurs (5/6)
 
-<!-- _class: lead -->
+<!-- _class: lead --
 
 #### Objectifs
 
@@ -763,7 +789,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Séance 14 - Réalisation du service et tests utilisateurs (6/6)
 
-<!-- _class: lead -->
+<!-- _class: lead --
 
 #### Objectifs
 
@@ -794,7 +820,7 @@ il est recommandé pour la semaine suivante de :
 
 ### Séance 15 - Rendu du rapport
 
-<!-- _class: lead -->
+<!-- _class: lead --
 
 #### Objectifs
 
@@ -814,7 +840,7 @@ TODO
 
 ### Séance 16 - Présentations et rendu du projet
 
-<!-- _class: lead -->
+<!-- _class: lead --
 
 #### Objectifs
 
@@ -850,6 +876,8 @@ prochain groupe se prépare.
 | 8     | Graf Calvin, Sottile Alan              | 11:30 - 11:40 |
 | 9     | Roland Samuel                          | 11:45 - 11:55 |
 
+-->
+
 ## Sources (1/3)
 
 - [Illustration principale][illustration-principale] par
@@ -873,12 +901,15 @@ prochain groupe se prépare.
 - [Illustration][illustration-produit-final] par
   [Rachit Tank](https://unsplash.com/@rachitank) sur
   [Unsplash](https://unsplash.com/photos/round-white-watch-with-white-band-2cFZ_FB08UM)
-- [Illustration][illustration-grilles-devaluation] par
-  [Lance Anderson](https://unsplash.com/@lanceanderson) sur
-  [Unsplash](https://unsplash.com/photos/white-and-black-architectural-building-diagram-oSZzkAqIRIM)
+- [Illustration][illustration-suivi-et-application-de-la-methodologie] par
+  [Armand Khoury](https://unsplash.com/@armand_khoury) sur
+  [Unsplash](https://unsplash.com/photos/boy-on-ladder-under-blue-sky-Ba6IlmAzl-k)
 
 ## Sources (2/3)
 
+- [Illustration][illustration-grilles-devaluation] par
+  [Lance Anderson](https://unsplash.com/@lanceanderson) sur
+  [Unsplash](https://unsplash.com/photos/white-and-black-architectural-building-diagram-oSZzkAqIRIM)
 - [Illustration][illustration-comment-travailler-en-equipe-de-facon-efficace]
   par [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
   [Unsplash](https://unsplash.com/photos/man-standing-behind-flat-screen-computer-monitor-bzqU01v-G54)
@@ -900,12 +931,12 @@ prochain groupe se prépare.
 - [Illustration][illustration-wireframe] par
   [Faizur Rehman](https://unsplash.com/@fazurrehman) sur
   [Unsplash](https://unsplash.com/photos/person-holding-black-ipad-with-green-plant-dJpupM4LiS4)
-- [Illustration][illustration-mockup] par
-  [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki) sur
-  [Unsplash](https://unsplash.com/photos/a-pink-and-purple-phone-sitting-on-top-of-a-purple-and-pink-background-Z-vPf7KBuT8)
 
 ## Sources (3/3)
 
+- [Illustration][illustration-mockup] par
+  [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki) sur
+  [Unsplash](https://unsplash.com/photos/a-pink-and-purple-phone-sitting-on-top-of-a-purple-and-pink-background-Z-vPf7KBuT8)
 - [Illustration][illustration-prototype] par
   [Mark König](https://unsplash.com/@markkoenig) sur
   [Unsplash](https://unsplash.com/photos/blue-and-white-wooden-house-on-green-grass-field-during-daytime-1UMrSoItdDE)
@@ -939,6 +970,8 @@ prochain groupe se prépare.
 	https://images.unsplash.com/photo-1532153955177-f59af40d6472?fit=crop&h=720
 [illustration-produit-final]:
 	https://images.unsplash.com/photo-1523275335684-37898b6baf30?fit=crop&h=720
+[illustration-suivi-et-application-de-la-methodologie]:
+	https://images.unsplash.com/photo-1570050785780-3c79854c7813?fit=crop&h=720
 [illustration-grilles-devaluation]:
 	https://images.unsplash.com/photo-1487603527224-a650979f288e?fit=crop&h=720
 [illustration-comment-travailler-en-equipe-de-facon-efficace]:

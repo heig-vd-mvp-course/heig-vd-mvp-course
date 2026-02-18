@@ -42,8 +42,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Présentation magistrale
-> - Discussions collectives
+> - Présentation magistrale.
+> - Discussions collectives.
 >
 > **Méthodes d'évaluation**
 >
@@ -51,12 +51,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à répondre avec justesse
-> - Capacité à argumenter
+> - Capacité à répondre avec justesse.
+> - Capacité à argumenter.
 >
 > Les retours se font de la manière suivante :
 >
-> - Corrigé du quiz
+> - Corrigé du quiz.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -472,12 +472,6 @@ il est recommandé pour la semaine suivante de :
 
 - Relire le support de cours si nécessaire
 
-## Ce que vous ferez ensuite
-
-La séance de projet sera consacrée à la mise en pratique des concepts abordés
-dans ce support de cours. Vous serez amené à trouver des idées originales qui
-répondent à un besoin dans un secteur de marché donné.
-
 [^agricole]:
     Le secteur économique de l'agriculture,
     [.admin.ch](https://www.eda.admin.ch/aboutswitzerland/fr/home/wirtschaft/taetigkeitsgebiete/landwirtschaft.html),
@@ -495,6 +489,7 @@ répondent à un besoin dans un secteur de marché donné.
     Gebert Rüf Stiftung, [grstiftung.ch](https://www.grstiftung.ch/fr/)
 
 [^genilem]: GENILEM, [genilem.com](https://genilem.ch/)
+
 [^hackers-news]:
     Hacker News, [news.ycombinator.com](https://news.ycombinator.com/), 20
     février 2025
