@@ -406,13 +406,14 @@ besoins réels.
 > Observez votre environnement immédiat (salle de cours, campus, trajet
 > quotidien) :
 >
-> 1. **Observez** : Notez 3 comportements ou frustrations que vous observez chez
->    les personnes autour de vous
-> 2. **Analysez** : Pour chacun, identifiez :
->    - Le contexte dans lequel cela se produit
->    - La problématique générale sous-jacente
->    - Le besoin spécifique exprimé
-> 3. **Proposez** : Imaginez 2 solutions différentes par besoin identifié
+> 1. **Observez** : notez trois comportements ou frustrations que vous observez
+>    chez les personnes autour de vous
+> 2. **Analysez** : pour chacun, identifiez :
+>    - Le contexte dans lequel cela se produit.
+>    - La problématique générale sous-jacente.
+>    - Le besoin spécifique exprimé.
+>
+> **Pour le moment, la solution ne nous intéresse pas.**
 >
 > **Exemple concret :**
 >
@@ -423,21 +424,15 @@ besoins réels.
 > - **Problématique** : comment travailler efficacement sur le campus entre deux
 >   cours ?
 > - **Besoin** : accès facile à l'électricité pour recharger ses appareils.
-> - **Solutions possibles** :
->   - Installer plus de prises murales dans les espaces communs.
->   - Mettre à disposition des batteries portables en location.
->   - Créer des espaces de travail dédiés avec prises garanties.
->   - Application mobile indiquant les prises disponibles en temps réel.
 
 ## Tableau récapitulatif des niveaux d'analyse
 
-| Niveau            | Définition             | Exemple : Mobilité urbaine                      | Exemple : Productivité                      |
-| ----------------- | ---------------------- | ----------------------------------------------- | ------------------------------------------- |
-| **Contexte**      | Environnement global   | Ville dense, pollution, trafic                  | Vie moderne exigeante, fatigue              |
-| **Problématique** | Question large         | Comment améliorer la mobilité urbaine ?         | Comment être plus productif ?               |
-| **Besoin**        | Problème spécifique    | Se déplacer rapidement et écologiquement        | Avoir de l'énergie                          |
-| **Solution**      | Réponse possible       | Covoiturage, vélo électrique, transport public  | Café, sieste, sport, meilleure alimentation |
-| **Idée**          | Mise en œuvre concrète | Application de covoiturage avec trajet optimisé | Abonnement café livré au bureau             |
+| Niveau            | Définition           | Exemple                        |
+| ----------------- | -------------------- | ------------------------------ |
+| **Contexte**      | Environnement global | Vie moderne exigeante, fatigue |
+| **Problématique** | Question large       | Comment être plus productif ?  |
+| **Besoin**        | Problème spécifique  | Avoir de l'énergie             |
+| **Solution**      | Réponse possible     | -                              |
 
 ## Conclusion
 

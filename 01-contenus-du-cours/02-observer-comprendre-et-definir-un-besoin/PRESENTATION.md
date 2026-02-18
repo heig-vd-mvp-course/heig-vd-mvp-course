@@ -62,6 +62,183 @@ document._
 
 ![bg right:40%][illustration-objectifs]
 
+## Décrire ce qu'est un contexte
+
+Le contexte est l'ensemble des éléments qui entourent une idée, un projet ou une
+initiative :
+
+- Social : habitudes, valeurs culturelles.
+- Économique : marché, pouvoir d'achat.
+- Politique : lois, réglementations.
+- Technologique : avancées techniques.
+- Géographique : ressources, climat, densité.
+
+Essentiel à prendre en compte (contraintes/opportunités).
+
+## Décrire ce qu'est une problématique
+
+Question large qui se pose dans un contexte donné.
+
+**Exemples :**
+
+- Générale : "Comment améliorer la mobilité urbaine ?"
+- Spécifique : "Comment réduire les embouteillages à Lausanne ?"
+
+Point de départ pour identifier des besoins spécifiques.
+
+## Définir un besoin (1/2)
+
+Écart entre une situation actuelle insatisfaisante et une situation désirée. Il
+peut s'exprimer comme :
+
+- Problème : "Je perds du temps dans les transports".
+- Désir : "J'aimerais une meilleure qualité de vie".
+- Opportunité : "Je pourrais économiser de l'argent".
+
+Un besoin est toujours rattaché à une problématique dans un contexte donné.
+Souvent latents, ils doivent être révélés par observation et empathie.
+
+## Définir un besoin (2/2)
+
+**Piège fréquent :** Confondre "j'ai besoin de X" (solution) avec le vrai
+besoin.
+
+**Solution :** Posez "Pourquoi ?" plusieurs fois pour remonter au besoin réel.
+
+**Il ne faut pas essayer de créer un besoin artificiel.**
+
+**Exemple :** "J'ai besoin d'une lampe de poche" ➡️ Pourquoi ? ➡️ "Pour avoir de
+la lumière" ➡️ Pourquoi ? ➡️ "Parce qu'il y a des pannes de courant" ➡️ Besoin
+réel : stabilité électrique.
+
+## Différence entre problématique et besoin
+
+- **Problématique :** question large et générale.
+- **Besoin :** problème spécifique et concret.
+- **Exemple :**
+  - Problématique : "Comment améliorer la mobilité urbaine ?".
+  - Besoin : "Avoir un moyen de transport rapide, économique et écologique".
+
+La nuance est parfois subtile, mais elle est essentielle pour trouver des
+solutions pertinentes.
+
+## Différence entre besoin et solution
+
+- **Besoin :** problème ou opportunité à résoudre.
+- **Solution :** réponse au besoin.
+
+Se concentrer sur le besoin d'abord ➡️ solutions plus pertinentes et innovantes.
+
+**Il est commun de se précipiter sur une solution sans comprendre le vrai
+besoin.**
+
+**Sans considérer le besoin, on risque de créer des solutions inefficaces ou
+inutiles.**
+
+### Exemple 1 - La lampe de poche
+
+<!-- _class: lead -->
+
+**"J'ai besoin d'une lampe de poche"**
+
+#### Récapitulatif de l'exemple
+
+- **Contexte** : zone géographique avec pannes de courant fréquentes.
+- **Problématique** : comment voir dans l'obscurité ?
+- **Besoin réel** : avoir de la lumière dans l'obscurité.
+- **Solutions possibles** : lampe de poche, application mobile, lampe solaire,
+  amélioration du réseau électrique.
+- **Fausse piste** : "j'ai besoin d'une lampe de poche" (c'est une solution, pas
+  un besoin).
+
+### Exemple 2 - Le café
+
+<!-- _class: lead -->
+
+**"J'ai besoin d'un café"**
+
+#### Récapitulatif de l'exemple
+
+- **Contexte** : vie moderne exigeante, fatigue quotidienne.
+- **Problématique** : comment être plus productif ?
+- **Besoin réel** : avoir de l'énergie pour être productif.
+- **Solutions possibles** : café, sieste, promenade, alimentation équilibrée,
+  meilleure hygiène de sommeil.
+- **Fausse piste** : "j'ai besoin d'un café" (c'est une solution, pas un
+  besoin).
+
+### Exemple 3 - Gagner du temps
+
+<!-- _class: lead -->
+
+**"J'ai besoin de gagner du temps"**
+
+#### Récapitulatif de l'exemple
+
+- **Contexte** : vie quotidienne surchargée (travail, famille, obligations).
+- **Problématique** : comment avoir plus de temps pour faire ce qui est
+  important pour nous ?
+- **Besoin réel** : mieux gérer les tâches courantes.
+- **Solutions possibles** : calendrier, délégation, automatisation,
+  priorisation.
+- **Fausse piste** : "j'ai besoin de gagner du temps" (c'est un constat, pas un
+  besoin).
+
+## Différence entre idée et besoin
+
+- **Idée :** pensée, suggestion ou hypothèse de solution.
+- **Besoin :** problème ou opportunité à résoudre.
+- **Exemple :**
+  - Idée : "App pour trouver des restaurants".
+  - Besoin : "Trouver des endroits où manger facilement".
+
+**Souvent, les idées sont basées sur des solutions préconçues plutôt que sur une
+compréhension profonde du besoin.**
+
+## Observer son environnement pour identifier un besoin
+
+L'observation de son environnement permet d'identifier des besoins en observant
+les comportements, les habitudes et les frustrations des gens ➡️ opportunités
+d'innovation.
+
+**Exemples :**
+
+- Café : difficulté à trouver une prise.
+- Supermarché : difficulté à trouver produits.
+
+### Exercice pratique d'observation
+
+> Observez votre environnement immédiat :
+>
+> 1. **Observez** : notez trois comportements ou frustrations que vous observez
+>    chez les personnes autour de vous
+> 2. **Analysez** : pour chacun, identifiez :
+>    - Le contexte dans lequel cela se produit.
+>    - La problématique générale sous-jacente.
+>    - Le besoin spécifique exprimé.
+
+**Pour le moment, la solution ne nous intéresse pas.**
+
+## Tableau récapitulatif des niveaux d'analyse
+
+| Niveau            | Définition           | Exemple                        |
+| ----------------- | -------------------- | ------------------------------ |
+| **Contexte**      | Environnement global | Vie moderne exigeante, fatigue |
+| **Problématique** | Question large       | Comment être plus productif ?  |
+| **Besoin**        | Problème spécifique  | Avoir de l'énergie             |
+| **Solution**      | Réponse possible     | -                              |
+
+## Conclusion
+
+**Retenez :**
+
+- Contexte ➡️ Problématique ➡️ Besoin (➡️ Solution).
+- Une problématique = plusieurs besoins.
+- Un besoin = plusieurs solutions.
+- Observer pour identifier des besoins réels.
+
+**Se concentrer sur le besoin avant la solution, ne pas créer de faux besoins.**
+
 ## Questions
 
 <!-- _class: lead -->
@@ -75,47 +252,17 @@ Est-ce que vous avez des questions ?
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 
-## Sources (1/2)
+## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) sur
-  [Unsplash](https://unsplash.com/photos/blue-and-orange-abstract-painting-yn97LNy0bao)
+  [Annie Spratt](https://unsplash.com/@anniespratt) sur
+  [Unsplash](https://unsplash.com/photos/white-wall-tiles-in-close-up-photography-OZ2BNYfF_xM)
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
-- [Illustration][illustration-methodologies-generer-des-idees-1] par
-  [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) sur
-  [Unsplash](https://unsplash.com/photos/paper-on-wall-m2TU2gfqSeE)
-- [Illustration][illustration-methodologies-generer-des-idees-2] par
-  [Sunguk Kim](https://unsplash.com/@sunyu) sur
-  [Unsplash](https://unsplash.com/photos/happy-birthday-to-you-greeting-card-o9RLeUVowG8)
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
-- [Illustration][illustration-secteur-de-marche] par
-  [Masum Ali](https://unsplash.com/@masum_ali_photography) sur
-  [Unsplash](https://unsplash.com/photos/refill-of-liquid-on-tubes-pwcKF7L4-no)
-- [Illustration][illustration-secteur-de-marche-pharmaceutique] par
-  [Louis Reed](https://unsplash.com/@_louisreed) sur
-  [Unsplash](https://unsplash.com/photos/refill-of-liquid-on-tubes-pwcKF7L4-no)
-- [Illustration][illustration-secteur-de-marche-agricole] par
-  [Olivier Mary](https://unsplash.com/@oliviermary) sur
-  [Unsplash](https://unsplash.com/photos/orange-pumpkin-on-green-grass-4JHV1dgjayI)
-
-## Sources (2/2)
-
-- [Illustration][illustration-identifier-un-besoin] par
-  [youssef naddam](https://unsplash.com/@youssefnaddam) sur
-  [Unsplash](https://unsplash.com/photos/two-persons-arms-iJ2IG8ckCpA)
-- [Illustration][illustration-identifier-marche-prometteur] par
-  [Dmitry Topkin](https://unsplash.com/@dtopkin1) sur
-  [Unsplash](https://unsplash.com/photos/woman-in-black-jacket-wearing-yellow-knit-cap-xdx5hIHGt4A)
-- [Illustration][illustration-identifier-idee-pertinente] par
-  [Alejandro Bianchi](https://unsplash.com/@ale_s_bianchi) sur
-  [Unsplash](https://unsplash.com/photos/light-bulb-illustration-_kdTyfnUFAc)
-- [Illustration][illustration-contexte] par
-  [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) sur
-  [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-white-paper-sheet-mounted-on-cork-board-ZT9gjcJog6U)
 
 <!-- URLs -->
 
@@ -127,26 +274,8 @@ Est-ce que vous avez des questions ?
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1553949345-eb786bb3f7ba?fit=crop&h=720
+	https://images.unsplash.com/photo-1612538498488-226257115cc4?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
-[illustration-methodologies-generer-des-idees-1]:
-	https://images.unsplash.com/photo-1552664688-cf412ec27db2?fit=crop&h=720
-[illustration-methodologies-generer-des-idees-2]:
-	https://images.unsplash.com/photo-1623116135497-a90bdc0ddca9?fit=crop&h=720
-[illustration-secteur-de-marche]:
-	https://images.unsplash.com/photo-1594700062947-2a1bc1fd19b6?fit=crop&h=720
-[illustration-secteur-de-marche-pharmaceutique]:
-	https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?fit=crop&h=720
-[illustration-secteur-de-marche-agricole]:
-	https://images.unsplash.com/photo-1600020888788-94adc279a4a7?fit=crop&h=720
-[illustration-identifier-un-besoin]:
-	https://images.unsplash.com/photo-1541976844346-f18aeac57b06?fit=crop&h=720
-[illustration-identifier-marche-prometteur]:
-	https://images.unsplash.com/photo-1581306144940-6fdc110b7b71?fit=crop&h=720
-[illustration-identifier-idee-pertinente]:
-	https://images.unsplash.com/photo-1529310399831-ed472b81d589?fit=crop&h=720
-[illustration-contexte]:
-	https://images.unsplash.com/photo-1577401159468-3bbc7ee440b5?fit=crop&h=720
