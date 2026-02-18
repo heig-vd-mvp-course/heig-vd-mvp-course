@@ -9,12 +9,12 @@ description:
   cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/04-recevoir-des-feedbacks-constructifs-et-pivoter/presentation.html
 header:
-  "[**Recevoir des feedbacks constructifs et pivoter -
-  Quiz**][contenu-complet-sur-github]"
+  '[**Recevoir des feedbacks constructifs et pivoter -
+  Quiz**][contenu-complet-sur-github]'
 footer:
-  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]"
+  BY-SA 4.0][license]'
 headingDivider: 6
 ---
 
@@ -36,13 +36,15 @@ adresse][contenu-complet-sur-github].
 
 ![bg opacity:0.1][illustration-principale]
 
-## Plus de détails dans le support de cours
+## Plus de détails sur GitHub
 
 <!-- _class: lead -->
 
-_Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
-cours. Pour plus de détails, consultez le [support de
-cours][contenu-complet-sur-github]._
+_Cette présentation est un résumé du contenu complet disponible sur GitHub._
+
+_Pour plus de détails, consulter le [contenu complet sur
+GitHub][contenu-complet-sur-github] ou en cliquant sur l'en-tête de ce
+document._
 
 ## Question 1 - Donnée
 
@@ -161,6 +163,6 @@ Est-ce que vous avez des questions ?
 
 <!-- Illustrations -->
 
-[illustration-principale]: ./_images/illustration-principale.jpg
+[illustration-principale]: ./images/illustration-principale.jpg
 [illustration-mind-blown]:
 	https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx0NTJldGx1aGJzdXo5NTg5aXR5dHZoejY2c3J2b2xvbjFvYzlnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/75ZaxapnyMp2w/giphy.gif

@@ -40,8 +40,9 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Maquettes / mockup](#maquettes--mockup)
   - [Prototype](#prototype)
   - [Minimum viable product (MVP)](#minimum-viable-product-mvp)
+- [Retour sur l'application de la méthodologie](#retour-sur-lapplication-de-la-méthodologie)
 - [Répartition des séances / jalons](#répartition-des-séances--jalons)
-  - [Séance 1 - Constituer les groupes et identifier une problématique](#séance-1---constituer-les-groupes-et-identifier-une-problématique)
+  - [Séance 1 - Constituer les groupes et identifier des besoins au sein de la problématique](#séance-1---constituer-les-groupes-et-identifier-un-besoin)
 
 ## Objectifs
 
@@ -132,10 +133,10 @@ La grille d'évaluation de la présentation du pitch est la suivante :
 | --: | :--------------------------------------------------------------------------------- |
 |   1 | L'élocution est claire et compréhensible                                           |
 |   2 | Le fil conducteur de la présentation est logique et fluide                         |
-|   3 | La problématique est clairement définie                                            |
+|   3 | La problématique et son besoin sont clairement définis                             |
 |   4 | Le public cible est clairement défini                                              |
 |   5 | La solution proposée est clairement définie                                        |
-|   6 | Le lien entre la problématique, le public cible et la solution est cohérent        |
+|   6 | Le lien entre le besoin, le public cible et la solution est cohérent               |
 |   7 | Des données et des recherches pertinentes soutiennent les propos tenus             |
 |   8 | Un message convaincant est transmis pour identifier la suite du projet             |
 |   9 | Le temps imparti est respecté                                                      |
@@ -200,10 +201,10 @@ La grille d'évaluation de la présentation finale est la suivante :
 | --: | :--------------------------------------------------------------------------------- |
 |   1 | L'élocution est claire et compréhensible                                           |
 |   2 | Le fil conducteur de la présentation est logique et fluide                         |
-|   3 | La problématique est clairement définie                                            |
+|   3 | La problématique et son besoin sont clairement définis                             |
 |   4 | Le public cible est clairement défini                                              |
 |   5 | La solution proposée est clairement définie                                        |
-|   6 | Le lien entre la problématique, le public cible et la solution est cohérent        |
+|   6 | Le lien entre le besoin, le public cible et la solution est cohérent               |
 |   7 | Des données et des recherches pertinentes soutiennent les propos tenus             |
 |   8 | Les fonctionnalités clés du service/prototype/MVP sont présentées                  |
 |   9 | Les choix technologiques sont expliqués et justifiés                               |
@@ -295,10 +296,10 @@ La grille d'évaluation du rapport final est la suivante :
 
 |   # | Critère                                                                                           |
 | --: | :------------------------------------------------------------------------------------------------ |
-|   1 | Une introduction permet de comprendre clairement la problématique                                 |
+|   1 | Une introduction permet de comprendre clairement la problématique et le besoin du projet          |
 |   2 | Une introduction permet de comprendre clairement le public cible                                  |
 |   3 | Une introduction permet de comprendre clairement la solution                                      |
-|   4 | Le lien entre la problématique, le public cible et la solution est cohérent                       |
+|   4 | Le lien entre le besoin, le public cible et la solution est cohérent                              |
 |   5 | Une section présente l'équipe avec les rôles et les contributions de chaque personne              |
 |   6 | Une section présente les questions et hypothèses à valider avec le public cible                   |
 |   7 | Une section présente l'analyse des entretiens effectués avec le public cible                      |
@@ -342,7 +343,7 @@ La grille d'évaluation du rapport final est la suivante :
 Le produit final sera principalement noté sur les éléments suivants :
 
 - La qualité de l'application.
-- La qualité de la présentation de la problématique et de la solution.
+- La qualité de la présentation du besoin et de la solution.
 - La qualité de la navigation.
 - La qualité du service (fonctionnalités, expérience utilisateur et tests
   utilisateurs).
@@ -373,7 +374,7 @@ La grille d'évaluation du produit final est la suivante :
 |   # | Critère                                                                                |
 | --: | :------------------------------------------------------------------------------------- |
 |   1 | L'application est déployée et accessible sur Internet                                  |
-|   2 | La page d'accueil permet de comprendre la problématique et la solution proposée        |
+|   2 | La page d'accueil permet de comprendre le besoin et la solution proposée               |
 |   3 | La navigation est intuitive et permet de comprendre le fonctionnement de l'application |
 |   4 | Le service est fonctionnel et permet de répondre à la problématique                    |
 |   5 | Un formulaire de contact est présent et fonctionnel                                    |
@@ -447,14 +448,14 @@ La grille d'évaluation du rapport final est la suivante :
 
 |   # | Critère                                                                                                                                                                        |
 | --: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | Une recherche d'au moins deux problématique a été effectuée                                                                                                                    |
+|   1 | Une recherche d'au moins deux besoins liés à la problématique a été effectuée                                                                                                  |
 |   2 | Une recherche d'au moins deux publics cible a été effectuée                                                                                                                    |
 |   3 | Des questions et des hypothèses pertinentes ont été formulées                                                                                                                  |
 |   4 | Des interviews ont été réalisées avec le public cible (au moins trois par membre de l'équipe durant le semestre et au moins une pour l'équipe après la première séance dédiée) |
 |   5 | Une analyse des entretiens effectués avec le public cible a été réalisée                                                                                                       |
 |   6 | Des conclusions pertinentes ont été tirées de l'analyse des entretiens                                                                                                         |
-|   7 | Une recherche d'au moins deux solutions pour répondre à la problématique du public cible basée sur les retours des entretiens a été effectuée                                  |
-|   8 | Le lien entre la problématique, le public cible et la solution est cohérent                                                                                                    |
+|   7 | Une recherche d'au moins deux solutions pour répondre au besoin du public cible basée sur les retours des entretiens a été effectuée                                           |
+|   8 | Le lien entre le besoin, le public cible et la solution est cohérent                                                                                                           |
 |   9 | Une analyse du marché avec les concurrents et les alternatives existantes a été réalisée                                                                                       |
 |  10 | Une recherche des choix et justifications technologiques pour la réalisation du MVP a été réalisée                                                                             |
 |  11 | Une étude des sources de revenus et du modèle économique envisagé a été réalisée                                                                                               |
@@ -714,16 +715,34 @@ des retours concrets :
 - Les personnes sont prêtes à payer pour utiliser un MVP afin de résoudre leur
   problème.
 
+## Retour sur l'application de la méthodologie
+
+Où que vous en soyez dans votre projet...
+
+Peu importe le temps que vous avez passé à travailler dessus...
+
+Quelle que soit la qualité de votre produit final...
+
+**Vous oubliez absolument tout ce que vous pensez savoir et vous repartez à
+partir de zéro.**
+
+Le but est d'enlever tous les biais, les hypothèses, les idées préconçues pour
+obtenir le meilleur produit pour votre public cible.
+
 ## Répartition des séances / jalons
 
 Chaque semaine, une séance pratique est dédiée au projet. Lors de ces séances,
 vous avez l'occasion de travailler sur votre projet, de poser des questions et
 de recevoir des retours.
 
+C'est lors de ces séances que nous allons suivre l'avancement de votre projet et
+évaluer l'application de la méthodologie liée à l'évaluation
+[Application de la méthodologie](#suivi-et-application-de-la-méthodologie).
+
 Les détails de chaque séance de cours et les ressources associées sont décrites
 ci-dessous.
 
-### Séance 1 - Constituer les groupes et identifier une problématique
+### Séance 1 - Constituer les groupes et identifier des besoins au sein de la problématique
 
 > [!TIP]
 >
@@ -748,9 +767,10 @@ ci-dessous.
 > - Faire connaissance.
 > - Constituer les groupes.
 > - Prendre connaissance des délivrables attendus.
+> - Définir les rôles de chaque personne.
 > - Organiser le travail en équipe sur le semestre.
-> - Identifier une problématique.
-> - Explorer d'autres problématiques.
+> - Identifier un besoin.
+> - Explorer d'autres besoins.
 > - Décrire le besoin auquel répond le projet libre.
 >
 > **Méthodes d'enseignement et d'apprentissage**
@@ -784,10 +804,10 @@ ci-dessous.
 > L'évaluation donne lieu à une note (0.05 point de bonus si réalisé - voir
 > section [Répartition des séances / jalons](#répartition-des-séances--jalons)).
 
-#### Introduction
+#### Objectifs
 
-Bienvenue dans la première séance pratique du cours _Lancez votre minimum viable
-product (MVP)_ !
+Bienvenue dans la première séance pratique du cours _"Lancez votre minimum
+viable product (MVP)"_ !
 
 Cette séance a pour but de lancer le projet sur lequel vous allez pouvoir
 travailler tout au long du cours. Nous allons commencer par vous laisser du
@@ -804,10 +824,10 @@ De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
 - Présenter les problématiques existantes.
 - Constituer les groupes.
 - Prendre connaissance des délivrables attendus.
+- Définir les rôles de chaque personne.
 - Organiser le travail en équipe sur le semestre.
-- Identifier une problématique.
-- Explorer d'autres problématiques.
-- Décrire le besoin auquel répond le projet libre.
+- Identifier et décrire au moins deux besoins au sein de la problématique.
+- Explorer d'autres besoins.
 
 Durant ces séances pratiques, nous vous invitons à être autonome et à travailler
 en équipe ou de manière individuelle pour avancer sur votre projet selon les
@@ -816,15 +836,15 @@ dans votre projet.
 
 #### Déroulement
 
-Nous vous invitons maintenant à vous présenter et votre idée de projet si vous
-en avez une. N'hésitez pas à poser des questions aux autres personnes pour mieux
-comprendre leur(s) idée(s).
-
-Ensuite, nous vous invitons à former des groupes avec les personnes/projets qui
-vont inspirés ou à réfléchir à une idée personnelle.
-
-Enfin, nous vous invitons à prendre connaissance de la structure et critères du
-rapport final et explorer/approfondir vos problématiques.
+- Présentez-vous ainsi que la problématique de votre projet si vous en avez une.
+  N'hésitez pas à poser des questions aux autres personnes pour mieux comprendre
+  leur projet.
+- Former les groupes avec les personnes/projets qui vont inspirés ou à
+  réfléchissez à un projet personnel.
+- Prendre connaissance des délivrables attendus.
+- Réfléchir à au moins deux besoins au sein de votre problématique et les
+  décrire.
+- Explorer d'autres besoins au sein de votre problématique.
 
 #### Conclusion
 
@@ -833,23 +853,20 @@ problématiques et commencer à réfléchir à celles qui vous intéressent. Vou
 également pris connaissance des délivrables attendus et de la méthodologie à
 suivre pour réaliser votre projet.
 
-N'oubliez pas que le choix de la problématique doit être mûrement réfléchi :
-prenez le temps d'explorer plusieurs pistes avant de vous engager. Les semaines
-à venir vous permettront d'affiner votre compréhension du public cible.
+N'oubliez pas que le choix de la problématique et des besoins associés doit être
+mûrement réfléchi : prenez le temps d'explorer plusieurs pistes avant de vous
+engager. Les semaines à venir vous permettront d'affiner votre compréhension du
+public cible.
 
-#### À faire pour la prochaine séance
+#### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine séance de :
 
-- Explorer d'autres problématiques/d'autres intérêts qui pourraient être
-  intéressants pour le projet libre.
+- Explorer d'autres problématiques/d'autres intérêts et leurs besoins associés.
 - Identifier une problématique.
 - Explorer d'autres problématiques.
-
-Vous présenterez le choix de la problématique lors de la prochaine séance pour
-obtenir le bonus (voir section
-[Répartition des séances / jalons](#répartition-des-séances--jalons)).
+- Mettre en place la structure de base du rapport final.
 
 <!--
 
@@ -904,7 +921,7 @@ obtenir le bonus (voir section
 >
 > L'évaluation ne donne pas lieu à une note.
 
-#### Introduction
+#### Objectifs
 
 Deuxième séance pratique du cours _Lancez votre minimum viable product (MVP)_ !
 
@@ -1010,7 +1027,7 @@ il est recommandé pour la prochaine séance de :
 >
 > L'évaluation ne donne pas lieu à une note.
 
-#### Introduction
+#### Objectifs
 
 Troisième séance pratique du cours _Lancez votre minimum viable product (MVP)_ !
 
@@ -1117,7 +1134,7 @@ _En raison du CRUNCH, il n'y a pas de séances de cours/projet._
 >
 > L'évaluation ne donne pas lieu à une note.
 
-#### Introduction
+#### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -1218,7 +1235,7 @@ il est recommandé pour la prochaine séance de :
 >
 > L'évaluation ne donne pas lieu à une note.
 
-#### Introduction
+#### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -1318,7 +1335,7 @@ il est recommandé pour la prochaine séance de :
 >
 > **🚨 L'évaluation donne lieu à une note.** (10% de la note de projet)
 
-#### Introduction
+#### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
@@ -1406,7 +1423,7 @@ il est recommandé pour la prochaine séance de :
 >
 > **🚨 L'évaluation donne lieu à une note.** (15% de la note de projet)
 
-#### Introduction
+#### Objectifs
 
 À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
 

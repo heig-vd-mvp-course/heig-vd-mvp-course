@@ -7,11 +7,11 @@ author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 description:
   Réaliser des interfaces ergonomiques pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/09-realiser-des-interfaces-ergonomiques/presentation.html
-header: "[**Réaliser des interfaces ergonomiques**][contenu-complet-sur-github]"
+header: '[**Réaliser des interfaces ergonomiques**][contenu-complet-sur-github]'
 footer:
-  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]"
+  BY-SA 4.0][license]'
 headingDivider: 6
 ---
 
@@ -124,9 +124,9 @@ réfléchies.
 
 Nous allons les analyser ensemble.
 
-![bg right:40%](./_images/garmin-connect.png)
-![bg right:40%](./_images/discord.png)
-![bg right:40% vertical](./_images/x-twitter.png)
+![bg right:40%](./images/garmin-connect.png)
+![bg right:40%](./images/discord.png)
+![bg right:40% vertical](./images/x-twitter.png)
 
 ### [Garmin Connect](https://connect.garmin.com/)
 
@@ -140,7 +140,7 @@ Nous allons les analyser ensemble.
 - Interface peu intuitive
 - Navigation peu efficace
 
-![bg right:40% w:90%](./_images/garmin-connect.png)
+![bg right:40% w:90%](./images/garmin-connect.png)
 
 ### [Discord](https://discord.com/)
 
@@ -153,7 +153,7 @@ Nous allons les analyser ensemble.
 - Interface très chargée
 - Difficulté à trouver ce que l'on cherche
 
-![bg right:40% w:90%](./_images/discord.png)
+![bg right:40% w:90%](./images/discord.png)
 
 ### [X/Twitter](https://x.com/)
 
@@ -166,7 +166,7 @@ Nous allons les analyser ensemble.
 - Sans compte, l'application est quasi inutilisable
 - "Nagging" pour créer un compte
 
-![bg right:40% w:90%](./_images/x-twitter.png)
+![bg right:40% w:90%](./images/x-twitter.png)
 
 ## Exemples d'interfaces que nous trouvons ergonomiques et réfléchies
 
@@ -175,8 +175,8 @@ réfléchies.
 
 Nous allons les analyser ensemble.
 
-![bg right:40%](./_images/whatsapp.png) ![bg right:40%](./_images/cff.png)
-![bg right:40% vertical](./_images/loading-artist.png)
+![bg right:40%](./images/whatsapp.png) ![bg right:40%](./images/cff.png)
+![bg right:40% vertical](./images/loading-artist.png)
 
 ### [WhatsApp](https://www.whatsapp.com/)
 
@@ -189,7 +189,7 @@ Nous allons les analyser ensemble.
 
 - Peu de possibilité de personnaliser l'interface
 
-![bg right:40% w:90%](./_images/whatsapp.png)
+![bg right:40% w:90%](./images/whatsapp.png)
 
 ### [CFF](https://www.cff.ch/)
 
@@ -202,7 +202,7 @@ Nous allons les analyser ensemble.
 - Difficulté à acheter des billets internationaux
 - Trop de types de billets
 
-![bg right:40% w:90%](./_images/cff.png)
+![bg right:40% w:90%](./images/cff.png)
 
 ### [Loading Artist](https://loadingartist.com/)
 
@@ -214,7 +214,7 @@ Nous allons les analyser ensemble.
 
 - Interface très simple, mais peut-être trop chargée ?
 
-![bg right:40% w:90%](./_images/loading-artist.png)
+![bg right:40% w:90%](./images/loading-artist.png)
 
 ## Outils pour concevoir une interface ergonomique et réfléchie
 

@@ -246,41 +246,39 @@ obtenir le meilleur produit pour votre public cible.
 
 <!-- _class: lead -->
 
-### Séance 1 - Constituer les groupes et identifier une problématique
+### Séance 1 - Constituer les groupes et identifier des besoins au sein de la problématique
 
 <!-- _class: lead -->
 
 #### Objectifs (1/2)
 
-- Faire connaissance
-- Présenter les idées existantes
-- Constituer les groupes
-- Connaître les intérêts de chaque personne
-- Définir les rôles de chaque personne
-- Organiser le travail en équipe sur le semestre
+- Faire connaissance.
+- Présenter les problématiques existantes.
+- Constituer les groupes.
+- Prendre connaissance des délivrables attendus.
+- Définir les rôles de chaque personne.
 
 ![bg right:40%][illustration-objectifs]
 
 #### Objectifs (2/2)
 
-- Explorer d'autres idées
-- Commencer à approfondir une idée
-- Prendre connaissance de la structure attendue et des critères d'évaluation du
-  rendu final
+- Organiser le travail en équipe sur le semestre.
+- Identifier et décrire au moins deux besoins au sein de la problématique.
+- Explorer d'autres besoins.
 
 ![bg right:40%][illustration-objectifs]
 
 #### Déroulement
 
-Nous vous invitons maintenant à vous présenter et votre idée de projet si vous
-en avez une. N'hésitez pas à poser des questions aux autres personnes pour mieux
-comprendre leur(s) idée(s).
-
-Ensuite, nous vous invitons à former des groupes avec les personnes/projets qui
-vont inspirés ou à réfléchir à une idée personnelle.
-
-Enfin, nous vous invitons à prendre connaissance de la structure et critères du
-rapport final et explorer/approfondir d'autres idées.
+- Présentez-vous ainsi que la problématique de votre projet si vous en avez une.
+  N'hésitez pas à poser des questions aux autres personnes pour mieux comprendre
+  leur projet.
+- Former les groupes avec les personnes/projets qui vont inspirés ou à
+  réfléchissez à un projet personnel.
+- Prendre connaissance des délivrables attendus.
+- Réfléchir à au moins deux besoins au sein de votre problématique et les
+  décrire.
+- Explorer d'autres besoins au sein de votre problématique.
 
 #### Conclusion
 
@@ -289,17 +287,20 @@ problématiques et commencer à réfléchir à celles qui vous intéressent. Vou
 également pris connaissance des délivrables attendus et de la méthodologie à
 suivre pour réaliser votre projet.
 
-N'oubliez pas que le choix de la problématique doit être mûrement réfléchi :
-prenez le temps d'explorer plusieurs pistes avant de vous engager. Les semaines
-à venir vous permettront d'affiner votre compréhension du public cible.
+N'oubliez pas que le choix de la problématique et des besoins associés doit être
+mûrement réfléchi : prenez le temps d'explorer plusieurs pistes avant de vous
+engager. Les semaines à venir vous permettront d'affiner votre compréhension du
+public cible.
 
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine séance de :
 
-- Explorer d'autres problématiques/d'autres intérêts qui pourraient être
-  intéressants pour le projet
+- Explorer d'autres problématiques/d'autres intérêts et leurs besoins associés.
+- Identifier une problématique.
+- Explorer d'autres problématiques.
+- Mettre en place la structure de base du rapport final.
 
 <!--
 

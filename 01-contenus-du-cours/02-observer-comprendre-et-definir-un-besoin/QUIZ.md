@@ -9,12 +9,12 @@ description:
   MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/02-observer-comprendre-et-definir-un-besoin/quiz.html
 header:
-  "[**Observer, comprendre, et définir un besoin -
-  Quiz**][contenu-complet-sur-github]"
+  '[**Observer, comprendre, et définir un besoin -
+  Quiz**][contenu-complet-sur-github]'
 footer:
-  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]"
+  BY-SA 4.0][license]'
 headingDivider: 6
 ---
 
@@ -36,13 +36,15 @@ adresse][contenu-complet-sur-github].
 
 ![bg opacity:0.1][illustration-principale]
 
-## Plus de détails dans le support de cours
+## Plus de détails sur GitHub
 
 <!-- _class: lead -->
 
-_Cette présentation est un quiz pour tester ses connaissances sur le chapitre en
-cours. Pour plus de détails, consultez le [support de
-cours][contenu-complet-sur-github]._
+_Cette présentation est un résumé du contenu complet disponible sur GitHub._
+
+_Pour plus de détails, consulter le [contenu complet sur
+GitHub][contenu-complet-sur-github] ou en cliquant sur l'en-tête de ce
+document._
 
 ## Question 1 - Donnée
 
@@ -54,97 +56,138 @@ cours][contenu-complet-sur-github]._
 Les principaux éléments à prendre en compte pour comprendre le contexte d'une
 idée sont :
 
-- Contexte social
-- Contexte économique
-- Contexte politique et réglementaire
-- Contexte technologique
-- Contexte géographique
+- Contexte social.
+- Contexte économique.
+- Contexte politique et réglementaire.
+- Contexte technologique.
+- Contexte géographique.
 
 ## Question 2 - Donnée
 
-> Pourquoi est-il important de comprendre le secteur de marché avant de se
-> lancer dans l'entrepreneuriat ?
+> Qu'est-ce qu'un besoin selon le support de cours ? Donnez une définition et
+> trois exemples de besoins.
 
 ## Question 2 - Réponse
 
-Il est important de comprendre le secteur de marché pour identifier les
-opportunités et les menaces, mieux cibler les clients, comprendre leurs besoins
-et répondre à leurs attentes.
+Un besoin est un problème ou une opportunité que l'on souhaite résoudre ou
+exploiter. Les besoins ne sont pas forcément exprimés de manière explicite,
+parfois ils sont latents.
+
+Trois exemples de besoins :
+
+- Une meilleure qualité de vie.
+- Gagner du temps.
+- Économiser de l'argent.
 
 ## Question 3 - Donnée
 
-> Comment définiriez-vous une idée originale ?
+> Dans l'exemple de la lampe de poche présenté dans le cours, quel est le besoin
+> réel exprimé ? Proposez deux solutions alternatives à la lampe de poche
+> traditionnelle.
 
-## Réponse 3 - Réponse
+## Question 3 - Réponse
 
-Une idée originale est une idée qui **améliore la vie** sur différents aspects,
-**répond à un besoin**, est **consciente de son contexte** et s'adapte à
-celui-ci. Elle peut être une **réinvention ou une réadaptation d'une idée
-existante**.
+Le besoin réel n'est pas d'avoir une lampe de poche, mais d'avoir de la lumière
+dans l'obscurité. Plus profondément, le besoin peut être de faire en sorte qu'il
+n'y ait pas d'obscurité.
+
+Des solutions alternatives (entre autres) :
+
+- Une application mobile qui utilise la lumière du téléphone.
+- Une lampe solaire qui se recharge pendant la journée.
+- Développer des infrastructures électriques plus fiables (si le problème est
+  les pannes de courant).
 
 ## Question 4 - Donnée
 
-> Qu'est-ce qui rend un marché plus prometteur qu'un autre ?
+> Expliquez la différence entre un besoin et une solution en utilisant l'exemple
+> du café mentionné dans le cours.
 
 ## Question 4 - Réponse
 
-Un marché est plus prometteur qu'un autre s'il est en pleine expansion, s'il est
-suffisamment grand pour accueillir de nouveaux acteurs et s'il est peu saturé.
+Le besoin n'est pas d'avoir du café, mais d'avoir de l'énergie pour être
+productif. Le café est une solution à ce besoin.
+
+D'autres solutions possibles (entre autres) :
+
+- Faire une sieste.
+- Faire une promenade.
+- Adopter une alimentation plus équilibrée.
+- Améliorer la qualité du sommeil.
+- Gérer son stress.
 
 ## Question 5 - Donnée
 
-> Quelles est la différence entre les méthodes de brainstorming et de doodling ?
+> Pourquoi est-il important de comprendre le contexte avant de développer une
+> idée ? Donnez un exemple concret d'une idée qui pourrait être pertinente dans
+> un contexte mais inadaptée dans un autre.
 
 ## Question 5 - Réponse
 
-Le brainstorming est une méthode de créativité qui consiste à générer un maximum
-d'idées en un minimum de temps, basée sur l'écriture.
+Comprendre le contexte est essentiel car une même idée peut être pertinente dans
+un pays et complètement inadaptée dans un autre. Le contexte influence la
+demande, la faisabilité et la réussite d'une idée.
 
-Le doodling est une méthode de créativité qui consiste à dessiner pour stimuler
-la créativité et partager des idées de façon visuelle.
+Exemple : Une application de livraison de repas peut être très pertinente dans
+une grande ville dense avec une forte demande et des infrastructures adaptées,
+mais inadaptée dans une région rurale avec peu de restaurants et une population
+dispersée.
+
+Autre exemple : Les produits biologiques ont connu un essor grâce à une prise de
+conscience collective sur la santé et l'environnement (contexte social), ce qui
+n'aurait pas été possible sans ce changement de mentalité.
 
 ## Question 6 - Donnée
 
-> Par quoi devrions-nous commencer lors de l'utilisation de méthodes de
-> créativité comme le brainstorming ou le doodling ?
+> Quelle est la différence entre une idée et un besoin ? Pourquoi est-il
+> important de se concentrer sur le besoin avant de chercher une idée ?
 
 ## Question 6 - Réponse
 
-1. Définir un objectif clair
-2. Faire l'exercice de façon individuelle
-3. Partager les idées
-4. Regrouper les idées
-5. Sélectionner les idées les plus prometteuses
+Une idée est une pensée ou une suggestion qui peut être mise en œuvre pour
+répondre à un besoin. Un besoin est un problème ou une opportunité que l'on
+souhaite résoudre ou exploiter.
+
+Il est important de se concentrer sur le besoin avant de chercher une idée car
+cela permet de s'assurer que l'idée proposée est pertinente et répond à un
+besoin réel. Souvent, une idée est basée sur une solution plutôt que sur un
+besoin, ce qui peut mener à développer des produits dont personne n'a
+véritablement besoin.
 
 ## Question 7 - Donnée
 
-> Comment pouvons-nous définir une "bonne" idée ?
+> Comment l'observation de son environnement peut-elle aider à identifier des
+> besoins ? Donnez deux exemples concrets d'observations qui révèlent des
+> besoins.
 
 ## Question 7 - Réponse
 
-Une "bonne" idée est une idée est toujours subjective, mais il existe la matrice
-de décision basée sur les critères suivants :
+L'observation de son environnement permet d'identifier des besoins en observant
+les comportements, les habitudes et les frustrations des gens.
 
-1. L'effort pour réaliser la solution (faible, moyen, fort)
-2. L'impact de la dite solution (faible, moyen, fort)
+Deux exemples concrets :
 
-L'impact est librement défini par et pour chaque personne (économique, sociétal,
-etc.).
+1. En observant les gens dans un café, on remarque qu'ils ont du mal à trouver
+   une prise électrique pour charger leur ordinateur portable → besoin
+   d'améliorer l'accès à l'électricité dans les espaces publics.
+2. En observant les gens dans un supermarché, on remarque qu'ils ont du mal à
+   trouver les produits qu'ils cherchent → besoin d'améliorer l'organisation des
+   rayons ou de faciliter la recherche de produits.
 
 ## Question 8 - Donnée
 
-> Où trouver des idées originales ?
+> Vrai ou Faux : "Essayer de créer un besoin est une approche recommandée en
+> entrepreneuriat." Justifiez votre réponse.
 
 ## Question 8 - Réponse
 
-Il existe plusieurs sources pour trouver des idées originales :
+**Faux.** Selon le cours, essayer de créer un besoin est une entreprise risquée
+et contre-productive pour la société.
 
-- Les besoins des utilisateurs
-- Les tendances du marché
-- Les technologies émergentes
-- Votre vie de tous les jours
-- Des communautés sur Internet (forums, réseaux sociaux, etc.)
-- Etc.
+Il est important de bien identifier les besoins existants de votre public cible.
+La plupart du temps, une innovation est le fruit d'une observation, d'une
+réflexion, d'une intuition ou d'une expérience qui améliore un produit ou un
+service déjà existant en répondant à un besoin réel.
 
 ## Question 9 - Donnée
 

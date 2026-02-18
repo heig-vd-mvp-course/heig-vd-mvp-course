@@ -24,8 +24,10 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
+> - Décrire ce qu'est une problématique.
 > - Décrire ce qu'est un contexte.
 > - Décrire ce qu'est un besoin.
+> - Différencier une problématique d'un besoin.
 > - Différencier un besoin d'une solution.
 > - Différencier une idée d'un besoin.
 > - Observer son environnement pour identifier un besoin.
@@ -57,8 +59,10 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
-- [Comprendre le contexte dans lequel nous évoluons](#comprendre-le-contexte-dans-lequel-nous-évoluons)
+- [Décrire ce qu'est un contexte](#décrire-ce-quest-un-contexte)
+- [Décrire ce qu'est une problématique](#décrire-ce-quest-une-problématique)
 - [Définir un besoin](#définir-un-besoin)
+- [Différence entre problématique et besoin](#différence-entre-problématique-et-besoin)
 - [Différence entre besoin et solution](#différence-entre-besoin-et-solution)
   - [Exemple 1 - La lampe de poche](#exemple-1---la-lampe-de-poche)
   - [Exemple 2 - Le café](#exemple-2---le-café)
@@ -70,26 +74,25 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 ## Objectifs
 
-Cette séance a pour objectif de vous apprendre à trouver des idées originales
-dans un secteur de marché donné. Pour ce faire, vous apprendrez à identifier des
-besoins, à générer des idées originales, à évaluer ces idées et à les rendre
-réalisables.
+Cette séance a pour objectif de vous apprendre à comprendre le contexte dans
+lequel nous évoluons, définir une ou plusieurs problématiques au sein de ce
+contexte, et à identifier un ou plusieurs besoins au sein de cette
+problématique.
 
 De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
 - Décrire ce qu'est un contexte.
+- Décrire ce qu'est une problématique.
 - Décrire ce qu'est un besoin.
+- Différencier une problématique d'un besoin.
 - Différencier un besoin d'une solution.
 - Différencier une idée d'un besoin.
 - Observer son environnement pour identifier un besoin.
 
-## Comprendre le contexte dans lequel nous évoluons
+## Décrire ce qu'est un contexte
 
-Avant de se lancer dans la recherche d'idées, il est essentiel de comprendre le
-contexte dans lequel elles vont évoluer. Une même idée peut être pertinente dans
-un pays et complètement inadaptée dans un autre. Elle peut être viable
-aujourd'hui mais obsolète demain, ou encore être freinée par des contraintes
-légales ou culturelles.
+Avant de se lancer dans la recherche d'idées ou se lancer dans un projet, il est
+essentiel de comprendre le contexte dans lequel elles vont évoluer.
 
 Le contexte est une notion complexe qui regroupe de nombreux éléments, parmi
 lesquels :
@@ -109,8 +112,8 @@ lesquels :
   solution adaptée à une grande ville peut ne pas l'être pour une région rurale,
   et inversement.
 
-Voici quelques exemples de contextes qui peuvent influencer la pertinence d'une
-idée :
+Voici quelques exemples de contextes qui peuvent influencer la pertinence d'un
+projet :
 
 - L'essor des produits biologiques est en partie dû à une prise de conscience
   collective sur la santé et l'environnement.
@@ -120,15 +123,37 @@ idée :
   secteurs, tandis que certaines professions deviennent automatisables.
 
 Prendre en compte ces éléments permet d'éviter les erreurs stratégiques et
-d'adapter une idée à son environnement pour maximiser ses chances de succès.
+d'adapter un projet à son environnement pour maximiser ses chances de succès.
+
+Par exemple, un même projet peut être pertinent dans un pays et complètement
+inadaptée dans un autre. Il peut être viable aujourd'hui mais obsolète demain,
+ou encore être freinée par des contraintes légales ou culturelles.
+
+Le contexte définit les opportunités et les limites d'un projet, et il est
+essentiel de le comprendre avant de chercher des idées ou de se lancer dans un
+projet.
+
+## Décrire ce qu'est une problématique
+
+Une problématique est un problème ou une question qui se pose dans un contexte
+donné. Elle peut être formulée de manière générale ou spécifique, et peut être
+liée à un domaine particulier ou à un sujet plus large.
+
+Par exemple, une problématique générale pourrait être "Comment améliorer la
+mobilité urbaine ?". Une problématique plus spécifique pourrait être "Comment
+réduire les embouteillages dans le centre-ville de Lausanne ?".
+
+Une problématique est une catégorie large de problèmes ou d'opportunités qui
+peuvent être explorés pour trouver des idées originales. Elle peut être un point
+de départ pour identifier des besoins spécifiques et développer des solutions
+innovantes.
 
 ## Définir un besoin
 
 La vie est comme elle est. Elle est faite de hauts et de bas, de joies et de
 peines, de succès et d'échecs. Ce qui importe lorsque l'on entreprend, c'est de
 savoir identifier où sont les points de friction, les problèmes, les besoins
-insatisfaits. Essayer de créer un besoin est une entreprise risquée et
-contre-productive pour la société.
+insatisfaits.
 
 C'est pour ça qu'il est important de bien identifier les besoins de votre public
 cible.
@@ -139,7 +164,8 @@ Un besoin peut être de vouloir:
 - Gagner du temps.
 - Économiser de l'argent.
 
-Bien sûr, un besoin dépend du contexte dans lequel il est exprimé.
+Bien sûr, un besoin dépend du contexte dans lequel il est exprimé ainsi que la
+problématique à laquelle il est lié.
 
 Il est très rare qu'une innovation vienne de nulle part. La plupart du temps,
 elle est le fruit d'une observation, d'une réflexion, d'une intuition, d'une
@@ -149,20 +175,57 @@ Il est important de comprendre que les besoins ne sont pas forcément exprimés 
 manière explicite. Parfois, ils sont latents et il faut les faire émerger grâce
 à l'observation, à l'écoute et à l'empathie.
 
+Essayer de créer un besoin est une entreprise risquée et contre-productive pour
+la société et son projet.
+
+## Différence entre problématique et besoin
+
+Il est important de différencier une problématique d'un besoin.
+
+Une problématique est un problème ou une question qui se pose dans un contexte
+donné.
+
+Un besoin est un problème ou une opportunité que l'on souhaite résoudre ou
+exploiter au sein de la problématique.
+
+Par exemple, la problématique peut être "Comment améliorer la mobilité urbaine
+?". Le besoin sous-jacent peut être "Avoir un moyen de transport rapide,
+économique et écologique pour se déplacer en ville".
+
+Bien que subtile, cette distinction est importante. Une problématique est
+souvent sur des problèmes généraux qui peuvent être trop larges ou abstraits
+pour être résolus de manière efficace.
+
+Un besoin, en revanche, est plus concret et spécifique au sein de la
+problématique.
+
 ## Différence entre besoin et solution
 
-Il est important de ne pas confondre besoin et solution. Un besoin est un
-problème ou une opportunité que l'on souhaite résoudre ou exploiter. Une
-solution est une réponse à ce besoin. Il est essentiel de se concentrer sur le
-besoin avant de chercher une solution, car cela permet de s'assurer que la
+Il est également important de ne pas confondre besoin et solution.
+
+Un besoin est un problème ou une opportunité que l'on souhaite résoudre ou
+exploiter.
+
+Une solution est une réponse à ce besoin. Il est essentiel de se concentrer sur
+le besoin avant de chercher une solution, car cela permet de s'assurer que la
 solution proposée est pertinente et répond à un besoin réel.
+
+Nous avons parfois trop tendance à se concentrer sur la solution plutôt que sur
+le besoin, ce qui peut mener à développer des produits ou des services qui ne
+répondent pas à un besoin réel et qui ont peu de chances de réussir sur le
+marché.
+
+Cela implique une perte de temps, d'argent et d'énergie, ainsi qu'une
+frustration pour les entrepreneur.es qui voient leur projet échouer faute de
+répondre à un besoin réel.
 
 ### Exemple 1 - La lampe de poche
 
-Un exemple que nous pourrions utilisé est celui de la lampe de poche. La lampe
-de poche est un outil qui permet d'avoir de la lumière dans l'obscurité, parfois
-dans des contextes où il n'y a pas d'électricité (coupure de courant, camping,
-etc.).
+Un exemple que nous pourrions utiliser est celui de la lampe de poche.
+
+La lampe de poche est un outil qui permet d'avoir de la lumière dans
+l'obscurité, parfois dans des contextes où il n'y a pas d'électricité (coupure
+de courant, camping, etc.).
 
 Cependant, le besoin n'est pas d'avoir une lampe de poche, mais d'avoir de la
 lumière dans l'obscurité. La solution peut être une lampe de poche, mais elle
@@ -187,6 +250,15 @@ l'obscurité. La solution peut être une lampe de poche, mais elle peut aussi ê
 une application mobile qui utilise la lumière du téléphone, ou encore une lampe
 solaire qui se recharge pendant la journée.
 
+Dans cet exemple, la problématique est "Comment voir dans l'obscurité ?". Le
+besoin est "Avoir de la lumière dans l'obscurité". La solution peut être une
+lampe de poche.
+
+Comme souvent, plusieurs besoins peuvent être associés à une même problématique,
+et plusieurs solutions peuvent être associées à un même besoin. Et chaque
+personne peut avoir sa propre définition de ce qui est important pour elle, ce
+qui rend la question du temps encore plus subjective et complexe à résoudre.
+
 ### Exemple 2 - Le café
 
 Un autre exemple est celui du café.
@@ -210,6 +282,15 @@ Cela peut s'articuler autour de la promotion d'une meilleure hygiène de vie, de
 l'exercice physique régulier, ou encore de la gestion du stress pour améliorer
 la qualité du sommeil et augmenter le niveau d'énergie de manière naturelle.
 
+Dans cet exemple, la problématique est "Comment être plus productif ?". Le
+besoin est "Avoir de l'énergie pour être productif". La solution peut être du
+café.
+
+Comme souvent, plusieurs besoins peuvent être associés à une même problématique,
+et plusieurs solutions peuvent être associées à un même besoin. Et chaque
+personne peut avoir sa propre définition de ce qui est important pour elle, ce
+qui rend la question du temps encore plus subjective et complexe à résoudre.
+
 ### Exemple 3 - Gagner du temps
 
 Un autre exemple est celui de gagner du temps. Que ce soit pour l'administratif,
@@ -224,24 +305,37 @@ possibles. Par exemple, une personne pourrait déléguer certaines tâches,
 automatiser certaines tâches, ou encore apprendre à mieux gérer son temps pour
 être plus efficace.
 
+Dans cet exemple, la problématique est "Comment avoir plus de temps pour faire
+ce qui est important pour nous ?". Le besoin est "Mieux gérer les tâches
+courantes". La solution peut être d'utiliser un calendrier pour mieux organiser
+son emploi du temps.
+
+Comme souvent, plusieurs besoins peuvent être associés à une même problématique,
+et plusieurs solutions peuvent être associées à un même besoin. Et chaque
+personne peut avoir sa propre définition de ce qui est important pour elle, ce
+qui rend la question du temps encore plus subjective et complexe à résoudre.
+
 ## Différence entre idée et besoin
 
-Il est également important de différencier une idée d'un besoin. Une idée est
-une pensée ou une suggestion qui peut être mise en œuvre pour répondre à un
-besoin. Un besoin est un problème ou une opportunité que l'on souhaite résoudre
-ou exploiter.
+Il est également important de différencier une idée d'un besoin.
+
+Une idée est une pensée, une suggestion ou encore une hypothèse qui peut être
+mise en œuvre pour répondre à un besoin. Un besoin est un problème ou une
+opportunité que l'on souhaite résoudre ou exploiter.
 
 Il est essentiel de se concentrer sur le besoin avant de chercher une idée, car
 cela permet de s'assurer que l'idée proposée est pertinente et répond à un
 besoin réel.
 
-Souvent, une idée est basée sur une solution plutôt que sur un besoin. Par
-exemple, une idée de produit peut être de créer une application mobile pour
+Souvent, une idée est basée sur une hypothèse ou une solution plutôt que sur un
+besoin.
+
+Par exemple, une idée de produit peut être de créer une application mobile pour
 aider les gens à trouver des restaurants à proximité. Cependant, le besoin
-sous-jacent est d'avoir une solution pour trouver des restaurants facilement et
-rapidement. En se concentrant sur le besoin plutôt que sur l'idée, on peut
-trouver des solutions plus innovantes et adaptées aux besoins réels des
-utilisateurs.
+sous-jacent est d'avoir une solution pour trouver des endroits où manger
+facilement et rapidement. En se concentrant sur le besoin plutôt que sur l'idée,
+on peut trouver des solutions plus innovantes et adaptées aux besoins réels des
+utilisateur.trices.
 
 ## Observer son environnement pour identifier un besoin
 
@@ -266,7 +360,7 @@ besoins réels.
 ## Conclusion
 
 Au terme de cette séance, vous avez appris à comprendre le contexte dans lequel
-vous évoluez et à définir un besoin.
+nous évoluons et à définir un besoin.
 
 Ces compétences sont essentielles pour trouver des idées originales qui
 répondent à un besoin réel et qui ont des chances de réussir sur le marché.
@@ -278,9 +372,16 @@ Ces compétences vous seront utiles tout au long de votre parcours
 entrepreneurial et vous permettront de créer des produits et des services qui
 ont un impact positif sur la société et qui sont économiquement viables.
 
-Un besoin peut avoir de multiples solutions. En comprenant les besoins réels des
-utilisateurs, on peut créer des solutions qui répondent à ces besoins de manière
-efficace et innovante.
+Pour résumé, une problématique est un problème ou une question qui se pose dans
+un contexte donné. Une problématique peut avoir de multiples besoins associés.
+
+Un besoin est un problème ou une opportunité que l'on souhaite résoudre ou
+exploiter.
+
+Un besoin peut avoir de multiples solutions.
+
+En comprenant les besoins réels des utilisateur.trices, on peut créer des
+solutions qui répondent à ces besoins de manière efficace et innovante.
 
 ## À faire pour la semaine suivante
 

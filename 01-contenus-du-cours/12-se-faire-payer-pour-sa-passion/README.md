@@ -146,7 +146,7 @@ en neuf blocs essentiels :
 Ce modèle peut être représenté selon le canvas suivant, tiré du site
 Strategyzer[^strategyzer] :
 
-![Business Model Canvas](./_images/business-model-canvas.png)
+![Business Model Canvas](./images/business-model-canvas.png)
 
 De nombreux autres modèles existent mais un intéressant que nous souhaitons vous
 présenter est le Sustainable Business Model
@@ -154,7 +154,7 @@ Canvas[^sustainable-business-model-canvas]. Il est très similaire au Business
 Model Canvas mais intègre aussi des aspects de durabilité de votre projet. Nous
 vous conseillons de l'utiliser pour votre projet.
 
-![Sustainable Business Model Canvas](./_images/sustainable-business-model-canvas.jpg)
+![Sustainable Business Model Canvas](./images/sustainable-business-model-canvas.jpg)
 
 ### Sources de revenus
 

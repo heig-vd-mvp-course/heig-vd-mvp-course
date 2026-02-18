@@ -221,6 +221,13 @@ Source :
   - Comment les tâches et les attentes pour le cours MVP et le TB sont séparées.
 - Votre responsable de TB a le dernier mot.
 
+## Bibliographie et ressources utilisées
+
+- <https://laravel.com/docs>
+- <https://tailwindcss.com/docs>
+
+![bg right:40%][illustration-bibliographie-et-ressources]
+
 ## Questions
 
 <!-- _class: lead -->

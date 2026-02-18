@@ -204,7 +204,7 @@ Les points négatifs :
 - Interface peu intuitive
 - Navigation peu efficace
 
-![Garmin Connect](./_images/garmin-connect.png)
+![Garmin Connect](./images/garmin-connect.png)
 
 ### Discord
 
@@ -226,7 +226,7 @@ Depuis le 25 mars 2025, l'application a été mise à jour et l'interface a ét�
 révisée. Nous verrons à l'utilisation si cette mise à jour a été bénéfique ou
 non.
 
-![Discord](./_images/discord.png)
+![Discord](./images/discord.png)
 
 ### X/Twitter
 
@@ -245,7 +245,7 @@ Les points négatifs :
 - Sans compte, l'application est quasi inutilisable
 - "Nagging"[^nagging-wikipedia] pour créer un compte
 
-![X/Twitter](./_images/x-twitter.png)
+![X/Twitter](./images/x-twitter.png)
 
 ## Exemples d'interfaces que nous trouvons ergonomiques et réfléchies
 
@@ -267,7 +267,7 @@ Les points négatifs :
 
 - Peu de possibilité de personnaliser l'interface
 
-![WhatsApp](./_images/whatsapp.png)
+![WhatsApp](./images/whatsapp.png)
 
 ### CFF
 
@@ -289,7 +289,7 @@ Les points négatifs :
 - Type de billet à acheter pas toujours évident à comprendre (ex. billet de
   parcours, billet Mobilis, etc.)
 
-![CFF](./_images/cff.png)
+![CFF](./images/cff.png)
 
 ### Loading Artist
 
@@ -308,7 +308,7 @@ Les points négatifs :
 
 - Interface très simple, mais peut-être trop chargée ?
 
-![Loading Artist](./_images/loading-artist.png)
+![Loading Artist](./images/loading-artist.png)
 
 ## Outils pour concevoir une interface ergonomique et réfléchie
 
