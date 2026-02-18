@@ -221,12 +221,41 @@ Source :
   - Comment les tâches et les attentes pour le cours MVP et le TB sont séparées.
 - Votre responsable de TB a le dernier mot.
 
+## _"Qu'en est-il de ChatGPT, etc. ?"_ (1/2)
+
+Vous devez réaliser le travail vous-même, mais vous pouvez utiliser des aides
+externes pour vous aider à réaliser votre travail.
+
+Tous les outils sont autorisés pour votre projet libre.
+
+Seule l'évaluation écrite est interdite d'utilisation de ces outils.
+
+Quelques règles concernant l'utilisation de ces outils pour vos rendus :
+
+## _"Qu'en est-il de ChatGPT, etc. ?"_ (2/2)
+
+- Vous devez indiquer quand, pourquoi et comment vous avez utilisé une aide
+  externe (la raison, outils, sources, etc.), soit dans le code, soit dans un
+  rapport annexe.
+- Si vous n'êtes pas transparent.e sur l'utilisation de ces outils, vous serez
+  alors pénalisé.e avec la note 1 pour l'évaluation concernée.
+- En cas de doutes, n'hésitez pas à nous contacter pour discuter de votre
+  utilisation de ces outils.
+
+<center>
+
+**Votre intégrité personnelle et académique est en jeu**.
+
+</center>
+
 ## Bibliographie et ressources utilisées
 
-- <https://laravel.com/docs>
-- <https://tailwindcss.com/docs>
-
-![bg right:40%][illustration-bibliographie-et-ressources]
+- Fitzpatrick, Rob, _"The Mom Test: How to Talk to Customers and Learn If Your
+  Business is a Good Idea when Everyone is Lying to You"_, 2013.
+- Nyffeler, Nathalie, _"Le livre des récits : Savoirs et connaissances des
+  navigateur·rice·s aguerri·e·s"_, 2022.
+- Nyffeler, Nathalie, _"Le Livre du Design Thinking - Méthode d'innovation
+  centrée utilisateur"_, 2022.
 
 ## Questions
 
@@ -241,7 +270,7 @@ Est-ce que vous avez des questions ?
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 
-## Sources (1/3)
+## Sources (1/2)
 
 - [Illustration principale][illustration-principale] par
   [Annie Spratt](https://unsplash.com/@anniespratt) sur
@@ -268,7 +297,7 @@ Est-ce que vous avez des questions ?
   [Armand Khoury](https://unsplash.com/@armand_khoury) sur
   [Unsplash](https://unsplash.com/photos/boy-on-ladder-under-blue-sky-Ba6IlmAzl-k)
 
-## Sources (2/3)
+## Sources (2/2)
 
 - [Illustration][illustration-grilles-devaluation] par
   [Lance Anderson](https://unsplash.com/@lanceanderson) sur

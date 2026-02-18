@@ -192,6 +192,36 @@ Votre responsable de TB a le dernier mot. Si votre responsable de TB n'est pas
 d'accord avec le mélange entre le cours MVP et le TB, alors il ne sera pas
 possible de mêler les deux.
 
+## _"Qu'en est-il de ChatGPT, etc. ?"_
+
+Vous devez réaliser le travail vous-même, mais vous pouvez utiliser des aides
+externes pour vous aider à réaliser votre travail.
+
+Tous les outils sont autorisés pour votre projet libre.
+
+Seule l'évaluation écrite est interdite d'utilisation de ces outils.
+
+Quelques règles concernant l'utilisation de ces outils pour vos rendus :
+
+- Vous devez indiquer quand, pourquoi et comment vous avez utilisé une aide
+  externe (la raison, outils, sources, etc.), soit dans le code, soit dans un
+  rapport annexe.
+- Si vous n'êtes pas transparent.e sur l'utilisation de ces outils, vous serez
+  alors pénalisé.e avec la note 1 pour l'évaluation concernée.
+- En cas de doutes, n'hésitez pas à nous contacter pour discuter de votre
+  utilisation de ces outils.
+
+**Votre intégrité personnelle et académique est en jeu**.
+
+## Bibliographie et ressources utilisées
+
+- Fitzpatrick, Rob, _"The Mom Test: How to Talk to Customers and Learn If Your
+  Business is a Good Idea when Everyone is Lying to You"_, 2013.
+- Nyffeler, Nathalie, _"Le livre des récits : Savoirs et connaissances des
+  navigateur·rice·s aguerri·e·s"_, 2022.
+- Nyffeler, Nathalie, _"Le Livre du Design Thinking - Méthode d'innovation
+  centrée utilisateur"_, 2022.
+
 ## Conclusion
 
 Nous espérons que cette première séance vous a permis de comprendre les
