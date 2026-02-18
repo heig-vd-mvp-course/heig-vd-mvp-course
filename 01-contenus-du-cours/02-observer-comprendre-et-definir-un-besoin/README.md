@@ -24,8 +24,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Décrire ce qu'est une problématique.
 > - Décrire ce qu'est un contexte.
+> - Décrire ce qu'est une problématique.
 > - Décrire ce qu'est un besoin.
 > - Différencier une problématique d'un besoin.
 > - Différencier un besoin d'une solution.

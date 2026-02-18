@@ -64,132 +64,105 @@ idée sont :
 
 ## Question 2 - Donnée
 
-> Qu'est-ce qu'un besoin selon le support de cours ? Donnez une définition et
-> trois exemples de besoins.
+> Qu'est-ce qu'un besoin selon le support de cours ? Comment peut-il s'exprimer
+> ? Donnez trois exemples concrets.
 
 ## Question 2 - Réponse
 
-Un besoin est un problème ou une opportunité que l'on souhaite résoudre ou
-exploiter. Les besoins ne sont pas forcément exprimés de manière explicite,
-parfois ils sont latents.
+Un besoin représente un écart entre une situation actuelle insatisfaisante et
+une situation désirée. Les besoins ne sont pas forcément exprimés de manière
+explicite, parfois ils sont latents.
 
-Trois exemples de besoins :
+Il peut s'exprimer comme :
 
-- Une meilleure qualité de vie.
-- Gagner du temps.
-- Économiser de l'argent.
+- Un problème à résoudre ("Je perds du temps dans les transports").
+- Un désir d'amélioration ("J'aimerais une meilleure qualité de vie").
+- Une opportunité à saisir ("Je pourrais économiser de l'argent").
 
 ## Question 3 - Donnée
 
-> Dans l'exemple de la lampe de poche présenté dans le cours, quel est le besoin
-> réel exprimé ? Proposez deux solutions alternatives à la lampe de poche
-> traditionnelle.
+> Quelle est la différence entre une problématique et un besoin ? Illustrez avec
+> l'exemple de la mobilité urbaine.
 
 ## Question 3 - Réponse
 
-Le besoin réel n'est pas d'avoir une lampe de poche, mais d'avoir de la lumière
-dans l'obscurité. Plus profondément, le besoin peut être de faire en sorte qu'il
-n'y ait pas d'obscurité.
+Une problématique est un problème ou une question qui se pose dans un contexte
+donné. C'est une question large et générale.
 
-Des solutions alternatives (entre autres) :
+Un besoin est un problème ou une opportunité spécifique que l'on souhaite
+résoudre ou exploiter au sein de la problématique. C'est plus concret et
+actionnable.
 
-- Une application mobile qui utilise la lumière du téléphone.
-- Une lampe solaire qui se recharge pendant la journée.
-- Développer des infrastructures électriques plus fiables (si le problème est
-  les pannes de courant).
+- Problématique : "Comment améliorer la mobilité urbaine ?"
+- Besoin : "Avoir un moyen de transport rapide, économique et écologique pour se
+  déplacer en ville"
 
 ## Question 4 - Donnée
 
-> Expliquez la différence entre un besoin et une solution en utilisant l'exemple
-> du café mentionné dans le cours.
+> Dans l'exemple du café, identifiez : le contexte, la problématique, le besoin
+> réel et proposez trois solutions alternatives au café.
 
 ## Question 4 - Réponse
 
-Le besoin n'est pas d'avoir du café, mais d'avoir de l'énergie pour être
-productif. Le café est une solution à ce besoin.
-
-D'autres solutions possibles (entre autres) :
-
-- Faire une sieste.
-- Faire une promenade.
-- Adopter une alimentation plus équilibrée.
-- Améliorer la qualité du sommeil.
-- Gérer son stress.
+- **Contexte** : vie moderne exigeante, fatigue quotidienne.
+- **Problématique** : comment être plus productif ?
+- **Besoin réel** : avoir de l'énergie pour être productif.
+- **Solutions alternatives** (entre autres) :
+  - Faire une sieste.
+  - Faire une promenade.
+  - Adopter une alimentation plus équilibrée.
+  - Améliorer la qualité du sommeil.
+  - Faire de l'exercice physique régulier.
 
 ## Question 5 - Donnée
 
-> Pourquoi est-il important de comprendre le contexte avant de développer une
-> idée ? Donnez un exemple concret d'une idée qui pourrait être pertinente dans
-> un contexte mais inadaptée dans un autre.
+> Complétez le schéma hiérarchique suivant pour l'exemple de la mobilité urbaine
+> :
+>
+> - Contexte : ?
+> - Problématique : Comment améliorer la mobilité urbaine ?
+> - Besoin : ?
+> - Solution : ?
+> - Idée : ?
 
 ## Question 5 - Réponse
 
-Comprendre le contexte est essentiel car une même idée peut être pertinente dans
-un pays et complètement inadaptée dans un autre. Le contexte influence la
-demande, la faisabilité et la réussite d'une idée.
-
-Exemple : Une application de livraison de repas peut être très pertinente dans
-une grande ville dense avec une forte demande et des infrastructures adaptées,
-mais inadaptée dans une région rurale avec peu de restaurants et une population
-dispersée.
-
-Autre exemple : Les produits biologiques ont connu un essor grâce à une prise de
-conscience collective sur la santé et l'environnement (contexte social), ce qui
-n'aurait pas été possible sans ce changement de mentalité.
+- **Contexte** : ville dense, pollution, trafic.
+- **Problématique** : comment améliorer la mobilité urbaine ?
+- **Besoin** : se déplacer rapidement et écologiquement.
+- **Solution** : covoiturage, vélo électrique, transport public (plusieurs
+  solutions possibles).
+- **Idée** : application de covoiturage avec trajet optimisé (exemple
+  d'implémentation concrète).
 
 ## Question 6 - Donnée
 
-> Quelle est la différence entre une idée et un besoin ? Pourquoi est-il
-> important de se concentrer sur le besoin avant de chercher une idée ?
+> Quel est le piège fréquent mentionné dans le cours concernant l'identification
+> des besoins ? Comment peut-on l'éviter ?
 
 ## Question 6 - Réponse
 
-Une idée est une pensée ou une suggestion qui peut être mise en œuvre pour
-répondre à un besoin. Un besoin est un problème ou une opportunité que l'on
-souhaite résoudre ou exploiter.
+Le piège fréquent est de confondre "j'ai besoin de X" (qui est souvent une
+solution) avec le vrai besoin.
 
-Il est important de se concentrer sur le besoin avant de chercher une idée car
-cela permet de s'assurer que l'idée proposée est pertinente et répond à un
-besoin réel. Souvent, une idée est basée sur une solution plutôt que sur un
-besoin, ce qui peut mener à développer des produits dont personne n'a
-véritablement besoin.
+**Comment l'éviter :** posez-vous toujours "Pourquoi ai-je besoin de X ?"
+plusieurs fois de suite pour remonter au besoin réel.
+
+**Exemple :** "J'ai besoin d'une lampe de poche" → Pourquoi ? → "Pour avoir de
+la lumière" → Pourquoi ? → "Parce qu'il y a des pannes de courant" → Besoin réel
+: stabilité électrique.
 
 ## Question 7 - Donnée
 
 > Comment l'observation de son environnement peut-elle aider à identifier des
-> besoins ? Donnez deux exemples concrets d'observations qui révèlent des
-> besoins.
+> besoins ?
 
 ## Question 7 - Réponse
 
 L'observation de son environnement permet d'identifier des besoins en observant
 les comportements, les habitudes et les frustrations des gens.
 
-Deux exemples concrets :
-
-1. En observant les gens dans un café, on remarque qu'ils ont du mal à trouver
-   une prise électrique pour charger leur ordinateur portable → besoin
-   d'améliorer l'accès à l'électricité dans les espaces publics.
-2. En observant les gens dans un supermarché, on remarque qu'ils ont du mal à
-   trouver les produits qu'ils cherchent → besoin d'améliorer l'organisation des
-   rayons ou de faciliter la recherche de produits.
-
 ## Question 8 - Donnée
-
-> Vrai ou Faux : "Essayer de créer un besoin est une approche recommandée en
-> entrepreneuriat." Justifiez votre réponse.
-
-## Question 8 - Réponse
-
-**Faux.** Selon le cours, essayer de créer un besoin est une entreprise risquée
-et contre-productive pour la société.
-
-Il est important de bien identifier les besoins existants de votre public cible.
-La plupart du temps, une innovation est le fruit d'une observation, d'une
-réflexion, d'une intuition ou d'une expérience qui améliore un produit ou un
-service déjà existant en répondant à un besoin réel.
-
-## Question 9 - Donnée
 
 > Parmi la liste suivante, quels sont les éléments qui décrivent un besoin ?
 >

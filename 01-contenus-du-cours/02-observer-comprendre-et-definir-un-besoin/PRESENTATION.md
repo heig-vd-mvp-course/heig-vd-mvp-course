@@ -47,21 +47,18 @@ document._
 
 ## Objectifs (1/2)
 
-- Décrire ce qu'est un contexte
-- Décrire ce qu'est un besoin
-- Décrire ce qu'est un secteur de marché
-- Identifier des secteurs de marché prometteurs pour y fournir un nouveau
-  service
-- Décrire ce qu'est une idée originale
+- Décrire ce qu'est un contexte.
+- Décrire ce qu'est une problématique.
+- Décrire ce qu'est un besoin.
+- Différencier une problématique d'un besoin.
+- Différencier un besoin d'une solution.
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
-- Identifier les avantages et les inconvénients d'une idée
-- Évaluer la pertinence d'une idée
-- Évaluer la faisabilité d'une idée
-- Lister des sources d'inspiration pour trouver des idées originales
+- Différencier une idée d'un besoin.
+- Observer son environnement pour identifier un besoin.
 
 ![bg right:40%][illustration-objectifs]
 
