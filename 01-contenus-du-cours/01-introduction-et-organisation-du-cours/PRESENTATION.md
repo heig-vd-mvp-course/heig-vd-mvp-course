@@ -8,11 +8,11 @@ description:
   Introduction et organisation du cours pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/01-introduction-et-organisation-du-cours/presentation.html
 header:
-  '[**Introduction et organisation du cours**][contenu-complet-sur-github]'
+  "[**Introduction et organisation du cours**][contenu-complet-sur-github]"
 footer:
-  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
-  2024-2025](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]'
+  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
+  BY-SA 4.0][license]"
 headingDivider: 6
 ---
 
