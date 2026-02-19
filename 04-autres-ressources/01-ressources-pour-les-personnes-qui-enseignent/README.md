@@ -101,7 +101,7 @@ l'avancement de la préparation du cours.
 ### Envoyer un mail aux personnes qui étudient avant le premier cours
 
 ```text
-[MVP 2024-2025] Informations générales sur le cours
+[MVP 2025-2026] Informations générales sur le cours
 
 Bonjour tout le monde,
 
@@ -135,7 +135,7 @@ Le fil rouge d'un cours de l'unité d'enseignement est le suivant :
 ### Mail envoyé avant la présentation sur le pitch
 
 ```text
-[MVP 2024-2025] Présentations sur le pitch de la semaine prochaine (13.03.2025)
+[MVP 2025-2026] Présentations sur le pitch de la semaine prochaine (13.03.2025)
 
 Bonjour tout le monde,
 
@@ -154,7 +154,7 @@ Ludovic et Vincent
 ### Mail envoyé après la présentation sur le pitch
 
 ```text
-[MVP 2024-2025] Retours sur la présentation sur le pitch
+[MVP 2025-2026] Retours sur la présentation sur le pitch
 
 Bonjour,
 
@@ -171,7 +171,7 @@ Ludovic et Vincent
 ### Mail envoyé avant l'évaluation
 
 ```text
-[MVP 2024-2025] Évaluation disponible sur la plateforme Eval
+[MVP 2025-2026] Évaluation disponible sur la plateforme Eval
 
 Bonjour tout le monde,
 
@@ -218,7 +218,7 @@ Ludovic et Vincent
 ### Mail envoyé avant la présentation finale
 
 ```text
-[MVP 2024-2025] Présentations finales et déroulement du dernier cours
+[MVP 2025-2026] Présentations finales et déroulement du dernier cours
 
 Bonjour tout le monde,
 
@@ -242,7 +242,7 @@ Ludovic et Vincent
 ### Mail envoyé après les présentations sur la prospection
 
 ```text
-[MVP 2024-2025] Retours sur la présentation sur la prospection
+[MVP 2025-2026] Retours sur la présentation sur la prospection
 
 Bonjour,
 
@@ -259,7 +259,7 @@ Ludovic et Vincent
 ### Mail envoyé après la présentation finale
 
 ```text
-[MVP 2024-2025] Retours sur le rapport final, la présentation finale et le produit final
+[MVP 2025-2026] Retours sur le rapport final, la présentation finale et le produit final
 
 Bonjour,
 
