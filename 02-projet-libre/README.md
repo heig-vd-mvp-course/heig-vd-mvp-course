@@ -11,9 +11,9 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-evaluation-finale/presentation.html)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html)
 >   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/03-evaluation-finale/03-evaluation-finale-presentation.pdf)
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
 > Tous les détails de chaque séance de cours et les ressources associées sont
 > décrites dans la section
@@ -42,7 +42,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Minimum viable product (MVP)](#minimum-viable-product-mvp)
 - [Retour sur l'application de la méthodologie](#retour-sur-lapplication-de-la-méthodologie)
 - [Répartition des séances / jalons](#répartition-des-séances--jalons)
-  - [Séance 1 - Constituer les groupes et identifier des besoins au sein de la problématique](#séance-1---constituer-les-groupes-et-identifier-un-besoin)
+  - [Séance 1 - Constituer les groupes et identifier des besoins au sein de la problématique](#séance-1---constituer-les-groupes-et-identifier-des-besoins-au-sein-de-la-problématique)
 
 ## Objectifs
 
