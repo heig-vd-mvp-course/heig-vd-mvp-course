@@ -426,7 +426,7 @@ d'accessibilité.
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- Relire le support de cours si nécessaire
+- Relire le support de cours si nécessaire.
 
 [^nagging-wikipedia]:
     Nagging, [en.wikipedia.org](https://en.wikipedia.org/wiki/Nagging), 02 avril

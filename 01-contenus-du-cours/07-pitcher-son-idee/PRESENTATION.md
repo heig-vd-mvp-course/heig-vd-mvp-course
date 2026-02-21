@@ -6,11 +6,11 @@ paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 description: Pitcher son idée pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/07-pitcher-son-idee/presentation.html
-header: "[**Pitcher son idée**][contenu-complet-sur-github]"
+header: '[**Pitcher son idée**][contenu-complet-sur-github]'
 footer:
-  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]"
+  BY-SA 4.0][license]'
 headingDivider: 6
 ---
 
@@ -204,8 +204,8 @@ Est-ce que vous avez des questions ?
 
 ## À vous de jouer !
 
-- Prendre connaissance du [support de cours][contenu-complet-sur-github]
-- Poser des questions si nécessaire
+- Prendre connaissance du [support de cours][contenu-complet-sur-github].
+- Poser des questions si nécessaire.
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 

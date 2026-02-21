@@ -495,7 +495,7 @@ manière à être maintenable et évolutive grâce aux principes vus dans ce cou
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- Relire le support de cours si nécessaire
+- Relire le support de cours si nécessaire.
 
 <!-- URLs -->
 

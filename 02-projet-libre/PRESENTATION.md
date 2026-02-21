@@ -713,7 +713,7 @@ TODO?
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- Relire le support de cours si nécessaire
+- Relire le support de cours si nécessaire.
 - Commencer à réviser pour l'évaluation de la semaine 13
 
 ### Séance 12 - Réalisation du service et tests utilisateurs (4/6)

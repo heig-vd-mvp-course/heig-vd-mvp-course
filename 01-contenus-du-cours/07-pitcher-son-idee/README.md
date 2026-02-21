@@ -367,7 +367,7 @@ public et de recevoir des feedbacks constructifs.
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- Relire le support de cours si nécessaire
+- Relire le support de cours si nécessaire.
 
 [^elevator-pitch]:
     Elevator pitch,

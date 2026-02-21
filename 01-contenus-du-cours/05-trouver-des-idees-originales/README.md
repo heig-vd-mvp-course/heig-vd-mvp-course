@@ -470,7 +470,7 @@ et à trouver une idée originale.
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- Relire le support de cours si nécessaire
+- Relire le support de cours si nécessaire.
 
 [^agricole]:
     Le secteur économique de l'agriculture,

@@ -9,11 +9,11 @@ description:
   Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/03-observer-comprendre-et-definir-un-public-cible/presentation.html
 header:
-  "[**Comprendre et atteindre son public cible**][contenu-complet-sur-github]"
+  '[**Comprendre et atteindre son public cible**][contenu-complet-sur-github]'
 footer:
-  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]"
+  BY-SA 4.0][license]'
 headingDivider: 6
 ---
 
@@ -47,18 +47,18 @@ document._
 
 ## Objectifs (1/2)
 
-- Décrire ce qu'est un public cible
-- Décrire ce qu'est un persona
-- Identifier un public cible
-- Décrire les étapes pour comprendre un public cible
-- Identifier les (réels) besoins d'un public cible
-- Décrire comment dialoguer avec un public cible
+- Décrire ce qu'est un public cible.
+- Décrire ce qu'est un persona.
+- Identifier un public cible.
+- Décrire les étapes pour comprendre un public cible.
+- Identifier les (réels) besoins d'un public cible.
+- Décrire comment dialoguer avec un public cible.
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
-- Lister les hypothèses à valider pour comprendre un public cible
+- Lister les hypothèses à valider pour comprendre un public cible.
 
 ![bg right:40%][illustration-objectifs]
 
@@ -67,26 +67,27 @@ document._
 - Un service ou un produit est réalisé pour une cible spécifique.
 - Savoir pour qui nous concevons un service ou un produit est essentiel.
 - Deux concepts clés :
-  - Le public cible
-  - Les personae
+  - Le public cible.
+  - Les personae.
 
 ![bg right:40%][illustration-public-construire-personae]
 
 ### Qu'est-ce qu'un public cible ?
 
-- L'âge, le genre, la localisation géographique
-- Le niveau d'éducation et la profession
-- Les centres d'intérêt et habitudes de consommation
-- Les besoins et problèmes spécifiques
+- L'âge, le genre, la localisation géographique.
+- Le niveau d'éducation et la profession.
+- Les centres d'intérêt et habitudes de consommation.
+- Les besoins et problèmes spécifiques.
 
 ![bg right:40%][illustration-public-cible]
 
 ### Qu'est-ce qu'un persona ?
 
-- Un nom et une courte biographie
-- Des objectifs et défis
-- Des comportements et motivations
-- Des préférences en matière de communication et de consommation
+- Un nom et une courte biographie.
+- Des objectifs et défis.
+- Des comportements et motivations.
+- Des préférences en matière de communication et de consommation.
+- Version imaginée d'une personne réelle appartenant au public cible.
 
 ![bg right:40%][illustration-persona]
 
@@ -105,9 +106,9 @@ document._
 
 **Résumé**
 
-- Léa, 28 ans, designer UX
-- Objectif : trouver des outils intuitifs pour collaborer
-- Défis : convaincre ses collègues, manque de temps pour l'équipe
+- Léa, 28 ans, designer UX.
+- Objectif : trouver des outils intuitifs pour collaborer.
+- Défis : convaincre ses collègues, manque de temps pour l'équipe.
 
 Un autre potentiel public se cache derrière Léa : les collègues de Léa.
 
@@ -115,21 +116,19 @@ Un autre potentiel public se cache derrière Léa : les collègues de Léa.
 
 ## Identifier et comprendre un public cible
 
-1. Définir les objectifs du projet
-2. Définir des hypothèses à valider (personae + besoins)
-3. Établir les moyens pour obtenir des réponses (interviews, tests, etc.)
-4. Récolter et analyser les données
-5. Itérer et ajuster
+1. Définir les objectifs du projet.
+2. Définir des hypothèses à valider (personae + besoins).
+3. Établir les moyens pour obtenir des réponses (interviews, tests, etc.).
+4. Récolter et analyser les données.
+5. Itérer et ajuster.
 
 ![bg right:40%][illustration-principale]
 
 ## Identifier les (réels) besoins d'un public cible
 
-- Un besoin représente un écart entre une situation actuelle et une situation
-  désirée
-- Il peut être explicite ou implicite
-- Difficile à identifier
-- Un besoin peut en cacher un autre
+- Pour le moment, les besoins sont des hypothèses à valider.
+- Difficile à identifier (implicit ou explicit).
+- Un besoin peut en cacher un autre.
 
 **Pour le moment, tout est imaginé !**
 
@@ -139,28 +138,28 @@ Un autre potentiel public se cache derrière Léa : les collègues de Léa.
 
 - L'être humain est pluriel et complexe.
 - Savoir dialoguer avec son public cible nécessite :
-  - De la curiosité
-  - De l'empathie
-  - De l'ouverture
+  - De la curiosité.
+  - De l'empathie.
+  - De l'ouverture.
 
 ![bg right:40%][illustration-dialogue]
 
 ### Les différentes formes possibles d'un dialogue
 
-- Questionnaires quantitatifs
-- Entretiens qualitatifs
-- Observation terrain
-- Tests et retours utilisateurs (**à éviter en premier lieu**)
+- Questionnaires quantitatifs.
+- Entretiens qualitatifs.
+- Observation terrain.
+- Tests et retours utilisateurs (**à éviter en premier lieu**).
 
 ![bg right:40%][illustration-dialogue-formes]
 
 ### Limiter les biais de confirmation
 
-- Poser des questions ouvertes sans orienter les réponses
-- Favoriser l'écoute active et la reformulation
+- Poser des questions ouvertes sans orienter les réponses.
+- Favoriser l'écoute active et la reformulation.
 - Recourir à des experts ou des regards extérieurs pour challenger les
-  conclusions
-- **Éviter les tests en premier lieu**
+  conclusions.
+- **Éviter les tests en premier lieu.**
 
 ![bg right:40%][illustration-dialogue-biais]
 
@@ -170,9 +169,9 @@ Le livre [_The Mom Test_](https://themomtest.com/) est **une des meilleures
 ressources que nous ayons trouvées** pour comprendre comment poser les bonnes
 questions :
 
-- Écrit par un ingénieur
-- Pragmatique et efficace
-- Lu en 1 à 2 heures
+- Écrit par un ingénieur.
+- Pragmatique et efficace.
+- Lu en quelques heures.
 
 ![bg right:37%](https://m.media-amazon.com/images/I/61ixLoT4lyL._SL1360_.jpg)
 
@@ -180,12 +179,35 @@ questions :
 
 **Élements clés à retenir**
 
-- Faire preuve d'empathie
-- Parler du passé, pas du futur
-- Éviter les questions fermées ou suggestives
-- Faire parler de problèmes concrets
-- Écouter plus, parler moins
+- Faire preuve d'empathie.
+- Parler du passé, pas du futur.
+- Éviter les questions fermées ou suggestives.
+- Faire parler de problèmes concrets.
+- Écouter plus, parler moins.
 - **Ne pas parler de son idée !**
+
+### Exemples de questions à poser (1/2)
+
+**Bons exemples**
+
+- "Quelles sont les principales difficultés que vous rencontrez dans ce domaine
+  ?"
+- "Pouvez-vous me parler de la dernière fois que vous avez rencontré ce problème
+  ?"
+- "Comment avez-vous essayé de résoudre ce problème ?"
+- "Qu'est-ce qui a fonctionné ou pas dans votre approche ?"
+- "Comment ce problème affecte-t-il votre vie quotidienne ou votre travail ?"
+
+### Exemples de questions à poser (2/2)
+
+**Mauvais exemples**
+
+- "Que pensez-vous de ma solution ?"
+- "Seriez-vous prêt à payer pour une solution comme celle-ci ?"
+- "Qu'est-ce qui vous plaît ou déplaît dans cette idée ?"
+- "Comment cette solution pourrait-elle être améliorée pour mieux répondre à vos
+  besoins ?"
+- "Quels autres produits ou services utilisez-vous pour résoudre ce problème ?"
 
 ### Savoir se remettre en question
 
@@ -203,18 +225,18 @@ Ce ne sont pas les mêmes egos !
 But : éliminer toutes nos questions et incertitudes à l'aide des outils suivants
 :
 
-- Interviews utilisateurs
-- Questionnaires en ligne
-- Observation terrain
+- Interviews utilisateurs.
+- Questionnaires en ligne.
+- Observation terrain.
 
 ![bg right:40%][illustration-reduire-incertitudes]
 
 ## Comment réduire les incertitudes et valider les hypothèses (2/2)
 
-- Prototype rapide
-- Expérimentations terrain
-- Analyse des données
-- Itération continue
+- Prototype rapide.
+- Expérimentations terrain.
+- Analyse des données.
+- Itération continue.
 
 **Laissez votre idée de côté !**
 
@@ -228,8 +250,8 @@ Est-ce que vous avez des questions ?
 
 ## À vous de jouer !
 
-- Prendre connaissance du [support de cours][contenu-complet-sur-github]
-- Poser des questions si nécessaire
+- Prendre connaissance du [support de cours][contenu-complet-sur-github].
+- Poser des questions si nécessaire.
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 
