@@ -246,9 +246,11 @@ obtenir le meilleur produit pour votre public cible.
 
 <!-- _class: lead -->
 
-### Séance 1 - Constituer les groupes et identifier des besoins au sein de la problématique
+### Séance 1
 
 <!-- _class: lead -->
+
+Constituer les groupes et identifier des besoins au sein de la problématique
 
 #### Objectifs (1/2)
 
@@ -295,57 +297,62 @@ public cible.
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
 - Explorer d'autres problématiques/d'autres intérêts et leurs besoins associés.
 - Identifier une problématique.
 - Explorer d'autres problématiques.
 - Mettre en place la structure de base du rapport final.
 
-<!--
+### Séance 2
 
-### Séance 2 - Identifier et interroger un public cible
+<!-- _class: lead -->
 
-<!-- _class: lead --
+Identifier et interroger un public cible
 
 #### Objectifs (1/2)
 
-- Identifier le contexte dans lequel évolue le projet
-- Identifier le secteur de marché dans lequel évolue le projet
-- Décrire le besoin auquel répond le projet
-- Lister des idées originales
-- Choisir une idée qui répond à un besoin
+- Décrire le public cible pour lequel le projet libre est conçu à l'aide de
+  personae.
+- Lister des hypothèses sur le public cible.
+- Rédiger une série de questions pour comprendre le public cible.
+- Lister les hypothèses à valider pour comprendre le public cible.
 
 ![bg right:40%][illustration-objectifs]
 
 #### Objectifs (2/2)
 
-- Identifier la plus-value du service
-- Identifier les avantages/forces et les inconvénients/faiblesses de l'idée
-- Compléter le rapport
+- Identifier 2-3 personnes avec qui discuter pour comprendre le public cible.
+- Compléter le rapport.
 
 ![bg right:40%][illustration-objectifs]
 
 #### Déroulement
 
-Nous vous invitons maintenant à prendre la parole pour rappeler vos groupes, les
-projets sur lesquels vous allez travailler et présenter l'avancement de votre
-projet.
+Nous vous invitons maintenant à passer nous voir pour présenter l'avancement de
+votre projet.
 
-Ensuite, nous vous invitons à tester les outils de créativité pour explorer
-d'autres idées originales qui répondent à un besoin défini.
+Chaque groupe pourra présenter son projet, les problématiques qu'il a
+identifiées et les besoins associés.
 
-Enfin, nous vous invitons à décrire le besoin, identifier le secteur de marché,
-identifier la plus-value du service, identifier si votre idée est pertinente et
-compléter le rapport.
+Ensuite, nous allons vous laisser du temps pour travailler sur votre public
+cible **imaginaire**, ses personae et ses besoins.
 
-#### Conclusion
-
-TODO?
+Décrivez les hypothèses que vous avez sur votre public cible et rédigez une
+série de questions pour un entretien/questionnaire.
 
 #### À faire pour la semaine suivante
 
-TODO?
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Finaliser la description du public cible.
+- Finaliser la série de questions pour comprendre le public cible.
+- Identifier 2-3 personnes avec qui discuter pour comprendre le public cible.
+- Réaliser des entretiens/questionnaires avec au moins une personne pour
+  récolter des retours.
+
+<!--
 
 ### Séance 3 - Analyser les résultats des questionnaires
 
