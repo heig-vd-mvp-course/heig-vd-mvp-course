@@ -354,7 +354,7 @@ il est recommandé pour la prochaine fois de :
 
 <!--
 
-### Séance 3 - Analyser les résultats des questionnaires
+### Séance 3 - Analyser les résultats des interviews et questionnaires
 
 <!-- _class: lead --
 
