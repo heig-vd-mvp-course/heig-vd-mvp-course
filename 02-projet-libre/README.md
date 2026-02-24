@@ -44,6 +44,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Répartition des séances / jalons](#répartition-des-séances--jalons)
   - [Séance 1](#séance-1)
   - [Séance 2](#séance-2)
+  - [Séance 3](#séance-3)
+  - [Séance 4](#séance-4)
 
 ## Objectifs
 
@@ -745,7 +747,8 @@ ci-dessous.
 
 ### Séance 1
 
-Constituer les groupes et identifier des besoins au sein de la problématique.
+**Constituer les groupes et identifier des besoins au sein de la
+problématique.**
 
 > [!TIP]
 >
@@ -873,7 +876,7 @@ il est recommandé pour la prochaine fois de :
 
 ### Séance 2
 
-Identifier et interroger un public cible.
+**Identifier et interroger un public cible.**
 
 > [!TIP]
 >
@@ -963,9 +966,9 @@ il est recommandé pour la prochaine fois de :
 - Réaliser des entretiens/questionnaires avec au moins une personne pour
   récolter des retours.
 
-<!--
+### Séance 3
 
-### Séance 3 - Analyser les résultats des interviews et questionnaires
+**Analyser les résultats des interviews et questionnaires**
 
 > [!TIP]
 >
@@ -1059,10 +1062,6 @@ série de questions pour un entretien.
 Enfin, listez les hypothèses à valider pour comprendre le public cible et
 complétez le rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1072,9 +1071,13 @@ il est recommandé pour la prochaine fois de :
   votre public cible
 - Interviewer ces personnes pour récolter des retours
 
-### Séance 4 - CRUNCH : pas de séance
+### Séance 4
+
+**CRUNCH : pas de séance**
 
 _En raison du CRUNCH, il n'y a pas de séances de cours/projet._
+
+<!--
 
 ### Séance 6 - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)
 

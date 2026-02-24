@@ -324,34 +324,6 @@ Enfin, souvenez-vous qu'une équipe qui s'entraide et qui se valorise
 mutuellement sera perçue comme plus professionnelle, unie et crédible auprès de
 son auditoire.
 
-## Donner des feedbacks constructifs
-
-Pour savoir recevoir des feedbacks, il faut savoir en donner.
-
-Un schéma classique pour donner des feedbacks constructifs est le suivant.
-
-1. _"Ce que j'aime dans votre proposition, c'est..."_
-2. _"Ce que j'aimerais voir d'avantage, c'est..."_
-3. _"Ce que ça m'inspire comme piste, c'est..."_
-
-Cette ordre permet de faire "sandwich" entre un point positif, un point
-d'amélioration et finir sur à nouveau sur une note positive.
-
-## Recevoir des feedbacks constructifs
-
-Pour recevoir des feedbacks constructifs, il faut savoir écouter :
-
-- Ne pas interrompre la personne qui vous donne un feedback.
-- Prendre des notes si nécessaire.
-- Et poser des questions si vous ne comprenez pas un point.
-
-Mais surtout, remercier les personnes qui ont pris du temps pour vous faire un
-retour et n'essayer pas de vous justifier. Les feedbacks sont des pistes
-d'amélioration, pas des critiques personnelles.
-
-La seule raison pour la quelle vous devriez répondre, c'est pour demander des
-précisions ou annoncer ce que vous allez faire avec ce feedback.
-
 ## Conclusion
 
 Pitcher son idée est une compétence essentielle pour communiquer efficacement

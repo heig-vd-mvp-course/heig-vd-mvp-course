@@ -175,27 +175,6 @@ Sans oublier de sourire, de regarder son auditoire et rester confiant.e !
 
 ![bg right:40%][illustration-travailler-en-equipe-lors-dun-pitch]
 
-## Donner des feedbacks constructifs
-
-Un schéma classique :
-
-1. _"Ce que j'aime dans votre proposition, c'est..."_
-2. _"Ce que j'aimerais voir d'avantage, c'est..."_
-3. _"Ce que ça m'inspire comme piste, c'est..."_
-
-![bg right:40%][illustration-donner-des-feedbacks-constructifs]
-
-## Recevoir des feedbacks constructifs
-
-- Écouter sans interrompre
-- Demander des précisions si nécessaire
-- Ne pas se justifier
-- Remercier la personne
-
-**Ne pas le prendre personnellement !**
-
-![bg right:40%][illustration-recevoir-des-feedbacks-constructifs]
-
 ## Questions
 
 <!-- _class: lead -->
@@ -244,12 +223,6 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-travailler-en-equipe-lors-dun-pitch] par
   [Austin Kehmeier](https://unsplash.com/@a_kehmeier) sur
   [Unsplash](https://unsplash.com/photos/view-of-two-persons-hands-lyiKExA4zQA)
-- [Illustration][illustration-donner-des-feedbacks-constructifs] par
-  [Jon Tyson](https://unsplash.com/@jontyson) sur
-  [Unsplash](https://unsplash.com/photos/yellow-awesome-printed-signage-82ZEOTntP8g)
-- [Illustration][illustration-recevoir-des-feedbacks-constructifs]] par
-  [Larry George II](https://unsplash.com/@itslarryg) sur
-  [Unsplash](https://unsplash.com/photos/man-in-red-dress-shirt-and-blue-denim-jeans--uGGyKVjoWo)
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
@@ -257,7 +230,7 @@ Est-ce que vous avez des questions ?
 <!-- URLs -->
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/05-cours-promouvoir-et-pitcher-son-idee/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/07-pitcher-son-idee/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 
@@ -285,9 +258,5 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1548630435-998a2cbbff67?fit=crop&h=720
 [illustration-travailler-en-equipe-lors-dun-pitch]:
 	https://images.unsplash.com/photo-1578357078586-491adf1aa5ba?fit=crop&h=720
-[illustration-donner-des-feedbacks-constructifs]:
-	https://images.unsplash.com/photo-1508591360875-10163ed98c8e?fit=crop&h=720
-[illustration-recevoir-des-feedbacks-constructifs]:
-	https://images.unsplash.com/photo-1625024573146-5b95a5b861b5?fit=crop&h=720
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720

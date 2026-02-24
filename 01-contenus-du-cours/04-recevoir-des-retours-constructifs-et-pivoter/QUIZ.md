@@ -5,11 +5,11 @@ size: 16:9
 paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 description:
-  Quiz sur le contenu Recevoir des feedbacks constructifs et pivoter pour le
-  cours MVP à la HEIG-VD, Suisse
-url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/04-recevoir-des-feedbacks-constructifs-et-pivoter/presentation.html
+  Quiz sur le contenu Recevoir des retours constructifs et pivoter pour le cours
+  MVP à la HEIG-VD, Suisse
+url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/04-recevoir-des-retours-constructifs-et-pivoter/presentation.html
 header:
-  '[**Recevoir des feedbacks constructifs et pivoter -
+  '[**Recevoir des retours constructifs et pivoter -
   Quiz**][contenu-complet-sur-github]'
 footer:
   '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
@@ -18,7 +18,7 @@ footer:
 headingDivider: 6
 ---
 
-# Recevoir des feedbacks constructifs et pivoter - Quiz
+# Recevoir des retours constructifs et pivoter - Quiz
 
 <!--
 _class: lead
@@ -157,7 +157,7 @@ Est-ce que vous avez des questions ?
 <!-- URLs -->
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/12-cours-recevoir-des-feedbacks-constructifs-et-pivoter/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/04-recevoir-des-feedbacks-constructifs-et-pivoter/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

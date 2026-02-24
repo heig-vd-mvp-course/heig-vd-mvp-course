@@ -958,7 +958,7 @@ prochain groupe se prépare.
 <!-- URLs -->
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/02-projet-libre/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 
