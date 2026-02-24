@@ -24,13 +24,13 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Décrire ce qu'est un public cible
-> - Décrire ce qu'est un persona
-> - Identifier un public cible
-> - Décrire les étapes pour comprendre un public cible
-> - Identifier les (réels) besoins d'un public cible
-> - Décrire comment dialoguer avec un public cible
-> - Lister les hypothèses à valider pour comprendre un public cible
+> - Décrire ce qu'est un public cible.
+> - Décrire ce qu'est un persona.
+> - Identifier un public cible.
+> - Décrire les étapes pour comprendre un public cible.
+> - Identifier les (réels) besoins d'un public cible.
+> - Décrire comment dialoguer avec un public cible.
+> - Lister les hypothèses à valider pour comprendre un public cible.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
@@ -69,11 +69,11 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Les différentes formes possibles d'un dialogue](#les-différentes-formes-possibles-dun-dialogue)
   - [Limiter les biais de confirmation](#limiter-les-biais-de-confirmation)
   - [Poser les bonnes questions](#poser-les-bonnes-questions)
+  - [Exemples de questions à poser](#exemples-de-questions-à-poser)
   - [Savoir se remettre en question](#savoir-se-remettre-en-question)
 - [Comment réduire les incertitudes et valider les hypothèses](#comment-réduire-les-incertitudes-et-valider-les-hypothèses)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 
 ## Objectifs
 
@@ -84,13 +84,13 @@ vos hypothèses.
 
 De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
-- Décrire ce qu'est un public cible
-- Décrire ce qu'est un persona
-- Identifier un public cible
-- Décrire les étapes pour comprendre un public cible
-- Identifier les (réels) besoins d'un public cible
-- Décrire comment dialoguer avec un public cible
-- Lister les hypothèses à valider pour comprendre un public cible
+- Décrire ce qu'est un public cible.
+- Décrire ce qu'est un persona.
+- Identifier un public cible.
+- Décrire les étapes pour comprendre un public cible.
+- Identifier les (réels) besoins d'un public cible.
+- Décrire comment dialoguer avec un public cible.
+- Lister les hypothèses à valider pour comprendre un public cible.
 
 ## Public cible et personae
 
@@ -106,10 +106,10 @@ Le public cible représente l'ensemble des personnes susceptibles d'être
 intéressées par notre produit ou service. Il est défini par des caractéristiques
 démographiques, comportementales et contextuelles, telles que :
 
-- L'âge, le genre, la localisation géographique
-- Le niveau d'éducation et la profession
-- Les centres d'intérêt et habitudes de consommation
-- Les besoins et problèmes spécifiques
+- L'âge, le genre, la localisation géographique.
+- Le niveau d'éducation et la profession.
+- Les centres d'intérêt et habitudes de consommation.
+- Les besoins et problèmes spécifiques.
 
 ### Qu'est-ce qu'un persona ?
 
@@ -118,10 +118,10 @@ des recherches et des données réelles. Il nous permet de mieux visualiser et
 comprendre les attentes, comportements et motivations de notre public cible. Un
 persona comprend généralement :
 
-- Un nom et une courte biographie
-- Des objectifs et défis
-- Des comportements et motivations
-- Des préférences en matière de communication et de consommation
+- Un nom et une courte biographie.
+- Des objectifs et défis.
+- Des comportements et motivations.
+- Des préférences en matière de communication et de consommation.
 
 ### Exemple illustré
 
@@ -148,9 +148,9 @@ trouver des solutions adaptées à leurs contraintes de temps.
 
 En se basant sur ces informations, nous pouvons créer un persona pour Léa :
 
-- Léa, 28 ans, designer UX
-- Objectif : trouver des outils intuitifs pour collaborer
-- Défis : convaincre ses collègues, manque de temps pour l'équipe
+- Léa, 28 ans, designer UX.
+- Objectif : trouver des outils intuitifs pour collaborer.
+- Défis : convaincre ses collègues, manque de temps pour l'équipe.
 
 Indirectement, nous comprenons qu'il y a aussi un second public cible : les
 collègues de Léa. Ils sont réticents à adopter de nouveaux outils et manquent de
@@ -162,15 +162,15 @@ besoins et leurs contraintes spécifiques.
 Pour identifier et comprendre un public cible, il est essentiel de suivre une
 démarche structurée. Voici les étapes clés pour comprendre un public cible :
 
-1. **Définir les objectifs** : clarifier les attentes et les enjeux du projet
+1. **Définir les objectifs** : clarifier les attentes et les enjeux du projet.
 2. **Définir des hypothèses** : formuler des idées sur les besoins **imaginés**
-   et attentes **imaginées** du public cible
+   et attentes **imaginées** du public cible.
 3. **Établir les moyens pour obtenir des réponses** : définir les méthodes pour
-   dialoguer avec le public cible et valider les hypothèses
+   dialoguer avec le public cible et valider les hypothèses.
 4. **Récolter et analyser les données** : dialoguer avec le public cible pour
-   identifier les besoins réels et valider les hypothèses
+   identifier les besoins réels et valider les hypothèses.
 5. **Itérer et ajuster** : améliorer l'offre en fonction des retours et des
-   résultats
+   résultats.
 
 ## Identifier les (réels) besoins d'un public cible
 
@@ -217,13 +217,13 @@ Un biais de confirmation est la tendance à privilégier les informations qui
 confortent nos hypothèses initiales, en ignorant celles qui les remettent en
 question. Pour éviter ce biais :
 
-- Multiplier les sources d'information (données quantitatives et qualitatives)
-- Poser des questions ouvertes sans orienter les réponses
-- Favoriser l'écoute active et la reformulation
+- Multiplier les sources d'information (données quantitatives et qualitatives).
+- Poser des questions ouvertes sans orienter les réponses.
+- Favoriser l'écoute active et la reformulation.
 - Recourir à des experts ou des regards extérieurs pour challenger les
-  conclusions
+  conclusions.
 - **Éviter à tout prix les tests et retours utilisateurs avant d'avoir une
-  vision claire des besoins**
+  vision claire des besoins.**
 
 ### Poser les bonnes questions
 
@@ -260,6 +260,27 @@ Principes clés du livre _The Mom Test_ :
 >
 > Nous vous recommandons vivement de le lire si vous souhaitez approfondir ce
 > sujet.
+
+### Exemples de questions à poser
+
+**Bons exemples**
+
+- "Quelles sont les principales difficultés que vous rencontrez dans ce domaine
+  ?"
+- "Pouvez-vous me parler de la dernière fois que vous avez rencontré ce problème
+  ?"
+- "Comment avez-vous essayé de résoudre ce problème ?"
+- "Qu'est-ce qui a fonctionné ou pas dans votre approche ?"
+- "Comment ce problème affecte-t-il votre vie quotidienne ou votre travail ?"
+
+**Mauvais exemples**
+
+- "Que pensez-vous de ma solution ?"
+- "Seriez-vous prêt à payer pour une solution comme celle-ci ?"
+- "Qu'est-ce qui vous plaît ou déplaît dans cette idée ?"
+- "Comment cette solution pourrait-elle être améliorée pour mieux répondre à vos
+  besoins ?"
+- "Quels autres produits ou services utilisez-vous pour résoudre ce problème ?"
 
 ### Savoir se remettre en question
 
@@ -305,19 +326,19 @@ aux non-dits pour comprendre les besoins réels de vos utilisateurs.
 Quelques méthodes :
 
 - **Interviews utilisateurs** : poser des questions ouvertes pour comprendre les
-  besoins et attentes
+  besoins et attentes.
 - **Questionnaires en ligne** : recueillir des données quantitatives sur un
-  échantillon plus large
+  échantillon plus large.
 - **Observation terrain** : analyser le comportement des utilisateurs dans leur
-  environnement naturel
+  environnement naturel.
 - **Prototypage rapide** : créer une version simplifiée du produit et observer
-  les réactions
+  les réactions.
 - **Expérimentations terrain** : mettre en place des tests réels avec le public
-  cible
+  cible.
 - **Analyse des données** : exploiter les retours d'expérience et ajuster en
-  conséquence
+  conséquence.
 - **Itération continue** : améliorer progressivement l'offre en fonction des
-  feedbacks
+  feedbacks.
 
 ## Conclusion
 
@@ -340,7 +361,7 @@ une solution adaptée.
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- Relire le support de cours si nécessaire
+- Relire le support de cours si nécessaire.
 
 [^the-mom-test]:
     The Mom Test, [momtestbook.com](https://www.momtestbook.com/), 05 mars 2025

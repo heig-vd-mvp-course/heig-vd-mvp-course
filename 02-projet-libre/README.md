@@ -42,7 +42,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Minimum viable product (MVP)](#minimum-viable-product-mvp)
 - [Retour sur l'application de la méthodologie](#retour-sur-lapplication-de-la-méthodologie)
 - [Répartition des séances / jalons](#répartition-des-séances--jalons)
-  - [Séance 1 - Constituer les groupes et identifier des besoins au sein de la problématique](#séance-1---constituer-les-groupes-et-identifier-des-besoins-au-sein-de-la-problématique)
+  - [Séance 1](#séance-1)
+  - [Séance 2](#séance-2)
 
 ## Objectifs
 
@@ -742,7 +743,9 @@ C'est lors de ces séances que nous allons suivre l'avancement de votre projet e
 Les détails de chaque séance de cours et les ressources associées sont décrites
 ci-dessous.
 
-### Séance 1 - Constituer les groupes et identifier des besoins au sein de la problématique
+### Séance 1
+
+Constituer les groupes et identifier des besoins au sein de la problématique.
 
 > [!TIP]
 >
@@ -751,7 +754,7 @@ ci-dessous.
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-1---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-13)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-1)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -861,16 +864,16 @@ public cible.
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
 - Explorer d'autres problématiques/d'autres intérêts et leurs besoins associés.
 - Identifier une problématique.
 - Explorer d'autres problématiques.
 - Mettre en place la structure de base du rapport final.
 
-<!--
+### Séance 2
 
-### Séance 2 - Identifier et interroger un public cible
+Identifier et interroger un public cible.
 
 > [!TIP]
 >
@@ -879,7 +882,7 @@ il est recommandé pour la prochaine séance de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-2---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-23)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-2)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -888,20 +891,24 @@ il est recommandé pour la prochaine séance de :
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Identifier le contexte dans lequel évolue le projet libre.
-> - Identifier le secteur de marché dans lequel évolue le projet libre.
-> - Décrire le public cible pour lequel le projet libre est conçu.
+> - Décrire le public cible pour lequel le projet libre est conçu à l'aide de
+>   personae.
+> - Lister des hypothèses sur le public cible.
+> - Lister les hypothèses à valider pour comprendre le public cible.
+> - Rédiger une série de questions pour comprendre le public cible.
+> - Identifier 2-3 personnes avec qui discuter pour comprendre le public cible.
+> - Compléter le rapport.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Discussions en groupe
-> - Pitch
-> - Brainstorming
-> - Feedback
-> - Travail autonome en groupe ou individuel
+> - Discussions en groupe.
+> - Pitch.
+> - Brainstorming.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
 >
@@ -910,59 +917,53 @@ il est recommandé pour la prochaine séance de :
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à présenter
-> - Capacité à écouter
+> - Capacité à présenter.
+> - Capacité à écouter.
 > - Capacité à argumenter.
-> - Capacité à participer
+> - Capacité à participer.
 >
 > Les retours se font de la manière suivante :
 >
-> - Feedback
+> - Feedback.
 >
 > L'évaluation ne donne pas lieu à une note.
 
 #### Objectifs
 
-Deuxième séance pratique du cours _Lancez votre minimum viable product (MVP)_ !
-
-Cette séance a pour but de tester les outils de créativité pour trouver des
-idées originales et de choisir une idée qui répond à un besoin.
-
-De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
-
-- Identifier le contexte dans lequel évolue le projet
-- Identifier le secteur de marché dans lequel évolue le projet
-- Décrire le besoin auquel répond le projet
-- Lister des idées originales
-- Choisir une idée qui répond à un besoin
-- Identifier la plus-value du service
-- Identifier les avantages/forces et les inconvénients/faiblesses de l'idée
-- Compléter le rapport
+- Décrire le public cible pour lequel le projet libre est conçu à l'aide de
+  personae.
+- Lister des hypothèses sur le public cible.
+- Lister les hypothèses à valider pour comprendre le public cible.
+- Rédiger une série de questions pour comprendre le public cible.
+- Identifier 2-3 personnes avec qui discuter pour comprendre le public cible.
+- Compléter le rapport.
 
 #### Déroulement
 
-Nous vous invitons maintenant à prendre la parole pour rappeler vos groupes, les
-projets sur lesquels vous allez travailler et présenter l'avancement de votre
-projet.
+Nous vous invitons maintenant à passer nous voir pour présenter l'avancement de
+votre projet.
 
-Ensuite, nous vous invitons à tester les outils de créativité pour explorer
-d'autres idées originales qui répondent à un besoin défini.
+Chaque groupe pourra présenter son projet, les problématiques qu'il a
+identifiées et les besoins associés.
 
-Enfin, nous vous invitons à décrire le besoin, identifier le secteur de marché,
-identifier la plus-value du service, identifier si votre idée est pertinente et
-compléter le rapport.
+Ensuite, nous allons vous laisser du temps pour travailler sur votre public
+cible **imaginaire**, ses personae et ses besoins.
 
-#### Conclusion
-
-TODO?
+Décrivez les hypothèses que vous avez sur votre public cible et rédigez une
+série de questions pour un entretien/questionnaire.
 
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
-- Explorer d'autres idées/d'autres intérêts qui pourraient être intéressants
-  pour le projet
+- Finaliser la description du public cible.
+- Finaliser la série de questions pour comprendre le public cible.
+- Identifier 2-3 personnes avec qui discuter pour comprendre le public cible.
+- Réaliser des entretiens/questionnaires avec au moins une personne pour
+  récolter des retours.
+
+<!--
 
 ### Séance 3 - Analyser les résultats des questionnaires
 
@@ -998,11 +999,11 @@ il est recommandé pour la prochaine séance de :
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Discussions en groupe
-> - Pitch
-> - Brainstorming
-> - Feedback
-> - Travail autonome en groupe ou individuel
+> - Discussions en groupe.
+> - Pitch.
+> - Brainstorming.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
 >
@@ -1011,10 +1012,10 @@ il est recommandé pour la prochaine séance de :
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à présenter
-> - Capacité à écouter
+> - Capacité à présenter.
+> - Capacité à écouter.
 > - Capacité à argumenter.
-> - Capacité à participer
+> - Capacité à participer.
 > - Identification du public cible **imaginaire**
 > - Identification des personae **imaginés**
 > - Description des besoins **imaginés** du public cible
@@ -1023,7 +1024,7 @@ il est recommandé pour la prochaine séance de :
 >
 > Les retours se font de la manière suivante :
 >
-> - Feedback
+> - Feedback.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -1065,7 +1066,7 @@ TODO?
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
@@ -1110,11 +1111,11 @@ _En raison du CRUNCH, il n'y a pas de séances de cours/projet._
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Discussions en groupe
-> - Pitch
-> - Brainstorming
-> - Feedback
-> - Travail autonome en groupe ou individuel
+> - Discussions en groupe.
+> - Pitch.
+> - Brainstorming.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
 >
@@ -1123,14 +1124,14 @@ _En raison du CRUNCH, il n'y a pas de séances de cours/projet._
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à présenter
-> - Capacité à écouter
+> - Capacité à présenter.
+> - Capacité à écouter.
 > - Capacité à argumenter.
-> - Capacité à participer
+> - Capacité à participer.
 >
 > Les retours se font de la manière suivante :
 >
-> - Feedback
+> - Feedback.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -1172,7 +1173,7 @@ interviews réalisées jusqu'ici, partagé les réflexions autour de ces intervi
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
 - Finaliser la mise en ligne du site web statique
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
@@ -1211,11 +1212,11 @@ il est recommandé pour la prochaine séance de :
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Discussions en groupe
-> - Pitch
-> - Brainstorming
-> - Feedback
-> - Travail autonome en groupe ou individuel
+> - Discussions en groupe.
+> - Pitch.
+> - Brainstorming.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
 >
@@ -1224,14 +1225,14 @@ il est recommandé pour la prochaine séance de :
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à présenter
-> - Capacité à écouter
+> - Capacité à présenter.
+> - Capacité à écouter.
 > - Capacité à argumenter.
-> - Capacité à participer
+> - Capacité à participer.
 >
 > Les retours se font de la manière suivante :
 >
-> - Feedback
+> - Feedback.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -1272,7 +1273,7 @@ Votre projet est sur l'avant-scène et vous allez pouvoir le promouvoir.
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
 - Finaliser la landing page
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
@@ -1367,7 +1368,7 @@ d'obtenir des retours constructifs.
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
@@ -1456,7 +1457,7 @@ feedbacks de manière constructive.
 #### A faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
@@ -1499,11 +1500,11 @@ il est recommandé pour la prochaine séance de :
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Discussions en groupe
-> - Pitch
-> - Brainstorming
-> - Feedback
-> - Travail autonome en groupe ou individuel
+> - Discussions en groupe.
+> - Pitch.
+> - Brainstorming.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
 >
@@ -1512,14 +1513,14 @@ il est recommandé pour la prochaine séance de :
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à présenter
-> - Capacité à écouter
+> - Capacité à présenter.
+> - Capacité à écouter.
 > - Capacité à argumenter.
-> - Capacité à participer
+> - Capacité à participer.
 >
 > Les retours se font de la manière suivante :
 >
-> - Feedback
+> - Feedback.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -1560,7 +1561,7 @@ TODO?
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
 - Trouver une nouvelle idée (si nécessaire)
 - Effectuer des tests utilisateurs
@@ -1597,11 +1598,11 @@ il est recommandé pour la prochaine séance de :
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Discussions en groupe
-> - Pitch
-> - Brainstorming
-> - Feedback
-> - Travail autonome en groupe ou individuel
+> - Discussions en groupe.
+> - Pitch.
+> - Brainstorming.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
 >
@@ -1610,14 +1611,14 @@ il est recommandé pour la prochaine séance de :
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à présenter
-> - Capacité à écouter
+> - Capacité à présenter.
+> - Capacité à écouter.
 > - Capacité à argumenter.
-> - Capacité à participer
+> - Capacité à participer.
 >
 > Les retours se font de la manière suivante :
 >
-> - Feedback
+> - Feedback.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -1647,7 +1648,7 @@ TODO?
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
 - Réaliser des tests utilisateurs
 
@@ -1681,11 +1682,11 @@ il est recommandé pour la prochaine séance de :
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Discussions en groupe
-> - Pitch
-> - Brainstorming
-> - Feedback
-> - Travail autonome en groupe ou individuel
+> - Discussions en groupe.
+> - Pitch.
+> - Brainstorming.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
 >
@@ -1694,14 +1695,14 @@ il est recommandé pour la prochaine séance de :
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à présenter
-> - Capacité à écouter
+> - Capacité à présenter.
+> - Capacité à écouter.
 > - Capacité à argumenter.
-> - Capacité à participer
+> - Capacité à participer.
 >
 > Les retours se font de la manière suivante :
 >
-> - Feedback
+> - Feedback.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -1731,9 +1732,9 @@ TODO?
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
-- Relire le support de cours si nécessaire
+- Relire le support de cours si nécessaire.
 - Commencer à réviser pour l'évaluation de la
   [semaine 13](../../17-cours-evaluation/)
 
@@ -1763,11 +1764,11 @@ il est recommandé pour la prochaine séance de :
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Discussions en groupe
-> - Pitch
-> - Brainstorming
-> - Feedback
-> - Travail autonome en groupe ou individuel
+> - Discussions en groupe.
+> - Pitch.
+> - Brainstorming.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
 >
@@ -1776,14 +1777,14 @@ il est recommandé pour la prochaine séance de :
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à présenter
-> - Capacité à écouter
+> - Capacité à présenter.
+> - Capacité à écouter.
 > - Capacité à argumenter.
-> - Capacité à participer
+> - Capacité à participer.
 >
 > Les retours se font de la manière suivante :
 >
-> - Feedback
+> - Feedback.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -1813,7 +1814,7 @@ TODO?
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
 - Effectuer des tests utilisateurs
 - Réviser pour l'évaluation de la [semaine 13](../../17-cours-evaluation/)
@@ -1845,11 +1846,11 @@ il est recommandé pour la prochaine séance de :
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Discussions en groupe
-> - Pitch
-> - Brainstorming
-> - Feedback
-> - Travail autonome en groupe ou individuel
+> - Discussions en groupe.
+> - Pitch.
+> - Brainstorming.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
 >
@@ -1858,14 +1859,14 @@ il est recommandé pour la prochaine séance de :
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à présenter
-> - Capacité à écouter
+> - Capacité à présenter.
+> - Capacité à écouter.
 > - Capacité à argumenter.
-> - Capacité à participer
+> - Capacité à participer.
 >
 > Les retours se font de la manière suivante :
 >
-> - Feedback
+> - Feedback.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -1892,7 +1893,7 @@ TODO?
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
 - Finaliser le développement du service
 - Effectuer des tests utilisateurs
@@ -1924,11 +1925,11 @@ il est recommandé pour la prochaine séance de :
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Discussions en groupe
-> - Pitch
-> - Brainstorming
-> - Feedback
-> - Travail autonome en groupe ou individuel
+> - Discussions en groupe.
+> - Pitch.
+> - Brainstorming.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
 >
@@ -1937,14 +1938,14 @@ il est recommandé pour la prochaine séance de :
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Capacité à présenter
-> - Capacité à écouter
+> - Capacité à présenter.
+> - Capacité à écouter.
 > - Capacité à argumenter.
-> - Capacité à participer
+> - Capacité à participer.
 >
 > Les retours se font de la manière suivante :
 >
-> - Feedback
+> - Feedback.
 >
 > L'évaluation ne donne pas lieu à une note.
 
@@ -1971,7 +1972,7 @@ TODO?
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
 - Finaliser et rendre le rapport selon les attentes spécifiées à la semaine 15
 
@@ -2024,7 +2025,7 @@ TODO
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine séance de :
+il est recommandé pour la prochaine fois de :
 
 - Finaliser et rendre le développement du service selon les attentes spécifiées
   à la [semaine 16](#-semaine-16)

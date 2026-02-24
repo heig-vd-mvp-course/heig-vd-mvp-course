@@ -483,7 +483,7 @@ permet de gagner du temps et de réduire les erreurs humaines.
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- Relire le support de cours si nécessaire
+- Relire le support de cours si nécessaire.
 
 ## Sources
 

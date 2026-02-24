@@ -258,8 +258,8 @@ Est-ce que vous avez des questions ?
 
 ## À vous de jouer !
 
-- Prendre connaissance du [support de cours][contenu-complet-sur-github]
-- Poser des questions si nécessaire
+- Prendre connaissance du [support de cours][contenu-complet-sur-github].
+- Poser des questions si nécessaire.
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 

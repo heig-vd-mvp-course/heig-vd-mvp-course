@@ -52,10 +52,10 @@ document._
 
 ## Question 1 - Réponse
 
-- Multiplier les sources d'information
-- Poser des questions ouvertes
-- Favoriser l'écoute active et la reformulation
-- Recourir à des experts ou des regards extérieurs
+- Multiplier les sources d'information.
+- Poser des questions ouvertes.
+- Favoriser l'écoute active et la reformulation.
+- Recourir à des experts ou des regards extérieurs.
 
 ## Question 2 - Donnée
 
@@ -64,8 +64,10 @@ document._
 ## Question 2 - Réponse
 
 Un persona est une représentation semi-fictive d'un utilisateur type basée sur
-des recherches et des données réelles. Il permet de mieux visualiser et
-comprendre les attentes, comportements et motivations de notre public cible.
+des recherches et des données réelles.
+
+Il permet de mieux visualiser et comprendre les attentes, comportements et
+motivations de notre public cible.
 
 ## Question 3 - Donnée
 
@@ -98,9 +100,9 @@ Qualitatif : basé sur des entretiens, des observations et des échanges, souven
 individuel. Permet d'assurer une compréhension approfondie des motivations, des
 besoins et des attentes.
 
-- Comprendre les motivations, les besoins, les attentes
-- Explorer des pistes, des idées
-- Approfondir des problématiques
+- Comprendre les motivations, les besoins, les attentes.
+- Explorer des pistes, des idées.
+- Approfondir des problématiques.
 
 ## Question 5 - Réponse (2/2)
 
@@ -108,9 +110,9 @@ Quantitatif : basé sur des questionnaires, des sondages et des mesures, souvent
 en grande quantité. Permet de mesurer des comportements, des opinions, de
 valider des hypothèses et de comparer des groupes de façon statistique.
 
-- Mesurer des comportements, des opinions
-- Comparer des groupes
-- Parfois difficile de tirer une tendance claire
+- Mesurer des comportements, des opinions.
+- Comparer des groupes.
+- Parfois difficile de tirer une tendance claire.
 
 ## Question 6 - Donnée
 
@@ -139,8 +141,9 @@ permettent d'obtenir des réponses riches et détaillées.
 > 1. "Est-ce que vous aimez le produit ?"
 
 La question 1 est à faire attention selon quel produit on parle. Si l'on parle
-de votre produit, c'est une très mauvaise idée. Si c'est un autre produit qui
-peut amener à d'autres questions, pourquoi pas.
+de votre produit, c'est une très mauvaise idée.
+
+Si c'est un autre produit qui peut amener à d'autres questions, pourquoi pas.
 
 La question 3 est évidemment une mauvaise question.
 

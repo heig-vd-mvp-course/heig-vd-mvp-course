@@ -465,7 +465,7 @@ solutions qui répondent à ces besoins de manière efficace et innovante.
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la semaine suivante de :
 
-- Relire le support de cours si nécessaire
+- Relire le support de cours si nécessaire.
 
 <!-- URLs -->
 
