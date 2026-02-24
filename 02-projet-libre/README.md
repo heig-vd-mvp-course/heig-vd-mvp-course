@@ -784,7 +784,7 @@ Constituer les groupes et identifier des besoins au sein de la problématique.
 > - Discussions en groupe.
 > - Pitch.
 > - Brainstorming.
-> - Feedback..
+> - Feedback.
 > - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
@@ -907,7 +907,7 @@ Identifier et interroger un public cible.
 > - Discussions en groupe.
 > - Pitch.
 > - Brainstorming.
-> - Feedback..
+> - Feedback.
 > - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
@@ -1002,7 +1002,7 @@ il est recommandé pour la prochaine fois de :
 > - Discussions en groupe.
 > - Pitch.
 > - Brainstorming.
-> - Feedback..
+> - Feedback.
 > - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
@@ -1114,7 +1114,7 @@ _En raison du CRUNCH, il n'y a pas de séances de cours/projet._
 > - Discussions en groupe.
 > - Pitch.
 > - Brainstorming.
-> - Feedback..
+> - Feedback.
 > - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
@@ -1215,7 +1215,7 @@ il est recommandé pour la prochaine fois de :
 > - Discussions en groupe.
 > - Pitch.
 > - Brainstorming.
-> - Feedback..
+> - Feedback.
 > - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
@@ -1503,7 +1503,7 @@ il est recommandé pour la prochaine fois de :
 > - Discussions en groupe.
 > - Pitch.
 > - Brainstorming.
-> - Feedback..
+> - Feedback.
 > - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
@@ -1601,7 +1601,7 @@ il est recommandé pour la prochaine fois de :
 > - Discussions en groupe.
 > - Pitch.
 > - Brainstorming.
-> - Feedback..
+> - Feedback.
 > - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
@@ -1685,7 +1685,7 @@ il est recommandé pour la prochaine fois de :
 > - Discussions en groupe.
 > - Pitch.
 > - Brainstorming.
-> - Feedback..
+> - Feedback.
 > - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
@@ -1767,7 +1767,7 @@ il est recommandé pour la prochaine fois de :
 > - Discussions en groupe.
 > - Pitch.
 > - Brainstorming.
-> - Feedback..
+> - Feedback.
 > - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
@@ -1849,7 +1849,7 @@ il est recommandé pour la prochaine fois de :
 > - Discussions en groupe.
 > - Pitch.
 > - Brainstorming.
-> - Feedback..
+> - Feedback.
 > - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
@@ -1928,7 +1928,7 @@ il est recommandé pour la prochaine fois de :
 > - Discussions en groupe.
 > - Pitch.
 > - Brainstorming.
-> - Feedback..
+> - Feedback.
 > - Travail autonome en groupe ou individuel.
 >
 > **Méthodes d'évaluation**
