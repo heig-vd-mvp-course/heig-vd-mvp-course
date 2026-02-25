@@ -25,7 +25,7 @@ _class: lead
 _paginate: false
 -->
 
-<https://github.com/heig-vd-mvp-course>
+<https://github.com/heig-vd-mvp-course/heig-vd-mvp-course>
 
 Visualiser le contenu complet sur GitHub [à cette
 adresse][contenu-complet-sur-github].
@@ -154,9 +154,9 @@ La méthodologie MVP décrite dans le support de cours peut vous aider.
 
 Un schéma classique :
 
-1. _"Ce que j'aime dans votre proposition, c'est..."_
-2. _"Ce que j'aimerais voir d'avantage, c'est..."_
-3. _"Ce que ça m'inspire comme piste, c'est..."_
+1. _"Ce que j'aime dans votre proposition, c'est..."_.
+2. _"Ce que j'aimerais voir d'avantage, c'est..."_.
+3. _"Ce que ça m'inspire comme piste, c'est..."_.
 
 ![bg right:40%][illustration-donner-des-feedbacks-constructifs]
 

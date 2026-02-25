@@ -449,20 +449,20 @@ La pondération de ce délivrable est de 30% de la note finale du projet.
 
 La grille d'évaluation du rapport final est la suivante :
 
-|   # | Critère                                                                                                                                                                        |
-| --: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | Une recherche d'au moins deux besoins liés à la problématique a été effectuée                                                                                                  |
-|   2 | Une recherche d'au moins deux publics cible a été effectuée                                                                                                                    |
-|   3 | Des questions et des hypothèses pertinentes ont été formulées                                                                                                                  |
-|   4 | Des entretiens ont été réalisées avec le public cible (au moins trois par membre de l'équipe durant le semestre et au moins une pour l'équipe après la première séance dédiée) |
-|   5 | Une analyse des entretiens effectués avec le public cible a été réalisée                                                                                                       |
-|   6 | Des conclusions pertinentes ont été tirées de l'analyse des entretiens                                                                                                         |
-|   7 | Une recherche d'au moins deux solutions pour répondre au besoin du public cible basée sur les retours des entretiens a été effectuée                                           |
-|   8 | Le lien entre le besoin, le public cible et la solution est cohérent                                                                                                           |
-|   9 | Une analyse du marché avec les concurrents et les alternatives existantes a été réalisée                                                                                       |
-|  10 | Une recherche des choix et justifications technologiques pour la réalisation du MVP a été réalisée                                                                             |
-|  11 | Une étude des sources de revenus et du modèle économique envisagé a été réalisée                                                                                               |
-|  12 | Des tests utilisateurs ont été réalisés et analysés                                                                                                                            |
+|   # | Critère                                                                                                                                                                       |
+| --: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Une recherche d'au moins deux besoins liés à la problématique a été effectuée                                                                                                 |
+|   2 | Une recherche d'au moins deux publics cible a été effectuée                                                                                                                   |
+|   3 | Des questions et des hypothèses pertinentes ont été formulées                                                                                                                 |
+|   4 | Des entretiens ont été réalisés avec le public cible (au moins trois par membre de l'équipe durant le semestre et au moins une pour l'équipe après la première séance dédiée) |
+|   5 | Une analyse des entretiens effectués avec le public cible a été réalisée                                                                                                      |
+|   6 | Des conclusions pertinentes ont été tirées de l'analyse des entretiens                                                                                                        |
+|   7 | Une recherche d'au moins deux solutions pour répondre au besoin du public cible basée sur les retours des entretiens a été effectuée                                          |
+|   8 | Le lien entre le besoin, le public cible et la solution est cohérent                                                                                                          |
+|   9 | Une analyse du marché avec les concurrents et les alternatives existantes a été réalisée                                                                                      |
+|  10 | Une recherche des choix et justifications technologiques pour la réalisation du MVP a été réalisée                                                                            |
+|  11 | Une étude des sources de revenus et du modèle économique envisagé a été réalisée                                                                                              |
+|  12 | Des tests utilisateurs ont été réalisés et analysés                                                                                                                           |
 
 #### Contraintes
 
