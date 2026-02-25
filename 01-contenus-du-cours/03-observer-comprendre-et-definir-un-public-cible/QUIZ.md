@@ -91,7 +91,7 @@ pas réussi à expliquer le problème qu'il résout à votre maman.
 
 ## Question 5 - Donnée
 
-> Quelles est la différence entre des interviews/questionnaires qualitatifs et
+> Quelles est la différence entre des entretiens/questionnaires qualitatifs et
 > quantitatifs ?
 
 ## Question 5 - Réponse (1/2)
@@ -149,7 +149,7 @@ La question 3 est évidemment une mauvaise question.
 
 ## Question 7 - Donnée
 
-> Quelle est une règle primordiale pour réaliser un interview qualitatif ?
+> Quelle est une règle primordiale pour réaliser un entretien qualitatif ?
 
 ## Question 7 - Réponse
 

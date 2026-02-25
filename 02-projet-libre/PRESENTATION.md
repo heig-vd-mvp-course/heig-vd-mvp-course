@@ -354,7 +354,7 @@ il est recommandé pour la prochaine fois de :
 
 <!--
 
-### Séance 3 - Analyser les résultats des interviews et questionnaires
+### Séance 3 - Analyser les résultats des entretiens et questionnaires
 
 <!-- _class: lead --
 
@@ -400,7 +400,7 @@ il est recommandé pour la semaine suivante de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
-- Interviewer ces personnes pour récolter des retours
+- S'entretenir avec ces personnes pour récolter des retours
 
 ### Séance 4 - CRUNCH : pas de séance
 
@@ -446,7 +446,7 @@ il est recommandé pour la semaine suivante de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
-- Interviewer ces personnes pour récolter des retours
+- S'entretenir avec ces personnes pour récolter des retours
 
 ### Séance 6 - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)
 
@@ -463,8 +463,8 @@ il est recommandé pour la semaine suivante de :
 
 #### Objectifs (2/3)
 
-- Mettre en commun les interviews réalisées jusqu'ici
-- Partager les réflexions autour de ces interviews
+- Mettre en commun les entretiens réalisées jusqu'ici
+- Partager les réflexions autour de ces entretiens
 
 ![bg right:40%][illustration-objectifs]
 
@@ -499,7 +499,7 @@ il est recommandé pour la semaine suivante de :
 - Finaliser la mise en ligne du site web statique
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
-- Interviewer ces personnes pour récolter des retours
+- S'entretenir avec ces personnes pour récolter des retours
 
 ### Séance 7 - Réalisation et hébergement de la landing page avec formulaire de contact (2/2)
 
@@ -524,7 +524,7 @@ il est recommandé pour la semaine suivante de :
 
 #### Déroulement
 
-Profitant des retours des interviews, réalisez un mockup de la landing page de
+Profitant des retours des entretiens, réalisez un mockup de la landing page de
 votre projet. Continuez à réaliser la landing page et implémentez un formulaire
 de contact.
 
@@ -546,7 +546,7 @@ il est recommandé pour la semaine suivante de :
 
 - Finaliser la landing page
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
-  votre public cible et les interviewer
+  votre public cible et s'entretenir avec ces personnes pour récolter des retours
 - Partager votre projet autour de vous selon les canaux de communication
   identifiés
 - Finaliser et répéter la présentation sur la [Prospection][prospection]
@@ -568,7 +568,7 @@ il est recommandé pour la semaine suivante de :
 #### Déroulement
 
 Vous avez 8-10 minutes pour présenter votre travail sur la prospection
-(interviews, public cible, etc...), après quoi votre groupe répondra aux
+(entretiens, public cible, etc...), après quoi votre groupe répondra aux
 questions et au feedbacks.
 
 Il est conseillé de préparer un support pour votre présentation.
@@ -590,7 +590,7 @@ il est recommandé pour la semaine suivante de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
-- Interviewer ces personnes pour récolter des retours
+- S'entretenir avec ces personnes pour récolter des retours
 - Partager votre projet autour de vous selon les canaux de communication
   identifiés
 

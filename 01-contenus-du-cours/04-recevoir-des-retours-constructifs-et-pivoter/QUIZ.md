@@ -53,7 +53,7 @@ document._
 ## Question 1 - Réponse
 
 Un pivot consiste à **réorienter** un projet tout en **conservant** les acquis
-déjà réalisés (public cible, interviews, compétences techniques validées, etc.).
+déjà réalisés (public cible, entretiens, compétences techniques validées, etc.).
 C'est une démarche stratégique pour répondre efficacement aux besoins réels du
 marché.
 

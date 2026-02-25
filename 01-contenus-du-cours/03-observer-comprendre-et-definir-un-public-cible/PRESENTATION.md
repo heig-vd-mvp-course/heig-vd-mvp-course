@@ -118,7 +118,7 @@ Un autre potentiel public se cache derrière Léa : les collègues de Léa.
 
 1. Définir les objectifs du projet.
 2. Définir des hypothèses à valider (personae + besoins).
-3. Établir les moyens pour obtenir des réponses (interviews, tests, etc.).
+3. Établir les moyens pour obtenir des réponses (entretiens, tests, etc.).
 4. Récolter et analyser les données.
 5. Itérer et ajuster.
 
@@ -225,7 +225,7 @@ Ce ne sont pas les mêmes egos !
 But : éliminer toutes nos questions et incertitudes à l'aide des outils suivants
 :
 
-- Interviews utilisateurs.
+- Entretiens.
 - Questionnaires en ligne.
 - Observation terrain.
 

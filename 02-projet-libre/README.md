@@ -324,9 +324,9 @@ La grille d'évaluation du rapport final est la suivante :
 - Le rapport est facile à lire, bien structuré et bien présenté.
 - Au moins deux idées doivent être présentées et explorées avant de choisir
   celle qui sera développée.
-- Le nombre d'interviews est proportionnel au nombre de membres de l'équipe (un
-  membre doit réaliser au moins trois interviews).
-- Le questionnaire d'interview doit être annexé au rapport.
+- Le nombre d'entretiens est proportionnel au nombre de membres de l'équipe (un
+  membre doit réaliser au moins trois entretiens).
+- Le questionnaire d'entretien doit être annexé au rapport.
 - Les maquettes des fonctionnalités clés doivent être annexées au rapport.
 - Le business model canvas doit être annexé au rapport.
 - Le délai et le format du rendu du rapport final doivent être respectés.
@@ -454,7 +454,7 @@ La grille d'évaluation du rapport final est la suivante :
 |   1 | Une recherche d'au moins deux besoins liés à la problématique a été effectuée                                                                                                  |
 |   2 | Une recherche d'au moins deux publics cible a été effectuée                                                                                                                    |
 |   3 | Des questions et des hypothèses pertinentes ont été formulées                                                                                                                  |
-|   4 | Des interviews ont été réalisées avec le public cible (au moins trois par membre de l'équipe durant le semestre et au moins une pour l'équipe après la première séance dédiée) |
+|   4 | Des entretiens ont été réalisées avec le public cible (au moins trois par membre de l'équipe durant le semestre et au moins une pour l'équipe après la première séance dédiée) |
 |   5 | Une analyse des entretiens effectués avec le public cible a été réalisée                                                                                                       |
 |   6 | Des conclusions pertinentes ont été tirées de l'analyse des entretiens                                                                                                         |
 |   7 | Une recherche d'au moins deux solutions pour répondre au besoin du public cible basée sur les retours des entretiens a été effectuée                                           |
@@ -968,7 +968,7 @@ il est recommandé pour la prochaine fois de :
 
 ### Séance 3
 
-**Analyser les résultats des interviews et questionnaires**
+**Analyser les résultats des entretiens et questionnaires**
 
 > [!TIP]
 >
@@ -1069,7 +1069,7 @@ il est recommandé pour la prochaine fois de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
-- Interviewer ces personnes pour récolter des retours
+- S'entretenir avec ces personnes pour récolter des retours
 
 ### Séance 4
 
@@ -1101,8 +1101,8 @@ _En raison du CRUNCH, il n'y a pas de séances de cours/projet._
 > - Réaliser un site statique type _"Hello, world!"_
 > - Déployer le site statique sur Internet
 > - Identifier les mots clés pour le référencement
-> - Mettre en commun les interviews réalisées jusqu'ici
-> - Partager les réflexions autour de ces interviews
+> - Mettre en commun les entretiens réalisées jusqu'ici
+> - Partager les réflexions autour de ces entretiens
 > - Prendre connaissance de la forme attendue pour la présentation sur la
 >   [Prospection](#projet---présentations-de-la-prospection)
 > - Prendre connaissance des critères d'évaluation pour la présentation sur la
@@ -1147,8 +1147,8 @@ _En raison du CRUNCH, il n'y a pas de séances de cours/projet._
 - Réaliser un site statique type _"Hello, world!"_
 - Déployer le site statique sur Internet
 - Identifier les mots clés pour le référencement
-- Mettre en commun les interviews réalisées jusqu'ici
-- Partager les réflexions autour de ces interviews
+- Mettre en commun les entretiens réalisées jusqu'ici
+- Partager les réflexions autour de ces entretiens
 - Prendre connaissance de la forme attendue pour la présentation sur la
   [Prospection][prospection]
 - Prendre connaissance des critères d'évaluation pour la présentation sur la
@@ -1171,7 +1171,7 @@ et prenez connaissance de la présentation sur la prospection et son contenu.
 À l'issue de cette séance, vous avez pris en main un outil de création de site
 web statique, réalisé un site statique _"Hello, world!"_, déployé le site sur
 Internet, identifié les mots clés pour le référencement, mis en commun les
-interviews réalisées jusqu'ici, partagé les réflexions autour de ces interviews.
+entretiens réalisées jusqu'ici, partagé les réflexions autour de ces entretiens.
 
 #### À faire pour la prochaine séance
 
@@ -1181,7 +1181,7 @@ il est recommandé pour la prochaine fois de :
 - Finaliser la mise en ligne du site web statique
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
-- Interviewer ces personnes pour récolter des retours
+- S'entretenir avec ces personnes pour récolter des retours
 
 ### Séance 7 - Réalisation et hébergement de la landing page avec formulaire de contact (2/2)
 
@@ -1254,7 +1254,7 @@ il est recommandé pour la prochaine fois de :
 
 #### Déroulement
 
-Profitant des retours des interviews, réalisez un mockup de la landing page de
+Profitant des retours des entretiens, réalisez un mockup de la landing page de
 votre projet. Continuez à réaliser la landing page et implémentez un formulaire
 de contact.
 
@@ -1281,7 +1281,7 @@ il est recommandé pour la prochaine fois de :
 - Finaliser la landing page
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
-- Interviewer ces personnes pour récolter des retours
+- S'entretenir avec ces personnes pour récolter des retours
 - Partager votre projet autour de vous selon les canaux de communication
   identifiés
 - Finaliser la présentation sur la [Prospection][prospection]
@@ -1375,7 +1375,7 @@ il est recommandé pour la prochaine fois de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
-- Interviewer ces personnes pour récolter des retours
+- S'entretenir avec ces personnes pour récolter des retours
 
 ### Séance 8 - Présentation sur la prospection
 
@@ -1440,7 +1440,7 @@ il est recommandé pour la prochaine fois de :
 #### Déroulement
 
 Vous avez 8-10 minutes pour présenter votre travail sur la prospection
-(interviews, public cible, etc...), après quoi votre groupe répondra aux
+(entretiens, public cible, etc...), après quoi votre groupe répondra aux
 questions et au feedbacks.
 
 Il est conseillé de préparer un support pour votre présentation.
@@ -1464,7 +1464,7 @@ il est recommandé pour la prochaine fois de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
-- Interviewer ces personnes pour récolter des retours
+- S'entretenir avec ces personnes pour récolter des retours
 - Partager votre projet autour de vous selon les canaux de communication
   identifiés
 

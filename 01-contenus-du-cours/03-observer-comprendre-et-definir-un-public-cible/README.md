@@ -288,7 +288,7 @@ Comprendre son public cible, c'est aussi accepter que nos premières hypothèses
 puissent être erronées. Se remettre en question ne signifie pas manquer de
 confiance en soi, mais savoir ajuster son égo selon la situation.
 
-- Lors des interviews, il est essentiel de mettre de côté l'égo lié à notre
+- Lors des entretiens, il est essentiel de mettre de côté l'égo lié à notre
   capacité à trouver des solutions. L'objectif n'est pas de convaincre, mais
   d'écouter et de comprendre. Développer son empathie et sa capacité d'écoute
   est ici un véritable atout.
@@ -319,14 +319,14 @@ Notez toutes vos incertitudes et hypothèses. Pour chaque hypothèse, définisse
 une méthode de validation et un indicateur de succès. Testez vos idées, analysez
 les résultats et ajustez en conséquence.
 
-Lors des interviews, essayez de valider vos hypothèses en posant des questions
+Lors des entretiens, essayez de valider vos hypothèses en posant des questions
 ouvertes et en observant les réactions. Soyez attentif aux signaux faibles et
 aux non-dits pour comprendre les besoins réels de vos utilisateurs.
 
 Quelques méthodes :
 
-- **Interviews utilisateurs** : poser des questions ouvertes pour comprendre les
-  besoins et attentes.
+- **Entretiens** : poser des questions ouvertes pour comprendre les besoins et
+  attentes.
 - **Questionnaires en ligne** : recueillir des données quantitatives sur un
   échantillon plus large.
 - **Observation terrain** : analyser le comportement des utilisateurs dans leur
@@ -349,7 +349,7 @@ décision et l'optimisation des ressources. En nous mettant à la place de nos
 utilisateurs, nous améliorons leur expérience et augmentons nos chances de
 succès.
 
-De plus, l'étape de validation des hypothèses au travers d'interviews, de
+De plus, l'étape de validation des hypothèses au travers d'entretiens, de
 questionnaires et de tests nous permet de réduire les incertitudes et de valider
 nos choix. En dialoguant avec notre public cible, en posant les bonnes questions
 et en acceptant de nous remettre en question, nous améliorons notre

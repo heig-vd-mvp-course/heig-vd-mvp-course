@@ -99,7 +99,7 @@ est ergonomique ?
 
 - Effectuer des tests utilisateurs en observant comment les personnes
   interagissent avec la page.
-- Analyser les retours des utilisateurs via des formulaires ou des interviews
+- Analyser les retours des utilisateurs via des formulaires ou des entretiens
   qualitatives.
 - Utiliser des outils d'analyse comme **WAVE Evaluation Tool** et **PageSpeed
   Insights** pour évaluer l'accessibilité et la performance de la page.

@@ -66,7 +66,7 @@ document._
 ## Qu'est-ce qu'un pivot ?
 
 **Réorienter** le projet et **conserver** les acquis déjà réalisés (public
-cible, interviews, etc.).
+cible, entretiens, etc.).
 
 **Exemples :**
 
