@@ -364,7 +364,8 @@ il est recommandé pour la semaine suivante de :
 - Relire le support de cours si nécessaire.
 
 [^the-mom-test]:
-    The Mom Test, [momtestbook.com](https://www.momtestbook.com/), 05 mars 2025
+    [The Mom Test, [momtestbook.com](https://www.momtestbook.com/), 05 mars
+    2025]([Fitzpatrick, Rob, _"The Mom Test: How to Talk to Customers and Learn If Your Business is a Good Idea when Everyone is Lying to You"_, 2013](https://swisscovery.slsp.ch/permalink/41SLSP_NETWORK/1ufb5t2/alma991053025789705501).)
 
 <!-- URLs -->
 

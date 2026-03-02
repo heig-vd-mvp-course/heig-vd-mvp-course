@@ -250,8 +250,7 @@ Quelques règles concernant l'utilisation de ces outils pour vos rendus :
 
 ## Bibliographie et ressources utilisées
 
-- Fitzpatrick, Rob, _"The Mom Test: How to Talk to Customers and Learn If Your
-  Business is a Good Idea when Everyone is Lying to You"_, 2013.
+- [Fitzpatrick, Rob, _"The Mom Test: How to Talk to Customers and Learn If Your Business is a Good Idea when Everyone is Lying to You"_, 2013](https://swisscovery.slsp.ch/permalink/41SLSP_NETWORK/1ufb5t2/alma991053025789705501).
 - Nyffeler, Nathalie, _"Le livre des récits : Savoirs et connaissances des
   navigateur·rice·s aguerri·e·s"_, 2022.
 - Nyffeler, Nathalie, _"Le Livre du Design Thinking - Méthode d'innovation
