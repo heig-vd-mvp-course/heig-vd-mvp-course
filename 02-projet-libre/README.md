@@ -986,16 +986,15 @@ il est recommandé pour la prochaine fois de :
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Choisir une idée qui répond à un besoin
-> - Rédiger la description du projet
-> - Identifier le public cible **imaginaire**
-> - Lister des personae **imaginés**
-> - Améliorer la description des besoins **imaginés** du public cible
-> - Identifier les étapes pour comprendre le public cible
-> - Rédiger une série de questions pour comprendre le public cible
-> - Identifier 2-3 personnes avec qui discuter pour comprendre le public cible
-> - Lister les hypothèses à valider pour comprendre le public cible
-> - Compléter le rapport
+> - Analyser les résultats des entretiens et questionnaires réalisés avec le
+>   public cible.
+> - Identifier les besoins du public cible à partir des résultats des entretiens
+>   et questionnaires.
+> - Imaginer d'autres hypothèses à valider pour comprendre le public cible.
+> - Améliorer la description du public cible.
+> - Améliorer la description des besoins du public cible.
+> - Améliorer la série de questions pour comprendre le public cible.
+> - Compléter le rapport.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
@@ -1033,34 +1032,27 @@ il est recommandé pour la prochaine fois de :
 
 #### Objectifs
 
-Troisième séance pratique du cours _Lancez votre minimum viable product (MVP)_ !
-
-Cette séance a pour but de comprendre le public cible du projet et de valider
-les hypothèses.
-
-De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
-
-- Choisir une idée qui répond à un besoin
-- Rédiger la description du projet
-- Identifier le public cible **imaginaire**
-- Lister des personae **imaginés**
-- Améliorer la description des besoins **imaginés** du public cible
-- Identifier les étapes pour comprendre le public cible
-- Rédiger une série de questions pour comprendre le public cible
-- Identifier 2-3 personnes avec qui discuter pour comprendre le public cible
-- Lister les hypothèses à valider pour comprendre le public cible
-- Compléter le rapport
+- Analyser les résultats des entretiens et questionnaires réalisés avec le
+  public cible.
+- Identifier les besoins du public cible à partir des résultats des entretiens
+  et questionnaires.
+- Imaginer d'autres hypothèses à valider pour comprendre le public cible.
+- Améliorer la description du public cible.
+- Améliorer la description des besoins du public cible.
+- Améliorer la série de questions pour comprendre le public cible.
+- Compléter le rapport.
 
 #### Déroulement
 
-Nous vous invitons à travailler sur votre public cible **imaginaire**, ses
-personae et ses besoins.
+Nous vous invitons maintenant à passer nous voir pour présenter l'avancement de
+votre projet.
 
-Ensuite, identifiez les personnes avec qui vous allez discuter et préparez une
-série de questions pour un entretien.
+Présentez les questions que vous avez posées, les réponses que vous avez
+obtenues et les conclusions que vous en avez tirées.
 
-Enfin, listez les hypothèses à valider pour comprendre le public cible et
-complétez le rapport.
+Ensuite, nous allons vous laisser du temps pour travailler sur l'analyse de vos
+entretiens/questionnaires, l'identification des besoins de votre public cible et
+l'amélioration de la description de votre public cible et de ses besoins.
 
 #### À faire pour la prochaine séance
 
@@ -1068,8 +1060,10 @@ Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine fois de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
-  votre public cible
-- S'entretenir avec ces personnes pour récolter des retours
+  votre public cible.
+- S'entretenir avec ces personnes pour récolter des retours.
+- Itérer sur la description de votre public cible et de ses besoins en fonction
+  des retours obtenus.
 
 ### Séance 4
 
@@ -1557,10 +1551,6 @@ Prenez ce moment pour faire le point sur votre projet. Vous pouvez :
 - Organiser un brainstorming en équipe pour identifier des pistes alternatives
   concrètes (si nécessaire).
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1644,10 +1634,6 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1728,10 +1714,6 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1810,10 +1792,6 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1889,10 +1867,6 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1967,10 +1941,6 @@ envisagé.
 
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
-
-#### Conclusion
-
-TODO?
 
 #### À faire pour la prochaine séance
 
@@ -2122,10 +2092,6 @@ prochain groupe se prépare.
 | 7     | Hutzli Boris                           | 11:15 - 11:25 |
 | 8     | Graf Calvin, Sottile Alan              | 11:30 - 11:40 |
 | 9     | Roland Samuel                          | 11:45 - 11:55 |
-
-#### Conclusion
-
-TODO?
 
 -->
 

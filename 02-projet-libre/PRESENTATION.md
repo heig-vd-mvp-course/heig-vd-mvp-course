@@ -250,7 +250,7 @@ obtenir le meilleur produit pour votre public cible.
 
 <!-- _class: lead -->
 
-Constituer les groupes et identifier des besoins au sein de la problématique
+**Constituer les groupes et identifier des besoins au sein de la problématique**
 
 #### Objectifs (1/2)
 
@@ -308,7 +308,7 @@ il est recommandé pour la prochaine fois de :
 
 <!-- _class: lead -->
 
-Identifier et interroger un public cible
+**Identifier et interroger un public cible**
 
 #### Objectifs (1/2)
 
@@ -352,11 +352,11 @@ il est recommandé pour la prochaine fois de :
 - Réaliser des entretiens/questionnaires avec au moins une personne pour
   récolter des retours.
 
-<!--
+### Séance 3
 
-### Séance 3 - Analyser les résultats des entretiens et questionnaires
+<!-- _class: lead -->
 
-<!-- _class: lead --
+**Analyser les résultats des entretiens et questionnaires**
 
 #### Objectifs (1/2)
 
@@ -389,10 +389,6 @@ série de questions pour un entretien.
 Enfin, listez les hypothèses à valider pour comprendre le public cible et
 complétez le rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -402,13 +398,16 @@ il est recommandé pour la semaine suivante de :
   votre public cible
 - S'entretenir avec ces personnes pour récolter des retours
 
-### Séance 4 - CRUNCH : pas de séance
+### Séance 4
 
-<!-- _class: lead --
+<!-- _class: lead -->
+
+**CRUNCH : pas de séance**
 
 _En raison du CRUNCH, il n'y a pas de séances de cours/projet._
 
-TODO ?
+<!--
+
 ### Séance 5 - Présentations du pitch
 
 <!-- _class: lead --
@@ -434,10 +433,6 @@ feedbacks constructifs.
 
 Vous pouvez retrouver la grille d'évaluation de la présentation ici :
 [Projet libre - Grille d'évaluation des présentations](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
-
-#### Conclusion
-
-TODO?
 
 #### À faire pour la semaine suivante
 
@@ -487,10 +482,6 @@ visible sur Internet.
 Complétez le rapport avec les nouvelles données que vous avez acquises jusqu'ici
 et prenez connaissance de la présentation sur la prospection et son contenu.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -535,10 +526,6 @@ Ayez toujours un regard critique sur votre projet et soyez prêt.es à recevoir
 des feedbacks constructifs. Et aussi, gardez en tête le fil rouge du cours et
 les prochaines étapes.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -578,10 +565,6 @@ feedbacks constructifs.
 
 Vous pouvez retrouver la grille d'évaluation de la présentation ici :
 [Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-dévaluation-des-présentations)
-
-#### Conclusion
-
-TODO?
 
 #### À faire pour la semaine suivante
 
@@ -636,10 +619,6 @@ Prenez ce moment pour faire le point sur votre projet. Vous pouvez :
 - Planifier le développement des fonctionnalités minimales pour le service
   envisagé.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -671,10 +650,6 @@ il est recommandé pour la semaine suivante de :
 #### Déroulement
 
 TODO
-
-#### Conclusion
-
-TODO?
 
 #### À faire pour la semaine suivante
 
@@ -710,10 +685,6 @@ envisagé.
 
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
-
-#### Conclusion
-
-TODO?
 
 #### À faire pour la semaine suivante
 
@@ -751,10 +722,6 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -782,10 +749,6 @@ envisagé.
 
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
-
-#### Conclusion
-
-TODO?
 
 #### À faire pour la semaine suivante
 
@@ -815,10 +778,6 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -837,10 +796,6 @@ TODO
 #### Déroulement
 
 TODO
-
-#### Conclusion
-
-TODO?
 
 #### À faire pour la semaine suivante
 
