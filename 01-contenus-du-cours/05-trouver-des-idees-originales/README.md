@@ -24,18 +24,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Décrire ce qu'est un contexte
-> - Décrire ce qu'est un besoin
-> - Décrire ce qu'est un secteur de marché
-> - Identifier des secteurs de marché prometteurs pour y fournir un nouveau
->   service
-> - Décrire ce qu'est une idée originale
-> - Lister des sources d'inspiration pour trouver des idées originales
-> - Générer des idées originales
-> - Identifier les avantages et les inconvénients d'une idée
-> - Évaluer la pertinence d'une idée
-> - Évaluer la faisabilité d'une idée
-> - Lister des sources d'inspiration pour trouver des idées originales
+> - Décrire ce qu'est une idée originale.
+> - Générer des idées originales.
+> - Identifier les avantages et les inconvénients d'une idée.
+> - Évaluer la pertinence d'une idée.
+> - Évaluer la faisabilité d'une idée.
+> - Lister des sources d'inspiration pour trouver des idées originales.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
@@ -64,12 +58,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
-- [Comprendre le contexte dans lequel nous évoluons](#comprendre-le-contexte-dans-lequel-nous-évoluons)
-- [Identifier des secteurs de marché](#identifier-des-secteurs-de-marché)
-  - [Exemple : le secteur pharmaceutique](#exemple--le-secteur-pharmaceutique)
-  - [Exemple : le secteur agricole](#exemple--le-secteur-agricole)
-- [Définir un besoin](#définir-un-besoin)
-- [Identifier un marché prometteur](#identifier-un-marché-prometteur)
 - [Trouver une idée originale](#trouver-une-idée-originale)
 - [Méthodologies pour générer des idées](#méthodologies-pour-générer-des-idées)
   - [Brainstorming](#brainstorming)
@@ -78,174 +66,21 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Trouver des sources d'inspiration d'idées originales](#trouver-des-sources-dinspiration-didées-originales)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 
 ## Objectifs
 
-Cette séance a pour objectif de vous apprendre à trouver des idées originales
-dans un secteur de marché donné. Pour ce faire, vous apprendrez à identifier des
-besoins, à générer des idées originales, à évaluer ces idées et à les rendre
-réalisables.
+Cette séance a pour objectif de vous apprendre à trouver des idées originales.
+Pour ce faire, vous apprendrez à générer des idées originales, à évaluer ces
+idées et à les rendre réalisables.
 
 De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
-- Décrire ce qu'est un contexte
-- Décrire ce qu'est un besoin
-- Décrire ce qu'est un secteur de marché
-- Identifier des secteurs de marché prometteurs pour y fournir un nouveau
-  service
-- Décrire ce qu'est une idée originale
-- Générer des idées originales
-- Identifier les avantages et les inconvénients d'une idée
-- Évaluer la pertinence d'une idée
-- Évaluer la faisabilité d'une idée
-- Lister des sources d'inspiration pour trouver des idées originales
-
-## Comprendre le contexte dans lequel nous évoluons
-
-Avant de se lancer dans la recherche d'idées, il est essentiel de comprendre le
-contexte dans lequel elles vont évoluer. Une même idée peut être pertinente dans
-un pays et complètement inadaptée dans un autre. Elle peut être viable
-aujourd'hui mais obsolète demain, ou encore être freinée par des contraintes
-légales ou culturelles.
-
-Le contexte est une notion complexe qui regroupe de nombreux éléments, parmi
-lesquels :
-
-- **Contexte social** : les habitudes de consommation, les valeurs culturelles
-  et les attentes du public influencent la demande pour un produit ou un
-  service.
-- **Contexte économique** : un marché en croissance peut offrir plus
-  d'opportunités qu'un secteur en crise. De même, le pouvoir d'achat et le
-  niveau de concurrence sont des facteurs clés à analyser.
-- **Contexte politique et réglementaire** : les lois, les subventions ou les
-  interdictions sont autant de contraintes à prendre en compte.
-- **Contexte technologique** : les avancées techniques agrandissent l'horizon
-  des possibles ou rend obsolètes certaines solutions.
-- **Contexte géographique** : les ressources naturelles, le climat,
-  l'accessibilité ou encore la densité de population jouent un rôle clé. Une
-  solution adaptée à une grande ville peut ne pas l'être pour une région rurale,
-  et inversement.
-
-Voici quelques exemples de contextes qui peuvent influencer la pertinence d'une
-idée :
-
-- L'essor des produits biologiques est en partie dû à une prise de conscience
-  collective sur la santé et l'environnement.
-- L'essor des énergies renouvelables est en grande partie porté par des
-  décisions politiques et des incitations financières.
-- L'essor de l'intelligence artificielle ouvre des opportunités dans de nombreux
-  secteurs, tandis que certaines professions deviennent automatisables.
-
-Prendre en compte ces éléments permet d'éviter les erreurs stratégiques et
-d'adapter une idée à son environnement pour maximiser ses chances de succès.
-
-## Identifier des secteurs de marché
-
-Avant de se lancer dans l'entrepreneuriat, il est important de bien comprendre
-les secteurs de marché dans lequel vous souhaitez vous lancer. Il faut savoir
-que la définition n'est pas forcément clair et qu'il existe plusieurs
-définitions.
-
-La définition qui intéresse les réflexions de ce cours est la suivante : _"un
-secteur de marché est un ensemble d'entreprises qui proposent des produits ou
-des services similaires à un groupe de clients"_. La seule interaction qu'a un
-secteur avec les autres secteurs est ce qu'il propose. Le secteur pharmaceutique
-propose des médicaments, le secteur agricole propose des produits alimentaires,
-etc.
-
-Sa définition dépend aussi du contexte dans lequel il est utilisé.
-
-Il est important de bien comprendre le secteur de marché dans lequel vous
-souhaitez vous lancer pour identifier les opportunités et les menaces qui
-peuvent exister. Cela vous permettra de mieux cibler vos clients, de mieux
-comprendre leurs besoins et de mieux répondre à leurs attentes.
-
-Voici certains secteurs de marché qui existent en Suisse :
-
-- L'industrie pharmaceutique
-- L'industrie agricole
-- L'industrie horlogère
-- L'industrie du tourisme
-- Et bien d'autres
-
-Deux exemples de ces secteurs de marché sont l'industrie pharmaceutique et
-l'industrie agricole.
-
-### Exemple : le secteur pharmaceutique
-
-> _"[Le secteur] pharmaceutique est le principal secteur d'exportation de la
-> Suisse. Elle représente chaque année près de la moitié du volume des
-> exportations suisses et contribue à environ 7% du PIB. Plus d'un millier
-> d'entreprises sont actives dans ce secteur, et deux d'entre elles comptent
-> parmi les plus grandes au monde."_[^pharmaceutique]
-
-Dans ses menaces, le secteur pharmaceutique est un secteur très réglementé. Les
-autorités de régulation imposent des normes de qualité très strictes pour
-garantir la sécurité des personnes soignées. Les entreprises doivent donc
-investir massivement dans la recherche et le développement de nouveaux
-médicaments pour répondre à ces normes.
-
-Dans ses opportunités, le secteur pharmaceutique est un secteur en croissance
-constante. La Suisse est un pays qui investit beaucoup dans la recherche et le
-développement de nouveaux médicaments. Elle est également un pays qui dispose
-d'une main-d'œuvre qualifiée et d'une infrastructure de qualité.
-
-### Exemple : le secteur agricole
-
-> _Bien qu'il ne représente qu'une petite part de l'économie suisse, le secteur
-> agricole participe à la sécurité alimentaire de la population suisse et
-> contribue de façon importante à la préservation des paysages et, partant, au
-> tourisme._[^agricole]
-
-Dans ses menaces, le secteur agricole est un secteur en crise. Les personnes
-agricultrices sont confrontés à de nombreux défis : la concurrence des produits
-importés, les normes de qualité très strictes imposées par les autorités de
-régulation, les coûts de production élevés, etc.
-
-Dans ses opportunités, le secteur agricole est un secteur en pleine mutation.
-Les agriculteurs sont de plus en plus nombreux à se tourner vers des pratiques
-agricoles plus durables et respectueuses de l'environnement. Ils investissent
-dans de nouvelles technologies pour améliorer leur productivité et réduire leur
-impact sur l'environnement.
-
-## Définir un besoin
-
-La vie est comme elle est. Elle est faite de hauts et de bas, de joies et de
-peines, de succès et d'échecs. Ce qui importe lorsque l'on entreprend, c'est de
-savoir identifier où sont les points de friction, les problèmes, les besoins
-insatisfaits. Essayer de créer un besoin est une entreprise risquée et
-contre-productive pour la société.
-
-C'est pour ça qu'il est important de bien identifier les besoins de votre public
-cible.
-
-Un besoin peut être de vouloir:
-
-- Une meilleur qualité de vie
-- Gagner du temps
-- Économiser de l'argent
-
-Bien sûr, un besoin dépend du contexte dans lequel il est exprimé.
-
-Il est très rare qu'une innovation vienne de nulle part. La plupart du temps,
-elle est le fruit d'une observation, d'une réflexion, d'une intuition, d'une
-expérience qui améliore un produit ou un service déjà existant.
-
-## Identifier un marché prometteur
-
-Fort de la connaissance des secteurs de marché et de ce qu'est un besoin, il est
-temps de se lancer dans la recherche d'un marché prometteur.
-
-Un marché prometteur est un marché qui présente des opportunités de croissance
-et de développement. C'est un marché qui est en pleine expansion, qui est
-suffisamment grand pour accueillir de nouveaux acteurs et qui est peu saturé.
-
-Avant d'identifier les besoins dans un secteur de marché, il faut s'assurer que
-ses menaces et ses opportunités sont bien comprises et qu'elle sont en
-adéquation avec ce que vous pouvez proposer.
-
-Maintenant, il reste à trouver une idée originale.
+- Décrire ce qu'est une idée originale.
+- Générer des idées originales.
+- Identifier les avantages et les inconvénients d'une idée.
+- Évaluer la pertinence d'une idée.
+- Évaluer la faisabilité d'une idée.
+- Lister des sources d'inspiration pour trouver des idées originales.
 
 ## Trouver une idée originale
 
@@ -287,8 +122,8 @@ angle.
 Dans le contexte de ce cours, nous souhaitons vous présenter deux manières de
 générer des idées :
 
-- La méthode de brainstorming
-- La méthode de doodling
+- La méthode de brainstorming.
+- La méthode de doodling.
 
 ### Brainstorming
 
@@ -319,30 +154,30 @@ Afin de mieux exploiter le brainstorming, il est recommandé de suivre quelques
 règles simples qui peuvent limiter les effets négatifs de cette méthode (biais
 cognitifs, conformisme, etc.) :
 
-1. **Fixer un objectif clair** (problème à résoudre, question à répondre)
+1. **Fixer un objectif clair** (problème à résoudre, question à répondre).
 2. **Encourager le non-jugement** (pas de critique, toutes les idées sont bonnes
-   et bienvenues)
+   et bienvenues).
 3. **Distribuer des post-its pour noter les idées** (ou tout autre support pour
-   noter ses idées)
+   noter ses idées).
 4. **Commencer l'exercice par une phase de réflexion individuelle** (10 à 15
-   minutes)
-   - Chaque personne écrit ses idées sur des post-its de manière individuelle
-   - Chaque idée a son propre post-it
-   - Chaque idée est exprimée de manière concise et claire
-5. **Partager les idées au reste du groupe**
-   - Chaque personne partage ses idées aux autres membres du groupe
+   minutes) :
+   - Chaque personne écrit ses idées sur des post-its de manière individuelle.
+   - Chaque idée a son propre post-it.
+   - Chaque idée est exprimée de manière concise et claire.
+5. **Partager les idées au reste du groupe** :
+   - Chaque personne partage ses idées aux autres membres du groupe.
    - Si une idée génère une autre idée, la noter sur un post-it et la partager
-     au groupe
-   - Continuer ce processus jusqu'à épuisement des idées
-6. **Regrouper les idées par thème**
-   - Regrouper les idées par thème ou par similitude
-   - Essayer d'identifier des idées qui se complètent ou qui divergent
-7. **Voter pour les idées les plus prometteuses**
+     au groupe.
+   - Continuer ce processus jusqu'à épuisement des idées.
+6. **Regrouper les idées par thème** :
+   - Regrouper les idées par thème ou par similitude.
+   - Essayer d'identifier des idées qui se complètent ou qui divergent.
+7. **Voter pour les idées les plus prometteuses** :
    - Chaque personne vote pour les idées/concepts/briques du système qu'elle
-     trouve les plus prometteuses
-   - Les idées les plus votées sont retenues pour être approfondies
+     trouve les plus prometteuses.
+   - Les idées les plus votées sont retenues pour être approfondies.
    - Les idées non retenues sont mises de côté pour être réutilisées plus tard
-     si besoin
+     si besoin.
 
 ### Doodling
 
@@ -370,10 +205,10 @@ permettront de sélectionner les idées les plus prometteuses.
 
 Ces critères peuvent être de différentes natures :
 
-- La pertinence de l'idée
-- La faisabilité de l'idée
-- L'originalité de l'idée
-- L'impact de l'idée
+- La pertinence de l'idée.
+- La faisabilité de l'idée.
+- L'originalité de l'idée.
+- L'impact de l'idée.
 - Etc.
 
 Pour cela, il existe un outil très simple qui peut vous aider à évaluer les
@@ -385,10 +220,11 @@ les inconvénients de chaque idée et de les comparer entre elles.
 
 Une matrice de décision est composée de deux axes :
 
-1. L'effort pour réaliser la solution (faible, moyen, fort)
-2. L'impact de la dite solution (faible, moyen, fort)
+1. L'effort pour réaliser la solution (faible, moyen, fort).
+2. L'impact de la dite solution (faible, moyen, fort).
 
-Le tableau suivant illustre une matrice de décision basée sur l':
+Le tableau suivant illustre une matrice de décision basée sur l'effort et
+l'impact :
 
 |                   |                    |                  |                  |
 | :---------------- | :----------------- | :--------------- | :--------------- |
@@ -427,10 +263,10 @@ originales qui répondent à un besoin.
 
 Ces sources d'inspiration peuvent être de différentes natures :
 
-- Les besoins des utilisateurs
-- Les tendances du marché
-- Les technologies émergentes
-- Votre vie de tous les jours
+- Les besoins des utilisateur.trices.
+- Les tendances du marché.
+- Les technologies émergentes.
+- Votre vie de tous les jours.
 - Etc.
 
 Dans le domaine digital, il existe des communautés qui partagent des idées et
@@ -439,20 +275,20 @@ des projets innovants, souvent dans le but de les promouvoir ou de les financer.
 Si vous avez du mal à trouver des idées originales, n'hésitez pas à vous
 inspirer de ces communautés sur Internet :
 
-- Indie Hackers[^indie-hackers]
-- Product Hunt[^product-hunt]
-- Hacker News[^hackers-news]
-- Kickstarter[^kickstarter]
-- Indiegogo[^indiegogo]
+- Indie Hackers[^indie-hackers].
+- Product Hunt[^product-hunt].
+- Hacker News[^hackers-news].
+- Kickstarter[^kickstarter].
+- Indiegogo[^indiegogo].
 
 Plus local et plus proche de nous, les structures suivantes peuvent vous
 inspirer :
 
-- GENILEM[^genilem]
-- Fondation FIT[^fondation-fit]
-- Gebert Rüf Stiftung[^gebert-ruf-stiftung]
-- Agorize[^agorize]
-- HEIG-VD[^heig-vd]
+- GENILEM[^genilem].
+- Fondation FIT[^fondation-fit].
+- Gebert Rüf Stiftung[^gebert-ruf-stiftung].
+- Agorize[^agorize].
+- HEIG-VD[^heig-vd].
 
 N'hésitez pas à explorer ces sources pour trouver des idées qui peuvent vous
 inspirer.
@@ -460,22 +296,14 @@ inspirer.
 ## Conclusion
 
 Au terme de cette séance, vous avez appris à trouver des idées originales qui
-répondent à un besoin dans un contexte donné (social, économique, politique et
-réglementaire, technologique, et/ou géographique). Vous avez appris à identifier
-des secteurs de marché, à définir un besoin, à identifier un marché prometteur
-et à trouver une idée originale.
+répondent à un besoin dans un contexte donné.
 
 ## À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine fois de :
 
 - Relire le support de cours si nécessaire.
-
-[^agricole]:
-    Le secteur économique de l'agriculture,
-    [.admin.ch](https://www.eda.admin.ch/aboutswitzerland/fr/home/wirtschaft/taetigkeitsgebiete/landwirtschaft.html),
-    26 février 2025
 
 [^design-thinking]:
     Démarche design,
@@ -507,11 +335,6 @@ il est recommandé pour la semaine suivante de :
 [^kickstarter]:
     Kickstarter, [kickstarter.com](https://www.kickstarter.com/), 20 février
     2025
-
-[^pharmaceutique]:
-    Chimie et pharmacie,
-    [.admin.ch](https://www.eda.admin.ch/aboutswitzerland/fr/home/wirtschaft/taetigkeitsgebiete/chemie-und-pharma.html),
-    26 février 2025
 
 [^product-hunt]:
     Product Hunt, [producthunt.com](https://www.producthunt.com/), 20 février
