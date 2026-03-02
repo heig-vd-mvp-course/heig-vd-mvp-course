@@ -9,12 +9,12 @@ description:
   la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/07-hebergement-et-deploiement-de-services/quiz.html
 header:
-  '[**Hébergement et déploiement de services -
-  Quiz**][contenu-complet-sur-github]'
+  "[**Hébergement et déploiement de services -
+  Quiz**][contenu-complet-sur-github]"
 footer:
-  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]'
+  BY-SA 4.0][license]"
 headingDivider: 6
 ---
 

@@ -8,12 +8,12 @@ description:
   Quiz sur le contenu Trouver des idées originales pour le cours MVP à la
   HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/05-trouver-des-idees-originales/quiz.html
-header: '[**Trouver des idées originales - Quiz**][contenu-complet-sur-github]'
+header: "[**Trouver des idées originales - Quiz**][contenu-complet-sur-github]"
 footer:
-  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
   BY-SA
-  4.0](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md)'
+  4.0](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md)"
 headingDivider: 6
 ---
 

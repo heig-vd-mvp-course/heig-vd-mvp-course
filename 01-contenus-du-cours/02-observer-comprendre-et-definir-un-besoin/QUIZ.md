@@ -9,12 +9,12 @@ description:
   MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/02-observer-comprendre-et-definir-un-besoin/quiz.html
 header:
-  '[**Observer, comprendre, et définir un besoin -
-  Quiz**][contenu-complet-sur-github]'
+  "[**Observer, comprendre, et définir un besoin -
+  Quiz**][contenu-complet-sur-github]"
 footer:
-  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]'
+  BY-SA 4.0][license]"
 headingDivider: 6
 ---
 
