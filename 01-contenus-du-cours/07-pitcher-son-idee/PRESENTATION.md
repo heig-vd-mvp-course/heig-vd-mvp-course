@@ -155,7 +155,7 @@ Sans oublier de sourire, de regarder son auditoire et rester confiant.e !
 
 ![bg right:40%][illustration-elements-a-eviter-lors-dun-pitch]
 
-## Mon pitch s'est mal passé, que faire ?
+## _"Mon pitch s'est mal passé, que faire ?"_
 
 - Ça arrive.
 - C'est normal.
