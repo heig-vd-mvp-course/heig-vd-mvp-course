@@ -8,11 +8,11 @@ description:
   Quiz sur le contenu Créer sa propre entreprise pour le cours MVP à la HEIG-VD,
   Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/13-creer-sa-propre-entreprise/quiz.html
-header: '[**Créer sa propre entreprise - Quiz**][contenu-complet-sur-github]'
+header: "[**Créer sa propre entreprise - Quiz**][contenu-complet-sur-github]"
 footer:
-  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]'
+  BY-SA 4.0][license]"
 headingDivider: 6
 ---
 
@@ -23,7 +23,7 @@ _class: lead
 _paginate: false
 -->
 
-<https://github.com/heig-vd-mvp-course>
+<https://github.com/heig-vd-mvp-course/heig-vd-mvp-course>
 
 Visualiser le contenu complet sur GitHub [à cette
 adresse][contenu-complet-sur-github].
@@ -130,7 +130,7 @@ Est-ce que vous avez des questions ?
 <!-- URLs -->
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/16-cours-creer-sa-propre-entreprise/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/13-creer-sa-propre-entreprise/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

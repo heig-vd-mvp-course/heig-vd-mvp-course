@@ -6,11 +6,11 @@ paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 description: Trouver des idées originales pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/05-trouver-des-idees-originales/presentation.html
-header: '[**Trouver des idées originales**][contenu-complet-sur-github]'
+header: "[**Trouver des idées originales**][contenu-complet-sur-github]"
 footer:
-  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]'
+  BY-SA 4.0][license]"
 headingDivider: 6
 ---
 
@@ -21,7 +21,7 @@ _class: lead
 _paginate: false
 -->
 
-<https://github.com/heig-vd-mvp-course>
+<https://github.com/heig-vd-mvp-course/heig-vd-mvp-course>
 
 Visualiser le contenu complet sur GitHub [à cette
 adresse][contenu-complet-sur-github].
@@ -298,7 +298,7 @@ Est-ce que vous avez des questions ?
 <!-- URLs -->
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/03-cours-trouver-des-idees-originales-qui-repondent-a-un-besoin/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/05-trouver-des-idees-originales/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

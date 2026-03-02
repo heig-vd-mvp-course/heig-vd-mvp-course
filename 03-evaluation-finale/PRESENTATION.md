@@ -6,11 +6,11 @@ paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 description: Évaluation finale pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/17-cours-evaluation/01-presentation/index.html
-header: '[**Évaluation finale**][contenu-complet-sur-github]'
+header: "[**Évaluation finale**][contenu-complet-sur-github]"
 footer:
-  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]'
+  BY-SA 4.0][license]"
 headingDivider: 6
 ---
 
@@ -21,7 +21,7 @@ _class: lead
 _paginate: false
 -->
 
-<https://github.com/heig-vd-mvp-course>
+<https://github.com/heig-vd-mvp-course/heig-vd-mvp-course>
 
 Visualiser le contenu complet sur GitHub [à cette
 adresse][contenu-complet-sur-github].
@@ -105,7 +105,7 @@ Est-ce que vous avez des questions ?
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/17-cours-evaluation/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/03-evaluation-finale/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

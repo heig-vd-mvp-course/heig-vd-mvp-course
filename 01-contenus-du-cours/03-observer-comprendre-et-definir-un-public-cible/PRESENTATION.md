@@ -9,11 +9,11 @@ description:
   Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/03-observer-comprendre-et-definir-un-public-cible/presentation.html
 header:
-  '[**Comprendre et atteindre son public cible**][contenu-complet-sur-github]'
+  "[**Comprendre et atteindre son public cible**][contenu-complet-sur-github]"
 footer:
-  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]'
+  BY-SA 4.0][license]"
 headingDivider: 6
 ---
 
@@ -24,7 +24,7 @@ _class: lead
 _paginate: false
 -->
 
-<https://github.com/heig-vd-mvp-course>
+<https://github.com/heig-vd-mvp-course/heig-vd-mvp-course>
 
 Visualiser le contenu complet sur GitHub [à cette
 adresse][contenu-complet-sur-github].
@@ -118,7 +118,7 @@ Un autre potentiel public se cache derrière Léa : les collègues de Léa.
 
 1. Définir les objectifs du projet.
 2. Définir des hypothèses à valider (personae + besoins).
-3. Établir les moyens pour obtenir des réponses (interviews, tests, etc.).
+3. Établir les moyens pour obtenir des réponses (entretiens, tests, etc.).
 4. Récolter et analyser les données.
 5. Itérer et ajuster.
 
@@ -225,7 +225,7 @@ Ce ne sont pas les mêmes egos !
 But : éliminer toutes nos questions et incertitudes à l'aide des outils suivants
 :
 
-- Interviews utilisateurs.
+- Entretiens.
 - Questionnaires en ligne.
 - Observation terrain.
 
@@ -303,7 +303,7 @@ Est-ce que vous avez des questions ?
 <!-- URLs -->
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/04-cours-comprendre-et-atteindre-son-public-cible/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/03-observer-comprendre-et-definir-un-public-cible/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

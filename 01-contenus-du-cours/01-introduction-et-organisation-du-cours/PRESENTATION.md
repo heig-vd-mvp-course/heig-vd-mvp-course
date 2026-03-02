@@ -33,7 +33,7 @@ _class: lead
 _paginate: false
 -->
 
-<https://github.com/heig-vd-mvp-course>
+<https://github.com/heig-vd-mvp-course/heig-vd-mvp-course>
 
 Visualiser le contenu complet sur GitHub [à cette
 adresse][contenu-complet-sur-github].
@@ -250,8 +250,7 @@ Quelques règles concernant l'utilisation de ces outils pour vos rendus :
 
 ## Bibliographie et ressources utilisées
 
-- Fitzpatrick, Rob, _"The Mom Test: How to Talk to Customers and Learn If Your
-  Business is a Good Idea when Everyone is Lying to You"_, 2013.
+- [Fitzpatrick, Rob, _"The Mom Test: How to Talk to Customers and Learn If Your Business is a Good Idea when Everyone is Lying to You"_, 2013](https://swisscovery.slsp.ch/permalink/41SLSP_NETWORK/1ufb5t2/alma991053025789705501).
 - Nyffeler, Nathalie, _"Le livre des récits : Savoirs et connaissances des
   navigateur·rice·s aguerri·e·s"_, 2022.
 - Nyffeler, Nathalie, _"Le Livre du Design Thinking - Méthode d'innovation
@@ -309,7 +308,7 @@ Est-ce que vous avez des questions ?
 <!-- URLs -->
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/01-introduction-et-organisation-du-cours/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

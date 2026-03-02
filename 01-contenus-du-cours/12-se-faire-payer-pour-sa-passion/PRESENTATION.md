@@ -7,11 +7,11 @@ author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 description:
   Se faire payer pour sa passion pour le cours MVP à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/12-se-faire-payer-pour-sa-passion/presentation.html
-header: '[**Se faire payer pour sa passion**][contenu-complet-sur-github]'
+header: "[**Se faire payer pour sa passion**][contenu-complet-sur-github]"
 footer:
-  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]'
+  BY-SA 4.0][license]"
 headingDivider: 6
 ---
 
@@ -22,7 +22,7 @@ _class: lead
 _paginate: false
 -->
 
-<https://github.com/heig-vd-mvp-course>
+<https://github.com/heig-vd-mvp-course/heig-vd-mvp-course>
 
 Visualiser le contenu complet sur GitHub [à cette
 adresse][contenu-complet-sur-github].
@@ -241,7 +241,7 @@ Est-ce que vous avez des questions ?
 <!-- URLs -->
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/15-cours-se-faire-payer-pour-sa-passion/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/12-se-faire-payer-pour-sa-passion/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

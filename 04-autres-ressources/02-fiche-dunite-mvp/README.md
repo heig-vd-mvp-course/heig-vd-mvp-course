@@ -95,7 +95,7 @@ _Répartition des périodes indiquée à titre informatif._
 | Promouvoir son idée (par ex. Hugo, Next.js, Lavarel, NestJS, Spring Boot, MVC vs backend/frontend)        |   2 |
 | Réaliser des interfaces ergonomiques (UI/UX avec mockups)                                                 |   2 |
 | Hébergement et déploiement de services (par ex. GitHub Pages, GitLab Pages, Heroku, Exoscale, Infomaniak) |   2 |
-| Recevoir des feedbacks constructifs et pivoter (changement de produit, comment faire ?)                   |   2 |
+| Recevoir des retours constructifs et pivoter (changement de produit, comment faire ?)                     |   2 |
 | Réaliser des applications pérennes (architecture, documentation et accessibilité)                         |   2 |
 | Se faire payer pour sa passion (systèmes de paiement et questions juridiques)                             |   2 |
 | Créer sa propre entreprise (formes juridiques, responsabilités et aides/ressources à disposition)         |   2 |

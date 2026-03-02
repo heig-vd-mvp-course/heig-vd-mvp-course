@@ -29,6 +29,7 @@
 	"prettier.endOfLine": "lf",
 	"prettier.printWidth": 80,
 	"prettier.proseWrap": "always",
+	"prettier.singleQuote": false,
 	"prettier.tabWidth": 2,
 	"prettier.useTabs": true
 }

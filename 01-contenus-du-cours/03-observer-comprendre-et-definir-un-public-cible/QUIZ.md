@@ -9,11 +9,11 @@ description:
   à la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/03-observer-comprendre-et-definir-un-public-cible/quiz.html
 header:
-  '[**Comprendre et atteindre son public cible**][contenu-complet-sur-github]'
+  "[**Comprendre et atteindre son public cible**][contenu-complet-sur-github]"
 footer:
-  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]'
+  BY-SA 4.0][license]"
 headingDivider: 6
 ---
 
@@ -24,7 +24,7 @@ _class: lead
 _paginate: false
 -->
 
-<https://github.com/heig-vd-mvp-course>
+<https://github.com/heig-vd-mvp-course/heig-vd-mvp-course>
 
 Visualiser le contenu complet sur GitHub [à cette
 adresse][contenu-complet-sur-github].
@@ -91,7 +91,7 @@ pas réussi à expliquer le problème qu'il résout à votre maman.
 
 ## Question 5 - Donnée
 
-> Quelles est la différence entre des interviews/questionnaires qualitatifs et
+> Quelles est la différence entre des entretiens/questionnaires qualitatifs et
 > quantitatifs ?
 
 ## Question 5 - Réponse (1/2)
@@ -149,7 +149,7 @@ La question 3 est évidemment une mauvaise question.
 
 ## Question 7 - Donnée
 
-> Quelle est une règle primordiale pour réaliser un interview qualitatif ?
+> Quelle est une règle primordiale pour réaliser un entretien qualitatif ?
 
 ## Question 7 - Réponse
 
@@ -177,7 +177,7 @@ Est-ce que vous avez des questions ?
 <!-- URLs -->
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/04-cours-comprendre-et-atteindre-son-public-cible/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/03-observer-comprendre-et-definir-un-public-cible/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

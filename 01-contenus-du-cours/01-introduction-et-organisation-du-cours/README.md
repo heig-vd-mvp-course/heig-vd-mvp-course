@@ -47,6 +47,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Projet libre](#projet-libre)
 - [Propriété intellectuelle](#propriété-intellectuelle)
 - [Liens avec un travail de Bachelor](#liens-avec-un-travail-de-bachelor)
+- [_"Qu'en est-il de ChatGPT, etc. ?"_](#quen-est-il-de-chatgpt-etc-)
+- [Bibliographie et ressources utilisées](#bibliographie-et-ressources-utilisées)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 
@@ -215,8 +217,7 @@ Quelques règles concernant l'utilisation de ces outils pour vos rendus :
 
 ## Bibliographie et ressources utilisées
 
-- Fitzpatrick, Rob, _"The Mom Test: How to Talk to Customers and Learn If Your
-  Business is a Good Idea when Everyone is Lying to You"_, 2013.
+- [Fitzpatrick, Rob, _"The Mom Test: How to Talk to Customers and Learn If Your Business is a Good Idea when Everyone is Lying to You"_, 2013](https://swisscovery.slsp.ch/permalink/41SLSP_NETWORK/1ufb5t2/alma991053025789705501).
 - Nyffeler, Nathalie, _"Le livre des récits : Savoirs et connaissances des
   navigateur·rice·s aguerri·e·s"_, 2022.
 - Nyffeler, Nathalie, _"Le Livre du Design Thinking - Méthode d'innovation

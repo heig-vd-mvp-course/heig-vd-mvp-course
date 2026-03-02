@@ -9,11 +9,11 @@ description:
   la HEIG-VD, Suisse
 url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/09-realiser-des-interfaces-ergonomiques/quiz.html
 header:
-  '[**Réaliser des interfaces ergonomiques - Quiz**][contenu-complet-sur-github]'
+  "[**Réaliser des interfaces ergonomiques - Quiz**][contenu-complet-sur-github]"
 footer:
-  '[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
+  "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
   2025-2026](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) - [CC
-  BY-SA 4.0][license]'
+  BY-SA 4.0][license]"
 headingDivider: 6
 ---
 
@@ -24,7 +24,7 @@ _class: lead
 _paginate: false
 -->
 
-<https://github.com/heig-vd-mvp-course>
+<https://github.com/heig-vd-mvp-course/heig-vd-mvp-course>
 
 Visualiser le contenu complet sur GitHub [à cette
 adresse][contenu-complet-sur-github].
@@ -99,7 +99,7 @@ est ergonomique ?
 
 - Effectuer des tests utilisateurs en observant comment les personnes
   interagissent avec la page.
-- Analyser les retours des utilisateurs via des formulaires ou des interviews
+- Analyser les retours des utilisateurs via des formulaires ou des entretiens
   qualitatives.
 - Utiliser des outils d'analyse comme **WAVE Evaluation Tool** et **PageSpeed
   Insights** pour évaluer l'accessibilité et la performance de la page.
@@ -121,7 +121,7 @@ Est-ce que vous avez des questions ?
 <!-- URLs -->
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/09-cours-realiser-des-interfaces-ergonomiques-et-reflechies/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/09-realiser-des-interfaces-ergonomiques/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 
