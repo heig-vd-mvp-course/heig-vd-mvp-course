@@ -89,6 +89,10 @@ et augmentant les chances de succès.
 Vous ne pouvez pas vendre un produit ou expliquer une idée tant que vous n'avez
 pas réussi à expliquer le problème qu'il résout à votre maman.
 
+- Ne pas poser de questions sur votre idée ou votre produit.
+- Poser des questions sur les problèmes, les besoins et les comportements.
+- Éviter les questions qui peuvent être influencées par la politesse ou le désir
+
 ## Question 5 - Donnée
 
 > Quelles est la différence entre des entretiens/questionnaires qualitatifs et

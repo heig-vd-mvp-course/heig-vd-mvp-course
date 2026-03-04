@@ -46,6 +46,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Séance 2](#séance-2)
   - [Séance 3](#séance-3)
   - [Séance 4](#séance-4)
+  - [Séance 5](#séance-5)
 
 ## Objectifs
 
@@ -977,7 +978,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-3---constitution-des-groupes-identification-dune-idée-de-son-public-cible-et-de-la-plus-value-dun-service-33)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-3)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -986,16 +987,15 @@ il est recommandé pour la prochaine fois de :
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Choisir une idée qui répond à un besoin
-> - Rédiger la description du projet
-> - Identifier le public cible **imaginaire**
-> - Lister des personae **imaginés**
-> - Améliorer la description des besoins **imaginés** du public cible
-> - Identifier les étapes pour comprendre le public cible
-> - Rédiger une série de questions pour comprendre le public cible
-> - Identifier 2-3 personnes avec qui discuter pour comprendre le public cible
-> - Lister les hypothèses à valider pour comprendre le public cible
-> - Compléter le rapport
+> - Analyser les résultats des entretiens et questionnaires réalisés avec le
+>   public cible.
+> - Identifier les besoins du public cible à partir des résultats des entretiens
+>   et questionnaires.
+> - Imaginer d'autres hypothèses à valider pour comprendre le public cible.
+> - Améliorer la description du public cible.
+> - Améliorer la description des besoins du public cible.
+> - Améliorer la série de questions pour comprendre le public cible.
+> - Compléter le rapport.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
@@ -1033,34 +1033,27 @@ il est recommandé pour la prochaine fois de :
 
 #### Objectifs
 
-Troisième séance pratique du cours _Lancez votre minimum viable product (MVP)_ !
-
-Cette séance a pour but de comprendre le public cible du projet et de valider
-les hypothèses.
-
-De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
-
-- Choisir une idée qui répond à un besoin
-- Rédiger la description du projet
-- Identifier le public cible **imaginaire**
-- Lister des personae **imaginés**
-- Améliorer la description des besoins **imaginés** du public cible
-- Identifier les étapes pour comprendre le public cible
-- Rédiger une série de questions pour comprendre le public cible
-- Identifier 2-3 personnes avec qui discuter pour comprendre le public cible
-- Lister les hypothèses à valider pour comprendre le public cible
-- Compléter le rapport
+- Analyser les résultats des entretiens et questionnaires réalisés avec le
+  public cible.
+- Identifier les besoins du public cible à partir des résultats des entretiens
+  et questionnaires.
+- Imaginer d'autres hypothèses à valider pour comprendre le public cible.
+- Améliorer la description du public cible.
+- Améliorer la description des besoins du public cible.
+- Améliorer la série de questions pour comprendre le public cible.
+- Compléter le rapport.
 
 #### Déroulement
 
-Nous vous invitons à travailler sur votre public cible **imaginaire**, ses
-personae et ses besoins.
+Nous vous invitons maintenant à passer nous voir pour présenter l'avancement de
+votre projet.
 
-Ensuite, identifiez les personnes avec qui vous allez discuter et préparez une
-série de questions pour un entretien.
+Présentez les questions que vous avez posées, les réponses que vous avez
+obtenues et les conclusions que vous en avez tirées.
 
-Enfin, listez les hypothèses à valider pour comprendre le public cible et
-complétez le rapport.
+Ensuite, nous allons vous laisser du temps pour travailler sur l'analyse de vos
+entretiens/questionnaires, l'identification des besoins de votre public cible et
+l'amélioration de la description de votre public cible et de ses besoins.
 
 #### À faire pour la prochaine séance
 
@@ -1068,14 +1061,104 @@ Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine fois de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
-  votre public cible
-- S'entretenir avec ces personnes pour récolter des retours
+  votre public cible.
+- S'entretenir avec ces personnes pour récolter des retours.
+- Itérer sur la description de votre public cible et de ses besoins en fonction
+  des retours obtenus.
 
 ### Séance 4
 
 **CRUNCH : pas de séance**
 
 _En raison du CRUNCH, il n'y a pas de séances de cours/projet._
+
+### Séance 5
+
+**Identifier une idée originale pour répondre au besoin d'un public cible**
+
+> [!TIP]
+>
+> Voici quelques informations relatives à ce contenu.
+>
+> **Ressources annexes**
+>
+> - Autres formats :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#seance-5)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Générer des idées pour répondre au besoin du public cible.
+> - Évaluer la pertinence de ces idées par rapport au besoin du public cible.
+> - Identifier les avantages et les inconvénients de ces idées.
+> - Compléter le rapport.
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Discussions en groupe.
+> - Pitch.
+> - Brainstorming.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'une présentation du projet aux personnes qui
+> enseignent ainsi qu'un court document décrivant le public cible.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à présenter.
+> - Capacité à écouter.
+> - Capacité à argumenter.
+> - Capacité à participer.
+> - Identification du public cible **imaginaire**
+> - Identification des personae **imaginés**
+> - Description des besoins **imaginés** du public cible
+> - Série de questions pour comprendre le public cible
+> - Hypothèses à valider pour comprendre le public cible
+>
+> Les retours se font de la manière suivante :
+>
+> - Feedback.
+>
+> L'évaluation ne donne pas lieu à une note.
+
+#### Objectifs
+
+- Générer des idées pour répondre au besoin du public cible.
+- Évaluer la pertinence de ces idées par rapport au besoin du public cible.
+- Identifier les avantages et les inconvénients de ces idées.
+- Compléter le rapport.
+
+#### Déroulement
+
+Nous vous invitons maintenant à générer des idées pour répondre au besoin de
+votre public cible.
+
+Nous sommes disponibles pour vous aider à générer des idées et à évaluer leur
+pertinence par rapport au besoin de votre public cible.
+
+La plupart du temps, les premières idées ne sont pas les meilleures, il est
+important de creuser pour trouver des idées originales et pertinentes.
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Explorer d'autres idées pour répondre au besoin de votre public cible.
+- Évaluer la pertinence de ces idées par rapport au besoin de votre public
+  cible.
+- Dialoguer avec votre public cible pour récolter des retours pour imaginer
+  d'autres idées (**ne pas leur parler de vos idées actuelles**).
 
 <!--
 
@@ -1088,7 +1171,7 @@ _En raison du CRUNCH, il n'y a pas de séances de cours/projet._
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-6---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-12)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#seance-6)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1192,7 +1275,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-7---réalisation-et-hébergement-de-la-landing-page-avec-formulaire-de-contact-22)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#seance-7)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1296,7 +1379,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-4---présentations-du-pitch)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#seance-4)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1386,7 +1469,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-8---présentations-de-la-prospection)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#seance-8)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1477,7 +1560,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-9---réalisation-du-service-et-tests-utilisateurs-16)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#seance-9)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1557,10 +1640,6 @@ Prenez ce moment pour faire le point sur votre projet. Vous pouvez :
 - Organiser un brainstorming en équipe pour identifier des pistes alternatives
   concrètes (si nécessaire).
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1578,7 +1657,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-10---réalisation-du-service-et-tests-utilisateurs-26)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#seance-10)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1644,10 +1723,6 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1664,7 +1739,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-11---réalisation-du-service-et-tests-utilisateurs-36)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#seance-11)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1728,10 +1803,6 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1750,7 +1821,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-12---réalisation-du-service-et-tests-utilisateurs-46)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#seance-12)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1810,10 +1881,6 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1831,7 +1898,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-13---réalisation-du-service-et-tests-utilisateurs-56)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#seance-13)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1889,10 +1956,6 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1910,7 +1973,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-14---réalisation-du-service-et-tests-utilisateurs-66)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#seance-14)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1968,10 +2031,6 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
@@ -1988,7 +2047,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-15---rendu-du-rapport)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#seance-15)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -2046,7 +2105,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-16---présentations-finales-et-rendu-du-projet)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#seance-16)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -2122,10 +2181,6 @@ prochain groupe se prépare.
 | 7     | Hutzli Boris                           | 11:15 - 11:25 |
 | 8     | Graf Calvin, Sottile Alan              | 11:30 - 11:40 |
 | 9     | Roland Samuel                          | 11:45 - 11:55 |
-
-#### Conclusion
-
-TODO?
 
 -->
 

@@ -493,7 +493,7 @@ manière à être maintenable et évolutive grâce aux principes vus dans ce cou
 ## À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine fois de :
 
 - Relire le support de cours si nécessaire.
 

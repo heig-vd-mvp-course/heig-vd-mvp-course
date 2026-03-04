@@ -47,56 +47,20 @@ document._
 
 ## Question 1 - Donnée
 
-> Quels sont les principaux éléments à prendre en compte pour comprendre le
-> contexte d'une idée ?
-
-## Question 1 - Réponse
-
-Les principaux éléments à prendre en compte pour comprendre le contexte d'une
-idée sont :
-
-- Contexte social
-- Contexte économique
-- Contexte politique et réglementaire
-- Contexte technologique
-- Contexte géographique
-
-## Question 2 - Donnée
-
-> Pourquoi est-il important de comprendre le secteur de marché avant de se
-> lancer dans l'entrepreneuriat ?
-
-## Question 2 - Réponse
-
-Il est important de comprendre le secteur de marché pour identifier les
-opportunités et les menaces, mieux cibler les clients, comprendre leurs besoins
-et répondre à leurs attentes.
-
-## Question 3 - Donnée
-
 > Comment définiriez-vous une idée originale ?
 
-## Réponse 3 - Réponse
+## Réponse 1 - Réponse
 
 Une idée originale est une idée qui **améliore la vie** sur différents aspects,
 **répond à un besoin**, est **consciente de son contexte** et s'adapte à
 celui-ci. Elle peut être une **réinvention ou une réadaptation d'une idée
 existante**.
 
-## Question 4 - Donnée
-
-> Qu'est-ce qui rend un marché plus prometteur qu'un autre ?
-
-## Question 4 - Réponse
-
-Un marché est plus prometteur qu'un autre s'il est en pleine expansion, s'il est
-suffisamment grand pour accueillir de nouveaux acteurs et s'il est peu saturé.
-
-## Question 5 - Donnée
+## Question 2 - Donnée
 
 > Quelles est la différence entre les méthodes de brainstorming et de doodling ?
 
-## Question 5 - Réponse
+## Question 2 - Réponse
 
 Le brainstorming est une méthode de créativité qui consiste à générer un maximum
 d'idées en un minimum de temps, basée sur l'écriture.
@@ -104,81 +68,48 @@ d'idées en un minimum de temps, basée sur l'écriture.
 Le doodling est une méthode de créativité qui consiste à dessiner pour stimuler
 la créativité et partager des idées de façon visuelle.
 
-## Question 6 - Donnée
+## Question 3 - Donnée
 
 > Par quoi devrions-nous commencer lors de l'utilisation de méthodes de
 > créativité comme le brainstorming ou le doodling ?
 
-## Question 6 - Réponse
+## Question 3 - Réponse
 
-1. Définir un objectif clair
-2. Faire l'exercice de façon individuelle
-3. Partager les idées
-4. Regrouper les idées
-5. Sélectionner les idées les plus prometteuses
+1. Définir un objectif clair.
+2. Faire l'exercice de façon individuelle.
+3. Partager les idées.
+4. Regrouper les idées.
+5. Sélectionner les idées les plus prometteuses.
 
-## Question 7 - Donnée
+## Question 4 - Donnée
 
 > Comment pouvons-nous définir une "bonne" idée ?
 
-## Question 7 - Réponse
+## Question 4 - Réponse
 
 Une "bonne" idée est une idée est toujours subjective, mais il existe la matrice
 de décision basée sur les critères suivants :
 
-1. L'effort pour réaliser la solution (faible, moyen, fort)
-2. L'impact de la dite solution (faible, moyen, fort)
+1. L'effort pour réaliser la solution (faible, moyen, fort).
+2. L'impact de la dite solution (faible, moyen, fort).
 
 L'impact est librement défini par et pour chaque personne (économique, sociétal,
 etc.).
 
-## Question 8 - Donnée
+## Question 5 - Donnée
 
 > Où trouver des idées originales ?
 
-## Question 8 - Réponse
+## Question 5 - Réponse
 
 Il existe plusieurs sources pour trouver des idées originales :
 
-- Les besoins des utilisateurs
-- Les tendances du marché
-- Les technologies émergentes
-- Votre vie de tous les jours
-- Des communautés sur Internet (forums, réseaux sociaux, etc.)
+- Les besoins des utilisateur.trices.
+- Les tendances du marché.
+- Les technologies émergentes.
+- Votre vie de tous les jours.
+- Des communautés sur Internet (forums, réseaux sociaux, etc.).
 - Etc.
-
-## Question 9 - Donnée
-
-> Parmi la liste suivante, quels sont les éléments qui décrivent un besoin ?
->
-> 1. "J'ai de la peine à me réveiller le matin."
-> 2. "J'ai besoin d'un café pour m'aider à me réveiller le matin."
-> 3. "Je suis fatigué le matin."
-> 4. "Un café le matin me réveille."
-> 5. "J'ai de la peine à me réveiller, car je n'entends pas mon réveil."
-
-## Question 9 - Réponse (1/2)
-
-> 1. **"J'ai de la peine à me réveiller le matin."**
-> 2. "J'ai besoin d'un café pour m'aider à me réveiller le matin."
-> 3. **"Je suis fatigué le matin."**
-> 4. Un café le matin me réveille."
-> 5. **"J'ai de la peine à me réveiller, car je n'entends pas mon réveil."**
-
-Seuls les éléments 1, 3 et 5 décrivent un besoin. Les éléments 2 et 4 sont des
-solutions à un besoin/un problème.
-
-## Question 9 - Réponse (2/2)
-
-> 2. "J'ai besoin d'un café pour m'aider à me réveiller le matin."
-
-L'élément 2 est un piège car il décrit bien une solution. Le besoin est en
-réalité de se réveiller plus facilement, de se sentir plus éveillé le matin ou
-encore de mieux dormir pour être moins fatigué.
-
-Pensez aux besoins comme les besoins fonctionnels d'une personne et sa solution
-comme les besoins non-fonctionnels, comme étudié dans le cours de Développement
-d'applications internet (DAI).
 
 ## Questions
 

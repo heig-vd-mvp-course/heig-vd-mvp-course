@@ -250,7 +250,7 @@ obtenir le meilleur produit pour votre public cible.
 
 <!-- _class: lead -->
 
-Constituer les groupes et identifier des besoins au sein de la problématique
+**Constituer les groupes et identifier des besoins au sein de la problématique**
 
 #### Objectifs (1/2)
 
@@ -308,7 +308,7 @@ il est recommandé pour la prochaine fois de :
 
 <!-- _class: lead -->
 
-Identifier et interroger un public cible
+**Identifier et interroger un public cible**
 
 #### Objectifs (1/2)
 
@@ -352,63 +352,101 @@ il est recommandé pour la prochaine fois de :
 - Réaliser des entretiens/questionnaires avec au moins une personne pour
   récolter des retours.
 
-<!--
+### Séance 3
 
-### Séance 3 - Analyser les résultats des entretiens et questionnaires
+<!-- _class: lead -->
 
-<!-- _class: lead --
+**Analyser les résultats des entretiens et questionnaires**
 
 #### Objectifs (1/2)
 
-- Choisir une idée qui répond à un besoin
-- Rédiger la description du projet
-- Identifier le public cible **imaginaire**
-- Lister des personae **imaginés**
-- Améliorer la description des besoins **imaginés** du public cible
-- Identifier les étapes pour comprendre le public cible
+- Analyser les résultats des entretiens et questionnaires réalisés avec le
+  public cible.
+- Identifier les besoins du public cible à partir des résultats des entretiens
+  et questionnaires.
+- Imaginer d'autres hypothèses à valider pour comprendre le public cible.
 
 ![bg right:40%][illustration-objectifs]
 
 #### Objectifs (2/2)
 
-- Rédiger une série de questions pour comprendre le public cible
-- Identifier 2-3 personnes avec qui discuter pour comprendre le public cible
-- Lister les hypothèses à valider pour comprendre le public cible
-- Compléter le rapport
+- Améliorer la description du public cible.
+- Améliorer la description des besoins du public cible.
+- Améliorer la série de questions pour comprendre le public cible.
+- Compléter le rapport.
 
 ![bg right:40%][illustration-objectifs]
 
 #### Déroulement
 
-Nous vous invitons à travailler sur votre public cible **imaginaire**, ses
-personae et ses besoins.
+Nous vous invitons maintenant à passer nous voir pour présenter l'avancement de
+votre projet.
 
-Ensuite, identifiez les personnes avec qui vous allez discuter et préparez une
-série de questions pour un entretien.
+Présentez les questions que vous avez posées, les réponses que vous avez
+obtenues et les conclusions que vous en avez tirées.
 
-Enfin, listez les hypothèses à valider pour comprendre le public cible et
-complétez le rapport.
-
-#### Conclusion
-
-TODO?
+Ensuite, nous allons vous laisser du temps pour travailler sur l'analyse de vos
+entretiens/questionnaires, l'identification des besoins de votre public cible et
+l'amélioration de la description de votre public cible et de ses besoins.
 
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine fois de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
-  votre public cible
-- S'entretenir avec ces personnes pour récolter des retours
+  votre public cible.
+- S'entretenir avec ces personnes pour récolter des retours.
+- Itérer sur la description de votre public cible et de ses besoins en fonction
+  des retours obtenus.
 
-### Séance 4 - CRUNCH : pas de séance
+### Séance 4
 
-<!-- _class: lead --
+<!-- _class: lead -->
+
+**CRUNCH : pas de séance**
 
 _En raison du CRUNCH, il n'y a pas de séances de cours/projet._
 
-TODO ?
+### Séance 5
+
+<!-- _class: lead -->
+
+**Identifier une idée originale pour répondre au besoin d'un public cible**
+
+#### Objectifs
+
+- Générer des idées pour répondre au besoin du public cible.
+- Évaluer la pertinence de ces idées par rapport au besoin du public cible.
+- Identifier les avantages et les inconvénients de ces idées.
+- Compléter le rapport.
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Nous vous invitons maintenant à générer des idées pour répondre au besoin de
+votre public cible.
+
+Nous sommes disponibles pour vous aider à générer des idées et à évaluer leur
+pertinence par rapport au besoin de votre public cible.
+
+La plupart du temps, les premières idées ne sont pas les meilleures, il est
+important de creuser pour trouver des idées originales et pertinentes.
+
+#### À faire pour la semaine suivante
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Explorer d'autres idées pour répondre au besoin de votre public cible.
+- Évaluer la pertinence de ces idées par rapport au besoin de votre public
+  cible.
+- Dialoguer avec votre public cible pour récolter des retours pour imaginer
+  d'autres idées (**ne pas leur parler de vos idées actuelles**).
+
+<!--
+
 ### Séance 5 - Présentations du pitch
 
 <!-- _class: lead --
@@ -435,14 +473,10 @@ feedbacks constructifs.
 Vous pouvez retrouver la grille d'évaluation de la présentation ici :
 [Projet libre - Grille d'évaluation des présentations](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine fois de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
@@ -487,14 +521,10 @@ visible sur Internet.
 Complétez le rapport avec les nouvelles données que vous avez acquises jusqu'ici
 et prenez connaissance de la présentation sur la prospection et son contenu.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine fois de :
 
 - Finaliser la mise en ligne du site web statique
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
@@ -535,14 +565,10 @@ Ayez toujours un regard critique sur votre projet et soyez prêt.es à recevoir
 des feedbacks constructifs. Et aussi, gardez en tête le fil rouge du cours et
 les prochaines étapes.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine fois de :
 
 - Finaliser la landing page
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
@@ -579,14 +605,10 @@ feedbacks constructifs.
 Vous pouvez retrouver la grille d'évaluation de la présentation ici :
 [Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-dévaluation-des-présentations)
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine fois de :
 
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
@@ -636,14 +658,10 @@ Prenez ce moment pour faire le point sur votre projet. Vous pouvez :
 - Planifier le développement des fonctionnalités minimales pour le service
   envisagé.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine fois de :
 
 - Trouver une nouvelle idée (si nécessaire)
 - Effectuer des tests utilisateurs
@@ -672,14 +690,10 @@ il est recommandé pour la semaine suivante de :
 
 TODO
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine fois de :
 
 - Réaliser des tests utilisateurs
 
@@ -711,14 +725,10 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine fois de :
 
 - Relire le support de cours si nécessaire.
 - Commencer à réviser pour l'évaluation de la semaine 13
@@ -751,14 +761,10 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine fois de :
 
 - Effectuer des tests utilisateurs
 - Réviser pour l'évaluation de la semaine 13
@@ -783,14 +789,10 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine fois de :
 
 - Finaliser le développement du service
 - Effectuer des tests utilisateurs
@@ -815,14 +817,10 @@ envisagé.
 N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
 votre rapport.
 
-#### Conclusion
-
-TODO?
-
 #### À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine fois de :
 
 - Finaliser et rendre le rapport selon les attentes spécifiées à la semaine 15
 
@@ -837,10 +835,6 @@ TODO
 #### Déroulement
 
 TODO
-
-#### Conclusion
-
-TODO?
 
 #### À faire pour la semaine suivante
 

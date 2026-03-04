@@ -44,19 +44,19 @@ document._
 
 ## Objectifs (1/2)
 
-- Décrire ce qu'est un pitch
-- Identifier les éléments clés d'un pitch
-- Décrire les étapes pour préparer un pitch
-- Identifier les erreurs à éviter lors d'un pitch
-- Décrire comment pitcher son idée
+- Décrire ce qu'est un pitch.
+- Identifier les éléments clés d'un pitch.
+- Décrire les étapes pour préparer un pitch.
+- Identifier les erreurs à éviter lors d'un pitch.
+- Décrire comment pitcher son idée.
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
-- Citer des techniques pour pitcher en équipe
-- Donner des feedbacks constructifs
-- Recevoir des feedbacks constructifs
+- Citer des techniques pour pitcher en équipe.
+- Donner des feedbacks constructifs.
+- Recevoir des feedbacks constructifs.
 
 ![bg right:40%][illustration-objectifs]
 
@@ -81,12 +81,12 @@ document._
 ## Présenter son pitch
 
 - Peut prendre plusieurs formes, avec ou sans support visuel :
-  - Soyez concis
-  - Soyez clair
-  - Soyez authentique
-  - Restez simple
-  - Créez de l'émotion
-  - Terminez en force
+  - Soyez concis.es.
+  - Soyez clair.es.
+  - Soyez authentiques.
+  - Restez simples.
+  - Créez de l'émotion.
+  - Terminez en force.
 
 ![bg right:40%][illustration-presenter-son-pitch]
 
@@ -100,7 +100,7 @@ question, un fait marquant ou encore une histoire.
 2. **Le problème** : identifier un besoin ou une douleur du public cible.
 3. **La solution** : votre idée ou projet comme réponse au problème.
 4. **L'appel à l'action**: ce que vous attendez de votre auditoire ou quels sont
-   vos besoins pour continuer le projet
+   vos besoins pour continuer le projet.
 
 ## Structure d'un pitch (2/4)
 
@@ -115,11 +115,11 @@ votre auditoire et de rendre votre pitch mémorable.
 
 **Structure narrative**
 
-1. _"Il était une fois, ..."_ / _"C'est l'histoire de ..."_
-2. _"Et tous les jours, ..."_
-3. _"Et un jour, ..."_
-4. _"Et à cause de ça, ..."_
-5. _"Et finalement, ..."_
+1. _"Il était une fois, ..."_ / _"C'est l'histoire de ..."_.
+2. _"Et tous les jours, ..."_.
+3. _"Et un jour, ..."_.
+4. _"Et à cause de ça, ..."_.
+5. _"Et finalement, ..."_.
 
 ![bg right:40%][illustration-structure-narrative]
 
@@ -145,17 +145,17 @@ votre auditoire et de rendre votre pitch mémorable.
 
 ## Éléments à éviter lors d'un pitch
 
-- Trop d'informations
-- Manque de clarté
-- Absence d'émotion
-- Manque de préparation
-- Pas de conclusion claire
+- Trop d'informations.
+- Manque de clarté.
+- Absence d'émotion.
+- Manque de préparation.
+- Pas de conclusion claire.
 
 Sans oublier de sourire, de regarder son auditoire et rester confiant.e !
 
 ![bg right:40%][illustration-elements-a-eviter-lors-dun-pitch]
 
-## Mon pitch s'est mal passé, que faire ?
+## _"Mon pitch s'est mal passé, que faire ?"_
 
 - Ça arrive.
 - C'est normal.

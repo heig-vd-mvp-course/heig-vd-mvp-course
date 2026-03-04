@@ -24,14 +24,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Décrire ce qu'est un pitch
-> - Identifier les éléments clés d'un pitch
-> - Décrire les étapes pour préparer un pitch
-> - Identifier les erreurs à éviter lors d'un pitch
-> - Décrire comment pitcher son idée
-> - Citer des techniques pour pitcher en équipe
-> - Donner des feedbacks constructifs
-> - Recevoir des feedbacks constructifs
+> - Décrire ce qu'est un pitch.
+> - Identifier les éléments clés d'un pitch.
+> - Décrire les étapes pour préparer un pitch.
+> - Identifier les erreurs à éviter lors d'un pitch.
+> - Décrire comment pitcher son idée.
+> - Citer des techniques pour pitcher en équipe.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
@@ -65,13 +63,10 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Présenter son pitch](#présenter-son-pitch)
 - [Structure d'un pitch](#structure-dun-pitch)
 - [Éléments à éviter lors d'un pitch](#éléments-à-éviter-lors-dun-pitch)
-- [Mon pitch s'est mal passé, que faire ?](#mon-pitch-sest-mal-passé-que-faire-)
+- [_"Mon pitch s'est mal passé, que faire ?"_](#mon-pitch-sest-mal-passé-que-faire-)
 - [Travailler en équipe lors d'un pitch](#travailler-en-équipe-lors-dun-pitch)
-- [Donner des feedbacks constructifs](#donner-des-feedbacks-constructifs)
-- [Recevoir des feedbacks constructifs](#recevoir-des-feedbacks-constructifs)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 
 ## Objectifs
 
@@ -80,14 +75,12 @@ un pitch efficace pour promouvoir votre idée ou projet.
 
 De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
-- Décrire ce qu'est un pitch
-- Identifier les éléments clés d'un pitch
-- Décrire les étapes pour préparer un pitch
-- Identifier les erreurs à éviter lors d'un pitch
-- Décrire comment pitcher son idée
-- Citer des techniques pour pitcher en équipe
-- Donner des feedbacks constructifs
-- Recevoir des feedbacks constructifs
+- Décrire ce qu'est un pitch.
+- Identifier les éléments clés d'un pitch.
+- Décrire les étapes pour préparer un pitch.
+- Identifier les erreurs à éviter lors d'un pitch.
+- Décrire comment pitcher son idée.
+- Citer des techniques pour pitcher en équipe.
 
 ## Qu'est-ce qu'un pitch ?
 
@@ -147,10 +140,10 @@ techniques ou financiers de votre projet.
 
 Voici quelques conseils pour réussir votre pitch :
 
-- **Soyez concis** : allez droit au but.
-- **Soyez clair** : évitez le jargon technique.
-- **Soyez authentique** : parlez avec passion et conviction.
-- **Restez simple** : un message facile à retenir est plus efficace.
+- **Soyez concis.es** : allez droit au but.
+- **Soyez clair.es** : évitez le jargon technique.
+- **Soyez authentiques** : parlez avec passion et conviction.
+- **Restez simples** : un message facile à retenir est plus efficace.
 - **Créez de l'émotion** : racontez une histoire.
 - **Terminez en force** : laissez une impression forte et durable qui met en
   confiance.
@@ -196,11 +189,11 @@ concurrents, etc.
 >
 > Une structure simple que l'on peut suivre est la suivante :
 >
-> 1. _"Il était une fois, ..."_ / _"C'est l'histoire de ..."_
-> 2. _"Et tous les jours, ..."_
-> 3. _"Et un jour, ..."_
-> 4. _"Et à cause de ça, ..."_
-> 5. _"Et finalement, ..."_
+> 1. _"Il était une fois, ..."_ / _"C'est l'histoire de ..."_.
+> 2. _"Et tous les jours, ..."_.
+> 3. _"Et un jour, ..."_.
+> 4. _"Et à cause de ça, ..."_.
+> 5. _"Et finalement, ..."_.
 >
 > Cette structure permet de présenter un personnage et son quotidien (= le
 > contexte du projet), un événement déclencheur (= le problème que nous avons
@@ -248,7 +241,7 @@ quelques erreurs courantes à éviter :
 Sans oublier de sourire, de regarder son auditoire dans les yeux et de rester
 calme et confiant.
 
-## Mon pitch s'est mal passé, que faire ?
+## _"Mon pitch s'est mal passé, que faire ?"_
 
 Il se peut qu'un pitch se passe mal. C'est normal. Cela peut arriver à tout le
 monde. L'important est de tirer des leçons de ces expériences pour s'améliorer
@@ -337,7 +330,7 @@ public et de recevoir des feedbacks constructifs.
 ## À faire pour la semaine suivante
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la semaine suivante de :
+il est recommandé pour la prochaine fois de :
 
 - Relire le support de cours si nécessaire.
 

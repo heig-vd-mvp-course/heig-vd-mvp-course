@@ -130,10 +130,37 @@ Pour gérer émotionnellement le pivot, il est recommandé de :
 
 ## Question 7 - Donnée
 
+> Quelle méthode simple peut-on suivre pour donner un feedback constructif ?
+
+## Question 7 - Réponse
+
+La méthode simple pour donner un feedback constructif est de structurer ses
+phrases ainsi :
+
+- _"Ce que j'aime dans votre proposition, c'est..."_.
+- _"Ce que j'aimerais voir davantage, c'est..."_.
+- _"Ce qui pourrait être amélioré..."_.
+
+## Question 8 - Donnée
+
+> Quelle est l'attitude recommandée lorsqu'on reçoit un feedback constructif ?
+
+## Question 8 - Réponse
+
+Lorsqu'on reçoit un feedback constructif, il est recommandé de :
+
+- Écouter sans interrompre
+- Prendre des notes si nécessaire
+- Poser des questions pour clarifier un point
+- Remercier la personne
+- Éviter de se justifier immédiatement
+
+## Question 9 - Donnée
+
 > Quel serait un exemple de pivot envisageable pour votre projet actuel ?
 > Pourquoi ?
 
-## Question 7 - Réponse
+## Question 9 - Réponse
 
 Alors ?
 
