@@ -86,8 +86,8 @@ De façon plus concise, à la fin de cette séance, vous devriez être capable d
 
 Un _"pitch"_ (de l'anglais _"to pitch"_, signifiant _"un effort pour vendre ou
 promouvoir quelque chose"_[^sales-presentation]) est une présentation concise
-d'une idée, d'un projet ou d'un produit, visant à convaincre rapidement un
-interlocuteur (investisseur, client, partenaire...).
+d'une idée, d'un projet ou d'un produit, visant à convaincre rapidement un.e
+interlocuteur.trice (investisseur.euse, client.e, partenaire...).
 
 Il a pour but de susciter l'intérêt et de donner envie de poursuivre la
 conversation sans pour autant inonder son audience d'informations.

@@ -445,20 +445,19 @@ il est recommandé pour la prochaine fois de :
 - Dialoguer avec votre public cible pour récolter des retours pour imaginer
   d'autres idées (**ne pas leur parler de vos idées actuelles**).
 
-<!--
+### Séance 7
 
-### Séance 5 - Présentations du pitch
+<!-- _class: lead -->
 
-<!-- _class: lead --
+**Présentations du pitch**
 
 #### Objectifs
 
-- Préparer un pitch
-- Réaliser un pitch
-- Répondre aux questions
-- Recevoir des feedbacks constructifs
-- Évaluer les pitches des autres groupes
-- Donner des feedbacks constructifs
+- Préparer un pitch.
+- Réaliser un pitch.
+- Répondre aux questions.
+- Recevoir des feedbacks constructifs.
+- Évaluer les pitches des autres groupes.
 
 ![bg right:40%][illustration-objectifs]
 
@@ -471,16 +470,17 @@ Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
 feedbacks constructifs.
 
 Vous pouvez retrouver la grille d'évaluation de la présentation ici :
-[Projet libre - Grille d'évaluation des présentations](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
+[Présentation du pitch](#présentation-du-pitch).
 
-#### À faire pour la semaine suivante
+#### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine fois de :
 
-- Identifier des personnes dans votre entourage qui pourraient rentrer dans
-  votre public cible
-- S'entretenir avec ces personnes pour récolter des retours
+- Continuer à trouver d'autres personnes pour s'entretenir avec et récolter des
+  retours.
+
+<!--
 
 ### Séance 6 - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)
 
