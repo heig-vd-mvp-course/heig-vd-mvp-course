@@ -78,9 +78,11 @@ Les bonnes pratiques lorsqu'on pitch en équipe sont :
 
 La règle de trois peut aider dans un pitch car elle :
 
-- Facilite la mémorisation.
-- Donne du rythme à la narration.
-- Structure clairement le discours.
+1. Facilite la mémorisation.
+2. Donne du rythme à la narration.
+3. Structure clairement le discours.
+
+(Avez-vous remarqué que ce quiz suit lui-même la règle de trois ? :))
 
 ## Question 4 - Donnée
 
@@ -137,6 +139,22 @@ Une structure narrative peut aider à structurer un pitch :
 
 </div>
 </div>
+
+## Question 7 - Donnée
+
+> Quel est l'élément principal qui tue un pitch, particulièrement dans notre
+> domaine ?
+
+## Question 7 - Réponse
+
+L'élément principal qui tue un pitch, particulièrement dans notre domaine, est
+l'utilisation de jargon technique ou de termes trop complexes qui peuvent perdre
+l'attention du public et rendre le message moins accessible.
+
+Un pitch se veut simple, clair et accessible à tout le monde, même aux personnes
+qui ne sont pas expertes dans le domaine.
+
+**Un pitch ≠ une présentation technique !**
 
 ## Questions
 
