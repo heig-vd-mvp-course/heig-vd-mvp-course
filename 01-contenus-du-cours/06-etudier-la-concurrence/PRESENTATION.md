@@ -76,7 +76,7 @@ Il existe deux types de concurrence :
 - Concurrence **indirecte** : entreprises proposant un produit ou service
   différent.
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-identifier-analyser-concurrence]
 
 ## Pourquoi étudier la concurrence ? (1/2)
 
