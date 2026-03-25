@@ -25,13 +25,13 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > de :
 >
 > - Décrire les éléments clés qui composent une interface ergonomique et
->   réfléchie
+>   réfléchie.
 > - Identifier dans une interface quels sont les éléments ergonomiques et
->   réfléchies ou non
+>   réfléchies ou non.
 > - Lister les outils qui permettent de concevoir une interface ergonomique et
->   réfléchie
+>   réfléchie.
 > - Lister les outils qui permettent de valider qu'une interface est accessible
->   et ergonomique
+>   et ergonomique.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
@@ -77,29 +77,29 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Outils généraux d'accessibilité web](#outils-généraux-daccessibilité-web)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 
 ## Objectifs
 
 Réaliser des interfaces ergonomiques est une tâche complexe qui nécessite de
 prendre en compte de nombreux aspects.
 
-Elles permettent à l'utilisateur de comprendre rapidement comment interagir avec
-l'application, de minimiser les erreurs et de maximiser la satisfaction et
-l'engagement.
+Elles permettent à l'utilisateur.trice de comprendre rapidement comment
+interagir avec l'application, de minimiser les erreurs et de maximiser la
+satisfaction et l'engagement.
 
 Dans cette séance, nous allons voir comment réaliser des interfaces ergonomiques
 et réfléchies.
 
 De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
-- Décrire les éléments clés qui composent une interface ergonomique et réfléchie
+- Décrire les éléments clés qui composent une interface ergonomique et
+  réfléchie.
 - Identifier dans une interface quels sont les éléments ergonomiques et
-  réfléchies ou non
+  réfléchies ou non.
 - Lister les outils qui permettent de concevoir une interface ergonomique et
-  réfléchie
+  réfléchie.
 - Lister les outils qui permettent de valider qu'une interface est accessible et
-  ergonomique
+  ergonomique.
 
 ## Avertissement
 
@@ -119,25 +119,26 @@ considérons pas comme des personnes expertes en la matière.
 ## Qu'est-ce qu'une interface ergonomique et réfléchie ?
 
 Une interface ergonomique et réfléchie est une interface qui permet à
-l'utilisateur de comprendre rapidement comment interagir avec l'application.
+l'utilisateur.trice de comprendre rapidement comment interagir avec
+l'application.
 
 De part sa conception, elle minimise les erreurs et maximise la satisfaction et
-l'engagement de l'utilisateur.
+l'engagement de l'utilisateur.trice.
 
 Pour cela, une interface ergonomique et réfléchie doit respecter plusieurs
 principes :
 
-- **Visibilité** : l'utilisateur doit comprendre rapidement comment interagir
-  avec l'application
-- **Feedback** : l'application doit donner un retour à l'utilisateur suite à une
-  action
-- **Flexibilité** : l'application doit s'adapter à l'utilisateur
-- **Simplicité** : l'application doit être simple à utiliser
-- **Clarté** : l'application doit être claire
-- **Consistance** : l'application doit être consistante
-- **Accessibilité** : l'application doit être accessible à tout le monde
-- **Esthétique** : l'application doit être esthétique
-- **Efficacité** : l'application doit être efficace
+- **Visibilité** : l'utilisateur.trice doit comprendre rapidement comment
+  interagir avec l'application.
+- **Feedback** : l'application doit donner un retour à l'utilisateur.trice suite
+  à une action.
+- **Flexibilité** : l'application doit s'adapter à l'utilisateur.trice.
+- **Simplicité** : l'application doit être simple à utiliser.
+- **Clarté** : l'application doit être claire.
+- **Consistance** : l'application doit être consistante.
+- **Accessibilité** : l'application doit être accessible à tout le monde.
+- **Esthétique** : l'application doit être esthétique.
+- **Efficacité** : l'application doit être efficace.
 
 Beaucoup de ces principes sont issus de la psychologie cognitive et de
 l'ergonomie et sont, pour la plupart, des principes de bon sens et/ou
@@ -154,34 +155,35 @@ respecter les principes énoncés ci-dessus.
 
 Pour cela, il est possible de suivre plusieurs étapes :
 
-1. **Définir les besoins de l'utilisateur** : il est nécessaire de comprendre
-   qui sont les utilisateurs de l'application et quels sont leurs besoins
+1. **Définir les besoins de l'utilisateur.trice** : il est nécessaire de
+   comprendre qui sont les utilisateur.trices de l'application et quels sont
+   leurs besoins.
 2. **Définir les objectifs de l'application** : il est nécessaire de comprendre
-   quels sont les objectifs de l'application
+   quels sont les objectifs de l'application.
 3. **Définir les fonctionnalités de l'application** : il est nécessaire de
-   comprendre quelles sont les fonctionnalités de l'application
+   comprendre quelles sont les fonctionnalités de l'application.
 4. **Définir les éléments de l'interface** : il est nécessaire de définir les
-   éléments de l'interface
+   éléments de l'interface.
 5. **Définir la structure de l'interface** : il est nécessaire de définir la
-   structure de l'interface à l'aide de wireframes
+   structure de l'interface à l'aide d'esquisses (wireframes).
 6. **Définir le design de l'interface** : il est nécessaire de définir le design
-   de l'interface à l'aide de maquettes (mockups)
+   de l'interface à l'aide de maquettes (mockups).
 7. **Définir les interactions de l'interface** : il est nécessaire de définir
-   les interactions de l'interface à l'aide de prototypes
+   les interactions de l'interface à l'aide de prototypes.
 8. **Définir les tests utilisateurs** : il est nécessaire de définir les tests
-   utilisateurs pour valider l'interface
+   utilisateurs pour valider l'interface.
 9. **Définir les tests d'accessibilité** : il est nécessaire de définir les
-   tests d'accessibilité pour valider l'accessibilité de l'interface
+   tests d'accessibilité pour valider l'accessibilité de l'interface.
 
 Puis, de façon itérative, vous pouvez recommencer ces étapes pour améliorer
 l'interface.
 
 Pour réaliser ces étapes, il est possible d'utiliser plusieurs outils :
 
-- **Wireframes** : pour définir la structure de l'interface
-- **Maquettes (mockups)** : pour définir le design de l'interface
+- **Esquisses (wireframes)** : pour définir la structure de l'interface.
+- **Maquettes (mockups)** : pour définir le design de l'interface.
 - **Prototypes** : pour tester les interactions de l'interface avec des
-  utilisateurs
+  utilisateur.trices.
 
 ## Exemples d'interfaces que nous ne trouvons pas ergonomiques et réfléchies
 
@@ -196,13 +198,13 @@ navigation efficace.
 
 Les points positifs :
 
-- Beaucoup de statistiques
-- Interface simple pour créer des entraînements
+- Beaucoup de statistiques.
+- Interface simple pour créer des entraînements.
 
 Les points négatifs :
 
-- Interface peu intuitive
-- Navigation peu efficace
+- Interface peu intuitive.
+- Navigation peu efficace.
 
 ![Garmin Connect](./images/garmin-connect.png)
 
@@ -215,16 +217,17 @@ est vrai que l'interface de Discord est très chargée et qu'il n'est pas toujou
 
 Les points positifs :
 
-- Application complète et riche en fonctionnalités
+- Application complète et riche en fonctionnalités.
 
 Les points négatifs :
 
-- Interface très chargée
-- Difficulté à trouver ce que l'on cherche
+- Interface très chargée.
+- Difficulté à trouver ce que l'on cherche.
 
 Depuis le 25 mars 2025, l'application a été mise à jour et l'interface a été
 révisée. Nous verrons à l'utilisation si cette mise à jour a été bénéfique ou
-non.
+non (spoiler : non. En 2026, nous continuons à trouver l'interface de Discord
+peu ergonomique et réfléchie).
 
 ![Discord](./images/discord.png)
 
@@ -238,12 +241,12 @@ quasi impossible d'accéder au contenu de l'application.
 
 Les points positifs :
 
-- Application simple et efficace
+- Application simple et efficace.
 
 Les points négatifs :
 
-- Sans compte, l'application est quasi inutilisable
-- "Nagging"[^nagging-wikipedia] pour créer un compte
+- Sans compte, l'application est quasi inutilisable.
+- "Nagging"[^nagging-wikipedia] pour créer un compte.
 
 ![X/Twitter](./images/x-twitter.png)
 
@@ -261,11 +264,11 @@ famille.
 Les points positifs :
 
 - Application très simple et très efficace : réalise une seule tâche à la
-  perfection
+  perfection.
 
 Les points négatifs :
 
-- Peu de possibilité de personnaliser l'interface
+- Peu de possibilité de personnaliser l'interface.
 
 ![WhatsApp](./images/whatsapp.png)
 
@@ -280,14 +283,14 @@ trains et d'acheter des billets.
 
 Les points positifs :
 
-- Application très sobre et bien structurée
+- Application très sobre et bien structurée.
 
 Les points négatifs :
 
 - Pour acheter des billets internationaux, il faut se rendre sur le site
-  internet (qui lui, n'est pas très ergonomique pour cet aspect)
+  internet (qui lui, n'est pas très ergonomique pour cet aspect).
 - Type de billet à acheter pas toujours évident à comprendre (ex. billet de
-  parcours, billet Mobilis, etc.)
+  parcours, billet Mobilis, etc.).
 
 ![CFF](./images/cff.png)
 
@@ -302,7 +305,7 @@ dessinées humoristiques.
 Les points positifs :
 
 - Interface simple et efficace pour consulter des bandes dessinées (voir le
-  premier, le précédant, le suivant, un aléatoire, etc.)
+  premier, le précédant, le suivant, un aléatoire, etc.).
 
 Les points négatifs :
 
@@ -313,24 +316,27 @@ Les points négatifs :
 ## Outils pour concevoir une interface ergonomique et réfléchie
 
 Une interface ergonomique est pensée en amont afin d'offrir une expérience
-fluide et intuitive aux utilisateurs. Pour y parvenir, voici une sélection
+fluide et intuitive aux utilisateur.trices. Pour y parvenir, voici une sélection
 d'outils efficaces et largement reconnus :
 
-- **Papier et crayon** : old-school mais souvent le plus efficace
+**Papier et crayon**
 
-**Création de Wireframes**
+Old-school mais souvent le plus efficace.
 
-Le wireframe est essentiel pour structurer clairement les écrans et les parcours
-utilisateurs dès les premières étapes du projet.
+**Création d'esquisses (wireframes)**
+
+L'esquisse (wireframe) est essentielLE pour structurer clairement les écrans et
+les parcours utilisateur.trices dès les premières étapes du projet.
 
 - [**Balsamiq Wireframes**](https://balsamiq.com) Un outil rapide et simple pour
   esquisser des wireframes basse fidélité. Balsamiq est idéal pour poser
   rapidement les bases ergonomiques de votre interface et valider vos idées
   initiales.
+- [Wireframe.cc](https://wireframe.cc/).
 
-**Création de Mockups et Prototypes interactifs**
+**Création de maquettes (mockups) et prototypes interactifs**
 
-Les mockups et prototypes permettent de concrétiser les choix graphiques et
+Les maquettes et prototypes permettent de concrétiser les choix graphiques et
 ergonomiques de manière avancée.
 
 - [**Figma**](https://figma.com) Plateforme collaborative incontournable pour
@@ -340,9 +346,6 @@ ergonomiques de manière avancée.
   permet de concevoir des interfaces ergonomiques avec des fonctionnalités de
   collaboration étendues, tout en intégrant directement les principes
   d'accessibilité dès la conception.
-- [**Adobe XD**](https://adobe.com/products/xd) : Adobe XD permet de concevoir
-  des prototypes interactifs détaillés avec une prise en main intuitive, idéale
-  pour tester et valider des interactions complexes.
 
 **Outils complémentaires pour guider la conception**
 
@@ -359,14 +362,14 @@ Quelques outils additionnels pour enrichir votre réflexion ergonomique :
 
 **Autres outils de design graphique**
 
-- [Wireframe.cc](https://wireframe.cc/)
-- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
-- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html).
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html).
 
-> [!TIP] Une interface réfléchie est toujours le résultat d'une démarche
-> itérative. Ne négligez pas les tests et les retours utilisateurs à chaque
-> étape du processus pour garantir la pertinence et l'efficacité de vos choix
-> ergonomiques.
+> [!TIP]
+>
+> Une interface réfléchie est toujours le résultat d'une démarche itérative. Ne
+> négligez pas les tests et les retours utilisateurs à chaque étape du processus
+> pour garantir la pertinence et l'efficacité de vos choix ergonomiques.
 
 ## Outils pour valider qu'une interface est accessible et ergonomique
 
@@ -394,7 +397,6 @@ disposition. En voici une sélection :
   complète pour détecter rapidement les erreurs d'accessibilité d'une page web.
   L'outil fournit des suggestions détaillées et un aperçu visuel clair des
   améliorations nécessaires pour répondre aux critères WCAG.
-
 - [**PageSpeed Insights**](https://pagespeed.web.dev/) : PageSpeed Insights est
   un outil de Google qui analyse la performance d'une page web. En plus de
   fournir des recommandations pour améliorer la vitesse de chargement, il évalue

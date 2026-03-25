@@ -45,37 +45,38 @@ document._
 
 ## Objectifs (1/2)
 
-- Décrire les éléments clés qui composent une interface ergonomique et réfléchie
+- Décrire les éléments clés qui composent une interface ergonomique et
+  réfléchie.
 - Identifier dans une interface quels sont les éléments ergonomiques et
-  réfléchies ou non
+  réfléchies ou non.
 - Lister les outils qui permettent de concevoir une interface ergonomique et
-  réfléchie
+  réfléchie.
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
 - Lister les outils qui permettent de valider qu'une interface est accessible et
-  ergonomique
+  ergonomique.
 
 ![bg right:40%][illustration-objectifs]
 
 ## Avertissement
 
 - Développer des interfaces ergonomiques et réfléchies est un métier à part
-  entière
-- Longues années d'études et d'expérience
-- Nous ne sommes pas des experts
+  entière.
+- Longues années d'études et d'expérience.
+- Nous ne sommes pas des experts.
 - De ce fait, nous allons vous transmettre dans ce cours est une introduction à
-  ce domaine
+  ce domaine.
 
 ![bg right:40%][illustration-avertissement]
 
 ## Qu'est-ce qu'une interface ergonomique et réfléchie ? (1/2)
 
-- Une interface qui est facile à utiliser et à comprendre
-- Une interface qui est agréable à utiliser et accessible à tous
-- Minimise les erreurs et maximise la satisfaction et l'engagement
+- Une interface qui est facile à utiliser et à comprendre.
+- Une interface qui est agréable à utiliser et accessible à tous.
+- Minimise les erreurs et maximise la satisfaction et l'engagement.
 
 ![bg right:40%][illustration-principale]
 
@@ -86,19 +87,19 @@ Basé sur quelques principes de design (bon sens/subjectifs):
 <div class="two-columns">
 <div>
 
-- Visibilité
-- Feedback
-- Flexibilité
-- Simplicité
-- Clarté
+- Visibilité.
+- Feedback.
+- Flexibilité.
+- Simplicité.
+- Clarté.
 
 </div>
 <div>
 
-- Consistance
-- Accessibilité
-- Esthétique
-- Efficacité
+- Consistance.
+- Accessibilité.
+- Esthétique.
+- Efficacité.
 
 </div>
 </div>
@@ -108,11 +109,11 @@ Basé sur quelques principes de design (bon sens/subjectifs):
 On peut utiliser la méthode suivante pour réaliser une interface ergonomique et
 réfléchie :
 
-1. Définir les besoins de l'utilisateur
-2. Définir les objectifs et fonctionnalités de l'application
-3. Définir les éléments, structure et design, de l'interface
-4. Définir les interactions de l'interface
-5. Définir les tests utilisateurs et accessibilité
+1. Définir les besoins de l'utilisateur.trice.
+2. Définir les objectifs et fonctionnalités de l'application.
+3. Définir les éléments, structure et design, de l'interface.
+4. Définir les interactions de l'interface.
+5. Définir les tests utilisateurs et accessibilité.
 
 </div>
 </div>
@@ -132,13 +133,13 @@ Nous allons les analyser ensemble.
 
 **Les points positifs**
 
-- Beaucoup de statistiques
-- Interface simple pour créer des entraînements
+- Beaucoup de statistiques.
+- Interface simple pour créer des entraînements.
 
 **Les points négatifs**
 
-- Interface peu intuitive
-- Navigation peu efficace
+- Interface peu intuitive.
+- Navigation peu efficace.
 
 ![bg right:40% w:90%](./images/garmin-connect.png)
 
@@ -146,12 +147,12 @@ Nous allons les analyser ensemble.
 
 **Les points positifs**
 
-- Application complète et riche en fonctionnalités
+- Application complète et riche en fonctionnalités.
 
 **Les points négatifs**
 
-- Interface très chargée
-- Difficulté à trouver ce que l'on cherche
+- Interface très chargée.
+- Difficulté à trouver ce que l'on cherche.
 
 ![bg right:40% w:90%](./images/discord.png)
 
@@ -159,12 +160,12 @@ Nous allons les analyser ensemble.
 
 **Les points positifs**
 
-- Application simple et efficace
+- Application simple et efficace.
 
 **Les points négatifs**
 
-- Sans compte, l'application est quasi inutilisable
-- "Nagging" pour créer un compte
+- Sans compte, l'application est quasi inutilisable.
+- "Nagging" pour créer un compte.
 
 ![bg right:40% w:90%](./images/x-twitter.png)
 
@@ -183,11 +184,11 @@ Nous allons les analyser ensemble.
 **Les points positifs**
 
 - Application très simple et très efficace : réalise une seule tâche à la
-  perfection
+  perfection.
 
 **Les points négatifs**
 
-- Peu de possibilité de personnaliser l'interface
+- Peu de possibilité de personnaliser l'interface.
 
 ![bg right:40% w:90%](./images/whatsapp.png)
 
@@ -195,12 +196,12 @@ Nous allons les analyser ensemble.
 
 **Les points positifs**
 
-- Application très sobre et bien structurée
+- Application très sobre et bien structurée.
 
 **Les points négatifs**
 
-- Difficulté à acheter des billets internationaux
-- Trop de types de billets
+- Difficulté à acheter des billets internationaux.
+- Trop de types de billets.
 
 ![bg right:40% w:90%](./images/cff.png)
 
@@ -208,7 +209,7 @@ Nous allons les analyser ensemble.
 
 **Les points positifs**
 
-- Interface simple et efficace pour consulter des bandes dessinée
+- Interface simple et efficace pour consulter des bandes dessinées.
 
 **Les points négatifs**
 
@@ -218,35 +219,35 @@ Nous allons les analyser ensemble.
 
 ## Outils pour concevoir une interface ergonomique et réfléchie
 
-- Papier et crayon (old-school mais souvent le plus efficace)
-- [Figma](https://www.figma.com/)
-- [Penpot](https://penpot.app/) (une alternative open-source à Figma)
-- [Balsamiq](https://balsamiq.com/)
-- [Wireframe.cc](https://wireframe.cc/)
-- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
-- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+- Papier et crayon (old-school mais souvent le plus efficace).
+- [Figma](https://www.figma.com/).
+- [Penpot](https://penpot.app/) (une alternative open-source à Figma).
+- [Balsamiq](https://balsamiq.com/).
+- [Wireframe.cc](https://wireframe.cc/).
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html).
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html).
 
 ## Outils pour valider qu'une interface est accessible et ergonomique
 
-- Contrastes
-- Palettes de couleurs / Charte graphique
-- Accessibilité
+- Contrastes.
+- Palettes de couleurs / Charte graphique.
+- Accessibilité.
 
 ### Validation des contrastes et palettes de couleurs
 
 - [**Poline**](https://meodai.github.io/poline/) : palette de couleurs et
-  validation des contrastes
+  validation des contrastes.
 - [**Geenes Accessibility Editor**](https://geenes.app/editor/accessibility) :
-  éditeur de couleurs et validation des contrastes
+  éditeur de couleurs et validation des contrastes.
 
 ![bg right:40%][illustration-contrastes]
 
 ### Outils généraux d'accessibilité web
 
 - [**WAVE Evaluation Tool**](https://wave.webaim.org/) : analyseur
-  d'accessibilité web
+  d'accessibilité web.
 - [**PageSpeed Insights**](https://pagespeed.web.dev/) : analyseur de
-  performance et d'accessibilité web
+  performance et d'accessibilité web.
 
 ![bg right:40%][illustration-accessibilite]
 

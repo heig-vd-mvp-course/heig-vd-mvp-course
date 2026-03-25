@@ -47,53 +47,53 @@ document._
 
 ## Question 1 - Donnée
 
-Pourquoi faisons-nous des interfaces ergonomiques et réfléchies ?
+> Pourquoi faisons-nous des interfaces ergonomiques et réfléchies ?
 
 ## Question 1 - Réponse
 
-- Pour que l'utilisateur puisse comprendre rapidement comment interagir avec
-  l'application
-- Pour minimiser les erreurs
-- Pour maximiser la satisfaction et l'engagement
-- Pour que l'utilisateur puisse comprendre rapidement comment interagir avec
-  l'application
+- Pour que l'utilisateur.trice puisse comprendre rapidement comment interagir
+  avec l'application.
+- Pour minimiser les erreurs.
+- Pour maximiser la satisfaction et l'engagement.
+- Pour que l'utilisateur.trice puisse comprendre rapidement comment interagir
+  avec l'application.
 
 ## Question 2 - Donnée
 
-Qu'est-ce qu'une interface ergonomique et réfléchie ?
+> Qu'est-ce qu'une interface ergonomique et réfléchie ?
 
 ## Question 2 - Réponse
 
-- Une interface qui est facile à utiliser et à comprendre
-- Une interface qui est agréable à utiliser
-- Une interface qui est accessible à tous
+- Une interface qui est facile à utiliser et à comprendre.
+- Une interface qui est agréable à utiliser.
+- Une interface qui est accessible à tous.
 
 ## Question 3 - Donnée
 
-Quelles sont les étapes pour réaliser une interface ergonomique et réfléchie ?
+> Quelles sont les étapes pour réaliser une interface ergonomique et réfléchie ?
 
 ## Question 3 - Réponse
 
-- Comprendre les besoins de l'utilisateur
-- Concevoir l'interface
-- Tester l'interface
-- Améliorer l'interface
+- Comprendre les besoins de l'utilisateur.trice.
+- Concevoir l'interface.
+- Tester l'interface.
+- Améliorer l'interface.
 
 ## Question 4 - Donnée
 
-Pourquoi réaliser une interface ergonomique et réfléchie est difficile ?
+> Pourquoi réaliser une interface ergonomique et réfléchie est difficile ?
 
 ## Question 4 - Réponse
 
 - Parce que cela nécessite de prendre en compte de nombreux aspects (ergonomie,
-  accessibilité, esthétique, etc.)
-- Parce que cela nécessite une formation et une expérience spécifiques
-- Parce que c'est subjectif et que chacun a ses propres goûts
+  accessibilité, esthétique, etc.).
+- Parce que cela nécessite une formation et une expérience spécifiques.
+- Parce que c'est subjectif et que chacun a ses propres goûts.
 
 ## Question 5 - Donnée
 
-Comment pouvons-nous valider qu'une interface (par exemple, une landing page)
-est ergonomique ?
+> Comment pouvons-nous valider qu'une interface (par exemple, une landing page)
+> est ergonomique ?
 
 ## Réponse 5 - Réponse
 

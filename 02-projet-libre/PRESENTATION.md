@@ -563,6 +563,41 @@ il est recommandé pour la prochaine fois de :
   identifiés.
 - Récolter des retours et itérer sur votre projet en fonction de ces retours.
 
+### Séance 9
+
+<!-- _class: lead -->
+
+**Réaliser des maquettes avant de développer**
+
+#### Objectifs
+
+- Réaliser des maquettes de l'application.
+- Évaluer la pertinence de ces maquettes par rapport au besoin du public cible.
+- Compléter le rapport.
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Nous vous invitons maintenant réaliser des maquettes de votre application pour
+répondre au besoin de votre public cible.
+
+Prenez le temps nécessaire pour réaliser ces maquettes. Mieux ces maquettes
+seront conçues, plus elles seront pertinentes par rapport au besoin de votre
+public cible et simples à implémenter par la suite. **Réfléchissez avant de
+développer !**
+
+N'hésitez pas à vous inspirer d'autres applications ou à demander des feedbacks
+pour améliorer vos maquettes.
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Finaliser les maquettes de l'application.
+- Continuer à promouvoir et récolter des retours sur votre projet.
+
 <!--
 
 ### Séance 5 - Présentations du pitch
