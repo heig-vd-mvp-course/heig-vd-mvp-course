@@ -51,6 +51,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Séance 7](#séance-7)
   - [Séance 8](#séance-8)
   - [Séance 9](#séance-9)
+  - [Séance 10](#séance-10)
 
 ## Objectifs
 
@@ -1449,9 +1450,9 @@ il est recommandé pour la prochaine fois de :
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Générer des idées pour répondre au besoin du public cible.
-> - Évaluer la pertinence de ces idées par rapport au besoin du public cible.
-> - Identifier les avantages et les inconvénients de ces idées.
+> - Réaliser des maquettes de l'application.
+> - Évaluer la pertinence de ces maquettes par rapport au besoin du public
+>   cible.
 > - Compléter le rapport.
 >
 > **Méthodes d'enseignement et d'apprentissage**
@@ -1511,6 +1512,97 @@ il est recommandé pour la prochaine fois de :
 
 - Finaliser les maquettes de l'application.
 - Continuer à promouvoir et récolter des retours sur votre projet.
+
+### Séance 10
+
+**Identifier une stack technologique adaptée**
+
+> [!TIP]
+>
+> Voici quelques informations relatives à ce contenu.
+>
+> **Ressources annexes**
+>
+> - Autres formats :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-10)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Identifier les fonctionnalités minimales à implémenter pour le service
+>   envisagé.
+> - Identifier une stack technologique adaptée pour implémenter ces
+>   fonctionnalités.
+> - Compléter le rapport.
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Discussions en groupe.
+> - Pitch.
+> - Brainstorming.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'une présentation du projet aux personnes qui
+> enseignent ainsi qu'un court document décrivant le public cible.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à présenter.
+> - Capacité à écouter.
+> - Capacité à argumenter.
+> - Capacité à participer.
+> - Comparaison de différentes stacks technologiques pour implémenter les
+>   fonctionnalités.
+> - Justification du choix de la stack technologique pour implémenter les
+>   fonctionnalités.
+>
+> Les retours se font de la manière suivante :
+>
+> - Feedback.
+>
+> L'évaluation ne donne pas lieu à une note.
+
+#### Objectifs
+
+- Identifier les fonctionnalités minimales à implémenter pour le service
+  envisagé.
+- Identifier une stack technologique adaptée pour implémenter ces
+  fonctionnalités.
+- Compléter le rapport.
+
+#### Déroulement
+
+Nous vous invitons maintenant à identifier une stack technologique adaptée pour
+implémenter les fonctionnalités minimales de votre service envisagé.
+
+**Ne codez pas tout de suite !** Prenez le temps nécessaire pour cette tâche.
+Mieux vous choisirez votre stack technologique, plus elle sera adaptée à votre
+projet et plus elle vous permettra de développer rapidement.
+
+Discutez en équipe des différentes options, faites des recherches, faites tes
+tests, etc. **Explorez avant de développer !**
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Identifier d'autres outils et stacks technologiques pour implémenter les
+  fonctionnalités minimales de votre service envisagé.
+- Tester une ou plusieurs de ces stacks technologiques pour identifier celle qui
+  est la plus adaptée à votre projet.
+- Choisir une stack technologique pour implémenter les fonctionnalités minimales
+  de votre service envisagé.
 
 <!--
 

@@ -598,6 +598,46 @@ il est recommandé pour la prochaine fois de :
 - Finaliser les maquettes de l'application.
 - Continuer à promouvoir et récolter des retours sur votre projet.
 
+### Séance 10
+
+<!-- _class: lead -->
+
+**Identifier une stack technologique adaptée**
+
+#### Objectifs
+
+- Identifier les fonctionnalités minimales à implémenter pour le service
+  envisagé.
+- Identifier une stack technologique adaptée pour implémenter ces
+  fonctionnalités.
+- Compléter le rapport.
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Nous vous invitons maintenant à identifier une stack technologique adaptée pour
+implémenter les fonctionnalités minimales de votre service envisagé.
+
+**Ne codez pas tout de suite !** Prenez le temps nécessaire pour cette tâche.
+Mieux vous choisirez votre stack technologique, plus elle sera adaptée à votre
+projet et plus elle vous permettra de développer rapidement.
+
+Discutez en équipe des différentes options, faites des recherches, faites tes
+tests, etc. **Explorez avant de développer !**
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Identifier d'autres outils et stacks technologiques pour implémenter les
+  fonctionnalités minimales de votre service envisagé.
+- Tester une ou plusieurs de ces stacks technologiques pour identifier celle qui
+  est la plus adaptée à votre projet.
+- Choisir une stack technologique pour implémenter les fonctionnalités minimales
+  de votre service envisagé.
+
 <!--
 
 ### Séance 5 - Présentations du pitch
