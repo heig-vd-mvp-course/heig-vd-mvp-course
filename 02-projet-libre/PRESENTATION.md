@@ -445,6 +445,41 @@ il est recommandé pour la prochaine fois de :
 - Dialoguer avec votre public cible pour récolter des retours pour imaginer
   d'autres idées (**ne pas leur parler de vos idées actuelles**).
 
+### Séance 6
+
+<!-- _class: lead -->
+
+**Étudier la concurrence**
+
+#### Objectifs
+
+- Identifier les concurrents directs et indirects de leur projet.
+- Analyser les forces et les faiblesses de ces concurrents.
+- Identifier les opportunités et les menaces pour leur projet par rapport à ces
+  concurrents.
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Nous vous invitons maintenant à analyser la concurrence pour votre projet. Il
+est important d'identifier la concurrence pour la suite du projet, notamment
+pour éviter de réinventer la roue.
+
+Nous sommes disponibles pour vous aider à identifier les concurrents directs et
+indirects de votre projet.
+
+Rappelez-vous, si vous ne trouvez pas de concurrents, ce n'est pas une bonne
+nouvelle !
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Identifier les concurrents directs et indirects de votre projet.
+- Faire une analyse complète de la concurrence pour votre projet.
+
 ### Séance 7
 
 <!-- _class: lead -->

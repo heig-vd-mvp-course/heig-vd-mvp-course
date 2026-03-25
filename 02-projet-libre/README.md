@@ -47,6 +47,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Séance 3](#séance-3)
   - [Séance 4](#séance-4)
   - [Séance 5](#séance-5)
+  - [Séance 6](#séance-6)
   - [Séance 7](#séance-7)
 
 ## Objectifs
@@ -1160,6 +1161,89 @@ il est recommandé pour la prochaine fois de :
   cible.
 - Dialoguer avec votre public cible pour récolter des retours pour imaginer
   d'autres idées (**ne pas leur parler de vos idées actuelles**).
+
+### Séance 6
+
+**Étudier la concurrence**
+
+> [!TIP]
+>
+> Voici quelques informations relatives à ce contenu.
+>
+> **Ressources annexes**
+>
+> - Autres formats :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-6)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Identifier les concurrents directs et indirects de leur projet.
+> - Analyser les forces et les faiblesses de ces concurrents.
+> - Identifier les opportunités et les menaces pour leur projet par rapport à
+>   ces concurrents.
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Discussions en groupe.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'une présentation du projet aux personnes qui
+> enseignent ainsi qu'un court document d'analyse de la concurrence.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à présenter.
+> - Capacité à écouter.
+> - Capacité à argumenter.
+> - Capacité à participer.
+> - Identification des concurrents directs et indirects.
+> - Analyse des forces et des faiblesses de ces concurrents.
+> - Identification des opportunités et des menaces pour leur projet par rapport
+>   à ces concurrents.
+>
+> Les retours se font de la manière suivante :
+>
+> - Feedback.
+>
+> L'évaluation ne donne pas lieu à une note.
+
+#### Objectifs
+
+- Identifier les concurrents directs et indirects de leur projet.
+- Analyser les forces et les faiblesses de ces concurrents.
+- Identifier les opportunités et les menaces pour leur projet par rapport à ces
+  concurrents.
+
+#### Déroulement
+
+Nous vous invitons maintenant à analyser la concurrence pour votre projet. Il
+est important d'identifier la concurrence pour la suite du projet, notamment
+pour éviter de réinventer la roue.
+
+Nous sommes disponibles pour vous aider à identifier les concurrents directs et
+indirects de votre projet.
+
+Rappelez-vous, si vous ne trouvez pas de concurrents, ce n'est pas une bonne
+nouvelle !
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Identifier les concurrents directs et indirects de votre projet.
+- Faire une analyse complète de la concurrence pour votre projet.
 
 ### Séance 7
 
