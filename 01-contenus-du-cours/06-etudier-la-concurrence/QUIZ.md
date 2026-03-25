@@ -46,7 +46,8 @@ document._
 
 ## Question 1 - Donnée
 
-> Quelle est la différence entre concurrence directe et concurrence indirecte ?
+> Quelle est la différence entre la concurrence directe et la concurrence
+> indirecte ?
 
 ## Question 1 - Réponse
 
@@ -59,8 +60,8 @@ répondez.
 
 ## Question 2 - Donnée
 
-> Quelles sont les 4 raisons principales pour lesquelles vous pourriez ne pas
-> avoir de concurrence ? Est-ce une bonne nouvelle ?
+> Quelles sont les quatre raisons principales pour lesquelles vous pourriez ne
+> pas avoir de concurrence ? Est-ce une bonne nouvelle ?
 
 ## Question 2 - Réponse
 
@@ -90,7 +91,7 @@ empêchez de se développer par votre activité.
 
 ## Question 4 - Donnée
 
-> Listez au moins 7 aspects à étudier chez les entreprises concurrentes pour
+> Listez au moins sept aspects à étudier chez les entreprises concurrentes pour
 > réaliser une analyse complète.
 
 ## Question 4 - Réponse
@@ -98,20 +99,20 @@ empêchez de se développer par votre activité.
 <div class="two-columns">
 <div>
 
-- Leurs offres (produits ou services).
-- Leurs prix et positionnement tarifaire.
-- Leurs canaux de distribution.
-- Leurs stratégies de fidélisation.
-- Leurs innovations récentes.
+1. Leurs offres (produits ou services).
+2. Leurs prix et positionnement tarifaire.
+3. Leurs canaux de distribution.
+4. Leurs stratégies de fidélisation.
+5. Leurs innovations récentes.
 
 </div>
 <div>
 
-- Leurs campagnes publicitaires et messages marketing.
-- Leur rapport annuel (si accessible).
-- Le nombre de personnes salariées, management, chiffre d'affaires et parts de
-  marché.
-- Leur clientèle et façon de segmenter le marché.
+6. Leurs campagnes publicitaires et messages marketing.
+7. Leur rapport annuel (si accessible).
+8. Le nombre de personnes salariées, management, chiffre d'affaires et parts de
+   marché.
+9. Leur clientèle et façon de segmenter le marché.
 
 </div>
 </div>
@@ -125,10 +126,8 @@ empêchez de se développer par votre activité.
 
 1. **Identification de nouveaux canaux de distribution** : découvrir des canaux
    auxquels vous n'aviez pas pensé (marketplaces, partenariats, vente directe).
-
 2. **Affiner votre stratégie de prix** : vous positionner différemment selon que
    la concurrence propose des solutions coûteuses ou bon marché.
-
 3. **Découvrir de nouveaux types de concurrent·e·s** : identifier des formes de
    concurrence indirecte inattendues en questionnant votre clientèle sur la
    façon dont elle résout ses problèmes.
@@ -142,8 +141,8 @@ Est-ce que vous avez des questions ?
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Clark Tibbs](https://unsplash.com/@clarktibbs) sur
-  [Unsplash](https://unsplash.com/photos/person-sitting-on-top-of-gray-rock-overlooking-mountain-during-daytime-oqStl2L5oxI)
+  [Sam Ferrara](https://unsplash.com/@samferrara) sur
+  [Unsplash](https://unsplash.com/photos/aerial-photo-of-foggy-mountains-1527pjeb6jg)
 
 <!-- URLs -->
 

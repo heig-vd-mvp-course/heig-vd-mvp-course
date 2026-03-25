@@ -12,20 +12,20 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 >
 > - Autres formats : [Présentation (web)][presentation-web] · [Présentation
 >   (PDF)][presentation-pdf]
-> - Quiz : [Web][quiz-web] · [PDF](quiz-pdf)
+> - Quiz : [Web][quiz-web] · [PDF][quiz-pdf]
 >
 > **Objectifs**
 >
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Clarifier ce qu'est la concurrence
-> - Identifier les entreprises concurrentes
-> - Analyser les forces et les faiblesses de la concurrence
-> - Identifier les opportunités et les menaces liées à la concurrence
-> - Lister les avantages et les inconvénients de ce que la concurrence fait
+> - Clarifier ce qu'est la concurrence.
+> - Identifier les entreprises concurrentes.
+> - Analyser les forces et les faiblesses de la concurrence.
+> - Identifier les opportunités et les menaces liées à la concurrence.
+> - Lister les avantages et les inconvénients de ce que la concurrence fait.
 > - Identifier les opportunités d'amélioration de son offre par rapport à la
->   concurrence
+>   concurrence.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
@@ -76,13 +76,13 @@ Cette séance a pour objectif de vous apprendre à étudier la concurrence.
 
 De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
-- Clarifier ce qu'est la concurrence
-- Identifier les entreprises concurrentes
-- Analyser les forces et les faiblesses de la concurrence
-- Identifier les opportunités et les menaces liées à la concurrence
-- Lister les avantages et les inconvénients de ce que la concurrence fait
+- Clarifier ce qu'est la concurrence.
+- Identifier les entreprises concurrentes.
+- Analyser les forces et les faiblesses de la concurrence.
+- Identifier les opportunités et les menaces liées à la concurrence.
+- Lister les avantages et les inconvénients de ce que la concurrence fait.
 - Identifier les opportunités d'amélioration de son offre par rapport à la
-  concurrence
+  concurrence.
 
 ## J'ai trouvé une idée originale, je fonce au pitch !
 
@@ -96,11 +96,14 @@ votre offre.
 ## Qu'est-ce que la concurrence ?
 
 La concurrence est l'ensemble des entreprises qui proposent des produits ou
-services similaires à ceux que vous proposez. La concurrence peut être directe
-ou indirecte. La concurrence directe est constituée de l'ensemble des
-entreprises proposant un produit ou service similaire au vôtre. La concurrence
-indirecte est constituée des entreprises proposant un produit ou service
-différent, mais répondant au même besoin que celui auquel vous répondez.
+services similaires à ceux que vous proposez.La concurrence peut être directe ou
+indirecte :
+
+- La concurrence directe est constituée de l'ensemble des entreprises proposant
+  un produit ou service similaire au vôtre.
+- La concurrence indirecte est constituée des entreprises proposant un produit
+  ou service différent, mais répondant au même besoin que celui auquel vous
+  répondez.
 
 Par exemple, si vous proposez un service de livraison de repas à domicile, votre
 concurrence directe serait constituée d'autres services de livraison de repas à
@@ -113,12 +116,17 @@ courses.
 La concurrence est une opportunité d'apprendre et de s'améliorer. En étudiant la
 concurrence, vous pouvez identifier les forces et les faiblesses de vos
 concurrents, ainsi que les opportunités et les menaces liées à la concurrence.
+
 Cela vous permet de mieux comprendre votre marché et de trouver des moyens de
 vous différencier de vos concurrents.
 
+Aussi, cela vous permet d'identifier ce qui a bien marché pour vos concurrents
+et de vous en inspirer, ainsi que ce qui a mal marché pour éviter de faire les
+mêmes erreurs.
+
 > Et si je n'ai pas de concurrence ? Est-ce une bonne nouvelle ?
 
-Malheureusement, la réponse est généralement non ! Il existe 4 raisons
+Malheureusement, la réponse est généralement non ! Il existe quatre raisons
 principales de ne pas avoir de concurrence :
 
 1. Votre étude de la concurrence n'est pas assez bien faite.
@@ -159,17 +167,14 @@ Cette analyse vous permettra de mieux vous positionner sur le marché.
 Pour mener une analyse de la concurrence efficace, il est recommandé de
 construire un tableau structuré avec les éléments suivants :
 
-1. **Le nom des 5 ou 6 principales entreprises concurrentes** : incluez à la
-   fois les entreprises concurrentes directes (qui proposent des
+1. **Le nom des cinq ou six principales entreprises concurrentes** : incluez à
+   la fois les entreprises concurrentes directes (qui proposent des
    produits/services similaires) et indirectes (qui répondent au même besoin
    différemment).
-
 2. **Leurs points forts** : ce que la concurrence fait bien et dont vous pouvez
    vous inspirer. C'est une opportunité d'apprentissage.
-
 3. **Leurs points faibles** : ce que vous faites mieux qu'elles. Ces éléments
    constituent vos avantages compétitifs actuels.
-
 4. **Vos avantages concurrentiels** : ce qui vous différencie de chacune d'elles
    et pourquoi votre clientèle devrait vous choisir.
 
@@ -250,15 +255,12 @@ ces étapes :
 1. **Définir les critères** : identifiez les critères qui forment la base de
    l'évaluation concurrentielle. Ces critères doivent être pertinents pour votre
    marché et votre clientèle (qualité, prix, service, innovation, etc.).
-
 2. **Identifier la concurrence** : listez les entreprises concurrentes ainsi que
    les produits/services correspondant à vos critères. N'oubliez pas d'inclure à
    la fois les concurrences directes et indirectes.
-
 3. **Réaliser un benchmark** : analysez en détail cette concurrence sur la base
-   des critères que vous avez choisis. Soyez des personnes objective et
+   des critères que vous avez choisis. Soyez des personnes objectives et
    factuelles dans votre évaluation.
-
 4. **Comparer avec votre entreprise** : organisez les informations recueillies
    lors du benchmark en comparant les entreprises concurrentes avec votre propre
    entreprise (par exemple, en indiquant les forces de chacune dans un tableau).

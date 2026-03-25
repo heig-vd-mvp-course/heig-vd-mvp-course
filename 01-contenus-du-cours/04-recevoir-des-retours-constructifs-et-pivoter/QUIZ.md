@@ -101,24 +101,9 @@ Deux exemples célèbres sont :
 
 ## Question 5 - Donnée
 
-> Quels outils ou techniques peuvent aider à explorer de nouvelles pistes lors
-> d'un pivot ?
-
-## Question 5 - Réponse
-
-Parmi les outils et techniques pour explorer de nouvelles pistes, on trouve :
-
-- Le **Brainstorming** pour générer des idées alternatives en équipe.
-- L'**expérimentation rapide** via le prototypage rapide ou des landing pages
-  temporaires.
-- La **recherche comparative** pour identifier des opportunités encore
-  inexploitées par des projets similaires sur le marché.
-
-## Question 6 - Donnée
-
 > Comment gérer émotionnellement la décision de pivoter ?
 
-## Question 6 - Réponse
+## Question 5 - Réponse
 
 Pour gérer émotionnellement le pivot, il est recommandé de :
 
@@ -128,11 +113,11 @@ Pour gérer émotionnellement le pivot, il est recommandé de :
 - **Discuter ouvertement en équipe** afin d'obtenir un consensus collectif qui
   facilite l'acceptation du changement.
 
-## Question 7 - Donnée
+## Question 6 - Donnée
 
 > Quelle méthode simple peut-on suivre pour donner un feedback constructif ?
 
-## Question 7 - Réponse
+## Question 6 - Réponse
 
 La méthode simple pour donner un feedback constructif est de structurer ses
 phrases ainsi :
@@ -141,11 +126,11 @@ phrases ainsi :
 - _"Ce que j'aimerais voir davantage, c'est..."_.
 - _"Ce qui pourrait être amélioré..."_.
 
-## Question 8 - Donnée
+## Question 7 - Donnée
 
 > Quelle est l'attitude recommandée lorsqu'on reçoit un feedback constructif ?
 
-## Question 8 - Réponse
+## Question 7 - Réponse
 
 Lorsqu'on reçoit un feedback constructif, il est recommandé de :
 
@@ -155,12 +140,12 @@ Lorsqu'on reçoit un feedback constructif, il est recommandé de :
 - Remercier la personne
 - Éviter de se justifier immédiatement
 
-## Question 9 - Donnée
+## Question 8 - Donnée
 
 > Quel serait un exemple de pivot envisageable pour votre projet actuel ?
 > Pourquoi ?
 
-## Question 9 - Réponse
+## Question 8 - Réponse
 
 Alors ?
 

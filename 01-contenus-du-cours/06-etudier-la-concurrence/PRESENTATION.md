@@ -61,14 +61,22 @@ document._
 
 ## J'ai trouvé une idée originale, je fonce au pitch !
 
-<!-- _class: lead -->
+- Il est rare d'avoir une idée originale sans concurrence.
+- Étudier la concurrence permet de comprendre son marché.
+- Étape obligatoire pour construire une stratégie efficace.
+
+![bg right:40%][illustration-objectifs]
 
 ## Qu'est-ce que la concurrence ?
+
+Il existe deux types de concurrence :
 
 - Concurrence **directe** : entreprises proposant un produit ou service
   similaire au vôtre.
 - Concurrence **indirecte** : entreprises proposant un produit ou service
   différent.
+
+![bg right:40%][illustration-objectifs]
 
 ## Pourquoi étudier la concurrence ? (1/2)
 
@@ -78,6 +86,8 @@ document._
 - Comprendre votre marché.
 
 > Et si je n'ai pas de concurrence ? Est-ce une bonne nouvelle ?
+
+Généralement **non** ! Voici pourquoi.
 
 ## Pourquoi étudier la concurrence ? (2/2)
 
@@ -97,13 +107,23 @@ document._
 > concurrence est constituée des entreprises que vous empêchez de se développer
 > par votre activité.
 
+Le simple fait d'être sur le marché et de faire des ventes signifie que vous
+êtes la concurrence de vos concurrents !
+
 ## Identifier et analyser la concurrence
 
-<!-- _class: lead -->
+Maintenant que nous avons défini ce qu'est la concurrence, il est temps de
+l'identifier et de l'analyser.
+
+Étape obligatoire pour construire une stratégie efficace !
+
+![bg right:40%][illustration-objectifs]
 
 ### Comment faire une analyse de la concurrence ?
 
-1. Le nom des 5 ou 6 principales entreprises concurrentes.
+Un tableau permet de comparer la concurrence sur différents critères :
+
+1. Le nom des cinq ou six principales entreprises concurrentes.
 2. Leurs points forts.
 3. Leurs points faibles.
 4. Vos avantages concurrentiels.
@@ -139,31 +159,50 @@ document._
 - Découvrir de nouveaux types de concurrence.
 - Anticiper les mouvements du marché.
 
+![bg right:40%][illustration-objectifs]
+
 ## Établir un mapping concurrentiel
 
-<!-- _class: lead -->
+- Outil visuel qui permet de comparer votre offre avec vos concurrents.
+- Appelé aussi "carte de positionnement".
+- Basé sur des critères pertinents pour votre marché (prix, qualité, innovation,
+  etc.).
+
+![bg right:40%][illustration-objectifs]
 
 ### Étapes pour créer votre mapping
+
+Pour créer votre mapping :
 
 1. Définir les critères.
 2. Identifier la concurrence.
 3. Réaliser un benchmark.
 4. Comparer avec votre entreprise.
 
+![bg right:40%][illustration-objectifs]
+
 ### Exemple de tableau d'analyse
 
-| Critère                      | Mon entreprise | Entreprise 1 | Entreprise 2 | ... |
-| ---------------------------- | :------------: | :----------: | :----------: | --- |
-| Notoriété                    |       👑       |              |              |     |
-| Satisfaction de la clientèle |                |      👑      |              |     |
-| Technologie                  |                |              |      👑      |     |
-| ...                          |                |              |              |     |
+| Critère                      | Nous | En. 1 | En. 2 | ... |
+| ---------------------------- | :--: | :---: | :---: | --- |
+| Notoriété                    |  👑  |       |       |     |
+| Satisfaction de la clientèle |      |  👑   |       |     |
+| Technologie                  |      |       |  👑   |     |
+| Qualité des produits         |  👑  |       |       |     |
+| Qualité des services         |      |  👑   |       |     |
+| Etc.                         |      |       |       |     |
 
 ### Analyser les résultats
 
 - Identifier les choix de positionnement fréquents.
 - Analyser votre position.
 - Identifier vos avantages compétitifs.
+
+**N'est pas un exercice ponctuel !**
+
+Le marché évolue et vous devez évoluer avec lui.
+
+![bg right:40%][illustration-objectifs]
 
 ## Questions
 
@@ -181,8 +220,8 @@ Est-ce que vous avez des questions ?
 ## Sources
 
 - [Illustration principale][illustration-principale] par
-  [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) sur
-  [Unsplash](https://unsplash.com/photos/blue-and-orange-abstract-painting-yn97LNy0bao)
+  [Sam Ferrara](https://unsplash.com/@samferrara) sur
+  [Unsplash](https://unsplash.com/photos/aerial-photo-of-foggy-mountains-1527pjeb6jg)
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
@@ -200,7 +239,7 @@ Est-ce que vous avez des questions ?
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1553949345-eb786bb3f7ba?fit=crop&h=720
+	https://images.unsplash.com/photo-1506905925346-21bda4d32df4?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
 [illustration-a-vous-de-jouer]:
