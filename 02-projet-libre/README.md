@@ -49,6 +49,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Séance 5](#séance-5)
   - [Séance 6](#séance-6)
   - [Séance 7](#séance-7)
+  - [Séance 8](#séance-8)
 
 ## Objectifs
 
@@ -1121,11 +1122,11 @@ _En raison du CRUNCH, il n'y a pas de séances de cours/projet._
 > - Capacité à écouter.
 > - Capacité à argumenter.
 > - Capacité à participer.
-> - Identification du public cible **imaginaire**
-> - Identification des personae **imaginés**
-> - Description des besoins **imaginés** du public cible
-> - Série de questions pour comprendre le public cible
-> - Hypothèses à valider pour comprendre le public cible
+> - Identification du public cible **imaginaire**.
+> - Identification des personae **imaginés**.
+> - Description des besoins **imaginés** du public cible.
+> - Série de questions pour comprendre le public cible.
+> - Hypothèses à valider pour comprendre le public cible.
 >
 > Les retours se font de la manière suivante :
 >
@@ -1331,9 +1332,9 @@ il est recommandé pour la prochaine fois de :
 - Continuer à trouver d'autres personnes pour s'entretenir avec et récolter des
   retours.
 
-<!--
+### Séance 8
 
-### Séance 6 - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)
+**Promouvoir son idée sur Internet**
 
 > [!TIP]
 >
@@ -1342,7 +1343,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-6)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-8)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1351,17 +1352,12 @@ il est recommandé pour la prochaine fois de :
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Prendre en main un outil de création de site web statique
-> - Réaliser un site statique type _"Hello, world!"_
-> - Déployer le site statique sur Internet
-> - Identifier les mots clés pour le référencement
-> - Mettre en commun les entretiens réalisées jusqu'ici
-> - Partager les réflexions autour de ces entretiens
-> - Prendre connaissance de la forme attendue pour la présentation sur la
->   [Prospection](#projet---présentations-de-la-prospection)
-> - Prendre connaissance des critères d'évaluation pour la présentation sur la
->   [Prospection](#projet---présentations-de-la-prospection)
-> - Compléter le rapport
+> - Réaliser un mockup de la landing page.
+> - Commencer à réaliser la landing page.
+> - Implémenter un formulaire de contact.
+> - Identifier les canaux de communication pour promouvoir le projet.
+> - Commencer à promouvoir la landing page.
+> - Compléter le rapport.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
@@ -1385,6 +1381,11 @@ il est recommandé pour la prochaine fois de :
 > - Capacité à écouter.
 > - Capacité à argumenter.
 > - Capacité à participer.
+> - Réalisation d'un mockup de la landing page.
+> - Réalisation d'une landing page.
+> - Implémentation d'un formulaire de contact.
+> - Identification des canaux de communication pour promouvoir le projet.
+> - Promotion du projet sur au moins un canal de communication.
 >
 > Les retours se font de la manière suivante :
 >
@@ -1397,28 +1398,40 @@ il est recommandé pour la prochaine fois de :
 À l'issue de cette séance, les personnes qui étudient devraient être capables de
 :
 
-- Prendre en main un outil de création de site web statique
-- Réaliser un site statique type _"Hello, world!"_
-- Déployer le site statique sur Internet
-- Identifier les mots clés pour le référencement
-- Mettre en commun les entretiens réalisées jusqu'ici
-- Partager les réflexions autour de ces entretiens
-- Prendre connaissance de la forme attendue pour la présentation sur la
-  [Prospection][prospection]
-- Prendre connaissance des critères d'évaluation pour la présentation sur la
-  [Prospection][prospection]
-- Compléter le rapport
+- Réaliser un mockup de la landing page.
+- Identifier les mots clés pour le référencement.
+- Commencer à réaliser la landing page.
+- Implémenter un formulaire de contact.
+- Déployer la landing page sur Internet.
+- Identifier les canaux de communication pour promouvoir le projet.
+- Promouvoir le projet et récolter des retours.
+- Compléter le rapport.
 
 #### Déroulement
 
-Déployez un site web statique _"Hello world"_ sur un hébergeur de votre choix
-avec la technologie de votre choix. Il s'agira de la fondation pour votre MVP.
+Réalisez un mockup de la landing page de votre projet et commencez à réaliser la
+landing page. Implémentez un formulaire de contact pour permettre aux personnes
+intéressées de vous contacter.
 
-Identifiez les mots clés pour le référencement de votre projet afin d'être
-visible sur Internet.
+Utilisez les outils et conseils vus en cours pour promouvoir votre projet et
+améliorer votre visibilité.
 
-Complétez le rapport avec les nouvelles données que vous avez acquises jusqu'ici
-et prenez connaissance de la présentation sur la prospection et son contenu.
+Ayez toujours un regard critique sur votre projet et soyez prêt.es à recevoir
+des feedbacks constructifs.
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Finaliser la landing page.
+- Partager votre projet autour de vous selon les canaux de communication
+  identifiés.
+
+<!--
+
+#### Déroulement
+
 
 #### Conclusion
 
@@ -1436,110 +1449,6 @@ il est recommandé pour la prochaine fois de :
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
 - S'entretenir avec ces personnes pour récolter des retours
-
-### Séance 7 - Réalisation et hébergement de la landing page avec formulaire de contact (2/2)
-
-> [!TIP]
->
-> Voici quelques informations relatives à ce contenu.
->
-> **Ressources annexes**
->
-> - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-7)
->   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
->
-> **Objectifs**
->
-> À l'issue de cette séance, les personnes qui étudient devraient être capables
-> de :
->
-> - Réaliser un mockup de la landing page
-> - Commencer à réaliser la landing page
-> - Implémenter un formulaire de contact
-> - Identifier les canaux de communication pour promouvoir le projet
-> - Commencer à promouvoir la landing page
-> - Commencer à réaliser la présentation sur la
->   [Prospection](#projet---présentations-de-la-prospection)
-> - Compléter le rapport
->
-> **Méthodes d'enseignement et d'apprentissage**
->
-> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
-> sont les suivantes :
->
-> - Discussions en groupe.
-> - Pitch.
-> - Brainstorming.
-> - Feedback.
-> - Travail autonome en groupe ou individuel.
->
-> **Méthodes d'évaluation**
->
-> L'évaluation prend la forme d'une présentation du projet aux personnes qui
-> enseignent.
->
-> L'évaluation se fait en utilisant les critères suivants :
->
-> - Capacité à présenter.
-> - Capacité à écouter.
-> - Capacité à argumenter.
-> - Capacité à participer.
->
-> Les retours se font de la manière suivante :
->
-> - Feedback.
->
-> L'évaluation ne donne pas lieu à une note.
-
-#### Objectifs
-
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
-- Réaliser un mockup de la landing page
-- Commencer à réaliser la landing page
-- Implémenter un formulaire de contact
-- Identifier les canaux de communication pour promouvoir le projet
-- Commencer à promouvoir la landing page
-- Commencer à réaliser la présentation sur la [Prospection][prospection]
-- Compléter le rapport
-
-#### Déroulement
-
-Profitant des retours des entretiens, réalisez un mockup de la landing page de
-votre projet. Continuez à réaliser la landing page et implémentez un formulaire
-de contact.
-
-Utilisez les outils et conseils vus en cours pour promouvoir votre projet et
-améliorer votre visibilité.
-
-Ayez toujours un regard critique sur votre projet et soyez prêt.es à recevoir
-des feedbacks constructifs. Et aussi, gardez en tête le fil rouge du cours et
-les prochaines étapes.
-
-#### Conclusion
-
-À l'issue de cette séance, vous avez réalisé un mockup de la landing page de
-votre projet, commencé à réaliser la landing page et implémenté un formulaire de
-contact.
-
-Votre projet est sur l'avant-scène et vous allez pouvoir le promouvoir.
-
-#### À faire pour la prochaine séance
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Finaliser la landing page
-- Identifier des personnes dans votre entourage qui pourraient rentrer dans
-  votre public cible
-- S'entretenir avec ces personnes pour récolter des retours
-- Partager votre projet autour de vous selon les canaux de communication
-  identifiés
-- Finaliser la présentation sur la [Prospection][prospection]
-- Répéter la présentation sur la [Prospection][prospection]
 
 ### Séance 8 - Présentation sur la prospection
 
