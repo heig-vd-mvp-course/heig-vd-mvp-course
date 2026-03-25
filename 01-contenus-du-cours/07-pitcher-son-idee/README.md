@@ -86,10 +86,11 @@ De façon plus concise, à la fin de cette séance, vous devriez être capable d
 
 Un _"pitch"_ (de l'anglais _"to pitch"_, signifiant _"un effort pour vendre ou
 promouvoir quelque chose"_[^sales-presentation]) est une présentation concise
-d'une idée, d'un projet ou d'un produit, visant à convaincre rapidement un
-interlocuteur (investisseur, client, partenaire...). Il a pour but de susciter
-l'intérêt et de donner envie de poursuivre la conversation sans pour autant
-inonder son audience d'informations.
+d'une idée, d'un projet ou d'un produit, visant à convaincre rapidement un.e
+interlocuteur.trice (investisseur.euse, client.e, partenaire...).
+
+Il a pour but de susciter l'intérêt et de donner envie de poursuivre la
+conversation sans pour autant inonder son audience d'informations.
 
 Un autre terme, _"elevator pitch"_, est une forme de pitch qui doit pouvoir être
 fait en quelques secondes, le temps d'un trajet en ascenseur.[^elevator-pitch]
@@ -141,7 +142,8 @@ techniques ou financiers de votre projet.
 Voici quelques conseils pour réussir votre pitch :
 
 - **Soyez concis.es** : allez droit au but.
-- **Soyez clair.es** : évitez le jargon technique.
+- **Soyez clair.es** : évitez le jargon technique (**cet aspect est trop souvent
+  ignoré, peu importe le domaine d'activité !**).
 - **Soyez authentiques** : parlez avec passion et conviction.
 - **Restez simples** : un message facile à retenir est plus efficace.
 - **Créez de l'émotion** : racontez une histoire.
@@ -214,14 +216,13 @@ concurrents, etc.
 > Par exemple, vous voulez mettre en avant un avantage clé de votre solution,
 > comme son impact écologique.
 >
-> Vous pourriez simplement dire :  
-> **_"Notre solution est écologique."_**
+> Vous pourriez simplement dire : **_"Notre solution est écologique."_**
 >
-> Mais cela aurait moins d'impact que si vous utilisiez la règle de trois :  
+> Mais une formulation qui pourrait plus marquer l'esprit pourrait être :
 > **_"Notre solution est rapide, efficace et écologique."_**
 >
-> Cette structure renforce l'effet rythmique et facilite la rétention du
-> message.
+> Cette structure qui suit la règle de trois renforce l'effet rythmique et
+> facilite la rétention du message.
 
 ## Éléments à éviter lors d'un pitch
 

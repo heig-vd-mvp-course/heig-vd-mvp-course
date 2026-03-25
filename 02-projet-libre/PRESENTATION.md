@@ -445,6 +445,76 @@ il est recommandé pour la prochaine fois de :
 - Dialoguer avec votre public cible pour récolter des retours pour imaginer
   d'autres idées (**ne pas leur parler de vos idées actuelles**).
 
+### Séance 6
+
+<!-- _class: lead -->
+
+**Étudier la concurrence**
+
+#### Objectifs
+
+- Identifier les concurrents directs et indirects de leur projet.
+- Analyser les forces et les faiblesses de ces concurrents.
+- Identifier les opportunités et les menaces pour leur projet par rapport à ces
+  concurrents.
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Nous vous invitons maintenant à analyser la concurrence pour votre projet. Il
+est important d'identifier la concurrence pour la suite du projet, notamment
+pour éviter de réinventer la roue.
+
+Nous sommes disponibles pour vous aider à identifier les concurrents directs et
+indirects de votre projet.
+
+Rappelez-vous, si vous ne trouvez pas de concurrents, ce n'est pas une bonne
+nouvelle !
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Identifier les concurrents directs et indirects de votre projet.
+- Faire une analyse complète de la concurrence pour votre projet.
+
+### Séance 7
+
+<!-- _class: lead -->
+
+**Présentations du pitch**
+
+#### Objectifs
+
+- Préparer un pitch.
+- Réaliser un pitch.
+- Répondre aux questions.
+- Recevoir des feedbacks constructifs.
+- Évaluer les pitches des autres groupes.
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Vous avez 20 minutes pour préparer votre pitch, après quoi chaque groupe a 2
+minutes pour présenter son pitch suivi d'un moments de questions et feedbacks.
+
+Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
+feedbacks constructifs.
+
+Vous pouvez retrouver la grille d'évaluation de la présentation ici :
+[Présentation du pitch](#présentation-du-pitch).
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Continuer à trouver d'autres personnes pour s'entretenir avec et récolter des
+  retours.
+
 ### Séance 8
 
 <!-- _class: lead -->

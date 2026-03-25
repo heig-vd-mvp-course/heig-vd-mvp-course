@@ -53,8 +53,8 @@ document._
 
 Une idée originale est une idée qui **améliore la vie** sur différents aspects,
 **répond à un besoin**, est **consciente de son contexte** et s'adapte à
-celui-ci. Elle peut être une **réinvention ou une réadaptation d'une idée
-existante**.
+celui-ci/en sort légérement de celui-ci. Elle peut être une **réinvention ou une
+réadaptation d'une idée existante**.
 
 ## Question 2 - Donnée
 
@@ -110,6 +110,21 @@ Il existe plusieurs sources pour trouver des idées originales :
 - Votre vie de tous les jours.
 - Des communautés sur Internet (forums, réseaux sociaux, etc.).
 - Etc.
+
+## Question 6 - Donnée
+
+> Quels outils ou techniques peuvent aider à explorer de nouvelles pistes lors
+> d'un pivot ?
+
+## Question 6 - Réponse
+
+Parmi les outils et techniques pour explorer de nouvelles pistes, on trouve :
+
+- Le **Brainstorming** pour générer des idées alternatives en équipe.
+- L'**expérimentation rapide** via le prototypage rapide ou des landing pages
+  temporaires.
+- La **recherche comparative** pour identifier des opportunités encore
+  inexploitées par des projets similaires sur le marché.
 
 ## Questions
 

@@ -55,8 +55,6 @@ document._
 ## Objectifs (2/2)
 
 - Citer des techniques pour pitcher en équipe.
-- Donner des feedbacks constructifs.
-- Recevoir des feedbacks constructifs.
 
 ![bg right:40%][illustration-objectifs]
 
@@ -65,7 +63,7 @@ document._
 - De l'anglais signifiant _"un effort pour vendre ou promouvoir quelque chose"_.
 - Présentation courte et percutante d'une idée, d'un projet ou d'un produit.
 - Durée : 1 à 3 minutes.
-- But : convaincre l'auditoire et susciter l'intérêt.
+- But : convaincre l'auditoire et susciter l'intérêt, un teaser !
 
 ![bg right:40%][illustration-quest-ce-quun-pitch]
 
@@ -151,7 +149,7 @@ votre auditoire et de rendre votre pitch mémorable.
 - Manque de préparation.
 - Pas de conclusion claire.
 
-Sans oublier de sourire, de regarder son auditoire et rester confiant.e !
+Sans oublier de sourire, de regarder son auditoire et de rester confiant.e !
 
 ![bg right:40%][illustration-elements-a-eviter-lors-dun-pitch]
 
