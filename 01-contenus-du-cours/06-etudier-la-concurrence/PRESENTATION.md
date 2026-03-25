@@ -117,7 +117,7 @@ l'identifier et de l'analyser.
 
 Étape obligatoire pour construire une stratégie efficace !
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-identifier-analyser-concurrence]
 
 ### Comment faire une analyse de la concurrence ?
 
@@ -159,7 +159,7 @@ Un tableau permet de comparer la concurrence sur différents critères :
 - Découvrir de nouveaux types de concurrence.
 - Anticiper les mouvements du marché.
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-apports-analyse-concurrentielle]
 
 ## Établir un mapping concurrentiel
 
@@ -168,7 +168,7 @@ Un tableau permet de comparer la concurrence sur différents critères :
 - Basé sur des critères pertinents pour votre marché (prix, qualité, innovation,
   etc.).
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-etablir-mapping-concurrentiel]
 
 ### Étapes pour créer votre mapping
 
@@ -179,7 +179,7 @@ Pour créer votre mapping :
 3. Réaliser un benchmark.
 4. Comparer avec votre entreprise.
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-etapes-creer-mapping]
 
 ### Exemple de tableau d'analyse
 
@@ -202,7 +202,7 @@ Pour créer votre mapping :
 
 Le marché évolue et vous devez évoluer avec lui.
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-analyser-resultats]
 
 ## Questions
 
@@ -225,6 +225,21 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
+- [Illustration][illustration-identifier-analyser-concurrence] par
+  [Mark Basarab](https://unsplash.com/@markbasarabvisuals) sur
+  [Unsplash](https://unsplash.com/photos/scenery-of-waterfalls-9NgKOxVY4wM)
+- [Illustration][illustration-apports-analyse-concurrentielle] par
+  [Rebecca Campbell](https://unsplash.com/@campbellcreates) sur
+  [Unsplash](https://unsplash.com/photos/white-and-orange-koi-fish-U55EwR__cjI)
+- [Illustration][illustration-etablir-mapping-concurrentiel] par
+  [LSE Library](https://unsplash.com/@londonschoolofeconomics) sur
+  [Unsplash](https://unsplash.com/photos/white-and-brown-city-buildings-sketch-yzrdcOgEs6c)
+- [Illustration][illustration-etapes-creer-mapping] par
+  [Vanilla Panda](https://unsplash.com/@vanillapanda) sur
+  [Unsplash](https://unsplash.com/photos/trees-and-plants-OdBFUurPHjo)
+- [Illustration][illustration-analyser-resultats] par
+  [National Cancer Institute](https://unsplash.com/@nci) sur
+  [Unsplash](https://unsplash.com/photos/man-in-gray-dress-shirt-holding-black-camera-ct10qdGv1hQ)
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
@@ -242,5 +257,15 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1506905925346-21bda4d32df4?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
+[illustration-apports-analyse-concurrentielle]:
+	https://images.unsplash.com/photo-1600781048311-ae6e4f3f31f5?fit=crop&h=720
+[illustration-identifier-analyser-concurrence]:
+	https://images.unsplash.com/photo-1478322789090-ea0b78e90583?fit=crop&h=720
+[illustration-etablir-mapping-concurrentiel]:
+	https://images.unsplash.com/photo-1582909186183-2084dd0c45e3?fit=crop&h=720
+[illustration-etapes-creer-mapping]:
+	https://images.unsplash.com/photo-1541675154750-0444c7d51e8e?fit=crop&h=720
+[illustration-analyser-resultats]:
+	https://images.unsplash.com/photo-1630959305606-3123a081dada?fit=crop&h=720
 [illustration-a-vous-de-jouer]:
 	https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fit=crop&h=720
