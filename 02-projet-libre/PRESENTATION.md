@@ -445,6 +445,54 @@ il est recommandé pour la prochaine fois de :
 - Dialoguer avec votre public cible pour récolter des retours pour imaginer
   d'autres idées (**ne pas leur parler de vos idées actuelles**).
 
+### Séance 8
+
+<!-- _class: lead -->
+
+**Promouvoir son idée sur Internet**
+
+#### Objectifs (1/2)
+
+- Réaliser un mockup de la landing page.
+- Identifier les mots clés pour le référencement.
+- Commencer à réaliser la landing page.
+- Implémenter un formulaire de contact.
+
+![bg right:40%][illustration-objectifs]
+
+#### Objectifs (2/2)
+
+- Déployer la landing page sur Internet.
+- Identifier les canaux de communication pour promouvoir le projet.
+- Promouvoir le projet et récolter des retours.
+- Compléter le rapport.
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Réalisez un mockup de la landing page de votre projet et mettez-la en ligne
+après sa réalisation.
+
+Implémentez un formulaire de contact pour permettre aux personnes intéressées de
+vous contacter.
+
+Faites la promotion de votre projet sur les canaux identifiés (réseaux sociaux
+(LinkedIn), emails, connaissances, etc.).
+
+Faites fonctionner votre réseau et récoltez des retours ! **Étape primordiale
+pour votre projet !**
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Finaliser la landing page.
+- Partager votre projet autour de vous selon les canaux de communication
+  identifiés.
+- Récolter des retours et itérer sur votre projet en fonction de ces retours.
+
 <!--
 
 ### Séance 5 - Présentations du pitch
@@ -481,101 +529,6 @@ il est recommandé pour la prochaine fois de :
 - Identifier des personnes dans votre entourage qui pourraient rentrer dans
   votre public cible
 - S'entretenir avec ces personnes pour récolter des retours
-
-### Séance 6 - Réalisation et hébergement de la landing page avec formulaire de contact (1/2)
-
-<!-- _class: lead --
-
-#### Objectifs (1/3)
-
-- Prendre en main un outil de création de site web statique
-- Réaliser un site statique type _"Hello, world!"_
-- Déployer le site statique sur Internet
-- Identifier les mots clés pour le référencement
-
-![bg right:40%][illustration-objectifs]
-
-#### Objectifs (2/3)
-
-- Mettre en commun les entretiens réalisées jusqu'ici
-- Partager les réflexions autour de ces entretiens
-
-![bg right:40%][illustration-objectifs]
-
-#### Objectifs (3/3)
-
-- Prendre connaissance des critères d'évaluation pour la présentation sur la
-  [Prospection](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/11-projet-presentations-de-la-prospection/README.md)
-- Compléter le rapport
-
-![bg right:40%][illustration-objectifs]
-
-#### Déroulement
-
-Déployez un site web statique _"Hello world"_ sur un hébergeur de votre choix
-avec la technologie de votre choix. Il s'agira de la fondation pour votre MVP.
-
-Identifiez les mots clés pour le référencement de votre projet afin d'être
-visible sur Internet.
-
-Complétez le rapport avec les nouvelles données que vous avez acquises jusqu'ici
-et prenez connaissance de la présentation sur la prospection et son contenu.
-
-#### À faire pour la semaine suivante
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Finaliser la mise en ligne du site web statique
-- Identifier des personnes dans votre entourage qui pourraient rentrer dans
-  votre public cible
-- S'entretenir avec ces personnes pour récolter des retours
-
-### Séance 7 - Réalisation et hébergement de la landing page avec formulaire de contact (2/2)
-
-<!-- _class: lead --
-
-#### Objectifs (1/2)
-
-- Réaliser un mockup de la landing page
-- Commencer à réaliser la landing page
-- Implémenter un formulaire de contact
-- Identifier les canaux de communication pour promouvoir le projet
-
-![bg right:40%][illustration-objectifs]
-
-#### Objectifs (2/2)
-
-- Commencer à promouvoir la landing page
-- Commencer à réaliser la présentation sur la [Prospection][prospection]
-- Compléter le rapport
-
-![bg right:40%][illustration-objectifs]
-
-#### Déroulement
-
-Profitant des retours des entretiens, réalisez un mockup de la landing page de
-votre projet. Continuez à réaliser la landing page et implémentez un formulaire
-de contact.
-
-Utilisez les outils et conseils vus en cours pour promouvoir votre projet et
-améliorer votre visibilité.
-
-Ayez toujours un regard critique sur votre projet et soyez prêt.es à recevoir
-des feedbacks constructifs. Et aussi, gardez en tête le fil rouge du cours et
-les prochaines étapes.
-
-#### À faire pour la semaine suivante
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Finaliser la landing page
-- Identifier des personnes dans votre entourage qui pourraient rentrer dans
-  votre public cible et s'entretenir avec ces personnes pour récolter des retours
-- Partager votre projet autour de vous selon les canaux de communication
-  identifiés
-- Finaliser et répéter la présentation sur la [Prospection][prospection]
 
 ### Séance 8 - Présentation sur la prospection
 

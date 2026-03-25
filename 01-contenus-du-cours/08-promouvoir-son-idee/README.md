@@ -216,10 +216,12 @@ encore Bulma pour faciliter la création de votre landing page.
 Des plateformes proposent des modèles (templates) prêts à l'emploi et faciles à
 personnaliser :
 
-- [Hugo Themes](https://themes.gohugo.io/)
-- [HTML5 UP](https://html5up.net/)
-- [Bootstrap](https://getbootstrap.com/docs/examples/)
-- [One Page Love](https://onepagelove.com/)
+- [HTML5 UP](https://html5up.net/).
+- [Bootstrap](https://getbootstrap.com/docs/examples/).
+- [One Page Love](https://onepagelove.com/).
+- "Vibe coder" votre landing page - il s'agit d'un prototype, ce n'est pas grave
+  si ce n'est pas parfait, l'important est d'avoir une présence en ligne pour
+  valider votre MVP et promouvoir votre idée.
 
 Ces templates permettent de créer rapidement une landing page optimisée pour la
 conversion, adaptée aux appareils mobiles et visuellement attrayante.
@@ -266,7 +268,9 @@ Plusieurs options existent pour héberger facilement une landing page statique :
 - **Vercel** : performant pour les applications modernes.
 
 Ces services permettent de déployer rapidement une landing page statique et de
-la rendre accessible sur Internet.
+la rendre accessible sur Internet. Il en existe d'autres, mais ceux-ci sont
+parmi les plus populaires et les plus faciles à utiliser pour héberger une
+landing page avec formulaire de contact.
 
 ##### Déployer un site statique sur GitHub Pages
 
