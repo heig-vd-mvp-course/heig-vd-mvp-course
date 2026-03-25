@@ -1198,7 +1198,7 @@ il est recommandé pour la prochaine fois de :
 > **Méthodes d'évaluation**
 >
 > L'évaluation prend la forme d'une présentation du projet aux personnes qui
-> enseignent ainsi qu'un court document décrivant le public cible.
+> enseignent ainsi qu'un court document d'analyse de la concurrence.
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
