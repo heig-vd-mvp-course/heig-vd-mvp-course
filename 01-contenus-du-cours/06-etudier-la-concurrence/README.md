@@ -10,9 +10,14 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 >
 > **Ressources annexes**
 >
-> - Autres formats : [Présentation (web)][presentation-web] · [Présentation
->   (PDF)][presentation-pdf]
-> - Quiz : [Web][quiz-web] · [PDF][quiz-pdf]
+> - Autres formats :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/06-etudier-la-concurrence/presentation.html)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/06-etudier-la-concurrence/06-etudier-la-concurrence-presentation.pdf)
+> - Quiz :
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/06-etudier-la-concurrence/quiz.html)
+>   ·
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/06-etudier-la-concurrence/06-etudier-la-concurrence-quiz.pdf)
 >
 > **Objectifs**
 >
@@ -354,11 +359,3 @@ il est recommandé pour la prochaine fois de :
 
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
-[quiz-web]:
-	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/06-etudier-la-concurrence/quiz.html
-[quiz-pdf]:
-	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/06-etudier-la-concurrence/06-etudier-la-concurrence-quiz.pdf
-[presentation-web]:
-	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/06-etudier-la-concurrence/06-etudier-la-concurrence-presentation.html
-[presentation-pdf]:
-	https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/06-etudier-la-concurrence/06-etudier-la-concurrence-presentation.pdf
