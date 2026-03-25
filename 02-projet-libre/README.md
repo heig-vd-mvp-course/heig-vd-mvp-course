@@ -47,6 +47,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Séance 3](#séance-3)
   - [Séance 4](#séance-4)
   - [Séance 5](#séance-5)
+  - [Séance 8](#séance-8)
 
 ## Objectifs
 
@@ -1119,11 +1120,11 @@ _En raison du CRUNCH, il n'y a pas de séances de cours/projet._
 > - Capacité à écouter.
 > - Capacité à argumenter.
 > - Capacité à participer.
-> - Identification du public cible **imaginaire**
-> - Identification des personae **imaginés**
-> - Description des besoins **imaginés** du public cible
-> - Série de questions pour comprendre le public cible
-> - Hypothèses à valider pour comprendre le public cible
+> - Identification du public cible **imaginaire**.
+> - Identification des personae **imaginés**.
+> - Description des besoins **imaginés** du public cible.
+> - Série de questions pour comprendre le public cible.
+> - Hypothèses à valider pour comprendre le public cible.
 >
 > Les retours se font de la manière suivante :
 >
@@ -1209,6 +1210,11 @@ il est recommandé pour la prochaine fois de :
 > - Capacité à écouter.
 > - Capacité à argumenter.
 > - Capacité à participer.
+> - Réalisation d'un mockup de la landing page.
+> - Réalisation d'une landing page.
+> - Implémentation d'un formulaire de contact.
+> - Identification des canaux de communication pour promouvoir le projet.
+> - Promotion du projet sur au moins un canal de communication.
 >
 > Les retours se font de la manière suivante :
 >
