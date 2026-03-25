@@ -1476,11 +1476,8 @@ il est recommandé pour la prochaine fois de :
 > - Capacité à écouter.
 > - Capacité à argumenter.
 > - Capacité à participer.
-> - Identification du public cible **imaginaire**
-> - Identification des personae **imaginés**
-> - Description des besoins **imaginés** du public cible
-> - Série de questions pour comprendre le public cible
-> - Hypothèses à valider pour comprendre le public cible
+> - Réalisation des maquettes de l'application.
+> - Pertinence des maquettes par rapport au besoin du public cible.
 >
 > Les retours se font de la manière suivante :
 >
@@ -1490,32 +1487,30 @@ il est recommandé pour la prochaine fois de :
 
 #### Objectifs
 
-- Générer des idées pour répondre au besoin du public cible.
-- Évaluer la pertinence de ces idées par rapport au besoin du public cible.
-- Identifier les avantages et les inconvénients de ces idées.
+- Réaliser des maquettes de l'application.
+- Évaluer la pertinence de ces maquettes par rapport au besoin du public cible.
 - Compléter le rapport.
 
 #### Déroulement
 
-Nous vous invitons maintenant à générer des idées pour répondre au besoin de
-votre public cible.
+Nous vous invitons maintenant réaliser des maquettes de votre application pour
+répondre au besoin de votre public cible.
 
-Nous sommes disponibles pour vous aider à générer des idées et à évaluer leur
-pertinence par rapport au besoin de votre public cible.
+Prenez le temps nécessaire pour réaliser ces maquettes. Mieux ces maquettes
+seront conçues, plus elles seront pertinentes par rapport au besoin de votre
+public cible et simples à implémenter par la suite. **Réfléchissez avant de
+développer !**
 
-La plupart du temps, les premières idées ne sont pas les meilleures, il est
-important de creuser pour trouver des idées originales et pertinentes.
+N'hésitez pas à vous inspirer d'autres applications ou à demander des feedbacks
+pour améliorer vos maquettes.
 
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine fois de :
 
-- Explorer d'autres idées pour répondre au besoin de votre public cible.
-- Évaluer la pertinence de ces idées par rapport au besoin de votre public
-  cible.
-- Dialoguer avec votre public cible pour récolter des retours pour imaginer
-  d'autres idées (**ne pas leur parler de vos idées actuelles**).
+- Finaliser les maquettes de l'application.
+- Continuer à promouvoir et récolter des retours sur votre projet.
 
 <!--
 
