@@ -59,7 +59,7 @@ document._
 
 ![bg right:40%][illustration-objectifs]
 
-## J'ai trouvé une idée originale, je fonce sur le marché !
+## _"J'ai trouvé une idée originale, je fonce sur le marché !"_
 
 - Il est rare d'avoir une idée originale sans concurrence.
 - Étudier la concurrence permet de comprendre son marché.

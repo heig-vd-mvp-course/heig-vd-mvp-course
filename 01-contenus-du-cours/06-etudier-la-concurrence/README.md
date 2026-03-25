@@ -59,7 +59,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 
 - [Table des matières](#table-des-matières)
 - [Objectifs](#objectifs)
-- [J'ai trouvé une idée originale, je fonce sur le marché !](#jai-trouvé-une-idée-originale-je-fonce-sur-le-marché-)
+- [_"J'ai trouvé une idée originale, je fonce sur le marché !"_](#jai-trouvé-une-idée-originale-je-fonce-sur-le-marché-)
 - [Qu'est-ce que la concurrence ?](#quest-ce-que-la-concurrence-)
 - [Pourquoi étudier la concurrence ?](#pourquoi-étudier-la-concurrence-)
 - [Une autre façon de définir la concurrence](#une-autre-façon-de-définir-la-concurrence)
@@ -89,7 +89,7 @@ De façon plus concise, à la fin de cette séance, vous devriez être capable d
 - Identifier les opportunités d'amélioration de son offre par rapport à la
   concurrence.
 
-## J'ai trouvé une idée originale, je fonce sur le marché !
+## _"J'ai trouvé une idée originale, je fonce sur le marché !"_
 
 Avant de vous lancer dans la réalisation de votre projet, il est important
 d'étudier la concurrence. En effet, il est très rare d'avoir une idée totalement
