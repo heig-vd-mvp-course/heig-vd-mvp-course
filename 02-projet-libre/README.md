@@ -50,6 +50,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Séance 6](#séance-6)
   - [Séance 7](#séance-7)
   - [Séance 8](#séance-8)
+  - [Séance 9](#séance-9)
 
 ## Objectifs
 
@@ -689,8 +690,8 @@ Il peut être statique (simple représentation graphique) ou dynamique
 équipes médias ou design. Elle peut prendre la forme d'un PDF qui permet de
 valider l'identité visuelle, les couleurs, les polices, etc. La seconde forme
 est plus utilisée par les équipes techniques pour valider les interactions, les
-animations, etc. Des logiciels comme Penpot[^penpot], Figma[^figma] ou Adobe
-XD[^adobe-xd] permettent de réaliser des mockups interactifs.
+animations, etc. Des logiciels comme Penpot[^penpot] ou Figma[^figma] permettent
+de réaliser des mockups interactifs.
 
 ### Prototype
 
@@ -1427,6 +1428,94 @@ il est recommandé pour la prochaine fois de :
 - Finaliser la landing page.
 - Partager votre projet autour de vous selon les canaux de communication
   identifiés.
+
+### Séance 9
+
+**Réaliser des maquettes avant de développer**
+
+> [!TIP]
+>
+> Voici quelques informations relatives à ce contenu.
+>
+> **Ressources annexes**
+>
+> - Autres formats :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-9)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Générer des idées pour répondre au besoin du public cible.
+> - Évaluer la pertinence de ces idées par rapport au besoin du public cible.
+> - Identifier les avantages et les inconvénients de ces idées.
+> - Compléter le rapport.
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Discussions en groupe.
+> - Pitch.
+> - Brainstorming.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'une présentation du projet aux personnes qui
+> enseignent ainsi qu'un court document décrivant le public cible.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à présenter.
+> - Capacité à écouter.
+> - Capacité à argumenter.
+> - Capacité à participer.
+> - Identification du public cible **imaginaire**
+> - Identification des personae **imaginés**
+> - Description des besoins **imaginés** du public cible
+> - Série de questions pour comprendre le public cible
+> - Hypothèses à valider pour comprendre le public cible
+>
+> Les retours se font de la manière suivante :
+>
+> - Feedback.
+>
+> L'évaluation ne donne pas lieu à une note.
+
+#### Objectifs
+
+- Générer des idées pour répondre au besoin du public cible.
+- Évaluer la pertinence de ces idées par rapport au besoin du public cible.
+- Identifier les avantages et les inconvénients de ces idées.
+- Compléter le rapport.
+
+#### Déroulement
+
+Nous vous invitons maintenant à générer des idées pour répondre au besoin de
+votre public cible.
+
+Nous sommes disponibles pour vous aider à générer des idées et à évaluer leur
+pertinence par rapport au besoin de votre public cible.
+
+La plupart du temps, les premières idées ne sont pas les meilleures, il est
+important de creuser pour trouver des idées originales et pertinentes.
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Explorer d'autres idées pour répondre au besoin de votre public cible.
+- Évaluer la pertinence de ces idées par rapport au besoin de votre public
+  cible.
+- Dialoguer avec votre public cible pour récolter des retours pour imaginer
+  d'autres idées (**ne pas leur parler de vos idées actuelles**).
 
 <!--
 
@@ -2180,10 +2269,6 @@ prochain groupe se prépare.
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 
 <!-- Footnotes -->
-
-[^adobe-xd]:
-    Adobe XD, [adobe.com](https://helpx.adobe.com/ch_fr/support/xd.html), 19
-    février 2025
 
 [^asana]: Asana, [asana.com](https://asana.com/fr), 19 février 2025
 
