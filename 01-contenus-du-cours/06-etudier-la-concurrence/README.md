@@ -73,7 +73,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Analyser les résultats](#analyser-les-résultats)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Bibliographie et ressources utilisées](#bibliographie-et-ressources-utilisées)
 
 ## Objectifs
 
@@ -272,8 +271,8 @@ ces étapes :
 
 ### Exemple de tableau d'analyse
 
-Voici un exemple de tableau que vous pouvez utiliser pour structurer votre
-analyse :
+Voici un exemple de tableau[^livre-recits] que vous pouvez utiliser pour
+structurer votre analyse :
 
 | Critère                                                | Mon entreprise | Entreprise 1 | Entreprise 2 | Entreprise 3 | Entreprise 4 |
 | ------------------------------------------------------ | -------------- | ------------ | ------------ | ------------ | ------------ |
@@ -350,10 +349,9 @@ il est recommandé pour la prochaine fois de :
 
 - Relire le support de cours si nécessaire.
 
-## Bibliographie et ressources utilisées
-
-- Nyffeler, Nathalie, _"Le livre des récits : Savoirs et connaissances des
-  navigateur·rice·s aguerri·e·s"_, 2022.
+[^livre-recits]:
+    Nyffeler, Nathalie, _"Le livre des récits : Savoirs et connaissances des
+    navigateur·rice·s aguerri·e·s"_, 2022.
 
 <!-- URLs -->
 
