@@ -65,7 +65,7 @@ document._
 - Étudier la concurrence permet de comprendre son marché.
 - Étape obligatoire pour construire une stratégie efficace.
 
-![bg right:40%][illustration-objectifs]
+![bg right:40%][illustration-foncer-marche]
 
 ## Qu'est-ce que la concurrence ?
 
@@ -217,7 +217,7 @@ Est-ce que vous avez des questions ?
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 
-## Sources
+## Sources (1/2)
 
 - [Illustration principale][illustration-principale] par
   [Sam Ferrara](https://unsplash.com/@samferrara) sur
@@ -225,9 +225,15 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
+- [Illustration][illustration-foncer-marche] par
+  [Nicolas Hoizey](https://unsplash.com/@nhoizey) sur
+  [Unsplash](https://unsplash.com/photos/athletics-on-starting-line-during-daytime--4trKf0Kbow)
 - [Illustration][illustration-identifier-analyser-concurrence] par
   [Mark Basarab](https://unsplash.com/@markbasarabvisuals) sur
   [Unsplash](https://unsplash.com/photos/scenery-of-waterfalls-9NgKOxVY4wM)
+
+## Sources (2/2)
+
 - [Illustration][illustration-apports-analyse-concurrentielle] par
   [Rebecca Campbell](https://unsplash.com/@campbellcreates) sur
   [Unsplash](https://unsplash.com/photos/white-and-orange-koi-fish-U55EwR__cjI)
@@ -257,6 +263,8 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1506905925346-21bda4d32df4?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
+[illustration-foncer-marche]:
+	https://images.unsplash.com/photo-1526676317768-d9b14f15615a?fit=crop&h=720
 [illustration-apports-analyse-concurrentielle]:
 	https://images.unsplash.com/photo-1600781048311-ae6e4f3f31f5?fit=crop&h=720
 [illustration-identifier-analyser-concurrence]:
