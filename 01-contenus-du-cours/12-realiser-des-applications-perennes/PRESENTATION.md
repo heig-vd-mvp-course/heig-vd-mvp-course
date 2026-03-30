@@ -6,7 +6,7 @@ paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 description:
   Réaliser des applications pérennes pour le cours MVP à la HEIG-VD, Suisse
-url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/11-realiser-des-applications-perennes/presentation.html
+url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/12-realiser-des-applications-perennes/presentation.html
 header: "[**Réaliser des applications pérennes**][contenu-complet-sur-github]"
 footer:
   "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
@@ -113,7 +113,7 @@ Est-ce que vous avez des questions ?
   [Unsplash](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM)
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/11-realiser-des-applications-perennes/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/12-realiser-des-applications-perennes/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

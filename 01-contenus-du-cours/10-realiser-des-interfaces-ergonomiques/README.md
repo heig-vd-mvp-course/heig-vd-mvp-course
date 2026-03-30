@@ -11,13 +11,13 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/09-realiser-des-interfaces-ergonomiques/presentation.html)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/10-realiser-des-interfaces-ergonomiques/presentation.html)
 >   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/09-realiser-des-interfaces-ergonomiques/09-realiser-des-interfaces-ergonomiques-presentation.pdf)
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/10-realiser-des-interfaces-ergonomiques/10-realiser-des-interfaces-ergonomiques-presentation.pdf)
 > - Quiz :
->   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/09-realiser-des-interfaces-ergonomiques/quiz.html)
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/10-realiser-des-interfaces-ergonomiques/quiz.html)
 >   ·
->   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/09-realiser-des-interfaces-ergonomiques/09-realiser-des-interfaces-ergonomiques-quiz.pdf)
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/10-realiser-des-interfaces-ergonomiques/10-realiser-des-interfaces-ergonomiques-quiz.pdf)
 >
 > **Objectifs**
 >

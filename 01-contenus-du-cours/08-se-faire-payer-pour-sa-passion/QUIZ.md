@@ -7,7 +7,7 @@ author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 description:
   Quiz sur le contenu Se faire payer pour sa passion pour le cours MVP à la
   HEIG-VD, Suisse
-url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/12-se-faire-payer-pour-sa-passion/quiz.html
+url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-se-faire-payer-pour-sa-passion/quiz.html
 header:
   "[**Se faire payer pour sa passion - Quiz**][contenu-complet-sur-github]"
 footer:
@@ -56,35 +56,37 @@ document._
 
 ## Question 2 - Donnée
 
-> Quels sont les neuf blocs essentiels du Business Model Canvas ?
+> Quels sont les neuf blocs essentiels du business model canvas ?
 
-_**Bonus** : Quels sont les deux blocs ajoutés par le Sustainable Business Model
-Canvas ?_
+_**Bonus** : Quels sont les deux blocs ajoutés par le sustainable business model
+canvas ?_
 
 ## Question 2 - Réponse
 
 <div class="two-columns">
-
 <div>
 
-1. Proposition de valeur
-2. Segments de clients
-3. Canaux de distribution
-4. Relations clients
-5. Sources de revenus
-6. Ressources clés
-7. Partenaires clés
-8. Activités principales
+1. Proposition de valeur.
+2. Segments de clients.
+3. Canaux de distribution.
+4. Relations avec les clients.
+5. Sources de revenus.
+6. Ressources clés.
+7. Partenaires clés.
 
 </div>
 <div>
 
-9. Structure des coûts
-10. Coûts écosociaux
-11. Revenus écosociaux
+8. Activités principales.
+9. Structure des coûts.
+
+**Sustainable Business Model Canvas**
+
+10. Coûts écosociaux.
+11. Revenus écosociaux.
 
 </div>
-</div>
+<div>
 
 ## Question 3 - Donnée
 
@@ -93,9 +95,9 @@ Canvas ?_
 
 ## Question 3 - Réponse
 
-1. Business-to-business (B2B)
-2. Business-to-consumer (B2C)
-3. Inscription ou abonnement
+1. Business-to-business (B2B).
+2. Business-to-consumer (B2C).
+3. Inscription ou abonnement.
 
 ## Question 4 - Donnée
 
@@ -103,9 +105,9 @@ Canvas ?_
 
 ## Question 4 - Réponse
 
-1. Paiement mobile (TWINT)
-2. Cartes de débit et crédit
-3. Paiement en espèces
+1. Paiement mobile (TWINT).
+2. Cartes de débit et crédit.
+3. Paiement en espèces.
 
 ## Question 5 - Donnée
 
@@ -113,9 +115,9 @@ Canvas ?_
 
 ## Question 5 - Réponse
 
-1. Stripe
-2. PayPal
-3. TWINT
+1. Stripe.
+2. PayPal.
+3. TWINT.
 
 ## Question 6 - Donnée
 
@@ -153,7 +155,7 @@ Est-ce que vous avez des questions ?
 <!-- URLs -->
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/12-se-faire-payer-pour-sa-passion/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/08-se-faire-payer-pour-sa-passion/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

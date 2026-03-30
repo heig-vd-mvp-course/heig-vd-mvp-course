@@ -6,7 +6,7 @@ paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 description:
   Se faire payer pour sa passion pour le cours MVP à la HEIG-VD, Suisse
-url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/12-se-faire-payer-pour-sa-passion/presentation.html
+url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-se-faire-payer-pour-sa-passion/presentation.html
 header: "[**Se faire payer pour sa passion**][contenu-complet-sur-github]"
 footer:
   "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
@@ -45,27 +45,27 @@ document._
 
 ## Objectifs
 
-- Établir un business model pour son projet
-- Lister les différents moyens de paiement populaires en Suisse
-- Lister les différents prestataires de paiement populaires sur Internet
+- Établir un business model pour son projet.
+- Lister les différents moyens de paiement populaires en Suisse.
+- Lister les différents prestataires de paiement populaires sur Internet.
 - Lister les éléments légaux nécessaires pour pouvoir se faire payer pour sa
-  passion
+  passion.
 
 ![bg right:40%][illustration-objectifs]
 
 ## Pourquoi se faire payer pour sa passion ?
 
-- Augmenter ses chances de succès
-- Avoir plus de temps pour se consacrer à son projet
-- Avoir un retour sur investissement
+- Augmenter ses chances de succès.
+- Avoir plus de temps pour se consacrer à son projet.
+- Avoir un retour sur investissement.
 
 ![bg right:40%][illustration-passion]
 
 ## Établir un business model
 
-- Business model Canvas
-- Sustainable Business Model Canvas
-- Source de revenus
+- Business model canvas.
+- Sustainable business model canvas.
+- Source de revenus.
 
 ![bg right:40%][illustration-business-model]
 
@@ -74,44 +74,44 @@ document._
 <div class="two-columns center">
 <div>
 
-1. Proposition de valeur
-2. Segments de clients
-3. Canaux de distribution
-4. Relations avec les clients
-5. Sources de revenus
-6. Ressources clés
-7. Partenaires clés
+1. Proposition de valeur.
+2. Segments de clients.
+3. Canaux de distribution.
+4. Relations avec les clients.
+5. Sources de revenus.
+6. Ressources clés.
+7. Partenaires clés.
 
 </div>
 <div>
 
-8. Activités principales
-9. Structure des coûts
+8. Activités principales.
+9. Structure des coûts.
 
 **Sustainable Business Model Canvas**
 
-- Coûts écosociaux
-- Revenus écosociaux
+10. Coûts écosociaux.
+11. Revenus écosociaux.
 
 </div>
 <div>
 
 ### Sources de revenus
 
-- Business to Business (B2B)
-- Business to Consumer (B2C)
-- Inscription
-- À la demande
+- Business to Business (B2B).
+- Business to Consumer (B2C).
+- Inscription.
+- À la demande.
 
 ![bg right:40%][illustration-revenus]
 
 ## Les moyens de paiement populaires en Suisse
 
-- Paiement mobile
-- Carte de débit
-- Paiement en espèces
-- Carte de crédit
-- Facture
+- Paiement mobile.
+- Carte de débit.
+- Paiement en espèces.
+- Carte de crédit.
+- Facture.
 
 ![bg right:40%][illustration-moyens]
 
@@ -120,58 +120,58 @@ document._
 - Il existe de nombreux prestataires de paiement sur Internet.
 - Ils permettent de faire des paiements en ligne de manière sécurisée et une
   intégration facile dans les applications.
-- Les plus reconnus sont Stripe, PayPal, TWINT (entre autres)
+- Les plus reconnus sont Stripe, PayPal, TWINT (entre autres).
 
 ![bg right:40%][illustration-prestataires-de-paiement-sur-internet]
 
 ### Stripe
 
-- Un des leaders du marché
-- S'intègre facilement dans les applications
-- Excellente documentation
+- Un des leaders du marché.
+- S'intègre facilement dans les applications.
+- Excellente documentation.
 - Supporte de nombreux moyens de paiement et de multiples prestataires (dont
-  TWINT)
-- [Documentation Stripe](https://stripe.com/docs)
+  TWINT).
+- [Documentation Stripe](https://stripe.com/docs).
 
 ![bg right w:80%](https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg)
 
 ### PayPal
 
-- Très utilisé à l'international
-- Permet de recevoir des paiements depuis l'étranger
-- S'intègre facilement dans les applications
-- [Documentation PayPal](https://developer.paypal.com/docs/checkout/)
+- Très utilisé à l'international.
+- Permet de recevoir des paiements depuis l'étranger.
+- S'intègre facilement dans les applications.
+- [Documentation PayPal](https://developer.paypal.com/docs/checkout/).
 
 ![bg right w:80%](https://upload.wikimedia.org/wikipedia/commons/c/c6/PayPal_2024.svg)
 
 ### TWINT
 
-- Très utilisé en Suisse
-- Omniprésent dans notre vie quotidienne
-- Peut être intégré dans les applications (par Stripe par exemple)
-- [Documentation TWINT](https://www.twint.ch/fr/clients-commerciaux/nos-solutions/boutique-en-ligne/?lang=fr#section-integration)
+- Très utilisé en Suisse.
+- Omniprésent dans notre vie quotidienne.
+- Peut être intégré dans les applications (par Stripe par exemple).
+- [Documentation TWINT](https://www.twint.ch/fr/clients-commerciaux/nos-solutions/boutique-en-ligne/?lang=fr#section-integration).
 
 ![bg right h:80%](https://upload.wikimedia.org/wikipedia/commons/8/87/Twint.png)
 
 ### Autres prestataires
 
 - [Payrexx](https://payrexx.com/) - prestataire suisse qui se concentre sur les
-  petites et moyennes entreprises
+  petites et moyennes entreprises.
 - [Mollie](https://www.mollie.com/) - prestataire néerlandais qui se concentre
-  sur l'Europe
+  sur l'Europe.
 - [PayPlug](https://payplug.com/) - prestataire français qui se concentre sur
-  les petites et moyennes entreprises
+  les petites et moyennes entreprises.
 
 ![bg right:40%][illustration-prestataires-de-paiement-sur-internet]
 
 ## Aspects légaux à respecter en Suisse (1/3)
 
-- Ces aspects légaux sont à considérer si vous travaillez en indépendant.e
-- Pour les autres formes juridiques, nous les aborderons dans un prochain cours
+- Ces aspects légaux sont à considérer si vous travaillez en indépendant.e.
+- Pour les autres formes juridiques, nous les aborderons dans un prochain cours.
 
 **Nous ne sommes pas experts en droit !**
 
-![bg right:40%][illustration-aspects-legaux-a-respecter-en-suisse]
+![bg right:35%][illustration-aspects-legaux-a-respecter-en-suisse]
 
 ## Aspects légaux à respecter en Suisse (2/3)
 
@@ -180,17 +180,17 @@ document._
 - **Droit à la concurrence** : respect des règles de la concurrence, etc.
 - **Contrats** : conditions générales de vente, contrats de prestation, etc.
 
-![bg right:40%][illustration-aspects-legaux-a-respecter-en-suisse]
+![bg right:35%][illustration-aspects-legaux-a-respecter-en-suisse]
 
 ## Aspects légaux à respecter en Suisse (3/3)
 
 Ressources pour vous aider à comprendre vos obligations :
 
-- [admin.ch - Indépendants](https://www.bsv.admin.ch/bsv/fr/home/informations-aux/independants.html)
-- [admin.ch - Les premiers pas vers l'indépendance](https://www.bsv.admin.ch/bsv/fr/home/informations-aux/kmu/fall-zu-fall/selbststaendigkeit.html)
-- [admin.ch - Indépendance: mode d’emploi](https://www.kmu.admin.ch/kmu/fr/home/savoir-pratique/creation-pme/creation-entreprise/premiers-pas/devenir-independant-en-suisse-mode-d-emploi.html)
+- [admin.ch - Indépendants](https://www.bsv.admin.ch/bsv/fr/home/informations-aux/independants.html).
+- [admin.ch - Les premiers pas vers l'indépendance](https://www.bsv.admin.ch/bsv/fr/home/informations-aux/kmu/fall-zu-fall/selbststaendigkeit.html).
+- [admin.ch - Indépendance: mode d’emploi](https://www.kmu.admin.ch/kmu/fr/home/savoir-pratique/creation-pme/creation-entreprise/premiers-pas/devenir-independant-en-suisse-mode-d-emploi.html).
 
-![bg right:40%][illustration-aspects-legaux-a-respecter-en-suisse]
+![bg right:35%][illustration-aspects-legaux-a-respecter-en-suisse]
 
 ## Questions
 
@@ -241,7 +241,7 @@ Est-ce que vous avez des questions ?
 <!-- URLs -->
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/12-se-faire-payer-pour-sa-passion/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/08-se-faire-payer-pour-sa-passion/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

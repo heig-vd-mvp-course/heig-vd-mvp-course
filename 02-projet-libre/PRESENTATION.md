@@ -480,7 +480,7 @@ il est recommandé pour la prochaine fois de :
 - Identifier les concurrents directs et indirects de votre projet.
 - Faire une analyse complète de la concurrence pour votre projet.
 
-### Séance 7
+### Séance 7 - Partie 1
 
 <!-- _class: lead -->
 
@@ -498,14 +498,91 @@ il est recommandé pour la prochaine fois de :
 
 #### Déroulement
 
-Vous avez 20 minutes pour préparer votre pitch, après quoi chaque groupe a 2
-minutes pour présenter son pitch suivi d'un moments de questions et feedbacks.
+Vous avez 20 minutes pour préparer votre pitch puis **chaque groupe a 2 minutes
+pour présenter son pitch**.
 
-Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
-feedbacks constructifs.
+Challengez-vous ! **Vous pouvez passer plusieurs fois !**
 
-Vous pouvez retrouver la grille d'évaluation de la présentation ici :
-[Présentation du pitch](#présentation-du-pitch).
+Votre pitch doit mettre l'accent sur le **besoin**, votre **public cible** et
+**comment vous répondez au besoin**.
+
+**Aucun support autorisé.** Il n'y a pas de craintes à avoir pour cette
+présentation, c'est pour vous entraîner pour la prochaine séance. :)
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Préparer la présentation finale du pitch.
+- Continuer à trouver d'autres personnes pour s'entretenir avec et récolter des
+  retours.
+
+### Séance 7 - Partie 2
+
+<!-- _class: lead -->
+
+**Trouver des sources de revenus**
+
+#### Objectifs
+
+- Trouver des sources de revenus.
+- Développer un plan de monétisation.
+- Évaluer les options de financement.
+- Présenter une proposition de valeur.
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Nous vous invitons maintenant à trouver/imaginer des sources de revenus pour
+votre projet.
+
+Pour cela, remplissez le sustainable business model canvas fourni dans le
+support de cours.
+
+Prenez en compte tous les aspects de votre projet pour trouver des sources de
+revenus pertinentes.
+
+Nous sommes à votre disposition si nécessaire.
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Finaliser le sustainable business model canvas de votre projet.
+- Continuer à trouver d'autres personnes pour s'entretenir avec et récolter des
+  retours.
+
+### Séance 8
+
+<!-- _class: lead -->
+
+**Présentations du pitch**
+
+#### Objectifs
+
+- Préparer un pitch.
+- Réaliser un pitch.
+- Répondre aux questions.
+- Recevoir des feedbacks constructifs.
+- Évaluer les pitches des autres groupes.
+
+![bg right:40%][illustration-objectifs]
+
+#### Déroulement
+
+Vous avez 20 minutes pour préparer votre pitch puis **chaque groupe a 5 minutes
+pour présenter son pitch**.
+
+Votre pitch doit mettre l'accent sur le **besoin**, votre **public cible** et
+**comment vous répondez au besoin** avec une **analyse des résultats de vos
+entretiens/questionnaires**, une **analyse de la concurrence** et une
+**proposition de sources de revenus**.
+
+**Support autorisé.** Vous pouvez retrouver la grille d'évaluation de la
+présentation ici : [Présentation du pitch](#présentation-du-pitch).
 
 #### À faire pour la prochaine séance
 
@@ -515,7 +592,7 @@ il est recommandé pour la prochaine fois de :
 - Continuer à trouver d'autres personnes pour s'entretenir avec et récolter des
   retours.
 
-### Séance 8
+### Séance 9
 
 <!-- _class: lead -->
 
@@ -563,7 +640,7 @@ il est recommandé pour la prochaine fois de :
   identifiés.
 - Récolter des retours et itérer sur votre projet en fonction de ces retours.
 
-### Séance 9
+### Séance 10
 
 <!-- _class: lead -->
 
@@ -598,7 +675,7 @@ il est recommandé pour la prochaine fois de :
 - Finaliser les maquettes de l'application.
 - Continuer à promouvoir et récolter des retours sur votre projet.
 
-### Séance 10
+### Séance 11
 
 <!-- _class: lead -->
 

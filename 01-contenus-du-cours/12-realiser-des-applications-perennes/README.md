@@ -11,13 +11,13 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/11-realiser-des-applications-perennes/presentation.html)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/12-realiser-des-applications-perennes/presentation.html)
 >   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/11-realiser-des-applications-perennes/11-realiser-des-applications-perennes-presentation.pdf)
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/12-realiser-des-applications-perennes/12-realiser-des-applications-perennes-presentation.pdf)
 > - Quiz :
->   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/11-realiser-des-applications-perennes/quiz.html)
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/12-realiser-des-applications-perennes/quiz.html)
 >   ·
->   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/11-realiser-des-applications-perennes/11-realiser-des-applications-perennes-quiz.pdf)
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/12-realiser-des-applications-perennes/12-realiser-des-applications-perennes-quiz.pdf)
 >
 > **Objectifs**
 >

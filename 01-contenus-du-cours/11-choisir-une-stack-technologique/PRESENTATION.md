@@ -6,7 +6,7 @@ paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 description:
   Choisir une stack technologique pour le cours MVP à la HEIG-VD, Suisse
-url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/10-choisir-une-stack-technologique/presentation.html
+url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/11-choisir-une-stack-technologique/presentation.html
 header: "[**Choisir une stack technologique**][contenu-complet-sur-github]"
 footer:
   "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
@@ -701,7 +701,7 @@ Est-ce que vous avez des questions ?
 <!-- URLs -->
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/10-choisir-une-stack-technologique/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/11-choisir-une-stack-technologique/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

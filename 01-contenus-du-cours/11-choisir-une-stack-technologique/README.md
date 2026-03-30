@@ -11,13 +11,13 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/10-choisir-une-stack-technologique/presentation.html)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/11-choisir-une-stack-technologique/presentation.html)
 >   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/10-choisir-une-stack-technologique/10-choisir-une-stack-technologique-presentation.pdf)
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/11-choisir-une-stack-technologique/11-choisir-une-stack-technologique-presentation.pdf)
 > - Quiz :
->   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/10-choisir-une-stack-technologique/quiz.html)
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/11-choisir-une-stack-technologique/quiz.html)
 >   ·
->   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/10-choisir-une-stack-technologique/10-choisir-une-stack-technologique-quiz.pdf)
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/11-choisir-une-stack-technologique/11-choisir-une-stack-technologique-quiz.pdf)
 >
 > **Objectifs**
 >
