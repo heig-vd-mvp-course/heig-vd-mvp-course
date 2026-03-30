@@ -48,10 +48,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Séance 4](#séance-4)
   - [Séance 5](#séance-5)
   - [Séance 6](#séance-6)
-  - [Séance 7](#séance-7)
+  - [Séance 7 - Partie 1](#séance-7---partie-1)
+  - [Séance 7 - Partie 2](#séance-7---partie-2)
   - [Séance 8](#séance-8)
   - [Séance 9](#séance-9)
   - [Séance 10](#séance-10)
+  - [Séance 11](#séance-11)
 
 ## Objectifs
 
@@ -1248,7 +1250,7 @@ il est recommandé pour la prochaine fois de :
 - Identifier les concurrents directs et indirects de votre projet.
 - Faire une analyse complète de la concurrence pour votre projet.
 
-### Séance 7
+### Séance 7 - Partie 1
 
 **Présentations du pitch**
 
@@ -1259,7 +1261,177 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-7)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-7---partie-1)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Préparer un pitch.
+> - Réaliser un pitch.
+> - Répondre aux questions.
+> - Recevoir des feedbacks constructifs.
+> - Évaluer les pitches des autres groupes.
+> - Donner des feedbacks constructifs.
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Temps de préparation (20 minutes).
+> - Présentations (60 minutes).
+>   - Présentations (sans slides).
+>   - Sessions de questions-réponses.
+>   - Évaluations et feedbacks.
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'une présentation du projet aux autres groupes.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à présenter.
+> - Capacité à répondre aux questions.
+> - Capacité à écouter les feedbacks.
+>
+> Les retours se font de la manière suivante :
+>
+> - Évaluation selon la grille présente dans la section
+>   [Présentation du pitch](#présentation-du-pitch).
+>
+> L'évaluation ne donne pas lieu à une note.
+
+#### Objectifs
+
+- Préparer un pitch.
+- Réaliser un pitch.
+- Répondre aux questions.
+- Recevoir des feedbacks constructifs.
+- Évaluer les pitches des autres groupes.
+
+#### Déroulement
+
+Vous avez 20 minutes pour préparer votre pitch puis **chaque groupe a 2 minutes
+pour présenter son pitch**.
+
+Challengez-vous ! **Vous pouvez passer plusieurs fois !**
+
+Votre pitch doit mettre l'accent sur le **besoin**, votre **public cible** et
+**comment vous répondez au besoin**.
+
+**Aucun support autorisé.** Il n'y a pas de craintes à avoir pour cette
+présentation, c'est pour vous entraîner pour la prochaine séance. :)
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Préparer la présentation finale du pitch.
+- Continuer à trouver d'autres personnes pour s'entretenir avec et récolter des
+  retours.
+
+### Séance 7 - Partie 2
+
+**Trouver des sources de revenus**
+
+> [!TIP]
+>
+> Voici quelques informations relatives à ce contenu.
+>
+> **Ressources annexes**
+>
+> - Autres formats :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-7---partie-2)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Trouver des sources de revenus.
+> - Développer un plan de monétisation.
+> - Évaluer les options de financement.
+> - Présenter une proposition de valeur.
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Discussions en groupe.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'une présentation du projet aux personnes qui
+> enseignent ainsi qu'un court document d'analyse de la concurrence.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à présenter.
+> - Capacité à écouter.
+> - Capacité à argumenter.
+> - Capacité à participer.
+> - Réalisation du business model canvas.
+>
+> Les retours se font de la manière suivante :
+>
+> - Feedback.
+>
+> L'évaluation ne donne pas lieu à une note.
+
+#### Objectifs
+
+À l'issue de cette séance, les personnes qui étudient devraient être capables de
+:
+
+- Trouver des sources de revenus.
+- Développer un plan de monétisation.
+- Évaluer les options de financement.
+- Présenter une proposition de valeur.
+
+#### Déroulement
+
+Nous vous invitons maintenant à trouver/imaginer des sources de revenus pour
+votre projet.
+
+Pour cela, remplissez le sustainable business model canvas fourni dans le
+support de cours.
+
+Prenez en compte tous les aspects de votre projet pour trouver des sources de
+revenus pertinentes.
+
+Nous sommes à votre disposition si nécessaire.
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Finaliser le sustainable business model canvas de votre projet.
+- Continuer à trouver d'autres personnes pour s'entretenir avec et récolter des
+  retours.
+
+### Séance 8
+
+**Présentations du pitch**
+
+> [!TIP]
+>
+> Voici quelques informations relatives à ce contenu.
+>
+> **Ressources annexes**
+>
+> - Autres formats :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-9)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1306,9 +1478,6 @@ il est recommandé pour la prochaine fois de :
 
 #### Objectifs
 
-À l'issue de cette séance, les personnes qui étudient devraient être capables de
-:
-
 - Préparer un pitch.
 - Réaliser un pitch.
 - Répondre aux questions.
@@ -1317,14 +1486,16 @@ il est recommandé pour la prochaine fois de :
 
 #### Déroulement
 
-Vous avez 20 minutes pour préparer votre pitch, après quoi chaque groupe a 2
-minutes pour présenter son pitch suivi d'un moments de questions et feedbacks.
+Vous avez 20 minutes pour préparer votre pitch puis **chaque groupe a 5 minutes
+pour présenter son pitch**.
 
-Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
-feedbacks constructifs.
+Votre pitch doit mettre l'accent sur le **besoin**, votre **public cible** et
+**comment vous répondez au besoin** avec une **analyse des résultats de vos
+entretiens/questionnaires**, une **analyse de la concurrence** et une
+**proposition de sources de revenus**.
 
-Vous pouvez retrouver la grille d'évaluation de la présentation ici :
-[Présentation du pitch](#présentation-du-pitch).
+**Support autorisé.** Vous pouvez retrouver la grille d'évaluation de la
+présentation ici : [Présentation du pitch](#présentation-du-pitch).
 
 #### À faire pour la prochaine séance
 
@@ -1334,7 +1505,7 @@ il est recommandé pour la prochaine fois de :
 - Continuer à trouver d'autres personnes pour s'entretenir avec et récolter des
   retours.
 
-### Séance 8
+### Séance 9
 
 **Promouvoir son idée sur Internet**
 
@@ -1345,7 +1516,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-8)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-9)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1430,7 +1601,7 @@ il est recommandé pour la prochaine fois de :
 - Partager votre projet autour de vous selon les canaux de communication
   identifiés.
 
-### Séance 9
+### Séance 10
 
 **Réaliser des maquettes avant de développer**
 
@@ -1441,7 +1612,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-9)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-10)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >
@@ -1513,7 +1684,7 @@ il est recommandé pour la prochaine fois de :
 - Finaliser les maquettes de l'application.
 - Continuer à promouvoir et récolter des retours sur votre projet.
 
-### Séance 10
+### Séance 11
 
 **Identifier une stack technologique adaptée**
 
@@ -1524,7 +1695,7 @@ il est recommandé pour la prochaine fois de :
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-10)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-11)
 >   ·
 >   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
 >

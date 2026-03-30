@@ -11,13 +11,13 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-promouvoir-son-idee/presentation.html)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/09-promouvoir-son-idee/presentation.html)
 >   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-promouvoir-son-idee/08-promouvoir-son-idee-presentation.pdf)
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/09-promouvoir-son-idee/09-promouvoir-son-idee-presentation.pdf)
 > - Quiz :
->   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-promouvoir-son-idee/quiz.html)
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/09-promouvoir-son-idee/quiz.html)
 >   ·
->   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-promouvoir-son-idee/08-promouvoir-son-idee-quiz.pdf)
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/09-promouvoir-son-idee/09-promouvoir-son-idee-quiz.pdf)
 >
 > **Objectifs**
 >

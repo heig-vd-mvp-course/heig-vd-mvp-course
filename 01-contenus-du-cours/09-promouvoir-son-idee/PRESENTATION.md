@@ -5,7 +5,7 @@ size: 16:9
 paginate: true
 author: L. Delafontaine et V. Guidoux, avec l'aide de GitHub Copilot
 description: Promouvoir son idée pour le cours MVP à la HEIG-VD, Suisse
-url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-promouvoir-son-idee/presentation.html
+url: https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/09-promouvoir-son-idee/presentation.html
 header: "[**Promouvoir son idée**][contenu-complet-sur-github]"
 footer:
   "[**HEIG-VD**](https://heig-vd.ch) - [MVP Course
@@ -265,7 +265,7 @@ Est-ce que vous avez des questions ?
 <!-- URLs -->
 
 [contenu-complet-sur-github]:
-	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/08-promouvoir-son-idee/README.md
+	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-contenus-du-cours/09-promouvoir-son-idee/README.md
 [license]:
 	https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/LICENSE.md
 

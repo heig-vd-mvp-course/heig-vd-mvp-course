@@ -11,24 +11,24 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > **Ressources annexes**
 >
 > - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/12-se-faire-payer-pour-sa-passion/presentation.html)
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-se-faire-payer-pour-sa-passion/presentation.html)
 >   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/12-se-faire-payer-pour-sa-passion/12-se-faire-payer-pour-sa-passion-presentation.pdf)
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-se-faire-payer-pour-sa-passion/08-se-faire-payer-pour-sa-passion-presentation.pdf)
 > - Quiz :
->   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/12-se-faire-payer-pour-sa-passion/quiz.html)
+>   [Web](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-se-faire-payer-pour-sa-passion/quiz.html)
 >   ·
->   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/12-se-faire-payer-pour-sa-passion/12-se-faire-payer-pour-sa-passion-quiz.pdf)
+>   [PDF](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/08-se-faire-payer-pour-sa-passion/08-se-faire-payer-pour-sa-passion-quiz.pdf)
 >
 > **Objectifs**
 >
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Établir un business model pour son projet
-> - Lister les différents moyens de paiement populaires en Suisse
-> - Lister les différents prestataires de paiement populaires sur Internet
+> - Établir un business model pour son projet.
+> - Lister les différents moyens de paiement populaires en Suisse.
+> - Lister les différents prestataires de paiement populaires sur Internet.
 > - Lister les éléments légaux nécessaires pour pouvoir se faire payer pour sa
->   passion
+>   passion.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
@@ -70,32 +70,34 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Aspects légaux à respecter en Suisse](#aspects-légaux-à-respecter-en-suisse)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
-- [Sources](#sources)
 
 ## Objectifs
 
-Grâce à la méthodologie présentée jusqu'ici dans l'unité d'enseignement, vous
-avez un moyen d'itérer sur votre projet.
+Grâce à la méthodologie présentée jusqu'ici dans le cours, vous avez un moyen
+d'itérer sur les besoins que votre projet tente de répondre. Il est temps de
+vous poser la question de la monétisation de votre projet.
 
-En parallèle, vous avez appris à réaliser des applications pérennes qui
-répondent à un besoin. Il est temps de vous poser la question de la monétisation
-de votre projet.
+Bien que peut-être un peu tôt pour se poser la question de la monétisation de
+votre projet, il est important d'avoir une idée de comment vous allez vous faire
+payer pour votre passion. Cela vous permettra d'itérer sur votre projet en
+gardant à l'esprit les éléments nécessaires pour pouvoir vous faire payer pour
+votre passion et agrémenter votre projet de ces éléments au fur et à mesure de
+son développement.
 
-Vous allez donc apprendre à vous faire payer pour votre passion. Vous allez
-découvrir les différents moyens de paiement disponibles en Suisse et les
-différents prestataires de paiement sur Internet.
+Vous allez donc apprendre à vous faire payer pour votre passion et les
+différents moyens de paiement disponibles en Suisse et les différents
+prestataires de paiement sur Internet.
 
 Vous allez également découvrir les éléments légaux nécessaires pour pouvoir vous
 faire payer pour votre passion.
 
 De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
-- Établir un business model pour son projet
-- Lister les différents moyens de paiement populaires en Suisse
-- Lister les différents prestataires de paiement populaires sur Internet
+- Établir un business model pour son projet.
+- Lister les différents moyens de paiement populaires en Suisse.
+- Lister les différents prestataires de paiement populaires sur Internet.
 - Lister les éléments légaux nécessaires pour pouvoir se faire payer pour sa
-  passion
+  passion.
 
 ## Pourquoi se faire payer pour sa passion ?
 
@@ -120,7 +122,7 @@ passion. Bien choisir son modèle économique en fonction de son projet et de so
 public cible est essentiel pour garantir la pérennité de son activité.
 
 Un modèle économique, modèle d'entreprise ou business model, décrit comment une
-activité crée, délivre et capture de la valeur.
+activité crée, délivre et capture de la valeur[^modele-dentreprise].
 
 Avant de se lancer dans la création d'un modèle économique, il est essentiel de
 comprendre tout les éléments qui le composent. Et c'est là que la matrice
@@ -128,7 +130,7 @@ d'affaires (ou business model canvas) entre en jeu.
 
 ### Business model canvas
 
-Le Business Model Canvas permet une vision globale et structurée de votre projet
+Le business model canvas permet une vision globale et structurée de votre projet
 en neuf blocs essentiels :
 
 - **Proposition de valeur** : qu'est-ce qui rend votre produit ou service unique
@@ -146,15 +148,15 @@ en neuf blocs essentiels :
 Ce modèle peut être représenté selon le canvas suivant, tiré du site
 Strategyzer[^strategyzer] :
 
-![Business Model Canvas](./images/business-model-canvas.png)
+![Business model canvas](./images/business-model-canvas.png)
 
 De nombreux autres modèles existent mais un intéressant que nous souhaitons vous
-présenter est le Sustainable Business Model
-Canvas[^sustainable-business-model-canvas]. Il est très similaire au Business
-Model Canvas mais intègre aussi des aspects de durabilité de votre projet. Nous
+présenter est le Sustainable business model
+canvas[^sustainable-business-model-canvas]. Il est très similaire au business
+model canvas mais intègre aussi des aspects de durabilité de votre projet. Nous
 vous conseillons de l'utiliser pour votre projet.
 
-![Sustainable Business Model Canvas](./images/sustainable-business-model-canvas.jpg)
+![Sustainable business model canvas](./images/sustainable-business-model-canvas.jpg)
 
 ### Sources de revenus
 
@@ -170,7 +172,7 @@ d'affaires. Il existe plusieurs façons de se faire payer pour sa passion.
 
 ## Les moyens de paiement populaires en Suisse
 
-Suite à la pandémie de COVID-19, les moyens de paiement en Suisse ont
+En partie suite à la pandémie de COVID-19, les moyens de paiement en Suisse ont
 considérablement évolué. Les paiements sans contact et les solutions de paiement
 numériques ont gagné en popularité, rendant les transactions plus pratiques et
 sécurisées.
@@ -179,10 +181,10 @@ Voici quelques-uns des moyens de paiement les plus populaires en Suisse, d'aprè
 un article de la Migros[^migros] :
 
 - **Paiement mobile** : téléphone portable, tablette, smartwatch, etc.
-- **Cartes de débit** : physiques, non déposées pour le paiement mobile
-- **Paiement en espèces** : toujours utilisé
-- **Cartes de crédit** : physiques, non déposées pour le paiement mobile
-- **Facture** : paiement après réception de la facture
+- **Cartes de débit** : physiques, non déposées pour le paiement mobile.
+- **Paiement en espèces** : toujours utilisé.
+- **Cartes de crédit** : physiques, non déposées pour le paiement mobile.
+- **Facture** : paiement après réception de la facture.
 
 ## Prestataires de paiement sur Internet
 
@@ -276,9 +278,12 @@ certains aspects légaux en Suisse. Voici quelques points clés à considérer :
 D'excellentes ressources sont disponibles sur le site de l'Administration
 fédérale pour vous aider à comprendre vos obligations :
 
-- [admin.ch - Indépendants](https://www.bsv.admin.ch/bsv/fr/home/informations-aux/independants.html)
-- [admin.ch - Les premiers pas vers l'indépendance](https://www.bsv.admin.ch/bsv/fr/home/informations-aux/kmu/fall-zu-fall/selbststaendigkeit.html)
-- [admin.ch - Indépendance: mode d’emploi](https://www.kmu.admin.ch/kmu/fr/home/savoir-pratique/creation-pme/creation-entreprise/premiers-pas/devenir-independant-en-suisse-mode-d-emploi.html)
+- [admin.ch - Indépendants](https://www.bsv.admin.ch/bsv/fr/home/informations-aux/independants.html).
+- [admin.ch - Les premiers pas vers l'indépendance](https://www.bsv.admin.ch/bsv/fr/home/informations-aux/kmu/fall-zu-fall/selbststaendigkeit.html).
+- [admin.ch - Indépendance: mode d’emploi](https://www.kmu.admin.ch/kmu/fr/home/savoir-pratique/creation-pme/creation-entreprise/premiers-pas/devenir-independant-en-suisse-mode-d-emploi.html).
+
+Nous reviendrons sur les aspects légaux dans un prochain cours, lorsque nous
+étudierons les différents statuts juridiques possibles pour votre projet.
 
 ## Conclusion
 
@@ -293,14 +298,13 @@ Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine fois de :
 
 - Relire le support de cours si nécessaire.
-- Commencer à réviser pour l'évaluation de la
-  [semaine 13](../../17-cours-evaluation/)
 
-## Sources
+<!-- Footnotes -->
 
-- [wikipedia.org](https://www.wikipedia.org/) sur
-  <https://fr.wikipedia.org/wiki/Mod%C3%A8le_d%27entreprise> consulté le 7 mai
-  2025
+[^modele-dentreprise]:
+    Modèle d'entreprise,
+    [fr.wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_d%27entreprise),
+    6 mai 2025
 
 [^sustainable-business-model-canvas]:
     Sustainable Business Model Canvas,
