@@ -248,10 +248,13 @@ Nous allons les analyser ensemble.
   d'accessibilité web.
 - [**PageSpeed Insights**](https://pagespeed.web.dev/) : analyseur de
   performance et d'accessibilité web.
-- [**QuickChart QR Code API**](https://quickchart.io/documentation/qr-codes/) :
-  génération de QR codes personnalisables.
 
 ![bg right:40%][illustration-accessibilite]
+
+### Autres outils
+
+- [**QuickChart QR Code API**](https://quickchart.io/documentation/qr-codes/) :
+  génération de QR codes personnalisables.
 
 ## Questions
 

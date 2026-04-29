@@ -74,6 +74,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Outils pour valider qu'une interface est accessible et ergonomique](#outils-pour-valider-quune-interface-est-accessible-et-ergonomique)
   - [Validation des contrastes et palettes de couleurs](#validation-des-contrastes-et-palettes-de-couleurs)
   - [Outils généraux d'accessibilité web](#outils-généraux-daccessibilité-web)
+  - [Autres outils](#autres-outils)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
 
@@ -392,6 +393,9 @@ disposition. En voici une sélection :
   fournir des recommandations pour améliorer la vitesse de chargement, il évalue
   également l'accessibilité et propose des conseils pour optimiser l'expérience
   utilisateur.
+
+### Autres outils
+
 - [**QuickChart QR Code API**](https://quickchart.io/documentation/qr-codes/) :
   Service de génération de QR codes personnalisables. Utile pour créer des QR
   codes à intégrer dans vos interfaces ou supports de communication, afin de
