@@ -256,6 +256,8 @@ Nous allons les analyser ensemble.
 - [**QuickChart QR Code API**](https://quickchart.io/documentation/qr-codes/) :
   génération de QR codes personnalisables.
 
+![bg right:40%][illustration-outils]
+
 ## Questions
 
 <!-- _class: lead -->
@@ -289,6 +291,9 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-contrastes] par
   [Elena Mozhvilo](https://unsplash.com/@miracleday) sur
   [Unsplash](https://unsplash.com/photos/yellow-flower-in-tilt-shift-lens-FCdi9-5EG_c)
+- [Illustration][illustration-outils] par
+  [Isabela Kronemberger](https://unsplash.com/@kronemberger) sur
+  [Unsplash](https://unsplash.com/photos/a-bunch-of-wrenches-and-other-tools-in-a-box-OegFhZfw6Ok)
 
 <!-- URLs -->
 
@@ -311,3 +316,5 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1587740896339-96a76170508d?fit=crop&h=720
 [illustration-contrastes]:
 	https://images.unsplash.com/photo-1588939240288-854695a834d1?fit=crop&h=720
+[illustration-outils]:
+	https://images.unsplash.com/photo-1637640125496-31852f042a60?fit=crop&h=720
