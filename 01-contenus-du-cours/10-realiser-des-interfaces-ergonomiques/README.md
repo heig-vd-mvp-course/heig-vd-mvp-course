@@ -66,7 +66,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Exemples d'interfaces que nous ne trouvons pas ergonomiques et réfléchies](#exemples-dinterfaces-que-nous-ne-trouvons-pas-ergonomiques-et-réfléchies)
   - [Garmin Connect](#garmin-connect)
   - [Discord](#discord)
-  - [X/Twitter](#xtwitter)
 - [Exemples d'interfaces que nous trouvons ergonomiques et réfléchies](#exemples-dinterfaces-que-nous-trouvons-ergonomiques-et-réfléchies)
   - [WhatsApp](#whatsapp)
   - [CFF](#cff)
@@ -231,25 +230,6 @@ peu ergonomique et réfléchie).
 
 ![Discord](./images/discord.png)
 
-### X/Twitter
-
-L'application [X/Twitter](https://x.com/) est un réseau social qui permet de
-partager des messages courts (tweets) et de suivre des personnes.
-
-L'application se veut simple et efficace, mais si l'on est pas connecté, il est
-quasi impossible d'accéder au contenu de l'application.
-
-Les points positifs :
-
-- Application simple et efficace.
-
-Les points négatifs :
-
-- Sans compte, l'application est quasi inutilisable.
-- "Nagging"[^nagging-wikipedia] pour créer un compte.
-
-![X/Twitter](./images/x-twitter.png)
-
 ## Exemples d'interfaces que nous trouvons ergonomiques et réfléchies
 
 ### WhatsApp
@@ -359,6 +339,16 @@ Quelques outils additionnels pour enrichir votre réflexion ergonomique :
   principes fondamentaux d'ergonomie et de psychologie cognitive à prendre en
   compte dans vos interfaces. Idéal pour comprendre les raisons derrière
   certains choix ergonomiques et améliorer votre UX de manière argumentée.
+- **[Commentaire de ShortFuse sur Reddit](https://www.reddit.com/r/Frontend/comments/11cbih5/refactoring_ui_a_good_resource_for_getting_more/)**
+  : Un commentaire très complet qui propose une vision structurée de l'UI/UX en
+  abordant les notions de flow, d'impact, de densité (padding, margin, taille)
+  et de mise en page. Il cite également de nombreuses ressources de référence
+  (WCAG, Material Design, etc.). Une lecture recommandée pour quiconque souhaite
+  approfondir ces concepts.
+- [**Variant**](https://variant.com/) : Outil de génération de designs qui
+  propose automatiquement des variations visuelles pour vous aider à explorer
+  rapidement différentes directions esthétiques sans avoir à tout concevoir
+  manuellement.
 
 **Autres outils de design graphique**
 
@@ -402,6 +392,11 @@ disposition. En voici une sélection :
   fournir des recommandations pour améliorer la vitesse de chargement, il évalue
   également l'accessibilité et propose des conseils pour optimiser l'expérience
   utilisateur.
+- [**QuickChart QR Code API**](https://quickchart.io/documentation/qr-codes/) :
+  Service de génération de QR codes personnalisables. Utile pour créer des QR
+  codes à intégrer dans vos interfaces ou supports de communication, afin de
+  faciliter l'accès à votre application ou page web depuis un support physique
+  (affiche, carte de visite, flyer, etc.).
 
 ## Conclusion
 
@@ -429,10 +424,6 @@ Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine fois de :
 
 - Relire le support de cours si nécessaire.
-
-[^nagging-wikipedia]:
-    Nagging, [en.wikipedia.org](https://en.wikipedia.org/wiki/Nagging), 02 avril
-    2025
 
 <!-- URLs -->
 
