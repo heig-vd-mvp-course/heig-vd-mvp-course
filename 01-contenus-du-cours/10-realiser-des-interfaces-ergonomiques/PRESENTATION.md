@@ -127,7 +127,6 @@ Nous allons les analyser ensemble.
 
 ![bg right:40%](./images/garmin-connect.png)
 ![bg right:40%](./images/discord.png)
-![bg right:40% vertical](./images/x-twitter.png)
 
 ### [Garmin Connect](https://connect.garmin.com/)
 
@@ -155,19 +154,6 @@ Nous allons les analyser ensemble.
 - Difficulté à trouver ce que l'on cherche.
 
 ![bg right:40% w:90%](./images/discord.png)
-
-### [X/Twitter](https://x.com/)
-
-**Les points positifs**
-
-- Application simple et efficace.
-
-**Les points négatifs**
-
-- Sans compte, l'application est quasi inutilisable.
-- "Nagging" pour créer un compte.
-
-![bg right:40% w:90%](./images/x-twitter.png)
 
 ## Exemples d'interfaces que nous trouvons ergonomiques et réfléchies
 
@@ -219,13 +205,27 @@ Nous allons les analyser ensemble.
 
 ## Outils pour concevoir une interface ergonomique et réfléchie
 
+<div class="two-columns">
+<div>
+
 - Papier et crayon (old-school mais souvent le plus efficace).
 - [Figma](https://www.figma.com/).
 - [Penpot](https://penpot.app/) (une alternative open-source à Figma).
 - [Balsamiq](https://balsamiq.com/).
 - [Wireframe.cc](https://wireframe.cc/).
+
+</div>
+<div>
+
+- [Variant](https://variant.com/) (génération automatique de variations de
+  designs).
+- [Commentaire de ShortFuse sur Reddit](https://www.reddit.com/r/Frontend/comments/11cbih5/refactoring_ui_a_good_resource_for_getting_more/)
+  (vision structurée de l'UI/UX avec de nombreuses ressources).
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html).
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html).
+
+</div>
+</div>
 
 ## Outils pour valider qu'une interface est accessible et ergonomique
 
@@ -250,6 +250,13 @@ Nous allons les analyser ensemble.
   performance et d'accessibilité web.
 
 ![bg right:40%][illustration-accessibilite]
+
+### Autres outils
+
+- [**QuickChart QR Code API**](https://quickchart.io/documentation/qr-codes/) :
+  génération de QR codes personnalisables.
+
+![bg right:40%][illustration-outils]
 
 ## Questions
 
@@ -284,6 +291,9 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-contrastes] par
   [Elena Mozhvilo](https://unsplash.com/@miracleday) sur
   [Unsplash](https://unsplash.com/photos/yellow-flower-in-tilt-shift-lens-FCdi9-5EG_c)
+- [Illustration][illustration-outils] par
+  [Isabela Kronemberger](https://unsplash.com/@kronemberger) sur
+  [Unsplash](https://unsplash.com/photos/a-bunch-of-wrenches-and-other-tools-in-a-box-OegFhZfw6Ok)
 
 <!-- URLs -->
 
@@ -306,3 +316,5 @@ Est-ce que vous avez des questions ?
 	https://images.unsplash.com/photo-1587740896339-96a76170508d?fit=crop&h=720
 [illustration-contrastes]:
 	https://images.unsplash.com/photo-1588939240288-854695a834d1?fit=crop&h=720
+[illustration-outils]:
+	https://images.unsplash.com/photo-1637640125496-31852f042a60?fit=crop&h=720
