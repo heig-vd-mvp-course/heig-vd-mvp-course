@@ -401,6 +401,9 @@ disposition. En voici une sélection :
   codes à intégrer dans vos interfaces ou supports de communication, afin de
   faciliter l'accès à votre application ou page web depuis un support physique
   (affiche, carte de visite, flyer, etc.).
+- [**Laws of UX**](https://lawsofux.com/) : C'est un recueil de bonnes pratiques
+  dont les personnes qui conçoivent peuvent s'inspirer lors de la création
+  d'interfaces utilisateur.
 
 ## Conclusion
 

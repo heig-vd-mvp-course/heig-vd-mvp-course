@@ -255,6 +255,7 @@ Nous allons les analyser ensemble.
 
 - [**QuickChart QR Code API**](https://quickchart.io/documentation/qr-codes/) :
   génération de QR codes personnalisables.
+- [**Laws of UX**](https://lawsofux.com/) : recueil de bonnes pratiques.
 
 ![bg right:40%][illustration-outils]
 
