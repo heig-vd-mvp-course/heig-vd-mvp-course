@@ -84,6 +84,7 @@ _Voir les éléments du cours liés aux points suivants :_
 - _Gestion du code source_
 - _Documentation_
 - _Languages et frameworks_
+- _Licences open source_
 - _Intégration continue et livraison/déploiement continu_
 - _Compétences et simplicité_
 

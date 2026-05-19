@@ -114,6 +114,7 @@ Ou autre chose ? 🙂
 - [Fondation pour l'innovation technologique (FIT)](https://www.fondation-fit.ch/)
 - [Genilem](https://www.genilem.ch/)
 - [La Fabrik - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)
+- [EasyGov](https://www.easygov.ch/)
 
 ## Questions
 

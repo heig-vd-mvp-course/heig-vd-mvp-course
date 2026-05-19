@@ -65,6 +65,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Documentation](#documentation)
   - [Environnement de développement](#environnement-de-développement)
   - [Languages et frameworks](#languages-et-frameworks)
+  - [Licences open source](#licences-open-source)
   - [Intégration continue et livraison/déploiement continu](#intégration-continue-et-livraisondéploiement-continu)
   - [Compétences et simplicité](#compétences-et-simplicité)
 - [Analyse de situations](#analyse-de-situations)
@@ -74,7 +75,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Situation 4](#situation-4)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 
 ## Objectifs
 
@@ -242,6 +242,46 @@ de s'assurer que la documentation est à jour et pertinente.
   - [Which Version of JDK Should I Use?](https://whichjdk.com/)
 - Utiliser les mêmes versions de la stack technologique entre toutes les
   personnes de l'équipe
+
+### Licences open source
+
+Choisir une licence pour son projet est une étape souvent négligée mais
+essentielle pour la pérennité d'une application. Une licence définit les droits
+et obligations des personnes qui utilisent, modifient et distribuent le code
+source.
+
+> [!WARNING]
+>
+> Ne pas avoir de licence ne signifie pas que le code est libre de droits. Au
+> contraire, sans licence explicite, le code est soumis aux droits d'auteur par
+> défaut, ce qui signifie que personne n'a le droit de l'utiliser, le modifier
+> ou le distribuer sans votre autorisation.
+
+Il existe deux grandes catégories de licences open source :
+
+- **Licences permissives** : permettent à toute personne d'utiliser, modifier et
+  distribuer le code avec peu de contraintes. Elles exigent généralement de
+  mentionner l'auteur original. Exemples :
+  - [MIT](https://choosealicense.com/licenses/mit/)
+  - [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+  - [BSD](https://choosealicense.com/licenses/bsd-2-clause/)
+- **Licences copyleft** : exigent que les travaux dérivés soient distribués sous
+  la même licence. Elles visent à garantir que le code reste libre. Exemples :
+  - [GNU General Public License (GPL)](https://choosealicense.com/licenses/gpl-3.0/)
+  - [GNU Lesser General Public License (LGPL)](https://choosealicense.com/licenses/lgpl-3.0/)
+  - [GNU Affero General Public License (AGPL)](https://choosealicense.com/licenses/agpl-3.0/)
+
+Pour les contenus non-logiciels (documentation, images, etc.), les licences
+[Creative Commons](https://creativecommons.org/) sont souvent utilisées. Ce
+cours est lui-même sous licence
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Des ressources utiles pour choisir une licence :
+
+- [choosealicense.com](https://choosealicense.com/) : un guide simple pour
+  choisir une licence adaptée à votre projet
+- [SPDX License List](https://spdx.org/licenses/) : une liste complète des
+  licences reconnues
 
 ### Intégration continue et livraison/déploiement continu
 

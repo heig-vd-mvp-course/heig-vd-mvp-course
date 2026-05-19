@@ -344,6 +344,7 @@ vos droits.
 - [Fondation pour l'innovation technologique (FIT)](https://www.fondation-fit.ch/)
 - [GENILEM](https://www.genilem.ch/)
 - [La Fabriꓘ - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)
+- [EasyGov](https://www.easygov.ch/)
 
 ## Questions
 

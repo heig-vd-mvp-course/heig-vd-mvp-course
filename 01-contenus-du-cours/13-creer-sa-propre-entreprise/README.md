@@ -72,7 +72,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Aide et soutien à l'innovation](#aide-et-soutien-à-linnovation)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
 
 ## Objectifs
@@ -437,12 +436,15 @@ entrepreneurs et les start-ups. Voici quelques exemples :
 - **[La Fabriꓘ - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)**
   : la Fabriꓘ est un incubateur d'entreprises qui accompagne les entrepreneurs
   affilié à la HEIG-VD dans le développement de leurs projets. Ils proposent des
-  programmes de mentorat, de formation et de financement.
-
-Faites des concours de pitchs, parler à vos proches, amis, famille et collègues
-de votre projet. Ils pourront vous aider à le faire évoluer et à trouver des
-financements. Et surtout, à trouver les bons contacts pour vous aider à réaliser
-votre projet.
+  programmes de mentorat, de formation et de financement.-
+  **[EasyGov](https://www.easygov.ch/)** : une plateforme numérique officielle
+  de la Confédération suisse qui facilite les démarches administratives pour les
+  PME et les entrepreneur.euses. Elle permet de gérer en ligne diverses
+  procédures administratives liées à la création et à la gestion d'une
+  entreprise. Faites des concours de pitchs, parler à vos proches, amis, famille
+  et collègues de votre projet. Ils pourront vous aider à le faire évoluer et à
+  trouver des financements. Et surtout, à trouver les bons contacts pour vous
+  aider à réaliser votre projet.
 
 ## Conclusion
 
@@ -474,6 +476,7 @@ il est recommandé pour la prochaine fois de :
 - [Fondation pour l'innovation technologique (FIT)](https://www.fondation-fit.ch/fr/)
 - [GENILEM](https://www.genilem.ch/)
 - [La Fabrik - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)
+- [EasyGov](https://www.easygov.ch/)
 
 [^inscription-au-registre-du-commerce]:
     Inscription au registre du commerce,
