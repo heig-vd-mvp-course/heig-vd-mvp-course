@@ -518,7 +518,7 @@ Sauf freins inconnus de cette situation, il ne semble pas avoir problèmes liés
 la pérennité de l'application. Si cette situation convient à toute l'équipe, il
 n'y a pas de raison de changer quoi que ce soit.
 
-<details>
+</details>
 
 ## Conclusion
 
