@@ -42,10 +42,16 @@ _Pour plus de détails, consulter le [contenu complet sur
 GitHub][contenu-complet-sur-github] ou en cliquant sur l'en-tête de ce
 document._
 
+## Récapitulatif du cours
+
+<!-- _class: lead -->
+
+Vous l'avez fait, bravo ! 🎉
+
 ## Objectifs
 
-- Prendre connaissance des évaluations GAPS
-- Discuter des évaluations GAPS
+- Prendre connaissance des évaluations GAPS.
+- Discuter des évaluations GAPS.
 
 ![bg right:40%][illustration-objectifs]
 

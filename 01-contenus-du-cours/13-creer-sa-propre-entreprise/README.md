@@ -361,12 +361,12 @@ leur identité.
 
 ## Éléments administratifs à respecter
 
-- **Enregistrement de l'entreprise :** Selon la forme juridique choisie, vous
+- **Enregistrement de l'entreprise** : selon la forme juridique choisie, vous
   devrez peut-être enregistrer votre entreprise auprès des autorités
   compétentes.
-- **Numéro de TVA :** Si votre chiffre d'affaires dépasse 200'000 CHF par année,
+- **Numéro de TVA** : si votre chiffre d'affaires dépasse 200'000 CHF par année,
   vous devrez vous inscrire à la TVA et facturer cette taxe à vos clients.
-- **Assurances :** Certaines assurances sont obligatoires :
+- **Assurances** : certaines assurances sont obligatoires :
   - 1er pilier: assurance vieillesse et survivants (AVS).
   - 2ème pilier: caisse de pension (LPP).
   - Assurance accidents (LAA).
@@ -374,46 +374,46 @@ leur identité.
   Il est conseillé de se renseigner sur les assurances nécessaires pour votre
   entreprise.
 
-- **Fiscalité :** Vous devez tenir une comptabilité précise et respecter les
+- **Fiscalité** : vous devez tenir une comptabilité précise et respecter les
   obligations fiscales de votre entreprise. Cela inclut la déclaration de vos
   revenus, le paiement des impôts sur les bénéfices et la TVA si applicable.
 
 ## Éléments administratifs à penser
 
-- **Protection des données :** Si vous collectez des données personnelles, vous
+- **Protection des données** : si vous collectez des données personnelles, vous
   devez respecter la législation sur la protection des données, notamment le
   Règlement général sur la protection des données (RGPD) si vous traitez des
   données de citoyens européens.
-- **Propriété intellectuelle :** Assurez-vous de respecter les droits d'auteur
+- **Propriété intellectuelle** : assurez-vous de respecter les droits d'auteur
   et les marques déposées lorsque vous utilisez des contenus tiers dans votre
   projet.
-- **Contrats :** Si vous travaillez avec des partenaires ou des clients, il est
+- **Contrats** : si vous travaillez avec des partenaires ou des clients, il est
   conseillé de rédiger des contrats clairs pour définir les droits et
   obligations de chaque partie.
-- **Licences et autorisations :** Selon votre secteur d'activité, vous pourriez
+- **Licences et autorisations** : selon votre secteur d'activité, vous pourriez
   avoir besoin de licences ou d'autorisations spécifiques pour exercer
   légalement votre activité.
-- **Droit du travail :** Si vous employez des personnes, vous devez respecter le
+- **Droit du travail** : si vous employez des personnes, vous devez respecter le
   droit du travail suisse, y compris les contrats de travail, les conditions de
   travail et les cotisations sociales.
-- **Réglementations sectorielles :** Certaines activités peuvent être soumises à
+- **Réglementations sectorielles** : certaines activités peuvent être soumises à
   des réglementations spécifiques, comme la vente de produits alimentaires,
   médicaux ou financiers. Assurez-vous de respecter ces réglementations.
-- **Protection des consommateurs :** Respectez les lois sur la protection des
+- **Protection des consommateurs** : respectez les lois sur la protection des
   consommateurs, notamment en matière de publicité, de garanties et de droit de
   rétractation.
-- **Droit de la concurrence :** Évitez les pratiques commerciales déloyales et
+- **Droit de la concurrence** : évitez les pratiques commerciales déloyales et
   respectez les règles de la concurrence pour ne pas nuire à d'autres
   entreprises.
-- **Droit des marques :** Si vous utilisez une marque pour votre projet,
+- **Droit des marques** : si vous utilisez une marque pour votre projet,
   assurez-vous qu'elle n'est pas déjà enregistrée par une autre entreprise. Vous
   pouvez envisager de déposer votre propre marque pour protéger votre identité
   commerciale.
-- **Droit des contrats :** Si vous concluez des contrats avec des clients ou des
+- **Droit des contrats** : si vous concluez des contrats avec des clients ou des
   partenaires, assurez-vous qu'ils sont clairs et conformes à la législation
   suisse. Cela inclut les conditions de paiement, de livraison et de
   responsabilité.
-- **Conditions générales de vente (CGV) :** Il est recommandé d'établir des CGV
+- **Conditions générales de vente (CGV)** : il est recommandé d'établir des CGV
   claires pour informer vos clients sur les conditions de vente, de livraison et
   de retour.
 
@@ -433,8 +433,8 @@ entrepreneurs et les start-ups. Voici quelques exemples :
   de mentorat, de formation et de financement.
 - **Comptabilité** : Vous êtes obligé de tenir une compta, des entreprises
   existent pour vous aider à faire ça, comme <https://www.wecount.swiss/>.
-- **[La Fabriꓘ - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)**
-  : la Fabriꓘ est un incubateur d'entreprises qui accompagne les entrepreneurs
+- **[LA FABRIꓘ - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)**
+  : LA FABRIꓘ est un incubateur d'entreprises qui accompagne les entrepreneurs
   affilié à la HEIG-VD dans le développement de leurs projets. Ils proposent des
   programmes de mentorat, de formation et de financement.
 - **[EasyGov](https://www.easygov.ch/)** : une plateforme numérique officielle

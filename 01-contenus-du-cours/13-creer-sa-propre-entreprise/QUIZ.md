@@ -63,7 +63,7 @@ Ou autre chose ? 🙂
 
 ## Question 2 - Réponse
 
-- Lorsque vos revenus dépassent un certain seuil (CHF 100'000.- par an)
+- Lorsque vos revenus dépassent un certain seuil (CHF 100'000.- par an).
 
 ## Question 3 - Donnée
 
@@ -113,7 +113,7 @@ Ou autre chose ? 🙂
 - [Innosuisse](https://www.innosuisse.ch/inno/fr/home.html).
 - [Fondation pour l'innovation technologique (FIT)](https://www.fondation-fit.ch/).
 - [Genilem](https://www.genilem.ch/).
-- [La Fabrik - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up).
+- [LA FABRIꓘ - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up).
 - [EasyGov](https://www.easygov.ch/).
 
 ## Questions

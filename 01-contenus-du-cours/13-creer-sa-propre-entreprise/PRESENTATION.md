@@ -126,9 +126,9 @@ vos droits.
 
 <small>
 
-- Fondation simple et rapide
-- Aucun capital minimum nécessaire
-- Oeuvre pour un but idéal
+- Fondation simple et rapide.
+- Aucun capital minimum nécessaire.
+- Oeuvre pour un but idéal.
 
 </small>
 
@@ -139,9 +139,9 @@ vos droits.
 
 <small>
 
-- Statut juridique/légal incertain
-- Responsabilité personnelle illimitée
-- Peu de reconnaissance par les créanciers, fournisseurs et clients
+- Statut juridique/légal incertain.
+- Responsabilité personnelle illimitée.
+- Peu de reconnaissance par les créanciers, fournisseurs et clients.
 
 </small>
 
@@ -151,9 +151,9 @@ vos droits.
 ### Entreprise individuelle (1/2)
 
 - Aussi une des formes les plus simples et rapides à créer :
-  - Une personne au minimum
-  - Pas de capital minimum
-- Inscription au registre du commerce si chiffre d'affaires > CHF 100'000.-
+  - Une personne au minimum.
+  - Pas de capital minimum.
+- Inscription au registre du commerce si chiffre d'affaires > CHF 100'000.-.
 - Par ex. médecin, architecte, etc.
 
 ![bg right:40%][illustration-entreprise-individuelle]
@@ -167,11 +167,11 @@ vos droits.
 
 <small>
 
-- Fondation simple et rapide
-- Aucun capital minimum nécessaire
-- Pas de double imposition des bénéfices
-- Pas d'organe de révision
-- Transformation facile
+- Fondation simple et rapide.
+- Aucun capital minimum nécessaire.
+- Pas de double imposition des bénéfices.
+- Pas d'organe de révision.
+- Transformation facile.
 
 </small>
 
@@ -182,13 +182,13 @@ vos droits.
 
 <small>
 
-- Responsabilité personnelle illimitée
-- Pas le droit de percevoir des indemnités de chômage
-- Difficulté d'accéder à des crédits
-- Protection de l'entreprise sociale limitée au territoire
-- Difficulté à transmettre l'entreprise
-- Pas d'obligation LPP
-- 3e pilier (avec limitation à 20% du revenu) facultatif
+- Responsabilité personnelle illimitée.
+- Pas le droit de percevoir des indemnités de chômage.
+- Difficulté d'accéder à des crédits.
+- Protection de l'entreprise sociale limitée au territoire.
+- Difficulté à transmettre l'entreprise.
+- Pas d'obligation LPP.
+- 3e pilier (avec limitation à 20% du revenu) facultatif.
 
 </small>
 
@@ -197,8 +197,8 @@ vos droits.
 
 ### Société en nom collectif (1/2)
 
-- Proche de l'entreprise individuelle, mais avec plusieurs personnes
-- Par ex. commerçant.es ou artisan.es qui souhaitent s'associer
+- Proche de l'entreprise individuelle, mais avec plusieurs personnes.
+- Par ex. commerçant.es ou artisan.es qui souhaitent s'associer.
 
 ![bg right:40%][illustration-societe-en-nom-collectif]
 
@@ -211,9 +211,9 @@ vos droits.
 
 <small>
 
-- Fondation relativement simple
-- Aucun capital minimum nécessaire
-- Structure interne et régulation des participations flexibles
+- Fondation relativement simple.
+- Aucun capital minimum nécessaire.
+- Structure interne et régulation des participations flexibles.
 
 </small>
 
@@ -224,10 +224,10 @@ vos droits.
 
 <small>
 
-- Responsabilité personnelle illimitée
-- Pas le droit de percevoir des indemnités de chômage
+- Responsabilité personnelle illimitée.
+- Pas le droit de percevoir des indemnités de chômage.
 - Droit de regard de tous les associés qui peut entraver la flexibilité
-  entrepreneuriale
+  entrepreneuriale.
 
 </small>
 
@@ -236,10 +236,10 @@ vos droits.
 
 ### Société à responsabilité limitée (Sàrl) (1/2)
 
-- Permet de créer une société avec plusieurs personnes
+- Permet de créer une société avec plusieurs personnes.
 - Par ex. société de services, de vente, etc.
-- Doit être inscrite au registre du commerce
-- Doit avoir un capital minimum de CHF 20'000.-
+- Doit être inscrite au registre du commerce.
+- Doit avoir un capital minimum de CHF 20'000.-.
 
 ![bg right:39%][illustration-societe-a-responsabilite-limitee-sarl]
 
@@ -252,10 +252,10 @@ vos droits.
 
 <small>
 
-- Pas de responsabilité personnelle pour les dettes
-- Capital minimum relativement bas
-- Peut être transformée en SA sans liquidation
-- Bénéfice en capital éventuel lors de la vente est exonéré d'impôt
+- Pas de responsabilité personnelle pour les dettes.
+- Capital minimum relativement bas.
+- Peut être transformée en SA sans liquidation.
+- Bénéfice en capital éventuel lors de la vente est exonéré d'impôt.
 
 </small>
 
@@ -266,12 +266,12 @@ vos droits.
 
 <small>
 
-- Frais de fondation et d'administration
-- Double imposition sur les bénéfices
-- Organe de révision
-- Anonymat impossible des associés
+- Frais de fondation et d'administration.
+- Double imposition sur les bénéfices.
+- Organe de révision.
+- Anonymat impossible des associés.
 - Moins de crédibilité qu'une SA envers les créditeurs, les fournisseurs et les
-  clients
+  clients.
 
 </small>
 
@@ -280,10 +280,10 @@ vos droits.
 
 ### Société anonyme (SA) (1/2)
 
-- Permet de créer une société avec plusieurs personnes
-- Pour les entreprises de taille importante
-- Doit être inscrite au registre du commerce
-- Doit avoir un capital minimum de CHF 100'000.-
+- Permet de créer une société avec plusieurs personnes.
+- Pour les entreprises de taille importante.
+- Doit être inscrite au registre du commerce.
+- Doit avoir un capital minimum de CHF 100'000.-.
 
 ![bg right:40%][illustration-societe-anonyme-sa]
 
@@ -296,11 +296,11 @@ vos droits.
 
 <small>
 
-- Pas de responsabilité personnelle pour les dettes
-- Parts de la société facilement négociables
-- Anonymat des actionnaires possible
-- Crédibilité envers les créditeurs, les fournisseurs et les clients
-- Bénéfice en capital éventuel lors de la vente est exonéré d'impôt
+- Pas de responsabilité personnelle pour les dettes.
+- Parts de la société facilement négociables.
+- Anonymat des actionnaires possible.
+- Crédibilité envers les créditeurs, les fournisseurs et les clients.
+- Bénéfice en capital éventuel lors de la vente est exonéré d'impôt.
 
 </small>
 
@@ -311,9 +311,9 @@ vos droits.
 
 <small>
 
-- Frais de fondation et d'administration
-- Double imposition sur les bénéfices
-- Organe de révision
+- Frais de fondation et d'administration.
+- Double imposition sur les bénéfices.
+- Organe de révision.
 
 </small>
 
@@ -322,29 +322,38 @@ vos droits.
 
 ## Éléments administratifs à respecter
 
-- Inscription au registre du commerce
+Peu importe la forme juridique choisie, il est nécessaire de respecter certains
+éléments administratifs pour respecter la loi :
+
+- Inscription au registre du commerce.
 - Assurances :
-  - 1er pilier (AVS)
-  - 2e pilier (LPP)
-  - accident (LAA)
-- Tenir une comptabilité
+  - 1er pilier (AVS).
+  - 2e pilier (LPP).
+  - accident (LAA).
+- Tenir une comptabilité.
 
 ## Éléments administratifs à penser
 
-- Protection des données
-- Conditions générales de vente
-- Conditions générales d'utilisation
-- Politique de confidentialité
-- Droit du travail
+Peu importe la forme juridique choisie, il est nécessaire de respecter certains
+éléments administratifs pour respecter la loi :
+
+- Protection des données.
+- Conditions générales de vente.
+- Conditions générales d'utilisation.
+- Politique de confidentialité.
+- Droit du travail.
 - ...
 
 ## Aides et soutiens à l'innovation
 
-- [Innosuisse](https://www.innosuisse.ch/inno/fr/home.html)
-- [Fondation pour l'innovation technologique (FIT)](https://www.fondation-fit.ch/)
-- [GENILEM](https://www.genilem.ch/)
-- [La Fabriꓘ - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)
-- [EasyGov](https://www.easygov.ch/)
+Il existe de nombreuses aides et soutiens à l'innovation en Suisse romande,
+notamment :
+
+- [Innosuisse](https://www.innosuisse.ch/inno/fr/home.html).
+- [Fondation pour l'innovation technologique (FIT)](https://www.fondation-fit.ch/).
+- [GENILEM](https://www.genilem.ch/).
+- [LA FABRIꓘ - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up).
+- [EasyGov](https://www.easygov.ch/).
 
 ## Questions
 
