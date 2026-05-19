@@ -364,7 +364,8 @@ Les nouvelles fonctionnalités sont ajoutées irrégulièrement, en fonction des
 demandes ponctuelles de l'association. Le développeur commence à ressentir une
 fatigue importante et envisage de quitter le projet.
 
-Qu'est-ce qui est un frein à la pérennité de l'application ?
+Quel est le ou les freins que vous avez identifiés qui portent à la pérennité du
+projet ?
 
 <details>
 <summary>Afficher la solution</summary>
@@ -408,7 +409,8 @@ Le nombre de demandes de support augmente progressivement et les deux personnes
 fondatrices commencent à avoir des difficultés à gérer l'afflux de problèmes
 tout en continuant à développer.
 
-Qu'est-ce qui est un frein à la pérennité de l'application ?
+Quel est le ou les freins que vous avez identifiés qui portent à la pérennité du
+projet ?
 
 <details>
 <summary>Afficher la solution</summary>
@@ -455,7 +457,8 @@ aucun remplacement n'est prévu à court terme. L'équipe accumule un retard
 technique considérable et commence à voir son efficacité diminuer
 significativement.
 
-Qu'est-ce qui est un frein à la pérennité de l'application ?
+Quel est le ou les freins que vous avez identifiés qui portent à la pérennité du
+projet ?
 
 <details>
 <summary>Afficher la solution</summary>
@@ -505,7 +508,8 @@ modifications avant de les fusionner dans la branche principale.
 Les fonctionnalités de l'application sont développées de semaine en semaine et
 sont livrées en production à chaque milieu de semaine.
 
-Qu'est-ce qui est un frein à la pérennité de l'application ?
+Quel est le ou les freins que vous avez identifiés qui portent à la pérennité du
+projet ?
 
 <details>
 <summary>Afficher la solution</summary>
