@@ -365,7 +365,8 @@ demandes ponctuelles de l'association. Le développeur commence à ressentir une
 fatigue importante et envisage de quitter le projet.
 
 Quel est le ou les freins que vous avez identifiés qui portent à la pérennité du
-projet ?
+projet ? Au contraire, quel est le ou les éléments positifs que vous avez
+identifiés qui portent à la pérennité du projet ?
 
 <details>
 <summary>Afficher la solution</summary>
@@ -410,7 +411,8 @@ fondatrices commencent à avoir des difficultés à gérer l'afflux de problème
 tout en continuant à développer.
 
 Quel est le ou les freins que vous avez identifiés qui portent à la pérennité du
-projet ?
+projet ? Au contraire, quel est le ou les éléments positifs que vous avez
+identifiés qui portent à la pérennité du projet ?
 
 <details>
 <summary>Afficher la solution</summary>
@@ -458,7 +460,8 @@ technique considérable et commence à voir son efficacité diminuer
 significativement.
 
 Quel est le ou les freins que vous avez identifiés qui portent à la pérennité du
-projet ?
+projet ? Au contraire, quel est le ou les éléments positifs que vous avez
+identifiés qui portent à la pérennité du projet ?
 
 <details>
 <summary>Afficher la solution</summary>
@@ -509,7 +512,8 @@ Les fonctionnalités de l'application sont développées de semaine en semaine e
 sont livrées en production à chaque milieu de semaine.
 
 Quel est le ou les freins que vous avez identifiés qui portent à la pérennité du
-projet ?
+projet ? Au contraire, quel est le ou les éléments positifs que vous avez
+identifiés qui portent à la pérennité du projet ?
 
 <details>
 <summary>Afficher la solution</summary>
