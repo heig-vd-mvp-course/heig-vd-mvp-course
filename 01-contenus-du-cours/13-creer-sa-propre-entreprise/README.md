@@ -24,12 +24,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Lister les formes juridiques possibles pour une entreprise en Suisse
+> - Lister les formes juridiques possibles pour une entreprise en Suisse.
 > - Lister les avantages et inconvénients des différentes formes juridiques pour
->   une entreprise en Suisse
-> - Lister les aides et soutiens possibles à l'innovation en Suisse romande
+>   une entreprise en Suisse.
+> - Lister les aides et soutiens possibles à l'innovation en Suisse romande.
 > - Lister les différents éléments administratifs qu'une entreprise en Suisse
->   doit avoir et respecter
+>   doit avoir et respecter.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
@@ -91,12 +91,12 @@ disposition et les éléments administratifs à respecter.
 
 De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
-- Lister les formes juridiques possibles pour une entreprise en Suisse
+- Lister les formes juridiques possibles pour une entreprise en Suisse.
 - Lister les avantages et inconvénients des différentes formes juridiques pour
-  une entreprise en Suisse
-- Lister les aides et soutiens possibles à l'innovation en Suisse romande
+  une entreprise en Suisse.
+- Lister les aides et soutiens possibles à l'innovation en Suisse romande.
 - Lister les différents éléments administratifs qu'une entreprise en Suisse doit
-  avoir et respecter
+  avoir et respecter.
 
 ## Pourquoi créer une entreprise ?
 
@@ -178,11 +178,11 @@ disponibles sur le site de la confédération suisse
 
 Nous allons en aborder quelques-unes des plus courantes :
 
-- Association
-- Entreprise individuelle
-- Société en nom collectif
-- Société à responsabilité limitée (Sàrl)
-- Société anonyme (SA)
+- Association.
+- Entreprise individuelle.
+- Société en nom collectif.
+- Société à responsabilité limitée (Sàrl).
+- Société anonyme (SA).
 
 Un résumé de ces formes juridiques sous forme de tableau est disponible dans le
 document _Comparaison des formes juridiques_ disponible sur le site de la
@@ -211,14 +211,14 @@ retourner contre les membres de l'association pour les dommages causés.
 
 **Avantages**
 
-- Fondation simple et rapide
-- Aucun capital minimum nécessaire
-- Oeuvre pour un but idéal
+- Fondation simple et rapide.
+- Aucun capital minimum nécessaire.
+- Oeuvre pour un but idéal.
 
 **Inconvénients**
 
-- Statut juridique/légal incertain
-- Peu de reconnaissance par les créanciers, fournisseurs et clients
+- Statut juridique/légal incertain.
+- Peu de reconnaissance par les créanciers, fournisseurs et clients.
 
 ### Entreprise individuelle
 
@@ -242,21 +242,21 @@ pour rembourser les créanciers.
 
 **Avantages**
 
-- Fondation simple et rapide
-- Aucun capital minimum nécessaire
-- Pas de double imposition des bénéfices
-- Pas d'organe de révision
-- Transformation facile
+- Fondation simple et rapide.
+- Aucun capital minimum nécessaire.
+- Pas de double imposition des bénéfices.
+- Pas d'organe de révision.
+- Transformation facile.
 
 **Inconvénients**
 
-- Responsabilité personnelle illimitée
-- Pas le droit de percevoir des indemnités de chômage
-- Difficulté d'accéder à des crédits
-- Protection de l'entreprise sociale limitée au territoire
-- Difficulté à transmettre l'entreprise
-- Pas d'obligation LPP
-- 3e pilier (avec limitation à 20% du revenu) facultatif
+- Responsabilité personnelle illimitée.
+- Pas le droit de percevoir des indemnités de chômage.
+- Difficulté d'accéder à des crédits.
+- Protection de l'entreprise sociale limitée au territoire.
+- Difficulté à transmettre l'entreprise.
+- Pas d'obligation LPP.
+- 3e pilier (avec limitation à 20% du revenu) facultatif.
 
 ### Société en nom collectif
 
@@ -274,16 +274,16 @@ associé peuvent être saisis pour rembourser les créanciers.
 
 **Avantages**
 
-- Fondation relativement simple
-- Aucun capital minimum nécessaire
-- Structure interne et régulation des participations flexibles
+- Fondation relativement simple.
+- Aucun capital minimum nécessaire.
+- Structure interne et régulation des participations flexibles.
 
 **Inconvénients**
 
-- Responsabilité personnelle illimitée
-- Pas le droit de percevoir des indemnités de chômage
+- Responsabilité personnelle illimitée.
+- Pas le droit de percevoir des indemnités de chômage.
 - Droit de regard de tous les associés qui peut entraver la flexibilité
-  entrepreneuriale
+  entrepreneuriale.
 
 ### Société à responsabilité limitée (Sàrl)
 
@@ -308,19 +308,19 @@ formelle.
 
 **Avantages**
 
-- Pas de responsabilité personnelle pour les dettes
-- Capital minimum relativement bas
-- Peut être transformée en SA sans liquidation
-- Bénéfice en capital éventuel lors de la vente est exonéré d'impôt
+- Pas de responsabilité personnelle pour les dettes.
+- Capital minimum relativement bas.
+- Peut être transformée en SA sans liquidation.
+- Bénéfice en capital éventuel lors de la vente est exonéré d'impôt.
 
 **Inconvénients**
 
-- Frais de fondation et d'administration
-- Double imposition sur les bénéfices
-- Organe de révision
-- Anonymat impossible des associés
+- Frais de fondation et d'administration.
+- Double imposition sur les bénéfices.
+- Organe de révision.
+- Anonymat impossible des associés.
 - Moins de crédibilité qu'une SA envers les créditeurs, les fournisseurs et les
-  clients
+  clients.
 
 ### Société anonyme (SA)
 
@@ -347,17 +347,17 @@ leur identité.
 
 **Avantages**
 
-- Pas de responsabilité personnelle pour les dettes
-- Parts de la société facilement négociables
-- Anonymat des actionnaires possible
-- Crédibilité envers les créditeurs, les fournisseurs et les clients
-- Bénéfice en capital éventuel lors de la vente est exonéré d'impôt
+- Pas de responsabilité personnelle pour les dettes.
+- Parts de la société facilement négociables.
+- Anonymat des actionnaires possible.
+- Crédibilité envers les créditeurs, les fournisseurs et les clients.
+- Bénéfice en capital éventuel lors de la vente est exonéré d'impôt.
 
 **Inconvénients**
 
-- Frais de fondation et d'administration
-- Double imposition sur les bénéfices
-- Organe de révision
+- Frais de fondation et d'administration.
+- Double imposition sur les bénéfices.
+- Organe de révision.
 
 ## Éléments administratifs à respecter
 
@@ -367,9 +367,9 @@ leur identité.
 - **Numéro de TVA :** Si votre chiffre d'affaires dépasse 200'000 CHF par année,
   vous devrez vous inscrire à la TVA et facturer cette taxe à vos clients.
 - **Assurances :** Certaines assurances sont obligatoires :
-  - 1er pilier: assurance vieillesse et survivants (AVS)
-  - 2ème pilier: caisse de pension (LPP)
-  - Assurance accidents (LAA)
+  - 1er pilier: assurance vieillesse et survivants (AVS).
+  - 2ème pilier: caisse de pension (LPP).
+  - Assurance accidents (LAA).
 
   Il est conseillé de se renseigner sur les assurances nécessaires pour votre
   entreprise.
@@ -436,15 +436,17 @@ entrepreneurs et les start-ups. Voici quelques exemples :
 - **[La Fabriꓘ - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)**
   : la Fabriꓘ est un incubateur d'entreprises qui accompagne les entrepreneurs
   affilié à la HEIG-VD dans le développement de leurs projets. Ils proposent des
-  programmes de mentorat, de formation et de financement.-
-  **[EasyGov](https://www.easygov.ch/)** : une plateforme numérique officielle
+  programmes de mentorat, de formation et de financement.
+- **[EasyGov](https://www.easygov.ch/)** : une plateforme numérique officielle
   de la Confédération suisse qui facilite les démarches administratives pour les
   PME et les entrepreneur.euses. Elle permet de gérer en ligne diverses
   procédures administratives liées à la création et à la gestion d'une
-  entreprise. Faites des concours de pitchs, parler à vos proches, amis, famille
-  et collègues de votre projet. Ils pourront vous aider à le faire évoluer et à
-  trouver des financements. Et surtout, à trouver les bons contacts pour vous
-  aider à réaliser votre projet.
+  entreprise.
+
+Faites des concours de pitchs, parler à vos proches, amis, famille et collègues
+de votre projet. Ils pourront vous aider à le faire évoluer et à trouver des
+financements. Et surtout, à trouver les bons contacts pour vous aider à réaliser
+votre projet.
 
 ## Conclusion
 
@@ -468,7 +470,7 @@ Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine fois de :
 
 - Relire le support de cours si nécessaire.
-- Réviser pour l'évaluation de la [semaine 13](../../17-cours-evaluation/)
+- Réviser pour l'évaluation de la [semaine 13](../../17-cours-evaluation/).
 
 ## Sources
 
