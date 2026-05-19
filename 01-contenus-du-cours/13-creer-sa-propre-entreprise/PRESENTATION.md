@@ -44,17 +44,17 @@ document._
 
 ## Objectifs (1/2)
 
-- Lister les formes juridiques possibles pour une entreprise en Suisse
+- Lister les formes juridiques possibles pour une entreprise en Suisse.
 - Lister les avantages et inconvénients des différentes formes juridiques pour
-  une entreprise en Suisse
-- Lister les aides et soutiens possibles à l'innovation en Suisse romande
+  une entreprise en Suisse.
+- Lister les aides et soutiens possibles à l'innovation en Suisse romande.
 
 ![bg right:40%][illustration-objectifs]
 
 ## Objectifs (2/2)
 
 - Lister les différents éléments administratifs qu'une entreprise en Suisse doit
-  avoir et respecter
+  avoir et respecter.
 
 ![bg right:40%][illustration-objectifs]
 
@@ -62,10 +62,10 @@ document._
 
 Il existe de nombreuses raisons de créer une entreprise :
 
-- Indépendance
-- Passion
-- Flexibilité
-- Potentiel de revenus
+- Indépendance.
+- Passion.
+- Flexibilité.
+- Potentiel de revenus.
 - Et vous ? 🙂
 
 ![bg right:40%][illustration-principale]
@@ -94,28 +94,28 @@ vos droits.
 
 - Il existe plusieurs formes juridiques possibles en Suisse (entre autres - voir
   [support de cours][contenu-complet-sur-github]) :
-  - Association
-  - Entreprise individuelle
-  - Société en nom collectif
-  - Société à responsabilité limitée (Sàrl)
-  - Société anonyme (SA)
+  - Association.
+  - Entreprise individuelle.
+  - Société en nom collectif.
+  - Société à responsabilité limitée (Sàrl).
+  - Société anonyme (SA).
 
 ![bg][illustration-association] ![bg][illustration-entreprise-individuelle]
 ![bg][illustration-societe-en-nom-collectif]
 ![bg][illustration-societe-a-responsabilite-limitee-sarl]
-![bg right:40% vertical][illustration-societe-anonyme-sa]
+![bg right:39% vertical][illustration-societe-anonyme-sa]
 
 ### Association (1/2)
 
 - Une des formes les plus simples et rapides à créer :
-  - Deux personnes au minimum
-  - Rédaction de statuts
-  - Pas de capital minimum
-- Oeuvre dans un but idéal (subjectif)
-- Peut générer des bénéfices
-- Pas d'organisme qui valide les statuts
+  - Deux personnes au minimum.
+  - Rédaction de statuts.
+  - Pas de capital minimum.
+- Oeuvre dans un but idéal (subjectif).
+- Peut générer des bénéfices.
+- Pas d'organisme qui valide les statuts.
 
-![bg right:40%][illustration-association]
+![bg right:38%][illustration-association]
 
 ### Association (2/2)
 
@@ -241,7 +241,7 @@ vos droits.
 - Doit être inscrite au registre du commerce
 - Doit avoir un capital minimum de CHF 20'000.-
 
-![bg right:40%][illustration-societe-a-responsabilite-limitee-sarl]
+![bg right:39%][illustration-societe-a-responsabilite-limitee-sarl]
 
 ### Société à responsabilité limitée (Sàrl) (2/2)
 
@@ -359,7 +359,7 @@ Est-ce que vous avez des questions ?
 
 ![bg right:40%][illustration-a-vous-de-jouer]
 
-## Sources (1/3)
+## Sources (1/2)
 
 - [Illustration principale][illustration-principale] par
   [Abbe Sublett](https://unsplash.com/@abbe_sublett) sur
@@ -386,7 +386,7 @@ Est-ce que vous avez des questions ?
   [Campaign Creators](https://unsplash.com/@campaign_creators) sur
   [Unsplash](https://unsplash.com/photos/man-standing-in-front-of-people-sitting-beside-table-with-laptop-computers-gMsnXqILjp4)
 
-## Sources (2/3)
+## Sources (2/2)
 
 - [Illustration][illustration-a-vous-de-jouer] par
   [Nikita Kachanovsky](https://unsplash.com/@nkachanovskyyy) sur
