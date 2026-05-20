@@ -751,6 +751,8 @@ il est recommandé pour la prochaine fois de :
 
 ### Séance 14
 
+<!-- _class: lead -->
+
 **Développer sa solution (2/2)**
 
 #### Objectifs
