@@ -50,6 +50,19 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
+- [Objectifs](#objectifs)
+
+## Objectifs
+
+La liste complète des objectifs est disponible dans la section _"Objectifs"_ du
+bloc d'information en haut de ce contenu.
+
+Le contenu de ce document est décrit dans la présentation associée, disponible
+ici :
+
+[Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/14-revue-du-semestre/presentation.html)
+·
+[Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/01-contenus-du-cours/14-revue-du-semestre/14-revue-du-semestre-presentation.pdf)
 
 <!-- URLs -->
 

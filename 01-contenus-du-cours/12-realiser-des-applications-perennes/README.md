@@ -24,11 +24,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Lister les éléments principaux qui détériorent la qualité d'une application
-> - Lister les éléments principaux qui améliorent la qualité d'une application
-> - Identifier les freins d'une application de qualité dans une situation donnée
+> - Lister les éléments principaux qui détériorent la qualité d'une application.
+> - Lister les éléments principaux qui améliorent la qualité d'une application.
+> - Identifier les freins d'une application de qualité dans une situation
+>   donnée.
 > - Appliquer les bonnes pratiques qui permettent d'améliorer la qualité d'une
->   application
+>   application.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
@@ -65,6 +66,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Documentation](#documentation)
   - [Environnement de développement](#environnement-de-développement)
   - [Languages et frameworks](#languages-et-frameworks)
+  - [Licences open source](#licences-open-source)
   - [Intégration continue et livraison/déploiement continu](#intégration-continue-et-livraisondéploiement-continu)
   - [Compétences et simplicité](#compétences-et-simplicité)
 - [Analyse de situations](#analyse-de-situations)
@@ -74,7 +76,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Situation 4](#situation-4)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 
 ## Objectifs
 
@@ -100,11 +101,11 @@ apportant vos propres expériences et réflexions.
 
 De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
-- Lister les éléments principaux qui détériorent la qualité d'une application
-- Lister les éléments principaux qui améliorent la qualité d'une application
-- Identifier les freins d'une application de qualité dans une situation donnée
+- Lister les éléments principaux qui détériorent la qualité d'une application.
+- Lister les éléments principaux qui améliorent la qualité d'une application.
+- Identifier les freins d'une application de qualité dans une situation donnée.
 - Appliquer les bonnes pratiques qui permettent d'améliorer la qualité d'une
-  application
+  application.
 
 ## Qu'est-ce qu'une application pérenne ?
 
@@ -169,30 +170,30 @@ est claire et que tout le monde est au courant de cette vision.
 
 - Limiter le nombre de canaux de communication et d'outils dans sa stack
   technologique :
-  - Outils de communication (Slack, Discord, Rocket.Chat, etc.)
+  - Outils de communication (Slack, Discord, Rocket.Chat, etc.).
   - Gestion de projet + gestion de code source + gestion de documentation
-    (GitHub, GitLab, Trello, Jira, etc.)
-- Essayer de regrouper les outils dans une seule et même plateforme
+    (GitHub, GitLab, Trello, Jira, etc.).
+- Essayer de regrouper les outils dans une seule et même plateforme.
 - Utiliser des outils de communication asynchrone (GitHub, GitLab, etc.) pour
-  éviter les réunions inutiles
+  éviter les réunions inutiles.
 - Limiter le nombre de réunions et de points d'avancement, le nombre de
-  participants ainsi que la durée des réunions (30 minutes maximum)
+  participants ainsi que la durée des réunions (30 minutes maximum).
 
 ### Gestion du code source
 
 - Utilisation du workflow _"Issues"_ > _"Pull Requests (PRs)"_/_"Merge Requests
   (MRs)_" > _Review_ > _"Merge"_ :
   1. Utilisation des issues pour gérer les tâches à réaliser de façon
-     collaborative et proactive
-  2. Utilisation des pull requests pour gérer les modifications de code
-  3. Utilisation des review pour valider les modifications de code
+     collaborative et proactive.
+  2. Utilisation des pull requests pour gérer les modifications de code.
+  3. Utilisation des review pour valider les modifications de code.
   4. Une fois la pull request validée, elle est fusionnée dans la branche
-     principale
+     principale.
 - Squash des commits avant de fusionner une pull request/merge request pour
-  garder un historique de commits propre et lisible
-- Suppression des branches obsolètes
-- Désactivation des fonctionnalités non utilisées (Wiki, GitHub Pages, etc.)
-- Utilisation de _GitHub Actions_ pour automatiser les tâches
+  garder un historique de commits propre et lisible.
+- Suppression des branches obsolètes.
+- Désactivation des fonctionnalités non utilisées (Wiki, GitHub Pages, etc.).
+- Utilisation de _GitHub Actions_ pour automatiser les tâches.
 
 ### Documentation
 
@@ -203,56 +204,96 @@ de s'assurer que la documentation est à jour et pertinente.
 
 - Utilisation de [Markdown](https://www.markdownguide.org/) +
   [PlantUML](https://plantuml.com/) (ou n'importe quel générateur de diagrammes
-  à partir de texte) pour la documentation
+  à partir de texte) pour la documentation.
 - Garder la documentation la plus proche possible du code source (pas de Wiki
-  séparé), dans le même dépôt ou un dépôt dédié
+  séparé), dans le même dépôt ou un dépôt dédié.
 - Utilisation de [Diátaxis](https://diataxis.fr/) +
   [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) + CI/CD +
   [GitHub Pages](https://pages.github.com/)/[GitLab Pages](https://pages.github.com/)
   pour la génération et le déploiement de la documentation est très gratifiant
-  et motivant
+  et motivant.
 - Définir des processus clairs et simples pour les nouvelles personnes
   rejoignant le projet avec les recommandations GitHub :
   <https://docs.github.com/en/communities>.
 - S'assurer en tout temps que les instructions pour prendre en main le(s)
-  projet(s) sont à jour et fonctionnelles
+  projet(s) sont à jour et fonctionnelles.
 - Mise à disposition d'une documentation technique et fonctionnelle
-  ([OpenAPI Specification](https://www.openapis.org/) pour les API, etc.)
+  ([OpenAPI Specification](https://www.openapis.org/) pour les API, etc.).
 
 ### Environnement de développement
 
 - Utilisation du même environnement de développement entre toutes les personnes
-  de l'équipe (IDE, plugins, etc.)
+  de l'équipe (IDE, plugins, etc.).
 - Utilisation du même environnement de développement que celui de production
-  (même versions de la stack technologique, même OS, etc.)
+  (même versions de la stack technologique, même OS, etc.).
 - Utilisation des [Development Containers](https://containers.dev/) pour le
-  développement
+  développement.
 - Utilisation de conteneurs (Docker, Podman, etc.) pour le développement et la
-  production
+  production.
 
 ### Languages et frameworks
 
 - Utilisation de langages et frameworks populaires, qui sont bien documentés et
-  qui ont une communauté active
+  qui ont une communauté active.
 - Rester au plus proche des standards du marché et de la documentation
-  officielle de la technologie utilisée
+  officielle de la technologie utilisée.
 - Suive les recommandations de sources fiables et reconnues pour la création
   d'applications modernes :
-  - [The Twelve-Factor App](https://12factor.net/)
-  - [Which Version of JDK Should I Use?](https://whichjdk.com/)
+  - [The Twelve-Factor App](https://12factor.net/).
+  - [Which Version of JDK Should I Use?](https://whichjdk.com/).
 - Utiliser les mêmes versions de la stack technologique entre toutes les
-  personnes de l'équipe
+  personnes de l'équipe.
+
+### Licences open source
+
+Choisir une licence pour son projet est une étape souvent négligée mais
+essentielle pour la pérennité d'une application. Une licence définit les droits
+et obligations des personnes qui utilisent, modifient et distribuent le code
+source.
+
+> [!WARNING]
+>
+> Ne pas avoir de licence ne signifie pas que le code est libre de droits. Au
+> contraire, sans licence explicite, le code est soumis aux droits d'auteur par
+> défaut, ce qui signifie que personne n'a le droit de l'utiliser, le modifier
+> ou le distribuer sans votre autorisation.
+
+Il existe deux grandes catégories de licences open source :
+
+- **Licences permissives** : permettent à toute personne d'utiliser, modifier et
+  distribuer le code avec peu de contraintes. Elles exigent généralement de
+  mentionner l'auteur original. Exemples :
+  - [MIT](https://choosealicense.com/licenses/mit/).
+  - [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/).
+  - [BSD](https://choosealicense.com/licenses/bsd-2-clause/).
+- **Licences copyleft** : exigent que les travaux dérivés soient distribués sous
+  la même licence. Elles visent à garantir que le code reste libre. Exemples :
+  - [GNU General Public License (GPL)](https://choosealicense.com/licenses/gpl-3.0/).
+  - [GNU Lesser General Public License (LGPL)](https://choosealicense.com/licenses/lgpl-3.0/).
+  - [GNU Affero General Public License (AGPL)](https://choosealicense.com/licenses/agpl-3.0/).
+
+Pour les contenus non-logiciels (documentation, images, etc.), les licences
+[Creative Commons](https://creativecommons.org/) sont souvent utilisées. Ce
+cours est lui-même sous licence
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Des ressources utiles pour choisir une licence :
+
+- [choosealicense.com](https://choosealicense.com/) : un guide simple pour
+  choisir une licence adaptée à votre projet.
+- [SPDX License List](https://spdx.org/licenses/) : une liste complète des
+  licences reconnues.
 
 ### Intégration continue et livraison/déploiement continu
 
-- Automatisation des revues de code (lint, format, outdated dependencies, etc.)
-- Automatisation de la construction de l'application
-- Automatisation des tests
-- Automatisation de la livraison de l'application
-- Automatisation du déploiement de l'application
-- Automatisation de la génération de la documentation
-- Automatisation de la mise à jour des dépendances
-- Monitoring des applications
+- Automatisation des revues de code (lint, format, outdated dependencies, etc.).
+- Automatisation de la construction de l'application.
+- Automatisation des tests.
+- Automatisation de la livraison de l'application.
+- Automatisation du déploiement de l'application.
+- Automatisation de la génération de la documentation.
+- Automatisation de la mise à jour des dépendances.
+- Monitoring des applications.
 
 Bonus : utilisation de différents environnements de test (dev, staging,
 production, etc.) pour tester l'application avant de la déployer en production.
@@ -268,9 +309,9 @@ application pérenne. Il est donc essentiel de s'assurer que l'application est
 conçue de manière à être facile à comprendre et à utiliser.
 
 - Utilisation de langages et frameworks que l'équipe maîtrise et qui sont bien
-  documentés
-- Limiter au maximum le nombre d'éléments dans la stack technologique
-- Limiter au maximum le nombre de dépendances
+  documentés.
+- Limiter au maximum le nombre d'éléments dans la stack technologique.
+- Limiter au maximum le nombre de dépendances.
 
 ## Analyse de situations
 
@@ -323,7 +364,9 @@ Les nouvelles fonctionnalités sont ajoutées irrégulièrement, en fonction des
 demandes ponctuelles de l'association. Le développeur commence à ressentir une
 fatigue importante et envisage de quitter le projet.
 
-Qu'est-ce qui est un frein à la pérennité de l'application ?
+Quel est le ou les freins que vous avez identifiés qui portent à la pérennité du
+projet ? Au contraire, quel est le ou les éléments positifs que vous avez
+identifiés qui portent à la pérennité du projet ?
 
 <details>
 <summary>Afficher la solution</summary>
@@ -367,7 +410,9 @@ Le nombre de demandes de support augmente progressivement et les deux personnes
 fondatrices commencent à avoir des difficultés à gérer l'afflux de problèmes
 tout en continuant à développer.
 
-Qu'est-ce qui est un frein à la pérennité de l'application ?
+Quel est le ou les freins que vous avez identifiés qui portent à la pérennité du
+projet ? Au contraire, quel est le ou les éléments positifs que vous avez
+identifiés qui portent à la pérennité du projet ?
 
 <details>
 <summary>Afficher la solution</summary>
@@ -414,7 +459,9 @@ aucun remplacement n'est prévu à court terme. L'équipe accumule un retard
 technique considérable et commence à voir son efficacité diminuer
 significativement.
 
-Qu'est-ce qui est un frein à la pérennité de l'application ?
+Quel est le ou les freins que vous avez identifiés qui portent à la pérennité du
+projet ? Au contraire, quel est le ou les éléments positifs que vous avez
+identifiés qui portent à la pérennité du projet ?
 
 <details>
 <summary>Afficher la solution</summary>
@@ -464,7 +511,9 @@ modifications avant de les fusionner dans la branche principale.
 Les fonctionnalités de l'application sont développées de semaine en semaine et
 sont livrées en production à chaque milieu de semaine.
 
-Qu'est-ce qui est un frein à la pérennité de l'application ?
+Quel est le ou les freins que vous avez identifiés qui portent à la pérennité du
+projet ? Au contraire, quel est le ou les éléments positifs que vous avez
+identifiés qui portent à la pérennité du projet ?
 
 <details>
 <summary>Afficher la solution</summary>
@@ -477,7 +526,7 @@ Sauf freins inconnus de cette situation, il ne semble pas avoir problèmes liés
 la pérennité de l'application. Si cette situation convient à toute l'équipe, il
 n'y a pas de raison de changer quoi que ce soit.
 
-<details>
+</details>
 
 ## Conclusion
 

@@ -64,12 +64,12 @@ utilisateurs, autant sur le plan technique qu'économique.
 
 Les éléments principaux qui détériorent la pérennité d'une application sont :
 
-- Le manque de communication
-- Le manque de documentation
-- Le manque de tests
-- Le manque de rigueur
-- Le manque de temps/ressources/compétences
-- Le manque de vision/motivation
+- Le manque de communication.
+- Le manque de documentation.
+- Le manque de tests.
+- Le manque de rigueur.
+- Le manque de temps/ressources/compétences.
+- Le manque de vision/motivation.
 
 ## Question 3 - Donnée
 
@@ -80,12 +80,13 @@ Les éléments principaux qui détériorent la pérennité d'une application son
 
 _Voir les éléments du cours liés aux points suivants :_
 
-- _Communication_
-- _Gestion du code source_
-- _Documentation_
-- _Languages et frameworks_
-- _Intégration continue et livraison/déploiement continu_
-- _Compétences et simplicité_
+- _Communication_.
+- _Gestion du code source_.
+- _Documentation_.
+- _Languages et frameworks_.
+- _Licences open source_.
+- _Intégration continue et livraison/déploiement continu_.
+- _Compétences et simplicité_.
 
 ## Question 4 - Donnée
 

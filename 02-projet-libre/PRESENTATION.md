@@ -715,6 +715,72 @@ il est recommandé pour la prochaine fois de :
 - Choisir une stack technologique pour implémenter les fonctionnalités minimales
   de votre service envisagé.
 
+### Séance 13
+
+<!-- _class: lead -->
+
+**Développer sa solution (1/2)**
+
+#### Objectifs
+
+- Appliquer les bonnes pratiques de développement au service envisagé (gestion
+  du code source, documentation, intégration continue, etc.).
+- Continuer le développement du service.
+- Compléter le rapport.
+
+#### Déroulement
+
+Suivez les objectifs de la séance en cours et continuez à développer votre
+service. Profitez des retours du cours sur les bonnes pratiques de développement
+pour les appliquer à votre projet. Pensez notamment à :
+
+- Continuer le développement du service.
+- Compléter la documentation de votre projet.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Continuer le développement du service.
+- Effectuer des tests utilisateurs.
+- Compléter le rapport.
+
+### Séance 14
+
+<!-- _class: lead -->
+
+**Développer sa solution (2/2)**
+
+#### Objectifs
+
+- Finaliser le développement du service.
+- Finaliser le rapport.
+- Commencer la présentation finale du projet.
+
+#### Déroulement
+
+Suivez les objectifs de la séance en cours et finalisez votre service.
+
+Profitez des retours du cours sur la création d'entreprise pour réfléchir à la
+viabilité de votre projet. Pensez notamment à :
+
+- Continuer le développement du service.
+- Compléter le rapport.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Finaliser gentiment le rapport.
+
 <!--
 
 ### Séance 5 - Présentations du pitch
