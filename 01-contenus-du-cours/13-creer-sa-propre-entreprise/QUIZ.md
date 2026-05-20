@@ -50,10 +50,10 @@ document._
 
 ## Question 1 - Réponse
 
-- Indépendance
-- Passion
-- Flexibilité
-- Potentiel de revenus
+- Indépendance.
+- Passion.
+- Flexibilité.
+- Potentiel de revenus.
 
 Ou autre chose ? 🙂
 
@@ -63,7 +63,7 @@ Ou autre chose ? 🙂
 
 ## Question 2 - Réponse
 
-- Lorsque vos revenus dépassent un certain seuil (CHF 100'000.- par an)
+- Lorsque vos revenus dépassent un certain seuil (CHF 100'000.- par an).
 
 ## Question 3 - Donnée
 
@@ -97,12 +97,12 @@ Ou autre chose ? 🙂
 
 ## Question 5 - Réponse
 
-- Inscription au registre du commerce
+- Inscription au registre du commerce.
 - Assurances :
-  - 1er pilier (AVS)
-  - 2e pilier (LPP)
-  - accident (LAA)
-- Tenir une comptabilité
+  - 1er pilier (AVS).
+  - 2e pilier (LPP).
+  - accident (LAA).
+- Tenir une comptabilité.
 
 ## Question 6 - Donnée
 
@@ -110,10 +110,11 @@ Ou autre chose ? 🙂
 
 ## Question 6 - Réponse
 
-- [Innosuisse](https://www.innosuisse.ch/inno/fr/home.html)
-- [Fondation pour l'innovation technologique (FIT)](https://www.fondation-fit.ch/)
-- [Genilem](https://www.genilem.ch/)
-- [La Fabrik - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)
+- [Innosuisse](https://www.innosuisse.ch/inno/fr/home.html).
+- [Fondation pour l'innovation technologique (FIT)](https://www.fondation-fit.ch/).
+- [Genilem](https://www.genilem.ch/).
+- [LA FABRIꓘ - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up).
+- [EasyGov](https://www.easygov.ch/).
 
 ## Questions
 

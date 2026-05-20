@@ -24,12 +24,12 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Lister les formes juridiques possibles pour une entreprise en Suisse
+> - Lister les formes juridiques possibles pour une entreprise en Suisse.
 > - Lister les avantages et inconvénients des différentes formes juridiques pour
->   une entreprise en Suisse
-> - Lister les aides et soutiens possibles à l'innovation en Suisse romande
+>   une entreprise en Suisse.
+> - Lister les aides et soutiens possibles à l'innovation en Suisse romande.
 > - Lister les différents éléments administratifs qu'une entreprise en Suisse
->   doit avoir et respecter
+>   doit avoir et respecter.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
@@ -72,7 +72,6 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Aide et soutien à l'innovation](#aide-et-soutien-à-linnovation)
 - [Conclusion](#conclusion)
 - [À faire pour la semaine suivante](#à-faire-pour-la-semaine-suivante)
-- [Ce que vous ferez ensuite](#ce-que-vous-ferez-ensuite)
 - [Sources](#sources)
 
 ## Objectifs
@@ -92,12 +91,12 @@ disposition et les éléments administratifs à respecter.
 
 De façon plus concise, à la fin de cette séance, vous devriez être capable de :
 
-- Lister les formes juridiques possibles pour une entreprise en Suisse
+- Lister les formes juridiques possibles pour une entreprise en Suisse.
 - Lister les avantages et inconvénients des différentes formes juridiques pour
-  une entreprise en Suisse
-- Lister les aides et soutiens possibles à l'innovation en Suisse romande
+  une entreprise en Suisse.
+- Lister les aides et soutiens possibles à l'innovation en Suisse romande.
 - Lister les différents éléments administratifs qu'une entreprise en Suisse doit
-  avoir et respecter
+  avoir et respecter.
 
 ## Pourquoi créer une entreprise ?
 
@@ -179,11 +178,11 @@ disponibles sur le site de la confédération suisse
 
 Nous allons en aborder quelques-unes des plus courantes :
 
-- Association
-- Entreprise individuelle
-- Société en nom collectif
-- Société à responsabilité limitée (Sàrl)
-- Société anonyme (SA)
+- Association.
+- Entreprise individuelle.
+- Société en nom collectif.
+- Société à responsabilité limitée (Sàrl).
+- Société anonyme (SA).
 
 Un résumé de ces formes juridiques sous forme de tableau est disponible dans le
 document _Comparaison des formes juridiques_ disponible sur le site de la
@@ -212,14 +211,14 @@ retourner contre les membres de l'association pour les dommages causés.
 
 **Avantages**
 
-- Fondation simple et rapide
-- Aucun capital minimum nécessaire
-- Oeuvre pour un but idéal
+- Fondation simple et rapide.
+- Aucun capital minimum nécessaire.
+- Oeuvre pour un but idéal.
 
 **Inconvénients**
 
-- Statut juridique/légal incertain
-- Peu de reconnaissance par les créanciers, fournisseurs et clients
+- Statut juridique/légal incertain.
+- Peu de reconnaissance par les créanciers, fournisseurs et clients.
 
 ### Entreprise individuelle
 
@@ -243,21 +242,21 @@ pour rembourser les créanciers.
 
 **Avantages**
 
-- Fondation simple et rapide
-- Aucun capital minimum nécessaire
-- Pas de double imposition des bénéfices
-- Pas d'organe de révision
-- Transformation facile
+- Fondation simple et rapide.
+- Aucun capital minimum nécessaire.
+- Pas de double imposition des bénéfices.
+- Pas d'organe de révision.
+- Transformation facile.
 
 **Inconvénients**
 
-- Responsabilité personnelle illimitée
-- Pas le droit de percevoir des indemnités de chômage
-- Difficulté d'accéder à des crédits
-- Protection de l'entreprise sociale limitée au territoire
-- Difficulté à transmettre l'entreprise
-- Pas d'obligation LPP
-- 3e pilier (avec limitation à 20% du revenu) facultatif
+- Responsabilité personnelle illimitée.
+- Pas le droit de percevoir des indemnités de chômage.
+- Difficulté d'accéder à des crédits.
+- Protection de l'entreprise sociale limitée au territoire.
+- Difficulté à transmettre l'entreprise.
+- Pas d'obligation LPP.
+- 3e pilier (avec limitation à 20% du revenu) facultatif.
 
 ### Société en nom collectif
 
@@ -275,16 +274,16 @@ associé peuvent être saisis pour rembourser les créanciers.
 
 **Avantages**
 
-- Fondation relativement simple
-- Aucun capital minimum nécessaire
-- Structure interne et régulation des participations flexibles
+- Fondation relativement simple.
+- Aucun capital minimum nécessaire.
+- Structure interne et régulation des participations flexibles.
 
 **Inconvénients**
 
-- Responsabilité personnelle illimitée
-- Pas le droit de percevoir des indemnités de chômage
+- Responsabilité personnelle illimitée.
+- Pas le droit de percevoir des indemnités de chômage.
 - Droit de regard de tous les associés qui peut entraver la flexibilité
-  entrepreneuriale
+  entrepreneuriale.
 
 ### Société à responsabilité limitée (Sàrl)
 
@@ -309,19 +308,19 @@ formelle.
 
 **Avantages**
 
-- Pas de responsabilité personnelle pour les dettes
-- Capital minimum relativement bas
-- Peut être transformée en SA sans liquidation
-- Bénéfice en capital éventuel lors de la vente est exonéré d'impôt
+- Pas de responsabilité personnelle pour les dettes.
+- Capital minimum relativement bas.
+- Peut être transformée en SA sans liquidation.
+- Bénéfice en capital éventuel lors de la vente est exonéré d'impôt.
 
 **Inconvénients**
 
-- Frais de fondation et d'administration
-- Double imposition sur les bénéfices
-- Organe de révision
-- Anonymat impossible des associés
+- Frais de fondation et d'administration.
+- Double imposition sur les bénéfices.
+- Organe de révision.
+- Anonymat impossible des associés.
 - Moins de crédibilité qu'une SA envers les créditeurs, les fournisseurs et les
-  clients
+  clients.
 
 ### Société anonyme (SA)
 
@@ -348,73 +347,73 @@ leur identité.
 
 **Avantages**
 
-- Pas de responsabilité personnelle pour les dettes
-- Parts de la société facilement négociables
-- Anonymat des actionnaires possible
-- Crédibilité envers les créditeurs, les fournisseurs et les clients
-- Bénéfice en capital éventuel lors de la vente est exonéré d'impôt
+- Pas de responsabilité personnelle pour les dettes.
+- Parts de la société facilement négociables.
+- Anonymat des actionnaires possible.
+- Crédibilité envers les créditeurs, les fournisseurs et les clients.
+- Bénéfice en capital éventuel lors de la vente est exonéré d'impôt.
 
 **Inconvénients**
 
-- Frais de fondation et d'administration
-- Double imposition sur les bénéfices
-- Organe de révision
+- Frais de fondation et d'administration.
+- Double imposition sur les bénéfices.
+- Organe de révision.
 
 ## Éléments administratifs à respecter
 
-- **Enregistrement de l'entreprise :** Selon la forme juridique choisie, vous
+- **Enregistrement de l'entreprise** : selon la forme juridique choisie, vous
   devrez peut-être enregistrer votre entreprise auprès des autorités
   compétentes.
-- **Numéro de TVA :** Si votre chiffre d'affaires dépasse 200'000 CHF par année,
+- **Numéro de TVA** : si votre chiffre d'affaires dépasse 200'000 CHF par année,
   vous devrez vous inscrire à la TVA et facturer cette taxe à vos clients.
-- **Assurances :** Certaines assurances sont obligatoires :
-  - 1er pilier: assurance vieillesse et survivants (AVS)
-  - 2ème pilier: caisse de pension (LPP)
-  - Assurance accidents (LAA)
+- **Assurances** : certaines assurances sont obligatoires :
+  - 1er pilier: assurance vieillesse et survivants (AVS).
+  - 2ème pilier: caisse de pension (LPP).
+  - Assurance accidents (LAA).
 
   Il est conseillé de se renseigner sur les assurances nécessaires pour votre
   entreprise.
 
-- **Fiscalité :** Vous devez tenir une comptabilité précise et respecter les
+- **Fiscalité** : vous devez tenir une comptabilité précise et respecter les
   obligations fiscales de votre entreprise. Cela inclut la déclaration de vos
   revenus, le paiement des impôts sur les bénéfices et la TVA si applicable.
 
 ## Éléments administratifs à penser
 
-- **Protection des données :** Si vous collectez des données personnelles, vous
+- **Protection des données** : si vous collectez des données personnelles, vous
   devez respecter la législation sur la protection des données, notamment le
   Règlement général sur la protection des données (RGPD) si vous traitez des
   données de citoyens européens.
-- **Propriété intellectuelle :** Assurez-vous de respecter les droits d'auteur
+- **Propriété intellectuelle** : assurez-vous de respecter les droits d'auteur
   et les marques déposées lorsque vous utilisez des contenus tiers dans votre
   projet.
-- **Contrats :** Si vous travaillez avec des partenaires ou des clients, il est
+- **Contrats** : si vous travaillez avec des partenaires ou des clients, il est
   conseillé de rédiger des contrats clairs pour définir les droits et
   obligations de chaque partie.
-- **Licences et autorisations :** Selon votre secteur d'activité, vous pourriez
+- **Licences et autorisations** : selon votre secteur d'activité, vous pourriez
   avoir besoin de licences ou d'autorisations spécifiques pour exercer
   légalement votre activité.
-- **Droit du travail :** Si vous employez des personnes, vous devez respecter le
+- **Droit du travail** : si vous employez des personnes, vous devez respecter le
   droit du travail suisse, y compris les contrats de travail, les conditions de
   travail et les cotisations sociales.
-- **Réglementations sectorielles :** Certaines activités peuvent être soumises à
+- **Réglementations sectorielles** : certaines activités peuvent être soumises à
   des réglementations spécifiques, comme la vente de produits alimentaires,
   médicaux ou financiers. Assurez-vous de respecter ces réglementations.
-- **Protection des consommateurs :** Respectez les lois sur la protection des
+- **Protection des consommateurs** : respectez les lois sur la protection des
   consommateurs, notamment en matière de publicité, de garanties et de droit de
   rétractation.
-- **Droit de la concurrence :** Évitez les pratiques commerciales déloyales et
+- **Droit de la concurrence** : évitez les pratiques commerciales déloyales et
   respectez les règles de la concurrence pour ne pas nuire à d'autres
   entreprises.
-- **Droit des marques :** Si vous utilisez une marque pour votre projet,
+- **Droit des marques** : si vous utilisez une marque pour votre projet,
   assurez-vous qu'elle n'est pas déjà enregistrée par une autre entreprise. Vous
   pouvez envisager de déposer votre propre marque pour protéger votre identité
   commerciale.
-- **Droit des contrats :** Si vous concluez des contrats avec des clients ou des
+- **Droit des contrats** : si vous concluez des contrats avec des clients ou des
   partenaires, assurez-vous qu'ils sont clairs et conformes à la législation
   suisse. Cela inclut les conditions de paiement, de livraison et de
   responsabilité.
-- **Conditions générales de vente (CGV) :** Il est recommandé d'établir des CGV
+- **Conditions générales de vente (CGV)** : il est recommandé d'établir des CGV
   claires pour informer vos clients sur les conditions de vente, de livraison et
   de retour.
 
@@ -434,10 +433,15 @@ entrepreneurs et les start-ups. Voici quelques exemples :
   de mentorat, de formation et de financement.
 - **Comptabilité** : Vous êtes obligé de tenir une compta, des entreprises
   existent pour vous aider à faire ça, comme <https://www.wecount.swiss/>.
-- **[La Fabriꓘ - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)**
-  : la Fabriꓘ est un incubateur d'entreprises qui accompagne les entrepreneurs
+- **[LA FABRIꓘ - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)**
+  : LA FABRIꓘ est un incubateur d'entreprises qui accompagne les entrepreneurs
   affilié à la HEIG-VD dans le développement de leurs projets. Ils proposent des
   programmes de mentorat, de formation et de financement.
+- **[EasyGov](https://www.easygov.ch/)** : une plateforme numérique officielle
+  de la Confédération suisse qui facilite les démarches administratives pour les
+  PME et les entrepreneur.euses. Elle permet de gérer en ligne diverses
+  procédures administratives liées à la création et à la gestion d'une
+  entreprise.
 
 Faites des concours de pitchs, parler à vos proches, amis, famille et collègues
 de votre projet. Ils pourront vous aider à le faire évoluer et à trouver des
@@ -466,7 +470,7 @@ Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine fois de :
 
 - Relire le support de cours si nécessaire.
-- Réviser pour l'évaluation de la [semaine 13](../../17-cours-evaluation/)
+- Réviser pour l'évaluation de la [semaine 13](../../17-cours-evaluation/).
 
 ## Sources
 
@@ -474,6 +478,7 @@ il est recommandé pour la prochaine fois de :
 - [Fondation pour l'innovation technologique (FIT)](https://www.fondation-fit.ch/fr/)
 - [GENILEM](https://www.genilem.ch/)
 - [La Fabrik - HEIG-VD](https://heig-vd.ch/innovation/pepiniere-de-start-up)
+- [EasyGov](https://www.easygov.ch/)
 
 [^inscription-au-registre-du-commerce]:
     Inscription au registre du commerce,
