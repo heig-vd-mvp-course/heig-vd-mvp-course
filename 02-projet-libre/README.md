@@ -244,6 +244,22 @@ La grille d'évaluation de la présentation finale est la suivante :
   parole en public, et que chaque membre de l'équipe participe à la
   présentation.
 
+#### Ordre de passage
+
+L'ordre de passage des groupes pour la présentation finale est le suivant.
+Toutes les personnes doivent être présentes pour les présentations des autres
+groupes afin de pouvoir faire des retours constructifs.
+
+|   # | Groupe      | Heure de présentation |
+| --: | :---------- | :-------------------- |
+|   1 | _À définir_ | 08h45 - 09h00         |
+|   2 | _À définir_ | 09h05 - 09h20         |
+|   3 | _À définir_ | 09h25 - 09h40         |
+|   4 | _À définir_ | 09h45 - 10h00         |
+|   5 | _À définir_ | 10h05 - 10h20         |
+|   6 | _À définir_ | 10h25 - 10h40         |
+|   7 | _À définir_ | 10h45 - 11h00         |
+
 ### Rapport final
 
 Un rapport final sera demandé à la fin du semestre. Il devra contenir les étapes
