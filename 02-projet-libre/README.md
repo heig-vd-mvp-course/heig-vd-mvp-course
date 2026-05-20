@@ -54,6 +54,8 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Séance 9](#séance-9)
   - [Séance 10](#séance-10)
   - [Séance 11](#séance-11)
+  - [Séance 13](#séance-13)
+  - [Séance 14](#séance-14)
 
 ## Objectifs
 
@@ -1774,6 +1776,169 @@ il est recommandé pour la prochaine fois de :
   est la plus adaptée à votre projet.
 - Choisir une stack technologique pour implémenter les fonctionnalités minimales
   de votre service envisagé.
+
+### Séance 13
+
+**Développer sa solution (1/2)**
+
+> [!TIP]
+>
+> Voici quelques informations relatives à ce contenu.
+>
+> **Ressources annexes**
+>
+> - Autres formats :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-13)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Appliquer les bonnes pratiques de développement au service envisagé.
+> - Continuer le développement du service.
+> - Compléter le rapport.
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Discussions en groupe.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'une présentation de l'avancement du projet aux
+> personnes qui enseignent.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à présenter.
+> - Capacité à écouter.
+> - Capacité à argumenter.
+> - Capacité à participer.
+> - Application des bonnes pratiques de développement.
+> - Avancement du développement du service.
+> - Avancement du rapport.
+>
+> Les retours se font de la manière suivante :
+>
+> - Feedback.
+>
+> L'évaluation ne donne pas lieu à une note.
+
+#### Objectifs
+
+- Appliquer les bonnes pratiques de développement au service envisagé (gestion
+  du code source, documentation, intégration continue, etc.).
+- Continuer le développement du service.
+- Compléter le rapport.
+
+#### Déroulement
+
+Suivez les objectifs de la séance en cours et continuez à développer votre
+service. Profitez des retours du cours sur les bonnes pratiques de développement
+pour les appliquer à votre projet. Pensez notamment à :
+
+- Continuer le développement du service.
+- Compléter la documentation de votre projet.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Continuer le développement du service.
+- Effectuer des tests utilisateurs.
+- Compléter le rapport.
+
+### Séance 14
+
+**Développer sa solution (2/2)**
+
+> [!TIP]
+>
+> Voici quelques informations relatives à ce contenu.
+>
+> **Ressources annexes**
+>
+> - Autres formats :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-14)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Continuer le développement du service.
+> - Finaliser le rapport.
+> - Commencer la présentation finale du projet.
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Discussions en groupe.
+> - Feedback.
+> - Travail autonome en groupe ou individuel.
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'une présentation de l'avancement du projet aux
+> personnes qui enseignent.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à présenter.
+> - Capacité à écouter.
+> - Capacité à argumenter.
+> - Capacité à participer.
+> - Finalisation du développement du service.
+> - Avancement du rapport.
+> - Début de préparation de la présentation finale.
+>
+> Les retours se font de la manière suivante :
+>
+> - Feedback.
+>
+> L'évaluation ne donne pas lieu à une note.
+
+#### Objectifs
+
+- Finaliser le développement du service.
+- Finaliser le rapport.
+- Commencer la présentation finale du projet.
+
+#### Déroulement
+
+Suivez les objectifs de la séance en cours et finalisez votre service.
+
+Profitez des retours du cours sur la création d'entreprise pour réfléchir à la
+viabilité de votre projet. Pensez notamment à :
+
+- Continuer le développement du service.
+- Compléter le rapport.
+- Commencer à préparer la présentation finale.
+
+N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
+votre rapport.
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Finaliser gentiment le rapport.
 
 <!--
 
