@@ -56,6 +56,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Séance 11](#séance-11)
   - [Séance 13](#séance-13)
   - [Séance 14](#séance-14)
+  - [Séance 15](#séance-15)
 
 ## Objectifs
 
@@ -1956,607 +1957,9 @@ il est recommandé pour la prochaine fois de :
 
 - Finaliser gentiment le rapport.
 
-<!--
+### Séance 15
 
-#### Déroulement
-
-
-#### Conclusion
-
-À l'issue de cette séance, vous avez pris en main un outil de création de site
-web statique, réalisé un site statique _"Hello, world!"_, déployé le site sur
-Internet, identifié les mots clés pour le référencement, mis en commun les
-entretiens réalisées jusqu'ici, partagé les réflexions autour de ces entretiens.
-
-#### À faire pour la prochaine séance
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Finaliser la mise en ligne du site web statique
-- Identifier des personnes dans votre entourage qui pourraient rentrer dans
-  votre public cible
-- S'entretenir avec ces personnes pour récolter des retours
-
-### Séance 8 - Présentation sur la prospection
-
-> [!TIP]
->
-> Voici quelques informations relatives à ce contenu.
->
-> **Ressources annexes**
->
-> - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-8)
->   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
->
-> **Objectifs**
->
-> À l'issue de cette séance, les personnes qui étudient devraient être capables
-> de :
->
-> - Présenter le travail effectué sur la prospection
-> - Répondre aux questions
-> - Recevoir des feedbacks constructifs
-> - Évaluer les présentations des autres groupes
-> - Donner des feedbacks constructifs
->
-> **Méthodes d'enseignement et d'apprentissage**
->
-> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
-> sont les suivantes :
->
-> - Présentations (80 minutes)
->   - Présentations (avec slides)
->   - Sessions de questions-réponses
->   - Évaluations et feedbacks
->
-> **Méthodes d'évaluation**
->
-> L'évaluation prend la forme d'une présentation du projet aux autres groupes.
->
-> L'évaluation se fait en utilisant les critères suivants :
->
-> - Capacité à présenter
-> - Capacité à répondre aux questions
-> - Capacité à écouter les feedbacks
->
-> Les retours se font de la manière suivante :
->
-> - [Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-dévaluation-des-présentations)
->
-> **🚨 L'évaluation donne lieu à une note.** (15% de la note de projet)
-
-#### Objectifs
-
-À l'issue de cette séance, les personnes qui étudient devraient avoir pu :
-
-- Présenter le travail effectué sur la prospection
-- Répondre aux questions
-- Recevoir des feedbacks constructifs
-- Évaluer les présentations des autres groupes
-- Donner des feedbacks constructifs
-
-#### Déroulement
-
-Vous avez 8-10 minutes pour présenter votre travail sur la prospection
-(entretiens, public cible, etc...), après quoi votre groupe répondra aux
-questions et au feedbacks.
-
-Il est conseillé de préparer un support pour votre présentation.
-
-Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
-feedbacks constructifs.
-
-Vous pouvez retrouver la grille d'évaluation de la présentation ici :
-[Grille d'évaluation des présentations](../../01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-dévaluation-des-présentations)
-
-#### Conclusion
-
-Bravo pour votre travail ! Vous avez su présenter votre prospection de manière
-claire et concise. Vous avez également su répondre aux questions et aux
-feedbacks de manière constructive.
-
-#### A faire pour la prochaine séance
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Identifier des personnes dans votre entourage qui pourraient rentrer dans
-  votre public cible
-- S'entretenir avec ces personnes pour récolter des retours
-- Partager votre projet autour de vous selon les canaux de communication
-  identifiés
-
-### Séance 9 - Réalisation du service et tests utilisateurs (1/6)
-
-> [!TIP]
->
-> Voici quelques informations relatives à ce contenu.
->
-> **Ressources annexes**
->
-> - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-9)
->   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
->
-> **Objectifs**
->
-> À l'issue de cette séance, les personnes qui étudient devraient être capables
-> de :
->
-> - Identifier s'il faut pivoter ou non
-> - Identifier quels éléments manquent pour déterminer s'il faut pivoter ou non
-> - Identifier les forces et les faiblesses des données récoltées jusqu'ici
-> - Pivoter si nécessaire avec une nouvelle idée (proche de l'existant ou non)
-> - Identifier les fonctionnalités minimales à implémenter pour le service
->   envisagé
-> - Identifier les hypothèses à tester sur la base des fonctionnalités minimales
-> - Planifier le développement des fonctionnalités de base pour le service
->   envisagé pour les semaines restantes
-> - Identifier des personnes qui pourraient tester le service envisagé
-> - Compléter le rapport
->
-> **Méthodes d'enseignement et d'apprentissage**
->
-> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
-> sont les suivantes :
->
-> - Discussions en groupe.
-> - Pitch.
-> - Brainstorming.
-> - Feedback.
-> - Travail autonome en groupe ou individuel.
->
-> **Méthodes d'évaluation**
->
-> L'évaluation prend la forme d'une présentation du projet aux personnes qui
-> enseignent.
->
-> L'évaluation se fait en utilisant les critères suivants :
->
-> - Capacité à présenter.
-> - Capacité à écouter.
-> - Capacité à argumenter.
-> - Capacité à participer.
->
-> Les retours se font de la manière suivante :
->
-> - Feedback.
->
-> L'évaluation ne donne pas lieu à une note.
-
-#### Objectifs
-
-Vous avez amassé des informations sur votre projet et vous avez déjà reçu des
-retours constructifs. Il est temps de faire le point sur ces retours et de
-décider si vous devez pivoter ou non.
-
-De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
-
-- Identifier s'il faut pivoter ou non
-- Identifier quels éléments manquent pour déterminer s'il faut pivoter ou non
-- Identifier les forces et les faiblesses des données récoltées jusqu'ici
-- Pivoter si nécessaire avec une nouvelle idée (proche de l'existant ou non)
-- Identifier les fonctionnalités minimales à implémenter pour le service
-  envisagé
-- Identifier les hypothèses à tester sur la base des fonctionnalités minimales
-- Planifier le développement des fonctionnalités de base pour le service
-  envisagé pour les semaines restantes
-- Identifier des personnes qui pourraient tester le service envisagé
-- Compléter le rapport
-
-#### Déroulement
-
-Prenez ce moment pour faire le point sur votre projet. Vous pouvez :
-
-- Lister clairement les informations collectées jusqu'ici et si elles indiquent
-  qu'un pivot est nécessaire ou non.
-- Réaliser une analyse SWOT simplifiée de votre situation actuelle.
-- Organiser un brainstorming en équipe pour identifier des pistes alternatives
-  concrètes (si nécessaire).
-
-#### À faire pour la prochaine séance
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Trouver une nouvelle idée (si nécessaire)
-- Effectuer des tests utilisateurs
-
-### Séance 10 - Réalisation du service et tests utilisateurs (2/6)
-
-> [!TIP]
->
-> Voici quelques informations relatives à ce contenu.
->
-> **Ressources annexes**
->
-> - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-10)
->   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
->
-> **Objectifs**
->
-> À l'issue de cette séance, les personnes qui étudient devraient être capables
-> de :
->
-> - Déployer une application de type _"Hello, world!"_ sur Internet
-> - Mettre en place un pipeline de CI/CD pour déployer une application sur
->   Internet
-> - Commencer à faire les mockups des fonctionnalités de base du service
->   envisagé
-> - Mettre en place les bonnes pratiques pour le développement du service
->   envisagé
-> - Compléter le rapport
->
-> **Méthodes d'enseignement et d'apprentissage**
->
-> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
-> sont les suivantes :
->
-> - Discussions en groupe.
-> - Pitch.
-> - Brainstorming.
-> - Feedback.
-> - Travail autonome en groupe ou individuel.
->
-> **Méthodes d'évaluation**
->
-> L'évaluation prend la forme d'une présentation du projet aux personnes qui
-> enseignent.
->
-> L'évaluation se fait en utilisant les critères suivants :
->
-> - Capacité à présenter.
-> - Capacité à écouter.
-> - Capacité à argumenter.
-> - Capacité à participer.
->
-> Les retours se font de la manière suivante :
->
-> - Feedback.
->
-> L'évaluation ne donne pas lieu à une note.
-
-#### Objectifs
-
-De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
-
-- Déployer une application de type _"Hello, world!"_ sur Internet
-- Mettre en place un pipeline de CI/CD pour déployer une application sur
-  Internet
-- Commencer à faire les mockups des fonctionnalités de base du service envisagé
-- Mettre en place les bonnes pratiques pour le développement du service envisagé
-- Compléter le rapport
-
-#### Déroulement
-
-Suivez les objectifs de la séance en cours et commencez à développer le service
-envisagé.
-
-N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
-votre rapport.
-
-#### À faire pour la prochaine séance
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Réaliser des tests utilisateurs
-
-### Séance 11 - Réalisation du service et tests utilisateurs (3/6)
-
-> [!TIP]
->
-> Voici quelques informations relatives à ce contenu.
->
-> **Ressources annexes**
->
-> - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-11)
->   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
->
-> **Objectifs**
->
-> À l'issue de cette séance, les personnes qui étudient devraient être capables
-> de :
->
-> - Réaliser une ébauche de business model pour leur service
-> - Intégrer une solution de paiement à leur service
-> - Continuer les mockups du service envisagé
-> - Continuer le développement du service envisagé
-> - Effectuer des tests utilisateurs
-> - Compléter le rapport
->
-> **Méthodes d'enseignement et d'apprentissage**
->
-> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
-> sont les suivantes :
->
-> - Discussions en groupe.
-> - Pitch.
-> - Brainstorming.
-> - Feedback.
-> - Travail autonome en groupe ou individuel.
->
-> **Méthodes d'évaluation**
->
-> L'évaluation prend la forme d'une présentation du projet aux personnes qui
-> enseignent.
->
-> L'évaluation se fait en utilisant les critères suivants :
->
-> - Capacité à présenter.
-> - Capacité à écouter.
-> - Capacité à argumenter.
-> - Capacité à participer.
->
-> Les retours se font de la manière suivante :
->
-> - Feedback.
->
-> L'évaluation ne donne pas lieu à une note.
-
-#### Objectifs
-
-De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
-
-- Réaliser une ébauche de business model pour leur service
-- Intégrer une solution de paiement à leur service
-- Continuer les mockups du service envisagé
-- Continuer le développement du service envisagé
-- Effectuer des tests utilisateurs
-- Compléter le rapport
-
-#### Déroulement
-
-Suivez les objectifs de la séance en cours et commencez à développer le service
-envisagé.
-
-N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
-votre rapport.
-
-#### À faire pour la prochaine séance
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Relire le support de cours si nécessaire.
-- Commencer à réviser pour l'évaluation de la
-  [semaine 13](../../17-cours-evaluation/)
-
-### Séance 12 - Réalisation du service et tests utilisateurs (4/6)
-
-> [!TIP]
->
-> Voici quelques informations relatives à ce contenu.
->
-> **Ressources annexes**
->
-> - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-12)
->   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
->
-> **Objectifs**
->
-> À l'issue de cette séance, les personnes qui étudient devraient être capables
-> de :
->
-> - Avancer sur le développement du service envisagé
-> - Compléter le rapport
->
-> **Méthodes d'enseignement et d'apprentissage**
->
-> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
-> sont les suivantes :
->
-> - Discussions en groupe.
-> - Pitch.
-> - Brainstorming.
-> - Feedback.
-> - Travail autonome en groupe ou individuel.
->
-> **Méthodes d'évaluation**
->
-> L'évaluation prend la forme d'une présentation du projet aux personnes qui
-> enseignent.
->
-> L'évaluation se fait en utilisant les critères suivants :
->
-> - Capacité à présenter.
-> - Capacité à écouter.
-> - Capacité à argumenter.
-> - Capacité à participer.
->
-> Les retours se font de la manière suivante :
->
-> - Feedback.
->
-> L'évaluation ne donne pas lieu à une note.
-
-#### Objectifs
-
-De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
-
-- Lister les formes juridiques possibles pour une entreprise en Suisse
-- Lister les avantages et inconvénients des différentes formes juridiques pour
-  une entreprise en Suisse
-- Lister les aides et soutiens possibles à l'innovation en Suisse romande
-- Lister les différents éléments administratifs qu'une entreprise en Suisse doit
-  avoir et respecter
-
-#### Déroulement
-
-Suivez les objectifs de la séance en cours et commencez à développer le service
-envisagé.
-
-N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
-votre rapport.
-
-#### À faire pour la prochaine séance
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Effectuer des tests utilisateurs
-- Réviser pour l'évaluation de la [semaine 13](../../17-cours-evaluation/)
-
-### Séance 13 - Réalisation du service et tests utilisateurs (5/6)
-
-> [!TIP]
->
-> Voici quelques informations relatives à ce contenu.
->
-> **Ressources annexes**
->
-> - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-13)
->   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
->
-> **Objectifs**
->
-> À l'issue de cette séance, les personnes qui étudient devraient être capables
-> de :
->
-> - Continuer le développement du service
-> - Planifier les dernières étapes du développement du service
-> - Compléter le rapport
->
-> **Méthodes d'enseignement et d'apprentissage**
->
-> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
-> sont les suivantes :
->
-> - Discussions en groupe.
-> - Pitch.
-> - Brainstorming.
-> - Feedback.
-> - Travail autonome en groupe ou individuel.
->
-> **Méthodes d'évaluation**
->
-> L'évaluation prend la forme d'une présentation du projet aux personnes qui
-> enseignent.
->
-> L'évaluation se fait en utilisant les critères suivants :
->
-> - Capacité à présenter.
-> - Capacité à écouter.
-> - Capacité à argumenter.
-> - Capacité à participer.
->
-> Les retours se font de la manière suivante :
->
-> - Feedback.
->
-> L'évaluation ne donne pas lieu à une note.
-
-#### Objectifs
-
-De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
-
-- Continuer le développement du service
-- Planifier les dernières étapes du développement du service
-- Compléter le rapport
-
-#### Déroulement
-
-Suivez les objectifs de la séance en cours et commencez à développer le service
-envisagé.
-
-N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
-votre rapport.
-
-#### À faire pour la prochaine séance
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Finaliser le développement du service
-- Effectuer des tests utilisateurs
-
-### Séance 14 - Réalisation du service et tests utilisateurs (6/6)
-
-> [!TIP]
->
-> Voici quelques informations relatives à ce contenu.
->
-> **Ressources annexes**
->
-> - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-14)
->   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
->
-> **Objectifs**
->
-> À l'issue de cette séance, les personnes qui étudient devraient être capables
-> de :
->
-> - Finaliser le développement du service
-> - Finaliser le rapport
-> - Commencer la présentation du projet de la [semaine 16](#-semaine-16)
->
-> **Méthodes d'enseignement et d'apprentissage**
->
-> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
-> sont les suivantes :
->
-> - Discussions en groupe.
-> - Pitch.
-> - Brainstorming.
-> - Feedback.
-> - Travail autonome en groupe ou individuel.
->
-> **Méthodes d'évaluation**
->
-> L'évaluation prend la forme d'une présentation du projet aux personnes qui
-> enseignent.
->
-> L'évaluation se fait en utilisant les critères suivants :
->
-> - Capacité à présenter.
-> - Capacité à écouter.
-> - Capacité à argumenter.
-> - Capacité à participer.
->
-> Les retours se font de la manière suivante :
->
-> - Feedback.
->
-> L'évaluation ne donne pas lieu à une note.
-
-#### Objectifs
-
-De façon plus concise, à la fin de cette séance, vous devriez avoir pu :
-
-- Finaliser le développement du service
-- Finaliser le rapport
-- Commencer la présentation du projet de la semaine 16
-
-#### Déroulement
-
-Suivez les objectifs de la séance en cours et commencez à développer le service
-envisagé.
-
-N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
-votre rapport.
-
-#### À faire pour la prochaine séance
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Finaliser et rendre le rapport selon les attentes spécifiées à la semaine 15
-
-### Séance 15 - Rendu du rapport
+**Tester sa solution**
 
 > [!TIP]
 >
@@ -2574,133 +1977,67 @@ il est recommandé pour la prochaine fois de :
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Rendre le rapport du projet par mail aux personnes qui enseignent
+> - Tester vos solutions avec des utilisateur.trices.
+> - Prendre des notes avec :
+>   - Les points d'améliorations identifiés.
+>   - Les points positifs identifiés.
+>   - Qu'est-ce qui pourrait être fait différemment répondre aux retours
+>     obtenus.
 >
 > **Méthodes d'enseignement et d'apprentissage**
 >
 > Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
 > sont les suivantes :
 >
-> - Travail autonome en groupe ou individuel
+> - Discussions en groupe.
+> - Retours d'expérience.
 >
 > **Méthodes d'évaluation**
 >
-> L'évaluation prend la forme d'un rapport à rendre par mail aux personnes qui
-> enseignent.
+> L'évaluation prend la forme d'une présentation de l'avancement du projet aux
+> personnes qui enseignent.
 >
 > L'évaluation se fait en utilisant les critères suivants :
 >
-> - Qualité du rapport
-> - Respect des consignes
-> - Respect des délais
+> - Capacité à présenter.
+> - Capacité à écouter.
+> - Capacité à argumenter.
+> - Capacité à participer.
 >
 > Les retours se font de la manière suivante :
 >
-> - [Grille d'évaluation du rapport final](./01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-dévaluation-du-rapport-final)
+> - Feedback.
 >
-> **🚨 L'évaluation donne lieu à une note.** (25% de la note de projet)
+> L'évaluation ne donne pas lieu à une note.
 
-TODO
+#### Objectifs
+
+- Tester vos solutions avec des utilisateur.trices.
+- Prendre des notes avec :
+  - Les points d'améliorations identifiés.
+  - Les points positifs identifiés.
+  - Qu'est-ce qui pourrait être fait différemment répondre aux retours obtenus.
+
+#### Déroulement
+
+Vous êtes tou.tes dans la même situation : vous avez développé une solution et
+vous avez besoin de tester si celle-ci est compréhensible, accessible et répond
+correctement au(x) besoin(s).
+
+Testez chacune de vos solutions entre vous pour le reste de la matinée ! Prenez
+des notes sur les points d'améliorations, les points positifs et ce qui pourrait
+être fait différemment pour répondre aux retours obtenus.
+
+Échangez, discutez et essayez de trouver des solutions pour améliorer votre
+projet en fonction des retours obtenus.
 
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine fois de :
 
-- Finaliser et rendre le développement du service selon les attentes spécifiées
-  à la [semaine 16](#-semaine-16)
-- Finaliser la présentation sur la
-  [Présentation finale](#projet---présentations-finales-et-rendu-du-projet)
-- Répéter la présentation sur la
-  [Présentation finale](#projet---présentations-finales-et-rendu-du-projet)
-
-### Séance 16 - Présentations et rendu du projet
-
-> [!TIP]
->
-> Voici quelques informations relatives à ce contenu.
->
-> **Ressources annexes**
->
-> - Autres formats :
->   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-16)
->   ·
->   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
->
-> **Objectifs**
->
-> À l'issue de cette séance, les personnes qui étudient devraient être capables
-> de :
->
-> - Présenter le travail effectué sur tout le semestre
-> - Répondre aux questions
-> - Recevoir des feedbacks constructifs
-> - Évaluer les présentations des autres groupes
-> - Donner des feedbacks constructifs
->
-> **Méthodes d'enseignement et d'apprentissage**
->
-> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
-> sont les suivantes :
->
-> - Présentations (110 minutes)
->   - Présentations (avec slides)
->   - Sessions de questions-réponses
->   - Évaluations et feedbacks
->
-> **Méthodes d'évaluation**
->
-> L'évaluation prend la forme d'une présentation du projet aux autres groupes
-> ainsi que d'un rendu du projet par mail aux personnes qui enseignent.
->
-> L'évaluation se fait en utilisant les critères suivants :
->
-> - Capacité à présenter et à pitcher le projet
-> - Capacité à démontrer la méthodologie utilisée pour réaliser le projet
-> - Capacité à présenter le(s) résultat(s) obtenu(s)
-> - Capacité à présenter la contribution de chaque membre de l'équipe
-> - Capacité à répondre aux questions
-> - Capacité à écouter les feedbacks
-> - Qualité du produit final
-> - Respect des consignes
-> - Respect des délais
->
-> Les retours se font de la manière suivante :
->
-> - [Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-dévaluation-des-présentations)
-> - [Grille d'évaluation du produit final](./01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-dévaluation-du-produit-final)
->
-> **🚨 L'évaluation donne lieu à une note.** (20% de la note de projet pour la
-> présentation et 15% de la note de projet pour le rendu du projet)
-
-#### Objectifs
-
-- Présenter le travail effectué sur tout le semestre
-- Répondre aux questions
-- Recevoir des feedbacks constructifs
-- Évaluer les présentations des autres groupes
-- Donner des feedbacks constructifs
-
-#### Déroulement
-
-Tout le monde est présent pour voir toutes les présentations. 10 minutes de
-présentation et 5 minutes de questions par groupe. Entre les présentations, le
-prochain groupe se prépare.
-
-| Ordre | Groupe                                 | Passage       |
-| :---- | :------------------------------------- | :------------ |
-| 1     | Zmoos Léo, Oliveira Ramos Dylan        | 09:30 - 09:40 |
-| 2     | Demont Kilian                          | 09:45 - 09:55 |
-| 3     | Häffner Edwin                          | 10:00 - 10:10 |
-| 4     | Mühlemann Julien                       | 10:15 - 10:25 |
-| 5     | Iorio Alexandre, Serzedelo Costa André | 10:30 - 10:40 |
-|       | Pause                                  | 10:45 - 11:00 |
-| 6     | Holzer Julien                          | 11:00 - 11:10 |
-| 7     | Hutzli Boris                           | 11:15 - 11:25 |
-| 8     | Graf Calvin, Sottile Alan              | 11:30 - 11:40 |
-| 9     | Roland Samuel                          | 11:45 - 11:55 |
-
--->
+- Finaliser le rapport avec les tests utilisateurs que vous avez effectués.
+- Préparer la présentation finale de votre projet.
 
 <!-- URLs -->
 
