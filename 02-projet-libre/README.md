@@ -255,8 +255,8 @@ groupes afin de pouvoir faire des retours constructifs.
 | --: | :----------------------------- | :-------------------- |
 |   1 | Alexandre, Gwendal et Valentin | 08h45 - 09h00         |
 |   2 | Lionel, William et Dario       | 09h05 - 09h20         |
-|   3 | Nicolas et Sebastian           | 09h25 - 09h40         |
-|   4 | David et Nicolas               | 09h45 - 10h00         |
+|   3 | David et Nicolas               | 09h25 - 09h40         |
+|   4 | Nicolas et Sebastian           | 09h45 - 10h00         |
 |   5 | Ali                            | 10h05 - 10h20         |
 |   6 | Tristan                        | 10h25 - 10h40         |
 |   7 | Jérémy                         | 10h45 - 11h00         |
