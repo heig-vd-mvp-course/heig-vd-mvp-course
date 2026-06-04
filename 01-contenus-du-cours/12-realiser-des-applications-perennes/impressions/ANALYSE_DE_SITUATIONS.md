@@ -1,10 +1,17 @@
+---
+lang: "fr"
+geometry: "top=2cm, bottom=2cm, left=2cm, right=2cm"
+fontsize: "11pt"
+papersize: "a4"
+---
+
 <!--
 # Utilisation
 
 ```sh
 docker run \
   --rm --volume "$(pwd):/data" \
-  --user `id -u`:`id -g` \
+  --user "$(id -u):$(id -g)" \
   pandoc/latex -o README.pdf README.md
 ```
 -->

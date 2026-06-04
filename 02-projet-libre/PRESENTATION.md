@@ -728,6 +728,8 @@ il est recommandé pour la prochaine fois de :
 - Continuer le développement du service.
 - Compléter le rapport.
 
+![bg right:40%][illustration-objectifs]
+
 #### Déroulement
 
 Suivez les objectifs de la séance en cours et continuez à développer votre
@@ -761,6 +763,8 @@ il est recommandé pour la prochaine fois de :
 - Finaliser le rapport.
 - Commencer la présentation finale du projet.
 
+![bg right:40%][illustration-objectifs]
+
 #### Déroulement
 
 Suivez les objectifs de la séance en cours et finalisez votre service.
@@ -781,345 +785,42 @@ il est recommandé pour la prochaine fois de :
 
 - Finaliser gentiment le rapport.
 
-<!--
+### Séance 15
 
-### Séance 5 - Présentations du pitch
+<!-- _class: lead -->
 
-<!-- _class: lead --
-
-#### Objectifs
-
-- Préparer un pitch
-- Réaliser un pitch
-- Répondre aux questions
-- Recevoir des feedbacks constructifs
-- Évaluer les pitches des autres groupes
-- Donner des feedbacks constructifs
-
-![bg right:40%][illustration-objectifs]
-
-#### Déroulement
-
-Vous avez 20 minutes pour préparer votre pitch, après quoi chaque groupe a 2
-minutes pour présenter son pitch suivi d'un moments de questions et feedbacks.
-
-Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
-feedbacks constructifs.
-
-Vous pouvez retrouver la grille d'évaluation de la présentation ici :
-[Projet libre - Grille d'évaluation des présentations](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-d%C3%A9valuation-des-pr%C3%A9sentations)
-
-#### À faire pour la semaine suivante
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Identifier des personnes dans votre entourage qui pourraient rentrer dans
-  votre public cible
-- S'entretenir avec ces personnes pour récolter des retours
-
-### Séance 8 - Présentation sur la prospection
-
-<!-- _class: lead --
+**Tester sa solution**
 
 #### Objectifs
 
-- Présenter le travail effectué sur la prospection
-- Répondre aux questions
-- Recevoir des feedbacks constructifs
-- Évaluer les présentations des autres groupes
-- Donner des feedbacks constructifs
+- Tester vos solutions avec des utilisateur.trices.
+- Prendre des notes avec :
+  - Les points d'améliorations identifiés.
+  - Les points positifs identifiés.
+  - Qu'est-ce qui pourrait être fait différemment répondre aux retours obtenus.
 
 ![bg right:40%][illustration-objectifs]
 
 #### Déroulement
 
-Vous avez 8-10 minutes pour présenter votre travail sur la prospection
-(entretiens, public cible, etc...), après quoi votre groupe répondra aux
-questions et au feedbacks.
+Vous êtes tou.tes dans la même situation : vous avez développé une solution et
+vous avez besoin de tester si celle-ci est compréhensible, accessible et répond
+correctement au(x) besoin(s).
 
-Il est conseillé de préparer un support pour votre présentation.
+Testez chacune de vos solutions entre vous pour le reste de la matinée ! Prenez
+des notes sur les points d'améliorations, les points positifs et ce qui pourrait
+être fait différemment pour répondre aux retours obtenus.
 
-Challengez-vous ! Remettez-vous en question et soyez prêt.es à recevoir des
-feedbacks constructifs.
+Échangez, discutez et essayez de trouver des solutions pour améliorer votre
+projet en fonction des retours obtenus.
 
-Vous pouvez retrouver la grille d'évaluation de la présentation ici :
-[Grille d'évaluation des présentations](./01-cours-introduction-motivation-et-organisation-de-lunite/README.md#grille-dévaluation-des-présentations)
-
-#### À faire pour la semaine suivante
+#### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine fois de :
 
-- Identifier des personnes dans votre entourage qui pourraient rentrer dans
-  votre public cible
-- S'entretenir avec ces personnes pour récolter des retours
-- Partager votre projet autour de vous selon les canaux de communication
-  identifiés
-
-### Séance 9 - Réalisation du service et tests utilisateurs (1/6)
-
-<!-- _class: lead --
-
-#### Objectifs (1/3)
-
-- Identifier s'il faut pivoter ou non
-- Identifier quels éléments manquent pour déterminer s'il faut pivoter ou non
-- Identifier les forces et les faiblesses des données récoltées jusqu'ici
-
-![bg right:40%][illustration-objectifs]
-
-#### Objectifs (2/3)
-
-- Pivoter si nécessaire avec une nouvelle idée (proche de l'existant ou non)
-- Identifier les fonctionnalités minimales à implémenter pour le service
-  envisagé
-- Identifier les hypothèses à tester sur la base des fonctionnalités minimales
-
-![bg right:40%][illustration-objectifs]
-
-#### Objectifs (3/3)
-
-- Planifier le développement des fonctionnalités de base pour le service
-  envisagé pour les semaines restantes
-- Identifier des personnes qui pourraient tester le service envisagé
-- Compléter le rapport
-
-![bg right:40%][illustration-objectifs]
-
-#### Déroulement
-
-Prenez ce moment pour faire le point sur votre projet. Vous pouvez :
-
-- Lister clairement les informations collectées jusqu'ici et si elles indiquent
-  qu'un pivot est nécessaire ou non.
-- Réaliser une analyse SWOT simplifiée de votre situation actuelle.
-- Organiser un brainstorming en équipe pour identifier des pistes alternatives
-  concrètes (si nécessaire).
-- Planifier le développement des fonctionnalités minimales pour le service
-  envisagé.
-
-#### À faire pour la semaine suivante
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Trouver une nouvelle idée (si nécessaire)
-- Effectuer des tests utilisateurs
-
-### Séance 10 - Réalisation du service et tests utilisateurs (2/6)
-
-<!-- _class: lead --
-
-#### Objectifs (1/2)
-
-- Déployer une application de type _"Hello, world!"_ sur Internet
-- Mettre en place un pipeline de CI/CD pour déployer une application sur
-  Internet
-- Commencer à faire les mockups des fonctionnalités de base du service envisagé
-
-![bg right:40%][illustration-objectifs]
-
-#### Objectifs (2/2)
-
-- Mettre en place les bonnes pratiques pour le développement du service envisagé
-- Compléter le rapport
-
-![bg right:40%][illustration-objectifs]
-
-#### Déroulement
-
-TODO
-
-#### À faire pour la semaine suivante
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Réaliser des tests utilisateurs
-
-### Séance 11 - Réalisation du service et tests utilisateurs (3/6)
-
-<!-- _class: lead --
-
-#### Objectifs (1/2)
-
-- Réaliser une ébauche de business model pour leur service
-- Intégrer une solution de paiement à leur service
-- Continuer les mockups du service envisagé
-- Continuer le développement du service envisagé
-
-![bg right:40%][illustration-objectifs]
-
-#### Objectifs (2/2)
-
-- Effectuer des tests utilisateurs
-- Compléter le rapport
-
-![bg right:40%][illustration-objectifs]
-
-#### Déroulement
-
-Suivez les objectifs de la séance en cours et commencez à développer le service
-envisagé.
-
-N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
-votre rapport.
-
-#### À faire pour la semaine suivante
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Relire le support de cours si nécessaire.
-- Commencer à réviser pour l'évaluation de la semaine 13
-
-### Séance 12 - Réalisation du service et tests utilisateurs (4/6)
-
-<!-- _class: lead --
-
-#### Objectifs (1/2)
-
-- Lister les formes juridiques possibles pour une entreprise en Suisse
-- Lister les avantages et inconvénients des différentes formes juridiques pour
-  une entreprise en Suisse
-- Lister les aides et soutiens possibles à l'innovation en Suisse romande
-
-![bg right:40%][illustration-objectifs]
-
-#### Objectifs (2/2)
-
-- Lister les différents éléments administratifs qu'une entreprise en Suisse doit
-  avoir et respecter
-
-![bg right:40%][illustration-objectifs]
-
-#### Déroulement
-
-Suivez les objectifs de la séance en cours et commencez à développer le service
-envisagé.
-
-N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
-votre rapport.
-
-#### À faire pour la semaine suivante
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Effectuer des tests utilisateurs
-- Réviser pour l'évaluation de la semaine 13
-
-### Séance 13 - Réalisation du service et tests utilisateurs (5/6)
-
-<!-- _class: lead --
-
-#### Objectifs
-
-- Continuer le développement du service
-- Planifier les dernières étapes du développement du service
-- Compléter le rapport
-
-![bg right:40%][illustration-objectifs]
-
-#### Déroulement
-
-Suivez les objectifs de la séance en cours et commencez à développer le service
-envisagé.
-
-N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
-votre rapport.
-
-#### À faire pour la semaine suivante
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Finaliser le développement du service
-- Effectuer des tests utilisateurs
-
-### Séance 14 - Réalisation du service et tests utilisateurs (6/6)
-
-<!-- _class: lead --
-
-#### Objectifs
-
-- Finaliser le développement du service
-- Finaliser le rapport
-- Commencer la présentation du projet de la semaine 16
-
-![bg right:40%][illustration-objectifs]
-
-#### Déroulement
-
-Suivez les objectifs de la séance en cours et commencez à développer le service
-envisagé.
-
-N'oubliez pas de regarder les objectifs des séances précédentes et de compléter
-votre rapport.
-
-#### À faire pour la semaine suivante
-
-Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
-il est recommandé pour la prochaine fois de :
-
-- Finaliser et rendre le rapport selon les attentes spécifiées à la semaine 15
-
-### Séance 15 - Rendu du rapport
-
-<!-- _class: lead --
-
-#### Objectifs
-
-TODO
-
-#### Déroulement
-
-TODO
-
-#### À faire pour la semaine suivante
-
-TODO
-
-### Séance 16 - Présentations et rendu du projet
-
-<!-- _class: lead --
-
-#### Objectifs
-
-- Présenter le travail effectué sur tout le semestre
-- Répondre aux questions
-- Recevoir des feedbacks constructifs
-- Évaluer les présentations des autres groupes
-- Donner des feedbacks constructifs
-
-![bg right:40%][illustration-objectifs]
-
-#### Déroulement (1/2)
-
-Tout le monde est présent pour voir toutes les présentations. 10 minutes de
-présentation et 5 minutes de questions par groupe. Entre les présentations, le
-prochain groupe se prépare.
-
-| Ordre | Groupe                          | Passage       |
-| :---- | :------------------------------ | :------------ |
-| 1     | Zmoos Léo, Oliveira Ramos Dylan | 09:30 - 09:40 |
-| 2     | Demont Kilian                   | 09:45 - 09:55 |
-| 3     | Häffner Edwin                   | 10:00 - 10:10 |
-| 4     | Mühlemann Julien                | 10:15 - 10:25 |
-
-#### Déroulement (2/2)
-
-| Ordre | Groupe                                 | Passage       |
-| :---- | :------------------------------------- | :------------ |
-| 5     | Iorio Alexandre, Serzedelo Costa André | 10:30 - 10:40 |
-|       | Pause                                  | 10:45 - 11:00 |
-| 6     | Holzer Julien                          | 11:00 - 11:10 |
-| 7     | Hutzli Boris                           | 11:15 - 11:25 |
-| 8     | Graf Calvin, Sottile Alan              | 11:30 - 11:40 |
-| 9     | Roland Samuel                          | 11:45 - 11:55 |
-
--->
+- Finaliser le rapport avec les tests utilisateurs que vous avez effectués.
+- Préparer la présentation finale de votre projet.
 
 ## Sources (1/3)
 

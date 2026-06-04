@@ -470,7 +470,8 @@ Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine fois de :
 
 - Relire le support de cours si nécessaire.
-- Réviser pour l'évaluation de la [semaine 13](../../17-cours-evaluation/).
+- Réviser pour l'évaluation de la
+  [semaine 15](./../../03-evaluation-finale/README.md)
 
 ## Sources
 
