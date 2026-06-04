@@ -11,7 +11,7 @@ papersize: "a4"
 ```sh
 docker run \
   --rm --volume "$(pwd):/data" \
-  --user `id -u`:`id -g` \
+  --user "$(id -u):$(id -g)" \
   pandoc/latex -o README.pdf README.md
 ```
 -->
