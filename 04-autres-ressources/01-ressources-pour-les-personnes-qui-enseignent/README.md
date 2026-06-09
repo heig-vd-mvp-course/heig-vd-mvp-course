@@ -224,18 +224,18 @@ Bonjour tout le monde,
 
 Merci pour vos différents rapports, nous allons les lire avant les présentations de la semaine prochaine.
 
-Vous trouverez l'ordre de passage ainsi que les modalités pour les présentations finales à l'adresse suivante : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/19-projet-presentations-finales
+Vous trouverez l'ordre de passage ainsi que les modalités pour les présentations finales à l'adresse suivante : https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/blob/main/02-projet-libre/README.md#ordre-de-passage
 
 Ce dernier cours est construit comme suit :
 
-- 08h30 - 09h30 : Revue du semestre avec les évaluations GAPS (qui sont disponibles sur le repo Git) avec déjeuner/apéro en classe (ne mangez pas trop avant de venir 🙂)
-- Dès 09h30 : Début des présentations. Chaque groupe a droit à 10 minutes de présentation suivi de session de questions/réponses de notre part et du reste de la classe. Lorsqu'un groupe a fini, le prochain se met en place. Une pause de 15 minutes est prévue au milieu des présentations.
+- 08h45 - 11h00 : Début des présentations. Chaque groupe a droit à 15 minutes de présentation qui comprend une session de questions/réponses de notre part et du reste de la classe. Lorsqu'un groupe a fini, le prochain se met en place.
+- Dès 11h00 : Revue du semestre avec les évaluations GAPS (qui sont disponibles sur le repo Git)
 
-L'ordre de passage a été généré aléatoirement. Vous pouvez demander un changement d'ordre de passage avec un autre groupe si celui-ci est d'accord.
+Un déjeuner/apéro en classe agrémentera toute la matinée (ne mangez pas trop avant de venir 🙂)
 
 On se réjouit de voir le fruit de votre travail la semaine prochaine !
 
-Bon weekend en avance,
+À jeudi,
 Ludovic et Vincent
 ```
 
