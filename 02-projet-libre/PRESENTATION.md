@@ -801,26 +801,30 @@ il est recommandé pour la prochaine fois de :
 
 ![bg right:40%][illustration-objectifs]
 
+### Séance 16
+
+<!-- _class: lead -->
+
+**Présenter et rendre le projet libre**
+
+#### Objectifs
+
+- Présenter vos projets libres.
+- Finaliser vos projets libres.
+
+![bg right:40%][illustration-objectifs]
+
 #### Déroulement
 
-Vous êtes tou.tes dans la même situation : vous avez développé une solution et
-vous avez besoin de tester si celle-ci est compréhensible, accessible et répond
-correctement au(x) besoin(s).
-
-Testez chacune de vos solutions entre vous pour le reste de la matinée ! Prenez
-des notes sur les points d'améliorations, les points positifs et ce qui pourrait
-être fait différemment pour répondre aux retours obtenus.
-
-Échangez, discutez et essayez de trouver des solutions pour améliorer votre
-projet en fonction des retours obtenus.
+Présentations selon
+l'[ordre de passage](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course/tree/main/02-projet-libre#ordre-de-passage).
 
 #### À faire pour la prochaine séance
 
 Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
 il est recommandé pour la prochaine fois de :
 
-- Finaliser le rapport avec les tests utilisateurs que vous avez effectués.
-- Préparer la présentation finale de votre projet.
+- Finaliser le produit final de votre projet.
 
 ## Sources (1/3)
 

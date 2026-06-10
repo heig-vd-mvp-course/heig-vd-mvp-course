@@ -57,6 +57,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
   - [Séance 13](#séance-13)
   - [Séance 14](#séance-14)
   - [Séance 15](#séance-15)
+  - [Séance 16](#séance-16)
 
 ## Objectifs
 
@@ -2039,6 +2040,73 @@ il est recommandé pour la prochaine fois de :
 - Finaliser le rapport avec les tests utilisateurs que vous avez effectués.
 - Préparer la présentation finale de votre projet.
 
+### Séance 16
+
+**Présenter et rendre le projet libre**
+
+> [!TIP]
+>
+> Voici quelques informations relatives à ce contenu.
+>
+> **Ressources annexes**
+>
+> - Autres formats :
+>   [Présentation (web)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/presentation.html#séance-16)
+>   ·
+>   [Présentation (PDF)](https://heig-vd-mvp-course.github.io/heig-vd-mvp-course/02-projet-libre/02-projet-libre-presentation.pdf)
+>
+> **Objectifs**
+>
+> À l'issue de cette séance, les personnes qui étudient devraient être capables
+> de :
+>
+> - Présenter vos projets libres.
+> - Finaliser vos projets libres.
+>
+> **Méthodes d'enseignement et d'apprentissage**
+>
+> Les méthodes d'enseignement et d'apprentissage utilisées pour animer la séance
+> sont les suivantes :
+>
+> - Présentations devant le reste de la classe.
+> - Discussions en groupe.
+> - Retours d'expérience.
+>
+> **Méthodes d'évaluation**
+>
+> L'évaluation prend la forme d'une présentation de l'avancement du projet aux
+> personnes qui enseignent.
+>
+> L'évaluation se fait en utilisant les critères suivants :
+>
+> - Capacité à présenter.
+> - Capacité à répondre aux questions.
+> - Capacité à écouter les feedbacks.
+>
+> Les retours se font de la manière suivante :
+>
+> - Évaluation selon la grille présente dans la section
+>   [Présentation finale](#présentation-finale).
+>
+> **🚨 L'évaluation donne lieu à une note.** (voir
+> [Présentation finale](#présentation-finale)).
+
+#### Objectifs
+
+- Présenter vos projets libres.
+- Finaliser vos projets libres.
+
+#### Déroulement
+
+Présentations selon l'[ordre de passage](#ordre-de-passage).
+
+#### À faire pour la prochaine séance
+
+Chaque personne est libre de gérer son temps comme elle le souhaite. Cependant,
+il est recommandé pour la prochaine fois de :
+
+- Finaliser le produit final de votre projet.
+
 <!-- URLs -->
 
 [license]:
@@ -2106,11 +2174,6 @@ il est recommandé pour la prochaine fois de :
     Types de personnalité,
     [16personalities.com](https://www.16personalities.com/fr/types-de-personnalite),
     19 février 2025
-
-[^repartition-des-seances]:
-    Voir section
-    [Répartition des séances/ jalons](#répartition-des-séances--jalons)
-    ci-dessus.
 
 [^scrum]:
     Stand-ups Scrum,
