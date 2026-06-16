@@ -67,7 +67,7 @@ jobs:
           tree -H "." --noreport --dirsfirst -T "HEIG-VD MVP Course" -P "*.html|*.pdf" --prune --charset utf-8 -o index.html
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: .
 
@@ -80,7 +80,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
   create-github-release:
     runs-on: ubuntu-latest
